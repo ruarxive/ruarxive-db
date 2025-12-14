@@ -1,0 +1,63 @@
+id: rosvuz-dissernet-org-2017-04-17-50c2548d
+name: rosvuz.dissernet.org (2017-04-17)
+domain: rosvuz.dissernet.org
+collection:
+  id: science
+  slug: science
+  name: Наука
+resources:
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/stop
+  size: 0
+  modified: '2017-04-22T09:07:10'
+  type: ''
+- name: rosvuz.dissernet.org-2017-04-17-50c2548d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/rosvuz.dissernet.org-2017-04-17-50c2548d-00000.warc.gz
+  size: 960844221
+  modified: '2017-04-22T09:07:10'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/dupes_db/data.mdb
+  size: 18636800
+  modified: '2017-04-22T09:07:10'
+  type: ''
+  extension: .mdb
+- name: tmp-wpull-warcsesrsp-e1pnzxqd.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/temp/tmp-wpull-warcsesrsp-e1pnzxqd.tmp
+  size: 0
+  modified: '2017-04-22T09:07:07'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-j44_wdqm.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/temp/tmp-wpull-warcsesreq-j44_wdqm.tmp
+  size: 429
+  modified: '2017-04-22T09:07:07'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-e67q6d9t.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/temp/tmp-wpull-resp_cb-e67q6d9t.tmp
+  size: 27996
+  modified: '2017-04-22T09:07:10'
+  type: ''
+  extension: .tmp
+- name: rosvuz.dissernet.org-2017-04-17-50c2548d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/rosvuz.dissernet.org-2017-04-17-50c2548d.cdx
+  size: 27760250
+  modified: '2017-04-22T09:07:10'
+  type: CDX
+  extension: .cdx
+- name: rosvuz.dissernet.org-2017-04-17-50c2548d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/rosvuz.dissernet.org-2017-04-17-50c2548d-meta.warc.gz
+  size: 1969790
+  modified: '2017-04-22T09:07:12'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/rosvuz.dissernet.org-2017-04-17-50c2548d/wpull.db
+  size: 55784448
+  modified: '2017-04-22T09:07:12'
+  type: wpull database
+  extension: .db
+url: https://rosvuz.dissernet.org
+created: '2017-04-17'

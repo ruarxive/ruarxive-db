@@ -1,0 +1,40 @@
+id: yakimanka2017-ru-2017-09-07-d4464717
+name: yakimanka2017.ru (2017-09-07)
+domain: yakimanka2017.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yakimanka2017.ru-2017-09-07-d4464717/wpull.db
+  size: 73728
+  modified: '2017-09-07T22:01:54'
+  type: wpull database
+  extension: .db
+- name: yakimanka2017.ru-2017-09-07-d4464717-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yakimanka2017.ru-2017-09-07-d4464717/yakimanka2017.ru-2017-09-07-d4464717-meta.warc.gz
+  size: 11880
+  modified: '2017-09-07T22:01:54'
+  type: WARC
+  extension: .warc.gz
+- name: yakimanka2017.ru-2017-09-07-d4464717.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yakimanka2017.ru-2017-09-07-d4464717/yakimanka2017.ru-2017-09-07-d4464717.cdx
+  size: 57520
+  modified: '2017-09-07T22:01:54'
+  type: CDX
+  extension: .cdx
+- name: yakimanka2017.ru-2017-09-07-d4464717-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yakimanka2017.ru-2017-09-07-d4464717/yakimanka2017.ru-2017-09-07-d4464717-00000.warc.gz
+  size: 5440298
+  modified: '2017-09-07T22:01:54'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yakimanka2017.ru-2017-09-07-d4464717/dupes_db/data.mdb
+  size: 69632
+  modified: '2017-09-07T22:01:54'
+  type: ''
+  extension: .mdb
+url: https://yakimanka2017.ru
+created: '2017-09-07'

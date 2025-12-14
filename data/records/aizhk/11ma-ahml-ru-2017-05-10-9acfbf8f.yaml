@@ -1,0 +1,40 @@
+id: 11ma-ahml-ru-2017-05-10-9acfbf8f
+name: 11ma.ahml.ru (2017-05-10)
+domain: 11ma.ahml.ru
+collection:
+  id: aizhk
+  slug: aizhk
+  name: АИЖК
+resources:
+- name: 11ma.ahml.ru-2017-05-10-9acfbf8f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/11ma.ahml.ru-2017-05-10-9acfbf8f/11ma.ahml.ru-2017-05-10-9acfbf8f-00000.warc.gz
+  size: 401739471
+  modified: '2017-05-10T08:45:43'
+  type: WARC
+  extension: .warc.gz
+- name: 11ma.ahml.ru-2017-05-10-9acfbf8f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/11ma.ahml.ru-2017-05-10-9acfbf8f/11ma.ahml.ru-2017-05-10-9acfbf8f-meta.warc.gz
+  size: 15803
+  modified: '2017-05-10T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/11ma.ahml.ru-2017-05-10-9acfbf8f/wpull.db
+  size: 141312
+  modified: '2017-05-10T08:45:43'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/11ma.ahml.ru-2017-05-10-9acfbf8f/dupes_db/data.mdb
+  size: 106496
+  modified: '2017-05-10T08:45:43'
+  type: ''
+  extension: .mdb
+- name: 11ma.ahml.ru-2017-05-10-9acfbf8f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/11ma.ahml.ru-2017-05-10-9acfbf8f/11ma.ahml.ru-2017-05-10-9acfbf8f.cdx
+  size: 123683
+  modified: '2017-05-10T08:45:43'
+  type: CDX
+  extension: .cdx
+url: https://11ma.ahml.ru
+created: '2017-05-10'

@@ -1,0 +1,40 @@
+id: check1-fsrar-ru-2017-05-31-c0ea570a
+name: check1.fsrar.ru (2017-05-31)
+domain: check1.fsrar.ru
+collection:
+  id: fsrar
+  slug: fsrar
+  name: ФСРАР
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/check1.fsrar.ru-2017-05-31-c0ea570a/wpull.db
+  size: 18432
+  modified: '2017-06-01T12:34:07'
+  type: wpull database
+  extension: .db
+- name: check1.fsrar.ru-2017-05-31-c0ea570a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/check1.fsrar.ru-2017-05-31-c0ea570a/check1.fsrar.ru-2017-05-31-c0ea570a-00000.warc.gz
+  size: 438572
+  modified: '2017-06-01T12:34:08'
+  type: WARC
+  extension: .warc.gz
+- name: check1.fsrar.ru-2017-05-31-c0ea570a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/check1.fsrar.ru-2017-05-31-c0ea570a/check1.fsrar.ru-2017-05-31-c0ea570a-meta.warc.gz
+  size: 4617
+  modified: '2017-06-01T12:34:04'
+  type: WARC
+  extension: .warc.gz
+- name: check1.fsrar.ru-2017-05-31-c0ea570a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/check1.fsrar.ru-2017-05-31-c0ea570a/check1.fsrar.ru-2017-05-31-c0ea570a.cdx
+  size: 11626
+  modified: '2017-06-01T12:34:07'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/check1.fsrar.ru-2017-05-31-c0ea570a/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-06-01T12:34:09'
+  type: ''
+  extension: .mdb
+url: https://check1.fsrar.ru
+created: '2017-05-31'

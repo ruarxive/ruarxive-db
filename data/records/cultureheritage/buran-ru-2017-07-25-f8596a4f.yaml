@@ -1,0 +1,58 @@
+id: buran-ru-2017-07-25-f8596a4f
+name: buran.ru (2017-07-25)
+domain: buran.ru
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: www.buran.ru-2017-07-25-f8596a4f-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.buran.ru-2017-07-25-f8596a4f/www.buran.ru-2017-07-25-f8596a4f-00003.warc.gz
+  size: 1039672809
+  modified: '2017-07-26T02:53:15'
+  type: WARC
+  extension: .warc.gz
+- name: www.buran.ru-2017-07-25-f8596a4f-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.buran.ru-2017-07-25-f8596a4f/www.buran.ru-2017-07-25-f8596a4f-00002.warc.gz
+  size: 5368980356
+  modified: '2017-07-26T02:32:47'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.buran.ru-2017-07-25-f8596a4f/dupes_db/data.mdb
+  size: 1961984
+  modified: '2017-07-26T02:53:10'
+  type: ''
+  extension: .mdb
+- name: www.buran.ru-2017-07-25-f8596a4f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.buran.ru-2017-07-25-f8596a4f/www.buran.ru-2017-07-25-f8596a4f-meta.warc.gz
+  size: 451142
+  modified: '2017-07-26T02:53:16'
+  type: WARC
+  extension: .warc.gz
+- name: www.buran.ru-2017-07-25-f8596a4f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.buran.ru-2017-07-25-f8596a4f/www.buran.ru-2017-07-25-f8596a4f-00000.warc.gz
+  size: 5376359777
+  modified: '2017-07-25T23:41:38'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.buran.ru-2017-07-25-f8596a4f/wpull.db
+  size: 3572736
+  modified: '2017-07-26T02:53:16'
+  type: wpull database
+  extension: .db
+- name: www.buran.ru-2017-07-25-f8596a4f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.buran.ru-2017-07-25-f8596a4f/www.buran.ru-2017-07-25-f8596a4f.cdx
+  size: 3950201
+  modified: '2017-07-26T02:53:15'
+  type: CDX
+  extension: .cdx
+- name: www.buran.ru-2017-07-25-f8596a4f-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.buran.ru-2017-07-25-f8596a4f/www.buran.ru-2017-07-25-f8596a4f-00001.warc.gz
+  size: 5373244612
+  modified: '2017-07-26T00:44:41'
+  type: WARC
+  extension: .warc.gz
+url: https://buran.ru
+created: '2017-07-25'

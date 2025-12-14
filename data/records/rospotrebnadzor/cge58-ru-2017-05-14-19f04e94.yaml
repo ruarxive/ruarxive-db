@@ -1,0 +1,40 @@
+id: cge58-ru-2017-05-14-19f04e94
+name: cge58.ru (2017-05-14)
+domain: cge58.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge58.ru-2017-05-14-19f04e94/wpull.db
+  size: 10240
+  modified: '2017-05-14T15:44:00'
+  type: wpull database
+  extension: .db
+- name: www.cge58.ru-2017-05-14-19f04e94-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge58.ru-2017-05-14-19f04e94/www.cge58.ru-2017-05-14-19f04e94-00000.warc.gz
+  size: 6787
+  modified: '2017-05-14T15:28:59'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge58.ru-2017-05-14-19f04e94/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-05-14T14:13:57'
+  type: ''
+  extension: .mdb
+- name: www.cge58.ru-2017-05-14-19f04e94.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge58.ru-2017-05-14-19f04e94/www.cge58.ru-2017-05-14-19f04e94.cdx
+  size: 206
+  modified: '2017-05-14T14:13:57'
+  type: CDX
+  extension: .cdx
+- name: www.cge58.ru-2017-05-14-19f04e94-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge58.ru-2017-05-14-19f04e94/www.cge58.ru-2017-05-14-19f04e94-meta.warc.gz
+  size: 2992
+  modified: '2017-05-14T15:44:00'
+  type: WARC
+  extension: .warc.gz
+url: https://cge58.ru
+created: '2017-05-14'

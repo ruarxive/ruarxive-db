@@ -1,0 +1,16 @@
+id: domains-txt
+name: domains.txt (2017-06-28)
+domain: domains.txt
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: domains.txt
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/domains.txt
+  size: 10
+  modified: '2017-06-28T18:03:28'
+  type: ''
+  extension: .txt
+url: https://domains.txt
+created: '2017-06-28T18:03:28'

@@ -1,0 +1,16 @@
+id: sobyanin-org
+name: sobyanin.org.7z (2013-09-14)
+domain: sobyanin.org.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: sobyanin.org.7z
+  url: https://cdn.ruarxive.org/public/mirrors/sobyanin.org.7z
+  size: 243950236
+  modified: '2013-09-14T05:57:48'
+  type: httrack archive
+  extension: .7z
+url: https://sobyanin.org.7z
+created: '2013-09-14T05:57:48'

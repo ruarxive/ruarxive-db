@@ -1,0 +1,19 @@
+id: data
+slug: data
+name: Государственные данные
+num_records: 2
+records:
+- id: data-gov-ru
+  name: data.gov.ru (2014-09-20)
+  url: https://data.gov.ru
+  created: '2014-09-20T20:31:27'
+  domain: data.gov.ru
+- id: data-mos-ru
+  name: data.mos.ru (2014-10-07)
+  url: https://data.mos.ru
+  created: '2014-10-07T01:26:14'
+  domain: data.mos.ru
+files:
+  total_count: 9
+  total_size: 16968254500
+  directories: []

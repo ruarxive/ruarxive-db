@@ -1,0 +1,28 @@
+id: dorconf2008-ru
+name: dorconf2008.ru (2013-09-20)
+domain: dorconf2008.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: dorconf2008.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/dorconf2008.ru/dorconf2008.ru.log.xz
+  size: 1788
+  modified: '2013-09-20T07:55:51'
+  type: wpull log
+  extension: .xz
+- name: dorconf2008.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/dorconf2008.ru/dorconf2008.ru.warc.xz
+  size: 453984
+  modified: '2013-09-20T07:55:50'
+  type: WARC
+  extension: .xz
+- name: dorconf2008.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/dorconf2008.ru/dorconf2008.ru.cdx.xz
+  size: 2368
+  modified: '2013-09-20T07:55:50'
+  type: CDX
+  extension: .xz
+url: https://dorconf2008.ru
+created: '2013-09-20T07:55:50'

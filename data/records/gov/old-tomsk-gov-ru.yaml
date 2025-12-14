@@ -1,0 +1,28 @@
+id: old-tomsk-gov-ru
+name: old.tomsk.gov.ru (2013-10-07)
+domain: old.tomsk.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: old.tomsk.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.tomsk.gov.ru/old.tomsk.gov.ru.log.xz
+  size: 1231412
+  modified: '2013-10-07T13:58:49'
+  type: wpull log
+  extension: .xz
+- name: old.tomsk.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.tomsk.gov.ru/old.tomsk.gov.ru.warc.xz
+  size: 2075381260
+  modified: '2013-10-07T13:59:40'
+  type: WARC
+  extension: .xz
+- name: old.tomsk.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.tomsk.gov.ru/old.tomsk.gov.ru.cdx.xz
+  size: 1729984
+  modified: '2013-10-07T14:04:59'
+  type: CDX
+  extension: .xz
+url: https://old.tomsk.gov.ru
+created: '2013-10-07T13:59:40'

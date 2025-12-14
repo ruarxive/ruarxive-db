@@ -1,0 +1,46 @@
+id: matushkino-mos-ru-2017-09-15-82f84c0e
+name: matushkino.mos.ru (2017-09-15)
+domain: matushkino.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: matushkino.mos.ru-2017-09-15-82f84c0e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/matushkino.mos.ru-2017-09-15-82f84c0e/matushkino.mos.ru-2017-09-15-82f84c0e.cdx
+  size: 20644004
+  modified: '2017-09-17T20:08:51'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/matushkino.mos.ru-2017-09-15-82f84c0e/dupes_db/data.mdb
+  size: 8810496
+  modified: '2017-09-17T20:08:40'
+  type: ''
+  extension: .mdb
+- name: matushkino.mos.ru-2017-09-15-82f84c0e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/matushkino.mos.ru-2017-09-15-82f84c0e/matushkino.mos.ru-2017-09-15-82f84c0e-meta.warc.gz
+  size: 2823751
+  modified: '2017-09-17T20:08:56'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/matushkino.mos.ru-2017-09-15-82f84c0e/wpull.db
+  size: 26698752
+  modified: '2017-09-17T20:08:51'
+  type: wpull database
+  extension: .db
+- name: matushkino.mos.ru-2017-09-15-82f84c0e-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/matushkino.mos.ru-2017-09-15-82f84c0e/matushkino.mos.ru-2017-09-15-82f84c0e-00001.warc.gz
+  size: 1958521496
+  modified: '2017-09-17T20:08:51'
+  type: WARC
+  extension: .warc.gz
+- name: matushkino.mos.ru-2017-09-15-82f84c0e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/matushkino.mos.ru-2017-09-15-82f84c0e/matushkino.mos.ru-2017-09-15-82f84c0e-00000.warc.gz
+  size: 5373560439
+  modified: '2017-09-17T12:41:59'
+  type: WARC
+  extension: .warc.gz
+url: https://matushkino.mos.ru
+created: '2017-09-15'

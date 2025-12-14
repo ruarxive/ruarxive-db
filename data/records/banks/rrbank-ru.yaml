@@ -1,0 +1,34 @@
+id: rrbank-ru
+name: rrbank.ru (2014-05-12)
+domain: rrbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.rrbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rrbank.ru/www.rrbank.ru.7z
+  size: 2210
+  modified: '2014-08-20T11:23:43'
+  type: ''
+  extension: .7z
+- name: www.rrbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rrbank.ru/www.rrbank.ru.log.xz
+  size: 496
+  modified: '2014-05-12T22:47:13'
+  type: wpull log
+  extension: .xz
+- name: www.rrbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rrbank.ru/www.rrbank.ru.warc.xz
+  size: 3764
+  modified: '2014-05-12T22:47:13'
+  type: WARC
+  extension: .xz
+- name: www.rrbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rrbank.ru/www.rrbank.ru.cdx.xz
+  size: 232
+  modified: '2014-05-12T22:47:13'
+  type: CDX
+  extension: .xz
+url: https://rrbank.ru
+created: '2014-05-12T22:47:13'

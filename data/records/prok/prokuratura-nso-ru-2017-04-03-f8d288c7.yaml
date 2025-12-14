@@ -1,0 +1,40 @@
+id: prokuratura-nso-ru-2017-04-03-f8d288c7
+name: prokuratura-nso.ru (2017-04-03)
+domain: prokuratura-nso.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-nso.ru-2017-04-03-f8d288c7/dupes_db/data.mdb
+  size: 1138688
+  modified: '2017-04-03T15:08:26'
+  type: ''
+  extension: .mdb
+- name: www.prokuratura-nso.ru-2017-04-03-f8d288c7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-nso.ru-2017-04-03-f8d288c7/www.prokuratura-nso.ru-2017-04-03-f8d288c7.cdx
+  size: 2219680
+  modified: '2017-04-03T15:08:26'
+  type: CDX
+  extension: .cdx
+- name: www.prokuratura-nso.ru-2017-04-03-f8d288c7-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-nso.ru-2017-04-03-f8d288c7/www.prokuratura-nso.ru-2017-04-03-f8d288c7-meta.warc.gz
+  size: 216513
+  modified: '2017-04-03T15:08:26'
+  type: WARC
+  extension: .warc.gz
+- name: www.prokuratura-nso.ru-2017-04-03-f8d288c7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-nso.ru-2017-04-03-f8d288c7/www.prokuratura-nso.ru-2017-04-03-f8d288c7-00000.warc.gz
+  size: 153653492
+  modified: '2017-04-03T15:08:26'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-nso.ru-2017-04-03-f8d288c7/wpull.db
+  size: 2368512
+  modified: '2017-04-03T15:08:26'
+  type: wpull database
+  extension: .db
+url: https://prokuratura-nso.ru
+created: '2017-04-03'

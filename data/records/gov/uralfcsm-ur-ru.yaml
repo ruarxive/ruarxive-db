@@ -1,0 +1,28 @@
+id: uralfcsm-ur-ru
+name: uralfcsm.ur.ru (2013-09-28)
+domain: uralfcsm.ur.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.uralfcsm.ur.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.uralfcsm.ur.ru/www.uralfcsm.ur.ru.log.xz
+  size: 21012
+  modified: '2013-09-28T09:14:13'
+  type: wpull log
+  extension: .xz
+- name: www.uralfcsm.ur.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.uralfcsm.ur.ru/www.uralfcsm.ur.ru.warc.xz
+  size: 46201080
+  modified: '2013-09-28T09:14:03'
+  type: WARC
+  extension: .xz
+- name: www.uralfcsm.ur.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.uralfcsm.ur.ru/www.uralfcsm.ur.ru.cdx.xz
+  size: 23136
+  modified: '2013-09-28T09:14:12'
+  type: CDX
+  extension: .xz
+url: https://uralfcsm.ur.ru
+created: '2013-09-28T09:14:03'

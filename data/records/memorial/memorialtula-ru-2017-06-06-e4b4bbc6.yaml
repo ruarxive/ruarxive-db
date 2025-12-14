@@ -1,0 +1,40 @@
+id: memorialtula-ru-2017-06-06-e4b4bbc6
+name: memorialtula.ru (2017-06-06)
+domain: memorialtula.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorialtula.ru-2017-06-06-e4b4bbc6/wpull.db
+  size: 100352
+  modified: '2017-06-08T19:11:08'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorialtula.ru-2017-06-06-e4b4bbc6/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-06-08T19:11:10'
+  type: ''
+  extension: .mdb
+- name: memorialtula.ru-2017-06-06-e4b4bbc6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorialtula.ru-2017-06-06-e4b4bbc6/memorialtula.ru-2017-06-06-e4b4bbc6-00000.warc.gz
+  size: 75512641
+  modified: '2017-06-08T19:11:09'
+  type: WARC
+  extension: .warc.gz
+- name: memorialtula.ru-2017-06-06-e4b4bbc6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorialtula.ru-2017-06-06-e4b4bbc6/memorialtula.ru-2017-06-06-e4b4bbc6-meta.warc.gz
+  size: 14686
+  modified: '2017-06-08T19:11:10'
+  type: WARC
+  extension: .warc.gz
+- name: memorialtula.ru-2017-06-06-e4b4bbc6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorialtula.ru-2017-06-06-e4b4bbc6/memorialtula.ru-2017-06-06-e4b4bbc6.cdx
+  size: 116815
+  modified: '2017-06-08T19:11:08'
+  type: CDX
+  extension: .cdx
+url: https://memorialtula.ru
+created: '2017-06-06'

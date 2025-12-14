@@ -1,0 +1,40 @@
+id: smev-gosuslugi-ru-2017-04-23-0e450a58
+name: smev.gosuslugi.ru (2017-04-23)
+domain: smev.gosuslugi.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev.gosuslugi.ru-2017-04-23-0e450a58/wpull.db
+  size: 44032
+  modified: '2017-04-23T08:36:22'
+  type: wpull database
+  extension: .db
+- name: smev.gosuslugi.ru-2017-04-23-0e450a58.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev.gosuslugi.ru-2017-04-23-0e450a58/smev.gosuslugi.ru-2017-04-23-0e450a58.cdx
+  size: 40235
+  modified: '2017-04-23T08:36:22'
+  type: CDX
+  extension: .cdx
+- name: smev.gosuslugi.ru-2017-04-23-0e450a58-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev.gosuslugi.ru-2017-04-23-0e450a58/smev.gosuslugi.ru-2017-04-23-0e450a58-00000.warc.gz
+  size: 1445338
+  modified: '2017-04-23T08:36:22'
+  type: WARC
+  extension: .warc.gz
+- name: smev.gosuslugi.ru-2017-04-23-0e450a58-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev.gosuslugi.ru-2017-04-23-0e450a58/smev.gosuslugi.ru-2017-04-23-0e450a58-meta.warc.gz
+  size: 7597
+  modified: '2017-04-23T08:36:22'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev.gosuslugi.ru-2017-04-23-0e450a58/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-04-23T08:36:22'
+  type: ''
+  extension: .mdb
+url: https://smev.gosuslugi.ru
+created: '2017-04-23'

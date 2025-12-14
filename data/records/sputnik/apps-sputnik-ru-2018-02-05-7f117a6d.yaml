@@ -1,0 +1,40 @@
+id: apps-sputnik-ru-2018-02-05-7f117a6d
+name: apps.sputnik.ru (2018-02-05)
+domain: apps.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: apps.sputnik.ru-2018-02-05-7f117a6d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/apps.sputnik.ru-2018-02-05-7f117a6d/apps.sputnik.ru-2018-02-05-7f117a6d.cdx
+  size: 16175
+  modified: '2018-02-05T17:08:13'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/apps.sputnik.ru-2018-02-05-7f117a6d/wpull.db
+  size: 26624
+  modified: '2018-02-05T17:08:13'
+  type: wpull database
+  extension: .db
+- name: apps.sputnik.ru-2018-02-05-7f117a6d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/apps.sputnik.ru-2018-02-05-7f117a6d/apps.sputnik.ru-2018-02-05-7f117a6d-meta.warc.gz
+  size: 5094
+  modified: '2018-02-05T17:08:14'
+  type: WARC
+  extension: .warc.gz
+- name: apps.sputnik.ru-2018-02-05-7f117a6d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/apps.sputnik.ru-2018-02-05-7f117a6d/apps.sputnik.ru-2018-02-05-7f117a6d-00000.warc.gz
+  size: 2320774
+  modified: '2018-02-05T17:08:13'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/apps.sputnik.ru-2018-02-05-7f117a6d/dupes_db/data.mdb
+  size: 49152
+  modified: '2018-02-05T17:08:13'
+  type: ''
+  extension: .mdb
+url: https://apps.sputnik.ru
+created: '2018-02-05'

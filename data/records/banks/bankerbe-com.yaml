@@ -1,0 +1,34 @@
+id: bankerbe-com
+name: bankerbe.com (2014-05-15)
+domain: bankerbe.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bankerbe.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankerbe.com/www.bankerbe.com.cdx.xz
+  size: 42672
+  modified: '2014-05-15T16:44:48'
+  type: CDX
+  extension: .xz
+- name: www.bankerbe.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankerbe.com/www.bankerbe.com.log.xz
+  size: 41564
+  modified: '2014-05-15T16:44:48'
+  type: wpull log
+  extension: .xz
+- name: www.bankerbe.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankerbe.com/www.bankerbe.com.warc.xz
+  size: 213251996
+  modified: '2014-05-15T16:44:48'
+  type: WARC
+  extension: .xz
+- name: www.bankerbe.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankerbe.com/www.bankerbe.com.7z
+  size: 213807466
+  modified: '2014-08-20T09:59:32'
+  type: ''
+  extension: .7z
+url: https://bankerbe.com
+created: '2014-05-15T16:44:48'

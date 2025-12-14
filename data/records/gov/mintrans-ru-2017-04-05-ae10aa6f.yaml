@@ -1,0 +1,40 @@
+id: mintrans-ru-2017-04-05-ae10aa6f
+name: mintrans.ru (2017-04-05)
+domain: mintrans.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mintrans.ru-2017-04-05-ae10aa6f/wpull.db
+  size: 10240
+  modified: '2017-04-05T06:37:15'
+  type: wpull database
+  extension: .db
+- name: mintrans.ru-2017-04-05-ae10aa6f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mintrans.ru-2017-04-05-ae10aa6f/mintrans.ru-2017-04-05-ae10aa6f-00000.warc.gz
+  size: 2236
+  modified: '2017-04-05T06:35:13'
+  type: WARC
+  extension: .warc.gz
+- name: mintrans.ru-2017-04-05-ae10aa6f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mintrans.ru-2017-04-05-ae10aa6f/mintrans.ru-2017-04-05-ae10aa6f-meta.warc.gz
+  size: 2970
+  modified: '2017-04-05T06:37:15'
+  type: WARC
+  extension: .warc.gz
+- name: mintrans.ru-2017-04-05-ae10aa6f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mintrans.ru-2017-04-05-ae10aa6f/mintrans.ru-2017-04-05-ae10aa6f.cdx
+  size: 23
+  modified: '2017-04-05T06:35:13'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mintrans.ru-2017-04-05-ae10aa6f/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-04-05T06:35:11'
+  type: ''
+  extension: .mdb
+url: https://mintrans.ru
+created: '2017-04-05'

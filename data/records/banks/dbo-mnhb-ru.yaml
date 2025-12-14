@@ -1,0 +1,28 @@
+id: dbo-mnhb-ru
+name: dbo.mnhb.ru (2014-05-14)
+domain: dbo.mnhb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: dbo.mnhb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/dbo.mnhb.ru/dbo.mnhb.ru.log.xz
+  size: 316
+  modified: '2014-05-14T17:49:09'
+  type: wpull log
+  extension: .xz
+- name: dbo.mnhb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/dbo.mnhb.ru/dbo.mnhb.ru.cdx.xz
+  size: 84
+  modified: '2014-05-14T17:49:09'
+  type: CDX
+  extension: .xz
+- name: dbo.mnhb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/dbo.mnhb.ru/dbo.mnhb.ru.warc.xz
+  size: 1160
+  modified: '2014-05-14T17:49:09'
+  type: WARC
+  extension: .xz
+url: https://dbo.mnhb.ru
+created: '2014-05-14T17:49:09'

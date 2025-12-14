@@ -1,0 +1,40 @@
+id: api-sputnik-ru-2018-02-05-6d0a91ae
+name: api.sputnik.ru (2018-02-05)
+domain: api.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: api.sputnik.ru-2018-02-05-6d0a91ae.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/api.sputnik.ru-2018-02-05-6d0a91ae/api.sputnik.ru-2018-02-05-6d0a91ae.cdx
+  size: 45856
+  modified: '2018-02-05T17:09:43'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/api.sputnik.ru-2018-02-05-6d0a91ae/dupes_db/data.mdb
+  size: 57344
+  modified: '2018-02-05T17:09:41'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/api.sputnik.ru-2018-02-05-6d0a91ae/wpull.db
+  size: 56320
+  modified: '2018-02-05T17:09:43'
+  type: wpull database
+  extension: .db
+- name: api.sputnik.ru-2018-02-05-6d0a91ae-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/api.sputnik.ru-2018-02-05-6d0a91ae/api.sputnik.ru-2018-02-05-6d0a91ae-00000.warc.gz
+  size: 2664751
+  modified: '2018-02-05T17:09:43'
+  type: WARC
+  extension: .warc.gz
+- name: api.sputnik.ru-2018-02-05-6d0a91ae-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/api.sputnik.ru-2018-02-05-6d0a91ae/api.sputnik.ru-2018-02-05-6d0a91ae-meta.warc.gz
+  size: 8506
+  modified: '2018-02-05T17:09:43'
+  type: WARC
+  extension: .warc.gz
+url: https://api.sputnik.ru
+created: '2018-02-05'

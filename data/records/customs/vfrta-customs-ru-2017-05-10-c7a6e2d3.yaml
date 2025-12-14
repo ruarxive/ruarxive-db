@@ -1,0 +1,40 @@
+id: vfrta-customs-ru-2017-05-10-c7a6e2d3
+name: vfrta.customs.ru (2017-05-10)
+domain: vfrta.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vfrta.customs.ru-2017-05-10-c7a6e2d3/wpull.db
+  size: 854016
+  modified: '2017-05-10T09:56:27'
+  type: wpull database
+  extension: .db
+- name: vfrta.customs.ru-2017-05-10-c7a6e2d3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vfrta.customs.ru-2017-05-10-c7a6e2d3/vfrta.customs.ru-2017-05-10-c7a6e2d3-meta.warc.gz
+  size: 75852
+  modified: '2017-05-10T09:56:27'
+  type: WARC
+  extension: .warc.gz
+- name: vfrta.customs.ru-2017-05-10-c7a6e2d3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vfrta.customs.ru-2017-05-10-c7a6e2d3/vfrta.customs.ru-2017-05-10-c7a6e2d3-00000.warc.gz
+  size: 559029965
+  modified: '2017-05-10T09:56:27'
+  type: WARC
+  extension: .warc.gz
+- name: vfrta.customs.ru-2017-05-10-c7a6e2d3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vfrta.customs.ru-2017-05-10-c7a6e2d3/vfrta.customs.ru-2017-05-10-c7a6e2d3.cdx
+  size: 717153
+  modified: '2017-05-10T09:56:27'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vfrta.customs.ru-2017-05-10-c7a6e2d3/dupes_db/data.mdb
+  size: 454656
+  modified: '2017-05-10T09:56:27'
+  type: ''
+  extension: .mdb
+url: https://vfrta.customs.ru
+created: '2017-05-10'

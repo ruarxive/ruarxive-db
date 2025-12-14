@@ -1,0 +1,40 @@
+id: konkurs-rybakovfond-ru-2017-05-20-33fd6d26
+name: konkurs.rybakovfond.ru (2017-05-20)
+domain: konkurs.rybakovfond.ru
+collection:
+  id: ngofunds
+  slug: ngofunds
+  name: Фонды НКО
+resources:
+- name: konkurs.rybakovfond.ru-2017-05-20-33fd6d26-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/konkurs.rybakovfond.ru-2017-05-20-33fd6d26/konkurs.rybakovfond.ru-2017-05-20-33fd6d26-meta.warc.gz
+  size: 12877
+  modified: '2017-05-20T11:00:59'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/konkurs.rybakovfond.ru-2017-05-20-33fd6d26/dupes_db/data.mdb
+  size: 69632
+  modified: '2017-05-20T11:00:55'
+  type: ''
+  extension: .mdb
+- name: konkurs.rybakovfond.ru-2017-05-20-33fd6d26.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/konkurs.rybakovfond.ru-2017-05-20-33fd6d26/konkurs.rybakovfond.ru-2017-05-20-33fd6d26.cdx
+  size: 61473
+  modified: '2017-05-20T11:00:59'
+  type: CDX
+  extension: .cdx
+- name: konkurs.rybakovfond.ru-2017-05-20-33fd6d26-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/konkurs.rybakovfond.ru-2017-05-20-33fd6d26/konkurs.rybakovfond.ru-2017-05-20-33fd6d26-00000.warc.gz
+  size: 10914918
+  modified: '2017-05-20T11:00:59'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/konkurs.rybakovfond.ru-2017-05-20-33fd6d26/wpull.db
+  size: 77824
+  modified: '2017-05-20T11:00:59'
+  type: wpull database
+  extension: .db
+url: https://konkurs.rybakovfond.ru
+created: '2017-05-20'

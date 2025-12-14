@@ -1,0 +1,40 @@
+id: rkproc-ru-2017-04-03-551682a9
+name: rkproc.ru (2017-04-03)
+domain: rkproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.rkproc.ru-2017-04-03-551682a9/wpull.db
+  size: 3523584
+  modified: '2017-04-03T20:59:10'
+  type: wpull database
+  extension: .db
+- name: www.rkproc.ru-2017-04-03-551682a9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.rkproc.ru-2017-04-03-551682a9/www.rkproc.ru-2017-04-03-551682a9-00000.warc.gz
+  size: 252944426
+  modified: '2017-04-03T20:59:09'
+  type: WARC
+  extension: .warc.gz
+- name: www.rkproc.ru-2017-04-03-551682a9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.rkproc.ru-2017-04-03-551682a9/www.rkproc.ru-2017-04-03-551682a9-meta.warc.gz
+  size: 418844
+  modified: '2017-04-03T20:59:10'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.rkproc.ru-2017-04-03-551682a9/dupes_db/data.mdb
+  size: 1499136
+  modified: '2017-04-03T20:59:09'
+  type: ''
+  extension: .mdb
+- name: www.rkproc.ru-2017-04-03-551682a9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.rkproc.ru-2017-04-03-551682a9/www.rkproc.ru-2017-04-03-551682a9.cdx
+  size: 3382634
+  modified: '2017-04-03T20:59:09'
+  type: CDX
+  extension: .cdx
+url: https://rkproc.ru
+created: '2017-04-03'

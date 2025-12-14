@@ -1,0 +1,58 @@
+id: skbbank-ru
+name: skbbank.ru (2014-05-12)
+domain: skbbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.skbbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.skbbank.ru/www.skbbank.ru.warc.xz
+  size: 245735292
+  modified: '2014-05-12T23:57:45'
+  type: WARC
+  extension: .xz
+- name: www.skbbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.skbbank.ru/www.skbbank.ru.cdx.xz
+  size: 131348
+  modified: '2014-05-12T23:57:45'
+  type: CDX
+  extension: .xz
+- name: www.skbbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.skbbank.ru/www.skbbank.ru.7z
+  size: 247128570
+  modified: '2014-08-19T08:23:05'
+  type: ''
+  extension: .7z
+- name: www.skbbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.skbbank.ru/www.skbbank.ru.log.xz
+  size: 103616
+  modified: '2014-05-12T23:57:45'
+  type: wpull log
+  extension: .xz
+- name: skbbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/skbbank.ru/skbbank.ru.log.xz
+  size: 201628
+  modified: '2014-05-13T01:15:49'
+  type: wpull log
+  extension: .xz
+- name: skbbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/skbbank.ru/skbbank.ru.warc.xz
+  size: 557732484
+  modified: '2014-05-13T01:15:49'
+  type: WARC
+  extension: .xz
+- name: skbbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/skbbank.ru/skbbank.ru.cdx.xz
+  size: 250312
+  modified: '2014-05-13T01:15:49'
+  type: CDX
+  extension: .xz
+- name: skbbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/skbbank.ru/skbbank.ru.7z
+  size: 352238921
+  modified: '2014-08-19T10:54:22'
+  type: ''
+  extension: .7z
+url: https://skbbank.ru
+created: '2014-05-12T23:57:45'

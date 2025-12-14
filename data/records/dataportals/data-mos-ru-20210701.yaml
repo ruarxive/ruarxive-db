@@ -1,0 +1,17 @@
+id: data-mos-ru-20210701
+name: data.mos.ru (2021-07-01)
+domain: data.mos.ru
+url: https://data.mos.ru
+created: '2021-07-01'
+date: '2021-07-01'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: datamosru_2021_07_01.zip
+  url: https://cdn.ruarxive.org/public/dataportals/data.mos.ru/2021-07-01/datamosru_2021_07_01.zip
+  size: 5970620433
+  modified: '2022-04-11T08:42:35'
+  type: ''
+  extension: .zip

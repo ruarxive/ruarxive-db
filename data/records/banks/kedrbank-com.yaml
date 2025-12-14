@@ -1,0 +1,40 @@
+id: kedrbank-com
+name: kedrbank.com (2013-12-19)
+domain: kedrbank.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.kedrbank.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.com/www.kedrbank.com.7z
+  size: 631637678
+  modified: '2014-08-20T01:29:50'
+  type: ''
+  extension: .7z
+- name: www.kedrbank.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.com/www.kedrbank.com.log.xz
+  size: 134224
+  modified: '2014-05-15T08:23:43'
+  type: wpull log
+  extension: .xz
+- name: www.kedrbank.com.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.com/www.kedrbank.com.warc
+  size: 566905254
+  modified: '2013-12-19T16:23:08'
+  type: WARC
+  extension: .warc
+- name: www.kedrbank.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.com/www.kedrbank.com.warc.xz
+  size: 624001344
+  modified: '2014-05-15T08:23:43'
+  type: WARC
+  extension: .xz
+- name: www.kedrbank.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.com/www.kedrbank.com.cdx.xz
+  size: 147800
+  modified: '2014-05-15T08:23:43'
+  type: CDX
+  extension: .xz
+url: https://kedrbank.com
+created: '2013-12-19T16:23:08'

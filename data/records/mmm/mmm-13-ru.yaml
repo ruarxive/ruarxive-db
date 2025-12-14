@@ -1,0 +1,28 @@
+id: mmm-13-ru
+name: mmm-13.ru (2013-10-28)
+domain: mmm-13.ru
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmm-13.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm-13.ru/mmm-13.ru.warc.xz
+  size: 8706344
+  modified: '2013-10-28T06:14:15'
+  type: WARC
+  extension: .xz
+- name: mmm-13.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm-13.ru/mmm-13.ru.cdx.xz
+  size: 61888
+  modified: '2013-10-28T06:14:14'
+  type: CDX
+  extension: .xz
+- name: mmm-13.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm-13.ru/mmm-13.ru.log.xz
+  size: 31768
+  modified: '2013-10-28T06:14:14'
+  type: wpull log
+  extension: .xz
+url: https://mmm-13.ru
+created: '2013-10-28T06:14:15'

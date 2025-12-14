@@ -1,0 +1,34 @@
+id: opendata-rkomi-ru
+name: opendata.rkomi.ru (2017-02-18)
+domain: opendata.rkomi.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: opendata.rkomi.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.rkomi.ru/opendata.rkomi.ru.warc.gz
+  size: 22213845
+  modified: '2017-02-18T15:57:05'
+  type: WARC
+  extension: .warc.gz
+- name: opendata.rkomi.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.rkomi.ru/opendata.rkomi.ru.log
+  size: 754321
+  modified: '2017-02-18T15:57:05'
+  type: ''
+  extension: .log
+- name: opendata.rkomi.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.rkomi.ru/opendata.rkomi.ru.7z
+  size: 5588901
+  modified: '2017-02-27T07:37:53'
+  type: ''
+  extension: .7z
+- name: opendata.rkomi.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.rkomi.ru/opendata.rkomi.ru.cdx
+  size: 298022
+  modified: '2017-02-18T15:57:05'
+  type: CDX
+  extension: .cdx
+url: https://opendata.rkomi.ru
+created: '2017-02-18T15:57:05'

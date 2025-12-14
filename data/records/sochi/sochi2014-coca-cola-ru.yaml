@@ -1,0 +1,28 @@
+id: sochi2014-coca-cola-ru
+name: sochi2014.coca-cola.ru (2014-01-31)
+domain: sochi2014.coca-cola.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: sochi2014.coca-cola.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/sochi2014.coca-cola.ru/sochi2014.coca-cola.ru.warc.xz
+  size: 13247468
+  modified: '2014-01-31T21:27:53'
+  type: WARC
+  extension: .xz
+- name: sochi2014.coca-cola.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/sochi2014.coca-cola.ru/sochi2014.coca-cola.ru.cdx.xz
+  size: 47376
+  modified: '2014-01-31T21:27:55'
+  type: CDX
+  extension: .xz
+- name: sochi2014.coca-cola.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/sochi2014.coca-cola.ru/sochi2014.coca-cola.ru.log.xz
+  size: 27816
+  modified: '2014-01-31T21:27:52'
+  type: wpull log
+  extension: .xz
+url: https://sochi2014.coca-cola.ru
+created: '2014-01-31T21:27:53'

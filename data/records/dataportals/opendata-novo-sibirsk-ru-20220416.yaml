@@ -1,0 +1,35 @@
+id: opendata-novo-sibirsk-ru-20220416
+name: opendata.novo-sibirsk.ru (2022-04-16)
+domain: opendata.novo-sibirsk.ru
+url: https://opendata.novo-sibirsk.ru
+created: '2022-04-16'
+date: '2022-04-16'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.novo-sibirsk.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.novo-sibirsk.ru/2022-04-16/opendata.novo-sibirsk.ru.cdx
+  size: 625203
+  modified: '2022-04-16T13:30:04'
+  type: CDX
+  extension: .cdx
+- name: opendata.novo-sibirsk.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.novo-sibirsk.ru/2022-04-16/opendata.novo-sibirsk.ru.log
+  size: 7037136
+  modified: '2022-04-16T13:30:04'
+  type: wpull log
+  extension: .log
+- name: opendata.novo-sibirsk.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.novo-sibirsk.ru/2022-04-16/opendata.novo-sibirsk.ru.warc.gz
+  size: 37430208
+  modified: '2022-04-16T13:30:04'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.novo-sibirsk.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.novo-sibirsk.ru/2022-04-16/sitearchive-opendata.novo-sibirsk.ru.db
+  size: 2433024
+  modified: '2022-04-16T13:30:04'
+  type: ''
+  extension: .db

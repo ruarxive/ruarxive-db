@@ -1,0 +1,47 @@
+id: opendata-49gov-ru-20220414
+name: opendata.49gov.ru (2022-04-14)
+domain: opendata.49gov.ru
+url: https://opendata.49gov.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.49gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.49gov.ru/2022-04-14/opendata.49gov.ru.cdx
+  size: 2471899
+  modified: '2022-04-13T21:14:46'
+  type: CDX
+  extension: .cdx
+- name: opendata.49gov.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.49gov.ru/2022-04-14/opendata.49gov.ru.log
+  size: 25091486
+  modified: '2022-04-14T03:56:04'
+  type: wpull log
+  extension: .log
+- name: opendata.49gov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.49gov.ru/2022-04-14/opendata.49gov.ru.warc.gz
+  size: 362681626
+  modified: '2022-04-13T21:14:46'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.49gov.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.49gov.ru/2022-04-14/sitearchive-opendata.49gov.ru.db
+  size: 8404992
+  modified: '2022-04-13T21:14:01'
+  type: ''
+  extension: .db
+- name: sitearchive-opendata.49gov.ru.db-shm
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.49gov.ru/2022-04-14/sitearchive-opendata.49gov.ru.db-shm
+  size: 32768
+  modified: '2022-04-14T03:56:04'
+  type: ''
+  extension: .db-shm
+- name: sitearchive-opendata.49gov.ru.db-wal
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.49gov.ru/2022-04-14/sitearchive-opendata.49gov.ru.db-wal
+  size: 4181832
+  modified: '2022-04-14T03:56:04'
+  type: ''
+  extension: .db-wal

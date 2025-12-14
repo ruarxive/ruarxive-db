@@ -1,0 +1,28 @@
+id: tema12-com
+name: tema12.com (2013-11-06)
+domain: tema12.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: tema12.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/tema12.com/tema12.com.log.xz
+  size: 4016
+  modified: '2013-11-06T19:52:39'
+  type: wpull log
+  extension: .xz
+- name: tema12.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/tema12.com/tema12.com.warc.xz
+  size: 848280
+  modified: '2013-11-06T19:52:41'
+  type: WARC
+  extension: .xz
+- name: tema12.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/tema12.com/tema12.com.cdx.xz
+  size: 5220
+  modified: '2013-11-06T19:52:39'
+  type: CDX
+  extension: .xz
+url: https://tema12.com
+created: '2013-11-06T19:52:41'

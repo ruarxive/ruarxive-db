@@ -1,0 +1,19 @@
+id: sites-google-com
+name: Nika Sandler
+url: https://sites.google.com/view/nikasandler
+domain: sites.google.com
+created: '2022-03-29T15:43:19.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт портфолио
+resource_type_id: portfolio
+reason: Сайт-портфолио художницы Ники Сандлер
+reason_id: sayt-portfolio-hudozhnitsy-niki
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: низкий

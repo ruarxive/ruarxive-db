@@ -1,0 +1,27 @@
+id: stengazeta-net
+name: Стенгазета, 07-03-2022 прекратили работу (как издание)
+url: https://stengazeta.net/
+domain: stengazeta.net
+created: '2022-03-29T16:16:48.000Z'
+date: '2022-03-24T16:41:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сайт остановил работу
+reason_id: site-stopped
+strategy: стандартная веб архивация
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_garage
+  name: Искусство и культура
+  slug: artculturemedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: высокий
+resources:
+- type: storage
+  name: stengazeta.net
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/stengazeta.net/

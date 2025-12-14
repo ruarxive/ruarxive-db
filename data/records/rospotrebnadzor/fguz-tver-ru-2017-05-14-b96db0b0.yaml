@@ -1,0 +1,40 @@
+id: fguz-tver-ru-2017-05-14-b96db0b0
+name: fguz-tver.ru (2017-05-14)
+domain: fguz-tver.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.fguz-tver.ru-2017-05-14-b96db0b0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tver.ru-2017-05-14-b96db0b0/www.fguz-tver.ru-2017-05-14-b96db0b0-meta.warc.gz
+  size: 215428
+  modified: '2017-05-14T20:00:46'
+  type: WARC
+  extension: .warc.gz
+- name: www.fguz-tver.ru-2017-05-14-b96db0b0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tver.ru-2017-05-14-b96db0b0/www.fguz-tver.ru-2017-05-14-b96db0b0-00000.warc.gz
+  size: 390696611
+  modified: '2017-05-14T20:00:46'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tver.ru-2017-05-14-b96db0b0/dupes_db/data.mdb
+  size: 1118208
+  modified: '2017-05-14T20:00:42'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tver.ru-2017-05-14-b96db0b0/wpull.db
+  size: 3385344
+  modified: '2017-05-14T20:00:46'
+  type: wpull database
+  extension: .db
+- name: www.fguz-tver.ru-2017-05-14-b96db0b0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tver.ru-2017-05-14-b96db0b0/www.fguz-tver.ru-2017-05-14-b96db0b0.cdx
+  size: 2101053
+  modified: '2017-05-14T20:00:46'
+  type: CDX
+  extension: .cdx
+url: https://fguz-tver.ru
+created: '2017-05-14'

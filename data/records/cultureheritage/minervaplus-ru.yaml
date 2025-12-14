@@ -1,0 +1,16 @@
+id: minervaplus-ru
+name: minervaplus.ru (2017-05-18)
+domain: minervaplus.ru
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: www.minervaplus.ru_mirror.zip
+  url: https://cdn.ruarxive.org/public/webarchive/cultureheritage/www.minervaplus.ru/www.minervaplus.ru_mirror.zip
+  size: 5799881
+  modified: '2017-05-18T07:55:59'
+  type: Archive.org extraction
+  extension: .zip
+url: https://minervaplus.ru
+created: '2017-05-18T07:55:59'

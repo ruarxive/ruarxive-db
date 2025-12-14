@@ -1,0 +1,28 @@
+id: meteosochi2014-ru
+name: meteosochi2014.ru (2014-02-04)
+domain: meteosochi2014.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: meteosochi2014.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/meteosochi2014.ru/meteosochi2014.ru.log.xz
+  size: 15592
+  modified: '2014-02-04T10:20:51'
+  type: wpull log
+  extension: .xz
+- name: meteosochi2014.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/meteosochi2014.ru/meteosochi2014.ru.warc.xz
+  size: 14768040
+  modified: '2014-02-04T10:20:51'
+  type: WARC
+  extension: .xz
+- name: meteosochi2014.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/meteosochi2014.ru/meteosochi2014.ru.cdx.xz
+  size: 23492
+  modified: '2014-02-04T10:20:51'
+  type: CDX
+  extension: .xz
+url: https://meteosochi2014.ru
+created: '2014-02-04T10:20:51'

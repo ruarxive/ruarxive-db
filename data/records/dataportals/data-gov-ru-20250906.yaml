@@ -1,0 +1,29 @@
+id: data-gov-ru-20250906
+name: data.gov.ru (2025-09-06)
+domain: data.gov.ru
+url: https://data.gov.ru
+created: '2025-09-06'
+date: '2025-09-06'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: apibackuper.cfg
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-09-06/apibackuper.cfg
+  size: 913
+  modified: '2025-09-03T11:03:41'
+  type: ''
+  extension: .cfg
+- name: datagovru_datasets.jsonl.gz
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-09-06/datagovru_datasets.jsonl.gz
+  size: 3713074
+  modified: '2025-09-09T06:04:53'
+  type: ''
+  extension: .gz
+- name: datagovru_datasets_files.zip
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-09-06/datagovru_datasets_files.zip
+  size: 108024990
+  modified: '2025-09-09T06:25:51'
+  type: ''
+  extension: .zip

@@ -1,0 +1,34 @@
+id: budget-roskazna-ru
+name: budget.roskazna.ru (2015-12-06)
+domain: budget.roskazna.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: budget.roskazna.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/budget.roskazna.ru/budget.roskazna.ru.log
+  size: 329045
+  modified: '2015-12-06T22:13:26'
+  type: ''
+  extension: .log
+- name: budget.roskazna.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/budget.roskazna.ru/budget.roskazna.ru.7z
+  size: 105153482
+  modified: '2015-12-07T19:16:07'
+  type: ''
+  extension: .7z
+- name: budget.roskazna.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/budget.roskazna.ru/budget.roskazna.ru.cdx
+  size: 11068
+  modified: '2015-12-06T22:13:26'
+  type: CDX
+  extension: .cdx
+- name: budget.roskazna.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/budget.roskazna.ru/budget.roskazna.ru.warc.xz
+  size: 103574492
+  modified: '2015-12-06T22:13:26'
+  type: WARC
+  extension: .xz
+url: https://budget.roskazna.ru
+created: '2015-12-06T22:13:26'

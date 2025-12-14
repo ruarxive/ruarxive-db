@@ -1,0 +1,16 @@
+id: rosfin3-txt
+name: rosfin3.txt (2016-05-03)
+domain: rosfin3.txt
+collection:
+  id: rosfinnadzor
+  slug: rosfinnadzor
+  name: Росфиннадзор
+resources:
+- name: rosfin3.txt
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/rosfin3.txt
+  size: 244
+  modified: '2016-05-03T11:21:26'
+  type: ''
+  extension: .txt
+url: https://rosfin3.txt
+created: '2016-05-03T11:21:26'

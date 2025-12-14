@@ -1,0 +1,40 @@
+id: drygaas-ru-2017-09-07-7a4a9e27
+name: drygaas.ru (2017-09-07)
+domain: drygaas.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: drygaas.ru-2017-09-07-7a4a9e27-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/drygaas.ru-2017-09-07-7a4a9e27/drygaas.ru-2017-09-07-7a4a9e27-meta.warc.gz
+  size: 10713
+  modified: '2017-09-07T22:01:37'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/drygaas.ru-2017-09-07-7a4a9e27/dupes_db/data.mdb
+  size: 65536
+  modified: '2017-09-07T22:01:35'
+  type: ''
+  extension: .mdb
+- name: drygaas.ru-2017-09-07-7a4a9e27-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/drygaas.ru-2017-09-07-7a4a9e27/drygaas.ru-2017-09-07-7a4a9e27-00000.warc.gz
+  size: 17230734
+  modified: '2017-09-07T22:01:36'
+  type: WARC
+  extension: .warc.gz
+- name: drygaas.ru-2017-09-07-7a4a9e27.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/drygaas.ru-2017-09-07-7a4a9e27/drygaas.ru-2017-09-07-7a4a9e27.cdx
+  size: 45645
+  modified: '2017-09-07T22:01:36'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/drygaas.ru-2017-09-07-7a4a9e27/wpull.db
+  size: 61440
+  modified: '2017-09-07T22:01:36'
+  type: wpull database
+  extension: .db
+url: https://drygaas.ru
+created: '2017-09-07'

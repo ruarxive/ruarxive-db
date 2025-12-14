@@ -1,0 +1,35 @@
+id: opendata-admrzn-ru-20220414
+name: opendata.admrzn.ru (2022-04-14)
+domain: opendata.admrzn.ru
+url: https://opendata.admrzn.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.admrzn.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.admrzn.ru/2022-04-14/opendata.admrzn.ru.cdx
+  size: 250125
+  modified: '2022-04-13T16:54:34'
+  type: CDX
+  extension: .cdx
+- name: opendata.admrzn.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.admrzn.ru/2022-04-14/opendata.admrzn.ru.log
+  size: 2985056
+  modified: '2022-04-13T16:54:34'
+  type: wpull log
+  extension: .log
+- name: opendata.admrzn.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.admrzn.ru/2022-04-14/opendata.admrzn.ru.warc.gz
+  size: 19165249
+  modified: '2022-04-13T16:54:34'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.admrzn.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.admrzn.ru/2022-04-14/sitearchive-opendata.admrzn.ru.db
+  size: 548864
+  modified: '2022-04-13T16:54:35'
+  type: ''
+  extension: .db

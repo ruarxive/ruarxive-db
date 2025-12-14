@@ -1,0 +1,40 @@
+id: fcp-economy-gov-ru-2017-08-09-8513fa55
+name: fcp.economy.gov.ru (2017-08-09)
+domain: fcp.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fcp.economy.gov.ru-2017-08-09-8513fa55/wpull.db
+  size: 23283712
+  modified: '2017-08-11T21:28:32'
+  type: wpull database
+  extension: .db
+- name: fcp.economy.gov.ru-2017-08-09-8513fa55.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fcp.economy.gov.ru-2017-08-09-8513fa55/fcp.economy.gov.ru-2017-08-09-8513fa55.cdx
+  size: 20587650
+  modified: '2017-08-11T21:28:27'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fcp.economy.gov.ru-2017-08-09-8513fa55/dupes_db/data.mdb
+  size: 6098944
+  modified: '2017-08-11T21:02:27'
+  type: ''
+  extension: .mdb
+- name: fcp.economy.gov.ru-2017-08-09-8513fa55-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fcp.economy.gov.ru-2017-08-09-8513fa55/fcp.economy.gov.ru-2017-08-09-8513fa55-meta.warc.gz
+  size: 1623701
+  modified: '2017-08-11T21:28:35'
+  type: WARC
+  extension: .warc.gz
+- name: fcp.economy.gov.ru-2017-08-09-8513fa55-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fcp.economy.gov.ru-2017-08-09-8513fa55/fcp.economy.gov.ru-2017-08-09-8513fa55-00000.warc.gz
+  size: 866035726
+  modified: '2017-08-11T21:28:27'
+  type: WARC
+  extension: .warc.gz
+url: https://fcp.economy.gov.ru
+created: '2017-08-09'

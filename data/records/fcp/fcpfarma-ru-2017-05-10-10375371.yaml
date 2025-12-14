@@ -1,0 +1,40 @@
+id: fcpfarma-ru-2017-05-10-10375371
+name: fcpfarma.ru (2017-05-10)
+domain: fcpfarma.ru
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: fcpfarma.ru-2017-05-10-10375371.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpfarma.ru-2017-05-10-10375371/fcpfarma.ru-2017-05-10-10375371.cdx
+  size: 204136
+  modified: '2017-05-10T08:33:22'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpfarma.ru-2017-05-10-10375371/wpull.db
+  size: 186368
+  modified: '2017-05-10T08:33:22'
+  type: wpull database
+  extension: .db
+- name: fcpfarma.ru-2017-05-10-10375371-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpfarma.ru-2017-05-10-10375371/fcpfarma.ru-2017-05-10-10375371-meta.warc.gz
+  size: 25126
+  modified: '2017-05-10T08:33:22'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpfarma.ru-2017-05-10-10375371/dupes_db/data.mdb
+  size: 139264
+  modified: '2017-05-10T08:33:22'
+  type: ''
+  extension: .mdb
+- name: fcpfarma.ru-2017-05-10-10375371-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpfarma.ru-2017-05-10-10375371/fcpfarma.ru-2017-05-10-10375371-00000.warc.gz
+  size: 452728044
+  modified: '2017-05-10T08:33:22'
+  type: WARC
+  extension: .warc.gz
+url: https://fcpfarma.ru
+created: '2017-05-10'

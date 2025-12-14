@@ -1,0 +1,57 @@
+id: ras-ru-2017-06-28-66c86567
+name: ras.ru (2017-06-28)
+domain: ras.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.ras.ru-2017-06-28-66c86567/dupes_db/data.mdb
+  size: 10280960
+  modified: '2017-06-30T00:06:23'
+  type: ''
+  extension: .mdb
+- name: www.ras.ru-2017-06-28-66c86567-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.ras.ru-2017-06-28-66c86567/www.ras.ru-2017-06-28-66c86567-meta.warc.gz
+  size: 2686892
+  modified: '2017-07-01T10:01:03'
+  type: WARC
+  extension: .warc.gz
+- name: www.ras.ru-2017-06-28-66c86567-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.ras.ru-2017-06-28-66c86567/www.ras.ru-2017-06-28-66c86567-00002.warc.gz
+  size: 3426892127
+  modified: '2017-06-30T00:06:23'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.ras.ru-2017-06-28-66c86567/stop
+  size: 0
+  modified: '2017-07-01T10:00:51'
+  type: ''
+- name: www.ras.ru-2017-06-28-66c86567-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.ras.ru-2017-06-28-66c86567/www.ras.ru-2017-06-28-66c86567-00001.warc.gz
+  size: 5369322002
+  modified: '2017-06-29T10:31:36'
+  type: WARC
+  extension: .warc.gz
+- name: www.ras.ru-2017-06-28-66c86567.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.ras.ru-2017-06-28-66c86567/www.ras.ru-2017-06-28-66c86567.cdx
+  size: 17440043
+  modified: '2017-06-30T00:06:23'
+  type: CDX
+  extension: .cdx
+- name: www.ras.ru-2017-06-28-66c86567-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.ras.ru-2017-06-28-66c86567/www.ras.ru-2017-06-28-66c86567-00000.warc.gz
+  size: 5368905674
+  modified: '2017-06-29T08:28:11'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.ras.ru-2017-06-28-66c86567/wpull.db
+  size: 93713408
+  modified: '2017-07-01T10:00:41'
+  type: wpull database
+  extension: .db
+url: https://ras.ru
+created: '2017-06-28'

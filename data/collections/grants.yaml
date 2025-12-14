@@ -1,0 +1,95 @@
+id: grants
+slug: grants
+name: Гранты
+num_records: 17
+records:
+- id: civildignity-ru-2017-04-13-e6398ebe
+  name: civildignity.ru (2017-04-13)
+  url: https://civildignity.ru
+  created: '2017-04-13'
+  domain: civildignity.ru
+- id: data-preservation-preserved-russia-grants-grantsurls-txt-2017-04-13-d5f62d4d
+  name: data-preservation-preserved-russia-grants-grantsurls.txt (2017-04-13)
+  url: https://data-preservation-preserved-russia-grants-grantsurls.txt
+  created: '2017-04-13'
+  domain: data-preservation-preserved-russia-grants-grantsurls.txt
+- id: fond-pokrov-ru-2017-04-13-8bf5657a
+  name: fond-pokrov.ru (2017-04-13)
+  url: https://fond-pokrov.ru
+  created: '2017-04-13'
+  domain: fond-pokrov.ru
+- id: grants-extech-ru-2017-04-14-29d5b7b4
+  name: grants.extech.ru (2017-04-14)
+  url: https://grants.extech.ru
+  created: '2017-04-14'
+  domain: grants.extech.ru
+- id: grantsurls-txt
+  name: grantsurls.txt (2017-04-13)
+  url: https://grantsurls.txt
+  created: '2017-04-13T17:47:37'
+  domain: grantsurls.txt
+- id: inop-ru-2017-04-14-3c93d1f8
+  name: inop.ru (2017-04-14)
+  url: https://inop.ru
+  created: '2017-04-14'
+  domain: inop.ru
+- id: inpgo-ru-2017-04-14-41b19719
+  name: inpgo.ru (2017-04-14)
+  url: https://inpgo.ru
+  created: '2017-04-14'
+  domain: inpgo.ru
+- id: isepr-ru-2017-04-14-a50b1534
+  name: isepr.ru (2017-04-14)
+  url: https://isepr.ru
+  created: '2017-04-14'
+  domain: isepr.ru
+- id: ligazn-ru-2017-04-13-8e92dcce
+  name: ligazn.ru (2017-04-13)
+  url: https://ligazn.ru
+  created: '2017-04-13'
+  domain: ligazn.ru
+- id: nbfond-ru-2017-04-13-f42eaefb
+  name: nbfond.ru (2017-04-13)
+  url: https://nbfond.ru
+  created: '2017-04-13'
+  domain: nbfond.ru
+- id: perspektivafund-ru-2017-04-13-c6372913
+  name: perspektivafund.ru (2017-04-13)
+  url: https://perspektivafund.ru
+  created: '2017-04-13'
+  domain: perspektivafund.ru
+- id: rospensioner-ru-2017-04-13-7e3fe1e1
+  name: rospensioner.ru (2017-04-13)
+  url: https://rospensioner.ru
+  created: '2017-04-13'
+  domain: rospensioner.ru
+- id: rsr-online-ru-2017-04-13-11226418
+  name: rsr-online.ru (2017-04-13)
+  url: https://rsr-online.ru
+  created: '2017-04-13'
+  domain: rsr-online.ru
+- id: ruy-ru-2017-04-14-7a0d0efa
+  name: ruy.ru (2017-04-14)
+  url: https://ruy.ru
+  created: '2017-04-14'
+  domain: ruy.ru
+- id: soprotivlenie-org-2017-04-14-611427a8
+  name: soprotivlenie.org (2017-04-14)
+  url: https://soprotivlenie.org
+  created: '2017-04-14'
+  domain: soprotivlenie.org
+- id: wuor-ru-2017-04-13-582f8f08
+  name: wuor.ru (2017-04-13)
+  url: https://wuor.ru
+  created: '2017-04-13'
+  domain: wuor.ru
+- id: znanie-org-2017-04-14-6c430dda
+  name: znanie.org (2017-04-14)
+  url: https://znanie.org
+  created: '2017-04-14'
+  domain: znanie.org
+files:
+  total_count: 334
+  total_size: 54491863213
+  directories:
+  - webcollect2017

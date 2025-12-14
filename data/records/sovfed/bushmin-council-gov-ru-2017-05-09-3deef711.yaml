@@ -1,0 +1,40 @@
+id: bushmin-council-gov-ru-2017-05-09-3deef711
+name: bushmin.council.gov.ru (2017-05-09)
+domain: bushmin.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: bushmin.council.gov.ru-2017-05-09-3deef711-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/bushmin.council.gov.ru-2017-05-09-3deef711/bushmin.council.gov.ru-2017-05-09-3deef711-meta.warc.gz
+  size: 22683
+  modified: '2017-05-09T20:23:06'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/bushmin.council.gov.ru-2017-05-09-3deef711/wpull.db
+  size: 139264
+  modified: '2017-05-09T20:23:06'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/bushmin.council.gov.ru-2017-05-09-3deef711/dupes_db/data.mdb
+  size: 98304
+  modified: '2017-05-09T20:23:06'
+  type: ''
+  extension: .mdb
+- name: bushmin.council.gov.ru-2017-05-09-3deef711-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/bushmin.council.gov.ru-2017-05-09-3deef711/bushmin.council.gov.ru-2017-05-09-3deef711-00000.warc.gz
+  size: 18351650
+  modified: '2017-05-09T20:23:06'
+  type: WARC
+  extension: .warc.gz
+- name: bushmin.council.gov.ru-2017-05-09-3deef711.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/bushmin.council.gov.ru-2017-05-09-3deef711/bushmin.council.gov.ru-2017-05-09-3deef711.cdx
+  size: 117271
+  modified: '2017-05-09T20:23:06'
+  type: CDX
+  extension: .cdx
+url: https://bushmin.council.gov.ru
+created: '2017-05-09'

@@ -1,0 +1,28 @@
+id: navalny-ru
+name: navalny.ru (2014-03-14)
+domain: navalny.ru
+collection:
+  id: bannedrus
+  slug: bannedrus
+  name: Заблокированные сайты
+resources:
+- name: navalny.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/navalny.ru/navalny.ru.log.xz
+  size: 2364
+  modified: '2014-03-14T09:17:57'
+  type: wpull log
+  extension: .xz
+- name: navalny.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/navalny.ru/navalny.ru.warc.xz
+  size: 1154232
+  modified: '2014-03-14T09:17:57'
+  type: WARC
+  extension: .xz
+- name: navalny.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/navalny.ru/navalny.ru.cdx.xz
+  size: 3104
+  modified: '2014-03-14T09:17:57'
+  type: CDX
+  extension: .xz
+url: https://navalny.ru
+created: '2014-03-14T09:17:57'

@@ -1,0 +1,40 @@
+id: alexanderyakovlev-org-2018-05-16-300787e0
+name: alexanderyakovlev.org (2018-05-16)
+domain: alexanderyakovlev.org
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.alexanderyakovlev.org-2018-05-16-300787e0/wpull.db
+  size: 6177792
+  modified: '2018-05-16T10:28:25'
+  type: wpull database
+  extension: .db
+- name: www.alexanderyakovlev.org-2018-05-16-300787e0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.alexanderyakovlev.org-2018-05-16-300787e0/www.alexanderyakovlev.org-2018-05-16-300787e0-00000.warc.gz
+  size: 142819553
+  modified: '2018-05-16T10:28:25'
+  type: WARC
+  extension: .warc.gz
+- name: www.alexanderyakovlev.org-2018-05-16-300787e0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.alexanderyakovlev.org-2018-05-16-300787e0/www.alexanderyakovlev.org-2018-05-16-300787e0-meta.warc.gz
+  size: 537461
+  modified: '2018-05-16T10:28:26'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.alexanderyakovlev.org-2018-05-16-300787e0/dupes_db/data.mdb
+  size: 3346432
+  modified: '2018-05-16T10:28:14'
+  type: ''
+  extension: .mdb
+- name: www.alexanderyakovlev.org-2018-05-16-300787e0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.alexanderyakovlev.org-2018-05-16-300787e0/www.alexanderyakovlev.org-2018-05-16-300787e0.cdx
+  size: 6750276
+  modified: '2018-05-16T10:28:25'
+  type: CDX
+  extension: .cdx
+url: https://alexanderyakovlev.org
+created: '2018-05-16'

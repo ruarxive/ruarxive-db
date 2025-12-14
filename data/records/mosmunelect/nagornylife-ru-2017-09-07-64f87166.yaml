@@ -1,0 +1,40 @@
+id: nagornylife-ru-2017-09-07-64f87166
+name: nagornylife.ru (2017-09-07)
+domain: nagornylife.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: www.nagornylife.ru-2017-09-07-64f87166-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.nagornylife.ru-2017-09-07-64f87166/www.nagornylife.ru-2017-09-07-64f87166-meta.warc.gz
+  size: 6313
+  modified: '2017-09-07T22:00:30'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.nagornylife.ru-2017-09-07-64f87166/wpull.db
+  size: 33792
+  modified: '2017-09-07T22:00:30'
+  type: wpull database
+  extension: .db
+- name: www.nagornylife.ru-2017-09-07-64f87166-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.nagornylife.ru-2017-09-07-64f87166/www.nagornylife.ru-2017-09-07-64f87166-00000.warc.gz
+  size: 1103398
+  modified: '2017-09-07T22:00:30'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.nagornylife.ru-2017-09-07-64f87166/dupes_db/data.mdb
+  size: 53248
+  modified: '2017-09-07T22:00:30'
+  type: ''
+  extension: .mdb
+- name: www.nagornylife.ru-2017-09-07-64f87166.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.nagornylife.ru-2017-09-07-64f87166/www.nagornylife.ru-2017-09-07-64f87166.cdx
+  size: 18117
+  modified: '2017-09-07T22:00:30'
+  type: CDX
+  extension: .cdx
+url: https://nagornylife.ru
+created: '2017-09-07'

@@ -1,0 +1,35 @@
+id: informika
+slug: informika
+name: Информика
+num_records: 5
+records:
+- id: budget-edu-ru-2017-04-18-fc7afcc6
+  name: budget.edu.ru (2017-04-18)
+  url: https://budget.edu.ru
+  created: '2017-04-18'
+  domain: budget.edu.ru
+- id: eor-edu-ru-2017-04-17-944bf050
+  name: eor.edu.ru (2017-04-17)
+  url: https://eor.edu.ru
+  created: '2017-04-17'
+  domain: eor.edu.ru
+- id: schools-informika-ru-2017-04-17-862dcf6a
+  name: schools.informika.ru (2017-04-17)
+  url: https://schools.informika.ru
+  created: '2017-04-17'
+  domain: schools.informika.ru
+- id: sci-innov-ru-2017-04-17-d263344e
+  name: sci-innov.ru (2017-04-17)
+  url: https://sci-innov.ru
+  created: '2017-04-17'
+  domain: sci-innov.ru
+- id: sed-informika-ru-2017-04-17-575baad4
+  name: sed.informika.ru (2017-04-17)
+  url: https://sed.informika.ru
+  created: '2017-04-17'
+  domain: sed.informika.ru
+files:
+  total_count: 101
+  total_size: 1496540722
+  directories:
+  - webcollect2017

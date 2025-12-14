@@ -1,0 +1,40 @@
+id: kvantik-org-2017-06-28-19d008c5
+name: kvantik.org (2017-06-28)
+domain: kvantik.org
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/kvantik.org-2017-06-28-19d008c5/dupes_db/data.mdb
+  size: 249856
+  modified: '2017-06-28T20:15:39'
+  type: ''
+  extension: .mdb
+- name: kvantik.org-2017-06-28-19d008c5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/kvantik.org-2017-06-28-19d008c5/kvantik.org-2017-06-28-19d008c5.cdx
+  size: 400020
+  modified: '2017-06-28T20:15:39'
+  type: CDX
+  extension: .cdx
+- name: kvantik.org-2017-06-28-19d008c5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/kvantik.org-2017-06-28-19d008c5/kvantik.org-2017-06-28-19d008c5-00000.warc.gz
+  size: 776954398
+  modified: '2017-06-28T20:15:39'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/kvantik.org-2017-06-28-19d008c5/wpull.db
+  size: 375808
+  modified: '2017-06-28T20:15:41'
+  type: wpull database
+  extension: .db
+- name: kvantik.org-2017-06-28-19d008c5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/kvantik.org-2017-06-28-19d008c5/kvantik.org-2017-06-28-19d008c5-meta.warc.gz
+  size: 52999
+  modified: '2017-06-28T20:15:42'
+  type: WARC
+  extension: .warc.gz
+url: https://kvantik.org
+created: '2017-06-28'

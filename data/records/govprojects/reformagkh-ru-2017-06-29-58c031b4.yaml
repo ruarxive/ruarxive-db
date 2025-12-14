@@ -1,0 +1,40 @@
+id: reformagkh-ru-2017-06-29-58c031b4
+name: reformagkh.ru (2017-06-29)
+domain: reformagkh.ru
+collection:
+  id: govprojects
+  slug: govprojects
+  name: Государственные проекты
+resources:
+- name: www.reformagkh.ru-2017-06-29-58c031b4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.reformagkh.ru-2017-06-29-58c031b4/www.reformagkh.ru-2017-06-29-58c031b4.cdx
+  size: 1538700
+  modified: '2017-06-29T18:32:05'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.reformagkh.ru-2017-06-29-58c031b4/dupes_db/data.mdb
+  size: 208896
+  modified: '2017-06-29T18:32:05'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.reformagkh.ru-2017-06-29-58c031b4/wpull.db
+  size: 924672
+  modified: '2017-06-29T18:32:05'
+  type: wpull database
+  extension: .db
+- name: www.reformagkh.ru-2017-06-29-58c031b4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.reformagkh.ru-2017-06-29-58c031b4/www.reformagkh.ru-2017-06-29-58c031b4-00000.warc.gz
+  size: 61892765
+  modified: '2017-06-29T18:32:05'
+  type: WARC
+  extension: .warc.gz
+- name: www.reformagkh.ru-2017-06-29-58c031b4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.reformagkh.ru-2017-06-29-58c031b4/www.reformagkh.ru-2017-06-29-58c031b4-meta.warc.gz
+  size: 141705
+  modified: '2017-06-29T18:32:06'
+  type: WARC
+  extension: .warc.gz
+url: https://reformagkh.ru
+created: '2017-06-29'

@@ -1,0 +1,34 @@
+id: prava-penza-memo-org
+name: prava.penza-memo.org (2014-08-16)
+domain: prava.penza-memo.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: prava.penza-memo.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/prava.penza-memo.org/prava.penza-memo.org.log.xz
+  size: 5472
+  modified: '2014-08-16T22:24:29'
+  type: wpull log
+  extension: .xz
+- name: prava.penza-memo.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/prava.penza-memo.org/prava.penza-memo.org.warc.xz
+  size: 1343352
+  modified: '2014-08-16T22:24:29'
+  type: WARC
+  extension: .xz
+- name: prava.penza-memo.org.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/prava.penza-memo.org/prava.penza-memo.org.7z
+  size: 1314974
+  modified: '2014-08-16T22:29:54'
+  type: ''
+  extension: .7z
+- name: prava.penza-memo.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/prava.penza-memo.org/prava.penza-memo.org.cdx.xz
+  size: 9244
+  modified: '2014-08-16T22:24:29'
+  type: CDX
+  extension: .xz
+url: https://prava.penza-memo.org
+created: '2014-08-16T22:24:29'

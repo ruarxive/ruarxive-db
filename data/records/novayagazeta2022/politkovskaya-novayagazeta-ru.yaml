@@ -1,0 +1,33 @@
+id: politkovskaya-novayagazeta-ru
+name: Анна Степановна Политковская
+url: https://politkovskaya.novayagazeta.ru
+domain: politkovskaya.novayagazeta.ru
+created: '2022-03-04T16:49:06.000Z'
+date: '2022-03-03T05:32:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Высокая вероятность блокировки в России и иных мер после предупреждения Роскомнадзора
+  в начале марта 2022 года.
+reason_id: high-blocking-risk-1
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: novayagazeta2022
+  name: Новая Газета 2022
+  slug: novayagazeta2022
+source:
+  id: community
+  name: Сообщество
+priority: средний
+resources:
+- type: WARC
+  name: politkovskaya.novayagazeta.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/novayagazeta2022/politkovskaya.novayagazeta.ru/politkovskaya.novayagazeta.ru.warc.gz
+- type: WARC
+  name: politkovskaya.novayagazeta.ru.warc.gz
+  url: https://f001.backblazeb2.com/file/IKPUBLIC/webcollect2022/novayagazeta2022/politkovskaya.novayagazeta.ru/politkovskaya.novayagazeta.ru.warc.gz

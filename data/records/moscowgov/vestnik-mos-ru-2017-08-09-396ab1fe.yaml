@@ -1,0 +1,52 @@
+id: vestnik-mos-ru-2017-08-09-396ab1fe
+name: vestnik.mos.ru (2017-08-09)
+domain: vestnik.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: vestnik.mos.ru-2017-08-09-396ab1fe-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vestnik.mos.ru-2017-08-09-396ab1fe/vestnik.mos.ru-2017-08-09-396ab1fe-meta.warc.gz
+  size: 2411974
+  modified: '2017-08-11T07:29:14'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vestnik.mos.ru-2017-08-09-396ab1fe/dupes_db/data.mdb
+  size: 11808768
+  modified: '2017-08-11T07:29:08'
+  type: ''
+  extension: .mdb
+- name: vestnik.mos.ru-2017-08-09-396ab1fe-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vestnik.mos.ru-2017-08-09-396ab1fe/vestnik.mos.ru-2017-08-09-396ab1fe-00002.warc.gz
+  size: 2126847892
+  modified: '2017-08-11T07:29:08'
+  type: WARC
+  extension: .warc.gz
+- name: vestnik.mos.ru-2017-08-09-396ab1fe.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vestnik.mos.ru-2017-08-09-396ab1fe/vestnik.mos.ru-2017-08-09-396ab1fe.cdx
+  size: 26798966
+  modified: '2017-08-11T07:29:08'
+  type: CDX
+  extension: .cdx
+- name: vestnik.mos.ru-2017-08-09-396ab1fe-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vestnik.mos.ru-2017-08-09-396ab1fe/vestnik.mos.ru-2017-08-09-396ab1fe-00001.warc.gz
+  size: 5410014805
+  modified: '2017-08-10T21:05:37'
+  type: WARC
+  extension: .warc.gz
+- name: vestnik.mos.ru-2017-08-09-396ab1fe-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vestnik.mos.ru-2017-08-09-396ab1fe/vestnik.mos.ru-2017-08-09-396ab1fe-00000.warc.gz
+  size: 5371182575
+  modified: '2017-08-10T01:31:59'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vestnik.mos.ru-2017-08-09-396ab1fe/wpull.db
+  size: 28533760
+  modified: '2017-08-11T07:29:08'
+  type: wpull database
+  extension: .db
+url: https://vestnik.mos.ru
+created: '2017-08-09'

@@ -1,0 +1,46 @@
+id: roszeldor-ru-2017-04-05-a81a1bb9
+name: roszeldor.ru (2017-04-05)
+domain: roszeldor.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.roszeldor.ru-2017-04-05-a81a1bb9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszeldor.ru-2017-04-05-a81a1bb9/www.roszeldor.ru-2017-04-05-a81a1bb9-meta.warc.gz
+  size: 169556
+  modified: '2017-04-05T08:57:35'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszeldor.ru-2017-04-05-a81a1bb9/wpull.db
+  size: 1529856
+  modified: '2017-04-05T08:57:36'
+  type: wpull database
+  extension: .db
+- name: www.roszeldor.ru-2017-04-05-a81a1bb9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszeldor.ru-2017-04-05-a81a1bb9/www.roszeldor.ru-2017-04-05-a81a1bb9.cdx
+  size: 1300635
+  modified: '2017-04-05T08:57:25'
+  type: CDX
+  extension: .cdx
+- name: www.roszeldor.ru-2017-04-05-a81a1bb9-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszeldor.ru-2017-04-05-a81a1bb9/www.roszeldor.ru-2017-04-05-a81a1bb9-00001.warc.gz
+  size: 2243
+  modified: '2017-04-05T08:57:32'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszeldor.ru-2017-04-05-a81a1bb9/dupes_db/data.mdb
+  size: 806912
+  modified: '2017-04-05T08:31:01'
+  type: ''
+  extension: .mdb
+- name: www.roszeldor.ru-2017-04-05-a81a1bb9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszeldor.ru-2017-04-05-a81a1bb9/www.roszeldor.ru-2017-04-05-a81a1bb9-00000.warc.gz
+  size: 8424923664
+  modified: '2017-04-05T08:57:25'
+  type: WARC
+  extension: .warc.gz
+url: https://roszeldor.ru
+created: '2017-04-05'

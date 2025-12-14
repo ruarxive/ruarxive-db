@@ -1,0 +1,15 @@
+id: sdvig-space
+name: 'Студия Сдвиг '
+domain: sdvig.space
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: institutions_garage
+  name: Институты
+  slug: institutions_garage
+source:
+  id: garage-museum
+  name: Garage Museum

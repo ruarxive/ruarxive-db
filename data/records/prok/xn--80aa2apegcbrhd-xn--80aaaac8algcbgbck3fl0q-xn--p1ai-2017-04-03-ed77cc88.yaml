@@ -1,0 +1,40 @@
+id: xn--80aa2apegcbrhd-xn--80aaaac8algcbgbck3fl0q-xn--p1ai-2017-04-03-ed77cc88
+name: xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai (2017-04-03)
+domain: xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-04-03T13:48:19'
+  type: ''
+  extension: .mdb
+- name: xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88/xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88-00000.warc.gz
+  size: 2316
+  modified: '2017-04-03T13:48:20'
+  type: WARC
+  extension: .warc.gz
+- name: xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88/xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88-meta.warc.gz
+  size: 3119
+  modified: '2017-04-03T13:50:20'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88/wpull.db
+  size: 10240
+  modified: '2017-04-03T13:50:20'
+  type: wpull database
+  extension: .db
+- name: xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88/xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai-2017-04-03-ed77cc88.cdx
+  size: 23
+  modified: '2017-04-03T13:48:20'
+  type: CDX
+  extension: .cdx
+url: https://xn--80aa2apegcbrhd.xn--80aaaac8algcbgbck3fl0q.xn--p1ai
+created: '2017-04-03'

@@ -1,0 +1,35 @@
+id: opendata-perm-ru-20220416
+name: opendata.perm.ru (2022-04-16)
+domain: opendata.perm.ru
+url: https://opendata.perm.ru
+created: '2022-04-16'
+date: '2022-04-16'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.perm.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.perm.ru/2022-04-16/opendata.perm.ru.cdx
+  size: 397380
+  modified: '2022-04-16T16:45:16'
+  type: CDX
+  extension: .cdx
+- name: opendata.perm.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.perm.ru/2022-04-16/opendata.perm.ru.log
+  size: 75312644
+  modified: '2022-04-16T17:04:37'
+  type: wpull log
+  extension: .log
+- name: opendata.perm.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.perm.ru/2022-04-16/opendata.perm.ru.warc.gz
+  size: 18409380
+  modified: '2022-04-16T17:04:37'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.perm.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.perm.ru/2022-04-16/sitearchive-opendata.perm.ru.db
+  size: 435712000
+  modified: '2022-04-16T17:04:37'
+  type: ''
+  extension: .db

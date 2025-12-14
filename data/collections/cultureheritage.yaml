@@ -1,0 +1,96 @@
+id: cultureheritage
+slug: cultureheritage
+name: Культурное наследие
+num_records: 17
+records:
+- id: alexanderyakovlev-org-2018-05-16-300787e0
+  name: alexanderyakovlev.org (2018-05-16)
+  url: https://alexanderyakovlev.org
+  created: '2018-05-16'
+  domain: alexanderyakovlev.org
+- id: arch-rgdb-ru-2017-08-08-31d405f2
+  name: arch.rgdb.ru (2017-08-08)
+  url: https://arch.rgdb.ru
+  created: '2017-08-08'
+  domain: arch.rgdb.ru
+- id: archaeology-ru-2017-07-04-e1dd80cf
+  name: archaeology.ru (2017-07-04)
+  url: https://archaeology.ru
+  created: '2017-07-04'
+  domain: archaeology.ru
+- id: buran-ru-2017-07-25-f8596a4f
+  name: buran.ru (2017-07-25)
+  url: https://buran.ru
+  created: '2017-07-25'
+  domain: buran.ru
+- id: diafilm-nsk-ru-2017-08-08-7e4abe9c
+  name: diafilm-nsk.ru (2017-08-08)
+  url: https://diafilm-nsk.ru
+  created: '2017-08-08'
+  domain: diafilm-nsk.ru
+- id: diafilms-com-2017-08-08-f9e90412
+  name: diafilms.com (2017-08-08)
+  url: https://diafilms.com
+  created: '2017-08-08'
+  domain: diafilms.com
+- id: diafilms-ru-2017-08-08-db9c7d16
+  name: diafilms.ru (2017-08-08)
+  url: https://diafilms.ru
+  created: '2017-08-08'
+  domain: diafilms.ru
+- id: diafilmy-org-2017-08-08-d63adc92
+  name: diafilmy.org (2017-08-08)
+  url: https://diafilmy.org
+  created: '2017-08-08'
+  domain: diafilmy.org
+- id: diafilmy-su-2017-08-08-6e3a1dd4
+  name: diafilmy.su (2017-08-08)
+  url: https://diafilmy.su
+  created: '2017-08-08'
+  domain: diafilmy.su
+- id: diascope-narod-ru-2017-08-08-69361e53
+  name: diascope.narod.ru (2017-08-08)
+  url: https://diascope.narod.ru
+  created: '2017-08-08'
+  domain: diascope.narod.ru
+- id: edvig-arhiv-narod-ru-2018-05-08-3de320f0
+  name: edvig-arhiv.narod.ru (2018-05-08)
+  url: https://edvig-arhiv.narod.ru
+  created: '2018-05-08'
+  domain: edvig-arhiv.narod.ru
+- id: eva-rsl-ru-2017-05-17-ec092329
+  name: eva.rsl.ru (2017-05-17)
+  url: https://eva.rsl.ru
+  created: '2017-05-17'
+  domain: eva.rsl.ru
+- id: minervaplus-ru
+  name: minervaplus.ru (2017-05-18)
+  url: https://minervaplus.ru
+  created: '2017-05-18T07:55:59'
+  domain: minervaplus.ru
+- id: rgub-ru-2017-08-08-c8fb486a
+  name: rgub.ru (2017-08-08)
+  url: https://rgub.ru
+  created: '2017-08-08'
+  domain: rgub.ru
+- id: rus-eu-culture-ru-2017-05-17-25fb3691
+  name: rus-eu-culture.ru (2017-05-17)
+  url: https://rus-eu-culture.ru
+  created: '2017-05-17'
+  domain: rus-eu-culture.ru
+- id: skalabuhin-narod-ru-2017-08-08-d49413ba
+  name: skalabuhin.narod.ru (2017-08-08)
+  url: https://skalabuhin.narod.ru
+  created: '2017-08-08'
+  domain: skalabuhin.narod.ru
+- id: tramwaj-narod-ru-2017-10-30-ffab2427
+  name: tramwaj.narod.ru (2017-10-30)
+  url: https://tramwaj.narod.ru
+  created: '2017-10-30'
+  domain: tramwaj.narod.ru
+files:
+  total_count: 371
+  total_size: 211220671588
+  directories:
+  - webarchive
+  - webcollect2017

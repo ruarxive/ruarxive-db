@@ -1,0 +1,46 @@
+id: xn--c1abt1a-xn--b1aew-xn--p1ai-2017-07-04-20d62a9e
+name: xn--c1abt1a.xn--b1aew.xn--p1ai (2017-07-04)
+domain: xn--c1abt1a.xn--b1aew.xn--p1ai
+collection:
+  id: mvd
+  slug: mvd
+  name: МВД
+resources:
+- name: xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e.cdx
+  size: 10589733
+  modified: '2017-07-05T07:30:30'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e/dupes_db/data.mdb
+  size: 5885952
+  modified: '2017-07-05T07:30:30'
+  type: ''
+  extension: .mdb
+- name: xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e-meta.warc.gz
+  size: 1119085
+  modified: '2017-07-05T07:30:33'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e/wpull.db
+  size: 17707008
+  modified: '2017-07-05T07:30:30'
+  type: wpull database
+  extension: .db
+- name: xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e-00001.warc.gz
+  size: 2186333144
+  modified: '2017-07-05T07:30:30'
+  type: WARC
+  extension: .warc.gz
+- name: xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e/xn--c1abt1a.xn--b1aew.xn--p1ai-2017-07-04-20d62a9e-00000.warc.gz
+  size: 5368734821
+  modified: '2017-07-05T00:12:06'
+  type: WARC
+  extension: .warc.gz
+url: https://xn--c1abt1a.xn--b1aew.xn--p1ai
+created: '2017-07-04'

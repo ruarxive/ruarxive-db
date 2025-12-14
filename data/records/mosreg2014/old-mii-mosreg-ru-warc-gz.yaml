@@ -1,0 +1,16 @@
+id: old-mii-mosreg-ru-warc-gz
+name: old.mii.mosreg.ru.warc.gz (2017-05-06)
+domain: old.mii.mosreg.ru.warc.gz
+collection:
+  id: mosreg2014
+  slug: mosreg2014
+  name: Региональное правительство Москвы 2014
+resources:
+- name: old.mii.mosreg.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg2014/old.mii.mosreg.ru.warc.gz
+  size: 80744922
+  modified: '2017-05-06T10:10:42'
+  type: WARC
+  extension: .warc.gz
+url: https://old.mii.mosreg.ru.warc.gz
+created: '2017-05-06T10:10:42'

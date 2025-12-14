@@ -1,0 +1,34 @@
+id: icbe-ru
+name: icbe.ru (2014-05-15)
+domain: icbe.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.icbe.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.icbe.ru/www.icbe.ru.warc.xz
+  size: 153937948
+  modified: '2014-05-15T16:29:00'
+  type: WARC
+  extension: .xz
+- name: www.icbe.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.icbe.ru/www.icbe.ru.log.xz
+  size: 109660
+  modified: '2014-05-15T16:29:00'
+  type: wpull log
+  extension: .xz
+- name: www.icbe.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.icbe.ru/www.icbe.ru.7z
+  size: 106031143
+  modified: '2014-08-19T22:28:36'
+  type: ''
+  extension: .7z
+- name: www.icbe.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.icbe.ru/www.icbe.ru.cdx.xz
+  size: 180652
+  modified: '2014-05-15T16:29:00'
+  type: CDX
+  extension: .xz
+url: https://icbe.ru
+created: '2014-05-15T16:29:00'

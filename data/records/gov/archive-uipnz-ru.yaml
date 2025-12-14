@@ -1,0 +1,28 @@
+id: archive-uipnz-ru
+name: archive.uipnz.ru (2013-09-30)
+domain: archive.uipnz.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: archive.uipnz.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/archive.uipnz.ru/archive.uipnz.ru.warc.xz
+  size: 176677264
+  modified: '2013-09-30T17:03:42'
+  type: WARC
+  extension: .xz
+- name: archive.uipnz.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/archive.uipnz.ru/archive.uipnz.ru.cdx.xz
+  size: 63716
+  modified: '2013-09-30T17:03:39'
+  type: CDX
+  extension: .xz
+- name: archive.uipnz.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/archive.uipnz.ru/archive.uipnz.ru.log.xz
+  size: 54516
+  modified: '2013-09-30T17:03:38'
+  type: wpull log
+  extension: .xz
+url: https://archive.uipnz.ru
+created: '2013-09-30T17:03:42'

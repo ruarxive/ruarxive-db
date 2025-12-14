@@ -1,0 +1,34 @@
+id: opendata-krd-ru
+name: opendata.krd.ru (2017-02-18)
+domain: opendata.krd.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: opendata.krd.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.krd.ru/opendata.krd.ru.warc.gz
+  size: 75482730
+  modified: '2017-02-18T17:09:59'
+  type: WARC
+  extension: .warc.gz
+- name: opendata.krd.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.krd.ru/opendata.krd.ru.log
+  size: 2388948
+  modified: '2017-02-18T17:09:59'
+  type: ''
+  extension: .log
+- name: opendata.krd.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.krd.ru/opendata.krd.ru.7z
+  size: 6671189
+  modified: '2017-02-27T11:19:33'
+  type: ''
+  extension: .7z
+- name: opendata.krd.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.krd.ru/opendata.krd.ru.cdx
+  size: 2109454
+  modified: '2017-02-18T17:09:58'
+  type: CDX
+  extension: .cdx
+url: https://opendata.krd.ru
+created: '2017-02-18T17:09:59'

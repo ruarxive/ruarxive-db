@@ -1,0 +1,40 @@
+id: ads-sputnik-ru-2018-02-05-fbb7e7f4
+name: ads.sputnik.ru (2018-02-05)
+domain: ads.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: ads.sputnik.ru-2018-02-05-fbb7e7f4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ads.sputnik.ru-2018-02-05-fbb7e7f4/ads.sputnik.ru-2018-02-05-fbb7e7f4-meta.warc.gz
+  size: 2867
+  modified: '2018-02-05T17:07:24'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ads.sputnik.ru-2018-02-05-fbb7e7f4/wpull.db
+  size: 10240
+  modified: '2018-02-05T17:07:23'
+  type: wpull database
+  extension: .db
+- name: ads.sputnik.ru-2018-02-05-fbb7e7f4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ads.sputnik.ru-2018-02-05-fbb7e7f4/ads.sputnik.ru-2018-02-05-fbb7e7f4-00000.warc.gz
+  size: 9551
+  modified: '2018-02-05T17:07:23'
+  type: WARC
+  extension: .warc.gz
+- name: ads.sputnik.ru-2018-02-05-fbb7e7f4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ads.sputnik.ru-2018-02-05-fbb7e7f4/ads.sputnik.ru-2018-02-05-fbb7e7f4.cdx
+  size: 578
+  modified: '2018-02-05T17:07:23'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ads.sputnik.ru-2018-02-05-fbb7e7f4/dupes_db/data.mdb
+  size: 8192
+  modified: '2018-02-05T17:07:21'
+  type: ''
+  extension: .mdb
+url: https://ads.sputnik.ru
+created: '2018-02-05'

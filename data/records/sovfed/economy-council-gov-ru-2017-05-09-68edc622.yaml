@@ -1,0 +1,40 @@
+id: economy-council-gov-ru-2017-05-09-68edc622
+name: economy.council.gov.ru (2017-05-09)
+domain: economy.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: economy.council.gov.ru-2017-05-09-68edc622-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/economy.council.gov.ru-2017-05-09-68edc622/economy.council.gov.ru-2017-05-09-68edc622-meta.warc.gz
+  size: 14078
+  modified: '2017-05-09T20:23:10'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/economy.council.gov.ru-2017-05-09-68edc622/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-05-09T20:23:10'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/economy.council.gov.ru-2017-05-09-68edc622/wpull.db
+  size: 82944
+  modified: '2017-05-09T20:23:10'
+  type: wpull database
+  extension: .db
+- name: economy.council.gov.ru-2017-05-09-68edc622.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/economy.council.gov.ru-2017-05-09-68edc622/economy.council.gov.ru-2017-05-09-68edc622.cdx
+  size: 66835
+  modified: '2017-05-09T20:23:10'
+  type: CDX
+  extension: .cdx
+- name: economy.council.gov.ru-2017-05-09-68edc622-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/economy.council.gov.ru-2017-05-09-68edc622/economy.council.gov.ru-2017-05-09-68edc622-00000.warc.gz
+  size: 4487377
+  modified: '2017-05-09T20:23:10'
+  type: WARC
+  extension: .warc.gz
+url: https://economy.council.gov.ru
+created: '2017-05-09'

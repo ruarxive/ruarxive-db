@@ -1,0 +1,40 @@
+id: jw-russia-org-2017-04-21-14ee1e81
+name: jw-russia.org (2017-04-21)
+domain: jw-russia.org
+collection:
+  id: jwru
+  slug: jwru
+  name: Свидетели Иеговы
+resources:
+- name: www.jw-russia.org-2017-04-21-14ee1e81-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/www.jw-russia.org-2017-04-21-14ee1e81/www.jw-russia.org-2017-04-21-14ee1e81-00000.warc.gz
+  size: 160821672
+  modified: '2017-04-21T09:16:32'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/www.jw-russia.org-2017-04-21-14ee1e81/wpull.db
+  size: 216064
+  modified: '2017-04-21T09:16:32'
+  type: wpull database
+  extension: .db
+- name: www.jw-russia.org-2017-04-21-14ee1e81-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/www.jw-russia.org-2017-04-21-14ee1e81/www.jw-russia.org-2017-04-21-14ee1e81-meta.warc.gz
+  size: 26077
+  modified: '2017-04-21T09:16:32'
+  type: WARC
+  extension: .warc.gz
+- name: www.jw-russia.org-2017-04-21-14ee1e81.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/www.jw-russia.org-2017-04-21-14ee1e81/www.jw-russia.org-2017-04-21-14ee1e81.cdx
+  size: 189815
+  modified: '2017-04-21T09:16:32'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/www.jw-russia.org-2017-04-21-14ee1e81/dupes_db/data.mdb
+  size: 110592
+  modified: '2017-04-21T09:16:32'
+  type: ''
+  extension: .mdb
+url: https://jw-russia.org
+created: '2017-04-21'

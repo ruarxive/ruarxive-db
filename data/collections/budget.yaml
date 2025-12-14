@@ -1,0 +1,15 @@
+id: budget
+slug: budget
+name: Бюджет
+num_records: 1
+records:
+- id: fcp-faip-ru-2017-10-15-d9fb6ac4
+  name: fcp-faip.ru (2017-10-15)
+  url: https://fcp-faip.ru
+  created: '2017-10-15'
+  domain: fcp-faip.ru
+files:
+  total_count: 21
+  total_size: 1483054836
+  directories:
+  - webcollect2017

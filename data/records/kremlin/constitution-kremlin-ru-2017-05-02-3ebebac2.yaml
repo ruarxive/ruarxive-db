@@ -1,0 +1,40 @@
+id: constitution-kremlin-ru-2017-05-02-3ebebac2
+name: constitution.kremlin.ru (2017-05-02)
+domain: constitution.kremlin.ru
+collection:
+  id: kremlin
+  slug: kremlin
+  name: Администрация Президента РФ
+resources:
+- name: constitution.kremlin.ru-2017-05-02-3ebebac2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/constitution.kremlin.ru-2017-05-02-3ebebac2/constitution.kremlin.ru-2017-05-02-3ebebac2-00000.warc.gz
+  size: 35876920
+  modified: '2017-05-02T21:55:00'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/constitution.kremlin.ru-2017-05-02-3ebebac2/wpull.db
+  size: 311296
+  modified: '2017-05-02T21:55:00'
+  type: wpull database
+  extension: .db
+- name: constitution.kremlin.ru-2017-05-02-3ebebac2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/constitution.kremlin.ru-2017-05-02-3ebebac2/constitution.kremlin.ru-2017-05-02-3ebebac2.cdx
+  size: 320090
+  modified: '2017-05-02T21:55:00'
+  type: CDX
+  extension: .cdx
+- name: constitution.kremlin.ru-2017-05-02-3ebebac2-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/constitution.kremlin.ru-2017-05-02-3ebebac2/constitution.kremlin.ru-2017-05-02-3ebebac2-meta.warc.gz
+  size: 44461
+  modified: '2017-05-02T21:55:00'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/constitution.kremlin.ru-2017-05-02-3ebebac2/dupes_db/data.mdb
+  size: 176128
+  modified: '2017-05-02T21:55:00'
+  type: ''
+  extension: .mdb
+url: https://constitution.kremlin.ru
+created: '2017-05-02'

@@ -1,0 +1,34 @@
+id: roscosmos-ru
+name: roscosmos.ru (2016-05-16)
+domain: roscosmos.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.roscosmos.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.roscosmos.ru/www.roscosmos.ru.7z
+  size: 8193425792
+  modified: '2016-05-19T19:48:48'
+  type: ''
+  extension: .7z
+- name: www.roscosmos.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.roscosmos.ru/www.roscosmos.ru.log.xz
+  size: 2211092
+  modified: '2016-05-16T13:32:42'
+  type: wpull log
+  extension: .xz
+- name: www.roscosmos.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.roscosmos.ru/www.roscosmos.ru.warc.xz
+  size: 8110367180
+  modified: '2016-05-16T13:32:42'
+  type: WARC
+  extension: .xz
+- name: www.roscosmos.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.roscosmos.ru/www.roscosmos.ru.cdx
+  size: 15354461
+  modified: '2016-05-16T13:32:41'
+  type: CDX
+  extension: .cdx
+url: https://roscosmos.ru
+created: '2016-05-16T13:32:42'

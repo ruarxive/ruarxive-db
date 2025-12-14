@@ -1,0 +1,40 @@
+id: prokuror-rostov-ru-2017-04-03-988b284f
+name: prokuror-rostov.ru (2017-04-03)
+domain: prokuror-rostov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.prokuror-rostov.ru-2017-04-03-988b284f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-rostov.ru-2017-04-03-988b284f/www.prokuror-rostov.ru-2017-04-03-988b284f.cdx
+  size: 8290632
+  modified: '2017-04-03T21:46:59'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-rostov.ru-2017-04-03-988b284f/dupes_db/data.mdb
+  size: 3031040
+  modified: '2017-04-03T21:46:43'
+  type: ''
+  extension: .mdb
+- name: www.prokuror-rostov.ru-2017-04-03-988b284f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-rostov.ru-2017-04-03-988b284f/www.prokuror-rostov.ru-2017-04-03-988b284f-meta.warc.gz
+  size: 719049
+  modified: '2017-04-03T21:47:02'
+  type: WARC
+  extension: .warc.gz
+- name: www.prokuror-rostov.ru-2017-04-03-988b284f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-rostov.ru-2017-04-03-988b284f/www.prokuror-rostov.ru-2017-04-03-988b284f-00000.warc.gz
+  size: 806877831
+  modified: '2017-04-03T21:46:59'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-rostov.ru-2017-04-03-988b284f/wpull.db
+  size: 7864320
+  modified: '2017-04-03T21:47:02'
+  type: wpull database
+  extension: .db
+url: https://prokuror-rostov.ru
+created: '2017-04-03'

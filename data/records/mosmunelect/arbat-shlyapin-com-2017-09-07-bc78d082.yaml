@@ -1,0 +1,40 @@
+id: arbat-shlyapin-com-2017-09-07-bc78d082
+name: arbat.shlyapin.com (2017-09-07)
+domain: arbat.shlyapin.com
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: arbat.shlyapin.com-2017-09-07-bc78d082-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/arbat.shlyapin.com-2017-09-07-bc78d082/arbat.shlyapin.com-2017-09-07-bc78d082-meta.warc.gz
+  size: 4811
+  modified: '2017-09-07T21:59:42'
+  type: WARC
+  extension: .warc.gz
+- name: arbat.shlyapin.com-2017-09-07-bc78d082-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/arbat.shlyapin.com-2017-09-07-bc78d082/arbat.shlyapin.com-2017-09-07-bc78d082-00000.warc.gz
+  size: 754369
+  modified: '2017-09-07T21:59:41'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/arbat.shlyapin.com-2017-09-07-bc78d082/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-09-07T21:59:41'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/arbat.shlyapin.com-2017-09-07-bc78d082/wpull.db
+  size: 22528
+  modified: '2017-09-07T21:59:42'
+  type: wpull database
+  extension: .db
+- name: arbat.shlyapin.com-2017-09-07-bc78d082.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/arbat.shlyapin.com-2017-09-07-bc78d082/arbat.shlyapin.com-2017-09-07-bc78d082.cdx
+  size: 11906
+  modified: '2017-09-07T21:59:41'
+  type: CDX
+  extension: .cdx
+url: https://arbat.shlyapin.com
+created: '2017-09-07'

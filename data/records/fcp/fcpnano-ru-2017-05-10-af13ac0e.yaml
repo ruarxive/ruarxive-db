@@ -1,0 +1,40 @@
+id: fcpnano-ru-2017-05-10-af13ac0e
+name: fcpnano.ru (2017-05-10)
+domain: fcpnano.ru
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: fcpnano.ru-2017-05-10-af13ac0e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpnano.ru-2017-05-10-af13ac0e/fcpnano.ru-2017-05-10-af13ac0e-meta.warc.gz
+  size: 36031
+  modified: '2017-05-10T08:39:58'
+  type: WARC
+  extension: .warc.gz
+- name: fcpnano.ru-2017-05-10-af13ac0e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpnano.ru-2017-05-10-af13ac0e/fcpnano.ru-2017-05-10-af13ac0e.cdx
+  size: 306114
+  modified: '2017-05-10T08:39:57'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpnano.ru-2017-05-10-af13ac0e/wpull.db
+  size: 283648
+  modified: '2017-05-10T08:39:57'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpnano.ru-2017-05-10-af13ac0e/dupes_db/data.mdb
+  size: 180224
+  modified: '2017-05-10T08:39:57'
+  type: ''
+  extension: .mdb
+- name: fcpnano.ru-2017-05-10-af13ac0e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpnano.ru-2017-05-10-af13ac0e/fcpnano.ru-2017-05-10-af13ac0e-00000.warc.gz
+  size: 225717574
+  modified: '2017-05-10T08:39:57'
+  type: WARC
+  extension: .warc.gz
+url: https://fcpnano.ru
+created: '2017-05-10'

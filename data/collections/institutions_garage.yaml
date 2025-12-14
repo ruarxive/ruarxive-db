@@ -1,0 +1,145 @@
+id: institutions_garage
+slug: institutions_garage
+name: Институты
+created: '2022-03-29T16:19:40.000Z'
+num_records: 21
+records:
+- id: archive-tvgallery-org
+  name: TV Gallery (Архив сайта российской галереи лежит там же:)
+  url: http://archive.tvgallery.org/ru/index.html
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: archive.tvgallery.org
+- id: art4-ru
+  name: Музей АРТ4RU
+  url: https://art4.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: art4.ru
+- id: catalog-mmoma-ru
+  name: Раздел сайта MMOMA к проекту (выставке) “Невозможное сообщество” Виктора Мизиано
+  url: https://catalog.mmoma.ru/icomunity/index.html
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: catalog.mmoma.ru
+- id: ekartbureau-ru
+  name: Галерея Е.К.АртБюро
+  url: http://ekartbureau.ru/about.php
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: ekartbureau.ru
+- id: facebook-com
+  name: Студия 4.413 (facebook)
+  url: https://www.facebook.com/studio4413/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: facebook.com
+- id: feminkitchen-wordpress-com
+  name: Блог “Феминистская кухня” (там только один текст Чубарова и всё)
+  url: https://feminkitchen.wordpress.com/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: feminkitchen.wordpress.com
+- id: garage-digital
+  name: garage.digital
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:18:27.000Z'
+  domain: garage.digital
+- id: instagram-com-1
+  name: Арс Котельная (Томск) (Insta)
+  url: https://www.instagram.com/accounts/login/?next=/kotelna9/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: instagram.com
+- id: instagram-com-2
+  name: Театрально-выставочное пространство Макаронка (Insta)
+  url: https://www.instagram.com/accounts/login/?next=/makaronka_art/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: instagram.com
+- id: instagram-com-5
+  name: Биеннале 32 дня, (Иркутск)
+  url: https://www.instagram.com/gallery32days/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: instagram.com
+- id: instagram-com-7
+  name: Студия 4.413 (Insta)
+  url: https://www.instagram.com/studio_4413/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: instagram.com
+- id: s-m-e-n-a-org
+  name: ЦСК Смена
+  url: https://s-m-e-n-a.org/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: s-m-e-n-a.org
+- id: sdvig-space
+  name: 'Студия Сдвиг '
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: sdvig.space
+- id: t-me-8
+  name: Арс Котельная (Томск) (Telegram)
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: t.me
+- id: tvgallery-org
+  name: TV Gallery
+  url: https://tvgallery.org/en/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: tvgallery.org
+- id: typography-online-ru
+  name: ЦСИ Типография (Краснодар)
+  url: http://typography-online.ru/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T16:16:48.000Z'
+  domain: typography-online.ru
+- id: vk-com-2
+  name: Галерея "Левая нога"
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: vk.com
+- id: vk-com-4
+  name: Арс Котельная (Томск) (VK)
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: vk.com
+- id: vk-com-5
+  name: Театрально-выставочное пространство Макаронка (VK)
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: vk.com
+- id: vk-com-6
+  name: ВШСИ
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: vk.com
+- id: vk-com-8
+  name: Студия 4.413 (Это здесь) (vk)
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: vk.com

@@ -1,0 +1,63 @@
+id: rostrud-ru-2017-04-05-a650436f
+name: rostrud.ru (2017-04-05)
+domain: rostrud.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.rostrud.ru-2017-04-05-a650436f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/www.rostrud.ru-2017-04-05-a650436f-meta.warc.gz
+  size: 2846869
+  modified: '2017-04-05T22:03:34'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/wpull.db
+  size: 817041408
+  modified: '2017-04-05T22:03:34'
+  type: wpull database
+  extension: .db
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/stop
+  size: 0
+  modified: '2017-04-05T22:03:30'
+  type: ''
+- name: tmp-wpull-warcsesreq-scl5rcjy.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/temp/tmp-wpull-warcsesreq-scl5rcjy.tmp
+  size: 463
+  modified: '2017-04-05T22:03:30'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-dt18ppot.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/temp/tmp-wpull-resp_cb-dt18ppot.tmp
+  size: 158605
+  modified: '2017-04-05T22:03:30'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-j4xgawi_.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/temp/tmp-wpull-warcsesrsp-j4xgawi_.tmp
+  size: 0
+  modified: '2017-04-05T22:03:30'
+  type: ''
+  extension: .tmp
+- name: www.rostrud.ru-2017-04-05-a650436f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/www.rostrud.ru-2017-04-05-a650436f-00000.warc.gz
+  size: 2359769806
+  modified: '2017-04-05T22:03:30'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/dupes_db/data.mdb
+  size: 17240064
+  modified: '2017-04-05T22:03:30'
+  type: ''
+  extension: .mdb
+- name: www.rostrud.ru-2017-04-05-a650436f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rostrud.ru-2017-04-05-a650436f/www.rostrud.ru-2017-04-05-a650436f.cdx
+  size: 25823162
+  modified: '2017-04-05T22:03:30'
+  type: CDX
+  extension: .cdx
+url: https://rostrud.ru
+created: '2017-04-05'

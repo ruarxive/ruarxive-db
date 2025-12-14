@@ -1,0 +1,44 @@
+id: opengov
+slug: opengov
+name: Открытое правительство РФ
+num_records: 7
+records:
+- id: apichallenge-ru
+  name: apichallenge.ru (2015-04-03)
+  url: https://apichallenge.ru
+  created: '2015-04-03T14:05:34'
+  domain: apichallenge.ru
+- id: apps4russia-ru
+  name: apps4russia.ru (2015-04-03)
+  url: https://apps4russia.ru
+  created: '2015-04-03T13:59:31'
+  domain: apps4russia.ru
+- id: budgetapps-ru
+  name: budgetapps.ru (2015-04-03)
+  url: https://budgetapps.ru
+  created: '2015-04-03T13:53:10'
+  domain: budgetapps.ru
+- id: open-gov-ru
+  name: open.gov.ru (2015-09-25)
+  url: https://open.gov.ru
+  created: '2015-09-25T16:50:11'
+  domain: open.gov.ru
+- id: opendatacontest-ru
+  name: opendatacontest.ru (2015-12-06)
+  url: https://opendatacontest.ru
+  created: '2015-12-06T16:09:17'
+  domain: opendatacontest.ru
+- id: openstandard-ru
+  name: openstandard.ru (2015-12-06)
+  url: https://openstandard.ru
+  created: '2015-12-06T13:08:22'
+  domain: openstandard.ru
+- id: wiki-ac-forum-ru
+  name: wiki.ac-forum.ru (2015-12-07)
+  url: https://wiki.ac-forum.ru
+  created: '2015-12-07T08:43:30'
+  domain: wiki.ac-forum.ru
+files:
+  total_count: 40
+  total_size: 7233681908
+  directories: []

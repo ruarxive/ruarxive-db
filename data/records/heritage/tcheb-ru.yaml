@@ -1,0 +1,34 @@
+id: tcheb-ru
+name: tcheb.ru (2014-08-21)
+domain: tcheb.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: tcheb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/tcheb.ru/tcheb.ru.cdx.xz
+  size: 596
+  modified: '2014-08-21T09:55:26'
+  type: CDX
+  extension: .xz
+- name: tcheb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/tcheb.ru/tcheb.ru.warc.xz
+  size: 13180
+  modified: '2014-08-21T09:55:26'
+  type: WARC
+  extension: .xz
+- name: tcheb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/tcheb.ru/tcheb.ru.7z
+  size: 10673
+  modified: '2014-11-29T22:04:57'
+  type: ''
+  extension: .7z
+- name: tcheb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/tcheb.ru/tcheb.ru.log.xz
+  size: 792
+  modified: '2014-08-21T09:55:26'
+  type: wpull log
+  extension: .xz
+url: https://tcheb.ru
+created: '2014-08-21T09:55:26'

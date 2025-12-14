@@ -1,0 +1,28 @@
+id: alternaria-ru
+name: alternaria.ru (2013-12-17)
+domain: alternaria.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: alternaria.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/alternaria.ru/alternaria.ru.cdx.xz
+  size: 2796
+  modified: '2013-12-17T13:28:50'
+  type: CDX
+  extension: .xz
+- name: alternaria.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/alternaria.ru/alternaria.ru.warc.xz
+  size: 2191060
+  modified: '2013-12-17T13:28:51'
+  type: WARC
+  extension: .xz
+- name: alternaria.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/alternaria.ru/alternaria.ru.log.xz
+  size: 2352
+  modified: '2013-12-17T13:28:50'
+  type: wpull log
+  extension: .xz
+url: https://alternaria.ru
+created: '2013-12-17T13:28:51'

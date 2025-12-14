@@ -1,0 +1,158 @@
+id: artculturemedia_garage
+slug: artculturemedia_garage
+name: Искусство и культура
+created: '2022-03-29T16:19:40.000Z'
+num_records: 22
+records:
+- id: archives-colta-ru
+  name: http://Colta.ru (архив)
+  url: http://archives.colta.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: archives.colta.ru
+- id: artchronika-ru
+  name: Журнал «Артхроника»
+  url: http://artchronika.ru/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: artchronika.ru
+- id: artguide-com
+  name: АРТГИД
+  url: https://artguide.com/
+  status: собирается
+  status_id: collecting
+  created: '2022-03-29T16:16:48.000Z'
+  domain: artguide.com
+- id: artinfo-ru
+  name: Art Info
+  url: http://www.artinfo.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: artinfo.ru
+- id: artprotest-org
+  name: Art Protest
+  url: https://artprotest.org/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: artprotest.org
+- id: artuzel-com
+  name: ART Узел
+  url: http://artuzel.com/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T16:16:48.000Z'
+  domain: artuzel.com
+- id: di-mmoma-ru
+  name: Журнал “Диалог искусств” (MMOMA)
+  url: https://di.mmoma.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: di.mmoma.ru
+- id: gorky-media
+  name: Сетевое издание “Горький”
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T16:16:48.000Z'
+  domain: gorky.media
+- id: iskusstvo-info-ru
+  name: Журнал “Искусство”
+  url: https://iskusstvo-info.ru/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T16:16:48.000Z'
+  domain: iskusstvo-info.ru
+- id: knife-media
+  name: Онлайн-журнал “Нож”
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T16:16:48.000Z'
+  domain: knife.media
+- id: krapiva-org
+  name: К.Р.А.П.И.В.А.
+  url: https://krapiva.org/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: krapiva.org
+- id: kultpro-ru
+  name: КультПросвет
+  url: http://www.kultpro.ru/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: kultpro.ru
+- id: makersofsiberia-com
+  name: 'Проект «Мастера Сибири»
+
+    '
+  url: https://makersofsiberia.com/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: makersofsiberia.com
+- id: old-guelman-ru-1
+  name: http://Guelman.ru (старый сайт)
+  url: http://old.guelman.ru/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: old.guelman.ru
+- id: old-guelman-ru
+  name: Фрагменты журнала “Максимка” (на старом сайте Гельмана)
+  url: http://old.guelman.ru/maksimka/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: old.guelman.ru
+- id: os-colta-ru
+  name: http://OpenSpace.ru (Colta.ru) архив
+  url: http://os.colta.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:50:44.000Z'
+  domain: os.colta.ru
+- id: republic-ru
+  name: Отдел культуры | Republic
+  url: https://republic.ru/mags/arts
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: republic.ru
+- id: spaika-media
+  name: Spaika Media
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: spaika.media
+- id: spectate-ru
+  name: Spectate.ru
+  url: https://spectate.ru/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T16:16:48.000Z'
+  domain: spectate.ru
+- id: stengazeta-net
+  name: Стенгазета, 07-03-2022 прекратили работу (как издание)
+  url: https://stengazeta.net/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: stengazeta.net
+- id: syg-ma
+  name: Syg.ma
+  status: собран
+  status_id: collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: syg.ma
+- id: theblueprint-ru
+  name: Издание “The Blueprint”
+  url: https://theblueprint.ru/culture
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T16:16:48.000Z'
+  domain: theblueprint.ru

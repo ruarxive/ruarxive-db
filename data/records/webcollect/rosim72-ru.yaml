@@ -1,0 +1,16 @@
+id: rosim72-ru
+name: rosim72.ru.7z (2013-08-13)
+domain: rosim72.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: www.rosim72.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/www.rosim72.ru.7z
+  size: 1363297
+  modified: '2013-08-13T13:43:09'
+  type: httrack archive
+  extension: .7z
+url: https://rosim72.ru.7z
+created: '2013-08-13T13:43:09'

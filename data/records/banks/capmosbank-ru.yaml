@@ -1,0 +1,28 @@
+id: capmosbank-ru
+name: capmosbank.ru (2013-12-19)
+domain: capmosbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.capmosbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.capmosbank.ru/www.capmosbank.ru.log.xz
+  size: 11040
+  modified: '2013-12-19T16:11:57'
+  type: wpull log
+  extension: .xz
+- name: www.capmosbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.capmosbank.ru/www.capmosbank.ru.warc.xz
+  size: 32668736
+  modified: '2013-12-19T16:11:58'
+  type: WARC
+  extension: .xz
+- name: www.capmosbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.capmosbank.ru/www.capmosbank.ru.cdx.xz
+  size: 11424
+  modified: '2013-12-19T16:12:04'
+  type: CDX
+  extension: .xz
+url: https://capmosbank.ru
+created: '2013-12-19T16:11:58'

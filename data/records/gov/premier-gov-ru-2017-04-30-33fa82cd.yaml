@@ -1,0 +1,40 @@
+id: premier-gov-ru-2017-04-30-33fa82cd
+name: premier.gov.ru (2017-04-30)
+domain: premier.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/premier.gov.ru-2017-04-30-33fa82cd/wpull.db
+  size: 3608576
+  modified: '2017-05-01T00:03:14'
+  type: wpull database
+  extension: .db
+- name: premier.gov.ru-2017-04-30-33fa82cd-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/premier.gov.ru-2017-04-30-33fa82cd/premier.gov.ru-2017-04-30-33fa82cd-00000.warc.gz
+  size: 964960721
+  modified: '2017-05-01T00:03:14'
+  type: WARC
+  extension: .warc.gz
+- name: premier.gov.ru-2017-04-30-33fa82cd.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/premier.gov.ru-2017-04-30-33fa82cd/premier.gov.ru-2017-04-30-33fa82cd.cdx
+  size: 2632043
+  modified: '2017-05-01T00:03:14'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/premier.gov.ru-2017-04-30-33fa82cd/dupes_db/data.mdb
+  size: 1343488
+  modified: '2017-05-01T00:03:14'
+  type: ''
+  extension: .mdb
+- name: premier.gov.ru-2017-04-30-33fa82cd-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/premier.gov.ru-2017-04-30-33fa82cd/premier.gov.ru-2017-04-30-33fa82cd-meta.warc.gz
+  size: 498922
+  modified: '2017-05-01T00:03:15'
+  type: WARC
+  extension: .warc.gz
+url: https://premier.gov.ru
+created: '2017-04-30'

@@ -1,0 +1,40 @@
+id: snipchi-ru-2017-05-14-eea010e3
+name: snipchi.ru (2017-05-14)
+domain: snipchi.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: snipchi.ru-2017-05-14-eea010e3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/snipchi.ru-2017-05-14-eea010e3/snipchi.ru-2017-05-14-eea010e3-00000.warc.gz
+  size: 245611413
+  modified: '2017-05-14T16:26:53'
+  type: WARC
+  extension: .warc.gz
+- name: snipchi.ru-2017-05-14-eea010e3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/snipchi.ru-2017-05-14-eea010e3/snipchi.ru-2017-05-14-eea010e3.cdx
+  size: 73067
+  modified: '2017-05-14T16:26:53'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/snipchi.ru-2017-05-14-eea010e3/wpull.db
+  size: 134144
+  modified: '2017-05-14T16:26:53'
+  type: wpull database
+  extension: .db
+- name: snipchi.ru-2017-05-14-eea010e3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/snipchi.ru-2017-05-14-eea010e3/snipchi.ru-2017-05-14-eea010e3-meta.warc.gz
+  size: 13227
+  modified: '2017-05-14T16:26:54'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/snipchi.ru-2017-05-14-eea010e3/dupes_db/data.mdb
+  size: 98304
+  modified: '2017-05-14T16:26:53'
+  type: ''
+  extension: .mdb
+url: https://snipchi.ru
+created: '2017-05-14'

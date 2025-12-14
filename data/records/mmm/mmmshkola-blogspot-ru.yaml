@@ -1,0 +1,28 @@
+id: mmmshkola-blogspot-ru
+name: mmmshkola.blogspot.ru (2013-11-04)
+domain: mmmshkola.blogspot.ru
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmmshkola.blogspot.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmshkola.blogspot.ru/mmmshkola.blogspot.ru.log.xz
+  size: 499004
+  modified: '2013-11-04T18:25:06'
+  type: wpull log
+  extension: .xz
+- name: mmmshkola.blogspot.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmshkola.blogspot.ru/mmmshkola.blogspot.ru.warc.xz
+  size: 7668540
+  modified: '2013-11-04T18:25:30'
+  type: WARC
+  extension: .xz
+- name: mmmshkola.blogspot.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmshkola.blogspot.ru/mmmshkola.blogspot.ru.cdx.xz
+  size: 733768
+  modified: '2013-11-04T18:25:03'
+  type: CDX
+  extension: .xz
+url: https://mmmshkola.blogspot.ru
+created: '2013-11-04T18:25:30'

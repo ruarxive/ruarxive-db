@@ -1,0 +1,34 @@
+id: chaika-navalny-com
+name: chaika.navalny.com (2015-12-06)
+domain: chaika.navalny.com
+collection:
+  id: bannedrus
+  slug: bannedrus
+  name: Заблокированные сайты
+resources:
+- name: chaika.navalny.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/chaika.navalny.com/chaika.navalny.com.warc.xz
+  size: 151808
+  modified: '2015-12-06T22:16:19'
+  type: WARC
+  extension: .xz
+- name: chaika.navalny.com.log
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/chaika.navalny.com/chaika.navalny.com.log
+  size: 14177
+  modified: '2015-12-06T22:16:19'
+  type: ''
+  extension: .log
+- name: chaika.navalny.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/chaika.navalny.com/chaika.navalny.com.7z
+  size: 146301
+  modified: '2015-12-07T19:43:17'
+  type: ''
+  extension: .7z
+- name: chaika.navalny.com.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/chaika.navalny.com/chaika.navalny.com.cdx
+  size: 7420
+  modified: '2015-12-06T22:16:19'
+  type: CDX
+  extension: .cdx
+url: https://chaika.navalny.com
+created: '2015-12-06T22:16:19'

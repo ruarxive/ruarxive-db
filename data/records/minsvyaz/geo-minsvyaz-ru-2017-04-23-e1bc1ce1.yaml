@@ -1,0 +1,40 @@
+id: geo-minsvyaz-ru-2017-04-23-e1bc1ce1
+name: geo.minsvyaz.ru (2017-04-23)
+domain: geo.minsvyaz.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: geo.minsvyaz.ru-2017-04-23-e1bc1ce1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/geo.minsvyaz.ru-2017-04-23-e1bc1ce1/geo.minsvyaz.ru-2017-04-23-e1bc1ce1-meta.warc.gz
+  size: 4317
+  modified: '2017-04-23T07:37:57'
+  type: WARC
+  extension: .warc.gz
+- name: geo.minsvyaz.ru-2017-04-23-e1bc1ce1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/geo.minsvyaz.ru-2017-04-23-e1bc1ce1/geo.minsvyaz.ru-2017-04-23-e1bc1ce1-00000.warc.gz
+  size: 387721
+  modified: '2017-04-23T07:37:57'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/geo.minsvyaz.ru-2017-04-23-e1bc1ce1/wpull.db
+  size: 18432
+  modified: '2017-04-23T07:37:57'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/geo.minsvyaz.ru-2017-04-23-e1bc1ce1/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-04-23T07:37:57'
+  type: ''
+  extension: .mdb
+- name: geo.minsvyaz.ru-2017-04-23-e1bc1ce1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/geo.minsvyaz.ru-2017-04-23-e1bc1ce1/geo.minsvyaz.ru-2017-04-23-e1bc1ce1.cdx
+  size: 10883
+  modified: '2017-04-23T07:37:57'
+  type: CDX
+  extension: .cdx
+url: https://geo.minsvyaz.ru
+created: '2017-04-23'

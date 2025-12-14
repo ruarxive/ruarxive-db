@@ -1,0 +1,22 @@
+id: vorobiev2013-ru
+name: vorobiev2013.ru (2014-02-02)
+domain: vorobiev2013.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: vorobiev2013.ru.7z.7z.001
+  url: https://cdn.ruarxive.org/public/webcollect/gov/vorobiev2013.ru/vorobiev2013.ru.7z.7z.001
+  size: 3221225472
+  modified: '2014-02-02T00:26:20'
+  type: ''
+  extension: '.001'
+- name: vorobiev2013.ru.7z.7z.002
+  url: https://cdn.ruarxive.org/public/webcollect/gov/vorobiev2013.ru/vorobiev2013.ru.7z.7z.002
+  size: 2365113432
+  modified: '2014-02-02T00:38:32'
+  type: ''
+  extension: '.002'
+url: https://vorobiev2013.ru
+created: '2014-02-02T00:26:20'

@@ -1,0 +1,40 @@
+id: fcpkultura-ru-2017-05-10-e02269af
+name: fcpkultura.ru (2017-05-10)
+domain: fcpkultura.ru
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpkultura.ru-2017-05-10-e02269af/wpull.db
+  size: 247808
+  modified: '2017-05-10T08:26:22'
+  type: wpull database
+  extension: .db
+- name: fcpkultura.ru-2017-05-10-e02269af-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpkultura.ru-2017-05-10-e02269af/fcpkultura.ru-2017-05-10-e02269af-00000.warc.gz
+  size: 17820997
+  modified: '2017-05-10T08:26:22'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpkultura.ru-2017-05-10-e02269af/dupes_db/data.mdb
+  size: 139264
+  modified: '2017-05-10T08:25:45'
+  type: ''
+  extension: .mdb
+- name: fcpkultura.ru-2017-05-10-e02269af-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpkultura.ru-2017-05-10-e02269af/fcpkultura.ru-2017-05-10-e02269af-meta.warc.gz
+  size: 29780
+  modified: '2017-05-10T08:26:22'
+  type: WARC
+  extension: .warc.gz
+- name: fcpkultura.ru-2017-05-10-e02269af.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fcpkultura.ru-2017-05-10-e02269af/fcpkultura.ru-2017-05-10-e02269af.cdx
+  size: 236453
+  modified: '2017-05-10T08:26:22'
+  type: CDX
+  extension: .cdx
+url: https://fcpkultura.ru
+created: '2017-05-10'

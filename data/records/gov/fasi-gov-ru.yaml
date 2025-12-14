@@ -1,0 +1,28 @@
+id: fasi-gov-ru
+name: fasi.gov.ru (2013-10-23)
+domain: fasi.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: fasi.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fasi.gov.ru/fasi.gov.ru.warc.xz
+  size: 375407616
+  modified: '2013-10-23T14:16:52'
+  type: WARC
+  extension: .xz
+- name: fasi.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fasi.gov.ru/fasi.gov.ru.log.xz
+  size: 617136
+  modified: '2013-10-23T14:18:36'
+  type: wpull log
+  extension: .xz
+- name: fasi.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fasi.gov.ru/fasi.gov.ru.cdx.xz
+  size: 865436
+  modified: '2013-10-23T14:18:39'
+  type: CDX
+  extension: .xz
+url: https://fasi.gov.ru
+created: '2013-10-23T14:16:52'

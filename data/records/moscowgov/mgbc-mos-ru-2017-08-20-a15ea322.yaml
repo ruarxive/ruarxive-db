@@ -1,0 +1,40 @@
+id: mgbc-mos-ru-2017-08-20-a15ea322
+name: mgbc.mos.ru (2017-08-20)
+domain: mgbc.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mgbc.mos.ru-2017-08-20-a15ea322/wpull.db
+  size: 74752
+  modified: '2017-08-20T16:24:16'
+  type: wpull database
+  extension: .db
+- name: mgbc.mos.ru-2017-08-20-a15ea322.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mgbc.mos.ru-2017-08-20-a15ea322/mgbc.mos.ru-2017-08-20-a15ea322.cdx
+  size: 57430
+  modified: '2017-08-20T16:24:15'
+  type: CDX
+  extension: .cdx
+- name: mgbc.mos.ru-2017-08-20-a15ea322-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mgbc.mos.ru-2017-08-20-a15ea322/mgbc.mos.ru-2017-08-20-a15ea322-meta.warc.gz
+  size: 11908
+  modified: '2017-08-20T16:24:16'
+  type: WARC
+  extension: .warc.gz
+- name: mgbc.mos.ru-2017-08-20-a15ea322-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mgbc.mos.ru-2017-08-20-a15ea322/mgbc.mos.ru-2017-08-20-a15ea322-00000.warc.gz
+  size: 2648216
+  modified: '2017-08-20T16:24:15'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mgbc.mos.ru-2017-08-20-a15ea322/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-08-20T16:23:29'
+  type: ''
+  extension: .mdb
+url: https://mgbc.mos.ru
+created: '2017-08-20'

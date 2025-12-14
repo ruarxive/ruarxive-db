@@ -1,0 +1,58 @@
+id: fsvts-gov-ru-2017-04-30-fe7f634f
+name: fsvts.gov.ru (2017-04-30)
+domain: fsvts.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvts.gov.ru-2017-04-30-fe7f634f/dupes_db/data.mdb
+  size: 925696
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .mdb
+- name: www.fsvts.gov.ru-2017-04-30-fe7f634f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvts.gov.ru-2017-04-30-fe7f634f/www.fsvts.gov.ru-2017-04-30-fe7f634f.cdx
+  size: 1604267
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvts.gov.ru-2017-04-30-fe7f634f/wpull.db
+  size: 3371008
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+- name: www.fsvts.gov.ru-2017-04-30-fe7f634f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvts.gov.ru-2017-04-30-fe7f634f/www.fsvts.gov.ru-2017-04-30-fe7f634f-00000.warc.gz
+  size: 287046848
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-pu71k3.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvts.gov.ru-2017-04-30-fe7f634f/temp/tmp-wpull-resp_cb-pu71k3.tmp
+  size: 622592
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-on87rh.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvts.gov.ru-2017-04-30-fe7f634f/temp/tmp-wpull-warcsesreq-on87rh.tmp
+  size: 455
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-q4tmwn.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvts.gov.ru-2017-04-30-fe7f634f/temp/tmp-wpull-warc-q4tmwn.log.gz
+  size: 371436
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesrsp-0_sj43.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvts.gov.ru-2017-04-30-fe7f634f/temp/tmp-wpull-warcsesrsp-0_sj43.tmp
+  size: 622971
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+url: https://fsvts.gov.ru
+created: '2017-04-30'

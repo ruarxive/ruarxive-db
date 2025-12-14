@@ -1,0 +1,40 @@
+id: zsproc-ru-2017-04-04-567a5e2a
+name: zsproc.ru (2017-04-04)
+domain: zsproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.zsproc.ru-2017-04-04-567a5e2a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zsproc.ru-2017-04-04-567a5e2a/www.zsproc.ru-2017-04-04-567a5e2a-meta.warc.gz
+  size: 164853
+  modified: '2017-04-04T09:03:13'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zsproc.ru-2017-04-04-567a5e2a/dupes_db/data.mdb
+  size: 823296
+  modified: '2017-04-04T09:03:13'
+  type: ''
+  extension: .mdb
+- name: www.zsproc.ru-2017-04-04-567a5e2a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zsproc.ru-2017-04-04-567a5e2a/www.zsproc.ru-2017-04-04-567a5e2a.cdx
+  size: 1983083
+  modified: '2017-04-04T09:03:13'
+  type: CDX
+  extension: .cdx
+- name: www.zsproc.ru-2017-04-04-567a5e2a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zsproc.ru-2017-04-04-567a5e2a/www.zsproc.ru-2017-04-04-567a5e2a-00000.warc.gz
+  size: 164504455
+  modified: '2017-04-04T09:03:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zsproc.ru-2017-04-04-567a5e2a/wpull.db
+  size: 1899520
+  modified: '2017-04-04T09:03:13'
+  type: wpull database
+  extension: .db
+url: https://zsproc.ru
+created: '2017-04-04'

@@ -1,0 +1,40 @@
+id: memoru-irk-ru-2017-06-06-c392b81c
+name: memoru.irk.ru (2017-06-06)
+domain: memoru.irk.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: memoru.irk.ru-2017-06-06-c392b81c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memoru.irk.ru-2017-06-06-c392b81c/memoru.irk.ru-2017-06-06-c392b81c.cdx
+  size: 23
+  modified: '2017-06-08T19:11:10'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memoru.irk.ru-2017-06-06-c392b81c/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-06-08T19:11:10'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memoru.irk.ru-2017-06-06-c392b81c/wpull.db
+  size: 10240
+  modified: '2017-06-08T19:11:10'
+  type: wpull database
+  extension: .db
+- name: memoru.irk.ru-2017-06-06-c392b81c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memoru.irk.ru-2017-06-06-c392b81c/memoru.irk.ru-2017-06-06-c392b81c-meta.warc.gz
+  size: 2896
+  modified: '2017-06-08T19:11:10'
+  type: WARC
+  extension: .warc.gz
+- name: memoru.irk.ru-2017-06-06-c392b81c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memoru.irk.ru-2017-06-06-c392b81c/memoru.irk.ru-2017-06-06-c392b81c-00000.warc.gz
+  size: 2225
+  modified: '2017-06-08T19:11:10'
+  type: WARC
+  extension: .warc.gz
+url: https://memoru.irk.ru
+created: '2017-06-06'

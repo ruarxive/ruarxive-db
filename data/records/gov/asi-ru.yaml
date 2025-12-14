@@ -1,0 +1,64 @@
+id: asi-ru
+name: asi.ru (2016-08-30)
+domain: asi.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: dvasi.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/dvasi.ru.7z
+  size: 7455129794
+  modified: '2016-09-28T17:06:59'
+  type: ''
+  extension: .7z
+- name: asi.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/asi.ru.log
+  size: 93489365
+  modified: '2016-08-30T16:10:43'
+  type: ''
+  extension: .log
+- name: asi.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/asi.ru.warc.gz
+  size: 17426101480
+  modified: '2016-08-30T16:10:43'
+  type: WARC
+  extension: .warc.gz
+- name: old.asi.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/old.asi.ru.7z
+  size: 102365
+  modified: '2016-09-28T17:14:15'
+  type: ''
+  extension: .7z
+- name: www.asi.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/www.asi.ru.7z
+  size: 53166118
+  modified: '2016-09-28T17:14:44'
+  type: ''
+  extension: .7z
+- name: sup.asi.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/sup.asi.ru.7z
+  size: 1694039
+  modified: '2016-09-28T17:14:22'
+  type: ''
+  extension: .7z
+- name: asi.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/asi.ru.7z
+  size: 5173284697
+  modified: '2016-09-28T16:40:19'
+  type: ''
+  extension: .7z
+- name: asi.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/asi.ru.cdx
+  size: 38571095
+  modified: '2016-08-30T16:10:43'
+  type: CDX
+  extension: .cdx
+- name: foresighttrip.asi.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/asi.ru/foresighttrip.asi.ru.7z
+  size: 279609086
+  modified: '2016-09-28T17:13:42'
+  type: ''
+  extension: .7z
+url: https://asi.ru
+created: '2016-08-30T16:10:43'

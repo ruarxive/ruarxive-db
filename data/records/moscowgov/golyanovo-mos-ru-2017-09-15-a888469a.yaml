@@ -1,0 +1,40 @@
+id: golyanovo-mos-ru-2017-09-15-a888469a
+name: golyanovo.mos.ru (2017-09-15)
+domain: golyanovo.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/golyanovo.mos.ru-2017-09-15-a888469a/wpull.db
+  size: 12769280
+  modified: '2017-09-17T10:58:39'
+  type: wpull database
+  extension: .db
+- name: golyanovo.mos.ru-2017-09-15-a888469a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/golyanovo.mos.ru-2017-09-15-a888469a/golyanovo.mos.ru-2017-09-15-a888469a-00000.warc.gz
+  size: 3185573953
+  modified: '2017-09-17T10:58:38'
+  type: WARC
+  extension: .warc.gz
+- name: golyanovo.mos.ru-2017-09-15-a888469a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/golyanovo.mos.ru-2017-09-15-a888469a/golyanovo.mos.ru-2017-09-15-a888469a-meta.warc.gz
+  size: 1463604
+  modified: '2017-09-17T10:58:47'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/golyanovo.mos.ru-2017-09-15-a888469a/dupes_db/data.mdb
+  size: 5582848
+  modified: '2017-09-17T10:58:32'
+  type: ''
+  extension: .mdb
+- name: golyanovo.mos.ru-2017-09-15-a888469a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/golyanovo.mos.ru-2017-09-15-a888469a/golyanovo.mos.ru-2017-09-15-a888469a.cdx
+  size: 9678617
+  modified: '2017-09-17T10:58:38'
+  type: CDX
+  extension: .cdx
+url: https://golyanovo.mos.ru
+created: '2017-09-15'

@@ -1,0 +1,76 @@
+id: minsvyaz-ru-2017-04-22-81fb0c8a
+name: minsvyaz.ru (2017-04-22)
+domain: minsvyaz.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: warc-extractor.py
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/warc-extractor.py
+  size: 26744
+  modified: '2017-04-05T22:09:29'
+  type: ''
+  extension: .py
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/dupes_db/data.mdb
+  size: 13369344
+  modified: '2017-04-22T18:16:13'
+  type: ''
+  extension: .mdb
+- name: minsvyaz.ru-2017-04-22-81fb0c8a-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/minsvyaz.ru-2017-04-22-81fb0c8a-00003.warc.gz
+  size: 5368814189
+  modified: '2017-04-22T13:46:13'
+  type: WARC
+  extension: .warc.gz
+- name: minsvyaz.ru-2017-04-22-81fb0c8a-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/minsvyaz.ru-2017-04-22-81fb0c8a-00002.warc.gz
+  size: 5368950909
+  modified: '2017-04-22T12:38:42'
+  type: WARC
+  extension: .warc.gz
+- name: minsvyaz.ru-2017-04-22-81fb0c8a-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/minsvyaz.ru-2017-04-22-81fb0c8a-00004.warc.gz
+  size: 5368809185
+  modified: '2017-04-22T16:28:12'
+  type: WARC
+  extension: .warc.gz
+- name: minsvyaz.ru-2017-04-22-81fb0c8a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/minsvyaz.ru-2017-04-22-81fb0c8a-00000.warc.gz
+  size: 5368860245
+  modified: '2017-04-22T11:30:06'
+  type: WARC
+  extension: .warc.gz
+- name: minsvyaz.ru-2017-04-22-81fb0c8a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/minsvyaz.ru-2017-04-22-81fb0c8a.cdx
+  size: 35467057
+  modified: '2017-04-22T18:16:15'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/wpull.db
+  size: 35021824
+  modified: '2017-04-22T18:16:19'
+  type: wpull database
+  extension: .db
+- name: minsvyaz.ru-2017-04-22-81fb0c8a-00005.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/minsvyaz.ru-2017-04-22-81fb0c8a-00005.warc.gz
+  size: 876055675
+  modified: '2017-04-22T18:16:15'
+  type: WARC
+  extension: .warc.gz
+- name: minsvyaz.ru-2017-04-22-81fb0c8a-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/minsvyaz.ru-2017-04-22-81fb0c8a-00001.warc.gz
+  size: 5371409445
+  modified: '2017-04-22T12:00:49'
+  type: WARC
+  extension: .warc.gz
+- name: minsvyaz.ru-2017-04-22-81fb0c8a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minsvyaz.ru-2017-04-22-81fb0c8a/minsvyaz.ru-2017-04-22-81fb0c8a-meta.warc.gz
+  size: 4169753
+  modified: '2017-04-22T18:16:19'
+  type: WARC
+  extension: .warc.gz
+url: https://minsvyaz.ru
+created: '2017-04-22'

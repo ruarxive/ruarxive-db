@@ -1,0 +1,34 @@
+id: gasps-support-genproc-gov-ru
+name: gasps-support.genproc.gov.ru (2015-04-23)
+domain: gasps-support.genproc.gov.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: gasps-support.genproc.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/gasps-support.genproc.gov.ru/gasps-support.genproc.gov.ru.cdx
+  size: 57060
+  modified: '2015-04-23T17:12:14'
+  type: CDX
+  extension: .cdx
+- name: gasps-support.genproc.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/gasps-support.genproc.gov.ru/gasps-support.genproc.gov.ru.warc.xz
+  size: 321032
+  modified: '2015-04-23T17:12:14'
+  type: WARC
+  extension: .xz
+- name: gasps-support.genproc.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/gasps-support.genproc.gov.ru/gasps-support.genproc.gov.ru.log
+  size: 96919
+  modified: '2015-04-23T17:12:14'
+  type: ''
+  extension: .log
+- name: gasps-support.genproc.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/gasps-support.genproc.gov.ru/gasps-support.genproc.gov.ru.7z
+  size: 284942
+  modified: '2015-05-17T15:13:18'
+  type: ''
+  extension: .7z
+url: https://gasps-support.genproc.gov.ru
+created: '2015-04-23T17:12:14'

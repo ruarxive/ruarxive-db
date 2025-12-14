@@ -1,0 +1,40 @@
+id: utu-customs-ru-2017-05-10-2e7683af
+name: utu.customs.ru (2017-05-10)
+domain: utu.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: utu.customs.ru-2017-05-10-2e7683af-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/utu.customs.ru-2017-05-10-2e7683af/utu.customs.ru-2017-05-10-2e7683af-meta.warc.gz
+  size: 2953
+  modified: '2017-05-10T09:20:38'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/utu.customs.ru-2017-05-10-2e7683af/wpull.db
+  size: 10240
+  modified: '2017-05-10T09:20:38'
+  type: wpull database
+  extension: .db
+- name: utu.customs.ru-2017-05-10-2e7683af-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/utu.customs.ru-2017-05-10-2e7683af/utu.customs.ru-2017-05-10-2e7683af-00000.warc.gz
+  size: 9090
+  modified: '2017-05-10T09:20:38'
+  type: WARC
+  extension: .warc.gz
+- name: utu.customs.ru-2017-05-10-2e7683af.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/utu.customs.ru-2017-05-10-2e7683af/utu.customs.ru-2017-05-10-2e7683af.cdx
+  size: 929
+  modified: '2017-05-10T09:20:38'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/utu.customs.ru-2017-05-10-2e7683af/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-05-10T09:20:36'
+  type: ''
+  extension: .mdb
+url: https://utu.customs.ru
+created: '2017-05-10'

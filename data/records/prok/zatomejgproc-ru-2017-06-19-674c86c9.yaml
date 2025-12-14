@@ -1,0 +1,40 @@
+id: zatomejgproc-ru-2017-06-19-674c86c9
+name: zatomejgproc.ru (2017-06-19)
+domain: zatomejgproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zatomejgproc.ru-2017-06-19-674c86c9/dupes_db/data.mdb
+  size: 294912
+  modified: '2017-06-25T17:13:10'
+  type: ''
+  extension: .mdb
+- name: www.zatomejgproc.ru-2017-06-19-674c86c9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zatomejgproc.ru-2017-06-19-674c86c9/www.zatomejgproc.ru-2017-06-19-674c86c9-meta.warc.gz
+  size: 41274
+  modified: '2017-06-25T17:13:06'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zatomejgproc.ru-2017-06-19-674c86c9/wpull.db
+  size: 463872
+  modified: '2017-06-25T17:13:06'
+  type: wpull database
+  extension: .db
+- name: www.zatomejgproc.ru-2017-06-19-674c86c9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zatomejgproc.ru-2017-06-19-674c86c9/www.zatomejgproc.ru-2017-06-19-674c86c9-00000.warc.gz
+  size: 118482456
+  modified: '2017-06-25T17:13:10'
+  type: WARC
+  extension: .warc.gz
+- name: www.zatomejgproc.ru-2017-06-19-674c86c9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.zatomejgproc.ru-2017-06-19-674c86c9/www.zatomejgproc.ru-2017-06-19-674c86c9.cdx
+  size: 382912
+  modified: '2017-06-25T17:13:06'
+  type: CDX
+  extension: .cdx
+url: https://zatomejgproc.ru
+created: '2017-06-19'

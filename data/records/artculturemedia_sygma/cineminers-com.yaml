@@ -1,0 +1,28 @@
+id: cineminers-com
+name: Cineminers
+url: https://www.cineminers.com
+domain: cineminers.com
+created: '2022-03-29T15:43:19.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Независимая группа кинематографистов
+reason_id: nezavisimaya-gruppa-kinematografistov
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: низкий
+resources:
+- type: WARC
+  name: www.cineminers.com.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/www.cineminers.com/www.cineminers.com.warc.gz

@@ -1,0 +1,23 @@
+id: avtonom-org
+name: 'Автономное действие'
+url: https://avtonom.org/library
+domain: avtonom.org
+created: '2022-03-29T16:16:48.000Z'
+date: '2022-04-11T15:18:00.000Z'
+status: запланирован
+status_id: planned
+reason: Блокировка Роскомнадзора
+reason_id: roskomnadzor-blocking-1
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: socpolmedia_garagemca
+  name: Социальные и политические СМИ
+  slug: socpolmedia_garagemca
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: высокий

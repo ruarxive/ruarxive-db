@@ -1,0 +1,17 @@
+id: t-me-8
+name: Арс Котельная (Томск) (Telegram)
+domain: t.me
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: Аккаунт в социальной сети
+resource_type_id: social-account
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: institutions_garage
+  name: Институты
+  slug: institutions_garage
+source:
+  id: garage-museum
+  name: Garage Museum

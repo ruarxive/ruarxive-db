@@ -1,0 +1,34 @@
+id: assotsiatsiyabank-ru
+name: assotsiatsiyabank.ru (2014-05-13)
+domain: assotsiatsiyabank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: assotsiatsiyabank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/assotsiatsiyabank.ru/assotsiatsiyabank.ru.cdx.xz
+  size: 46920
+  modified: '2014-05-13T10:02:55'
+  type: CDX
+  extension: .xz
+- name: assotsiatsiyabank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/assotsiatsiyabank.ru/assotsiatsiyabank.ru.log.xz
+  size: 31412
+  modified: '2014-05-13T10:02:55'
+  type: wpull log
+  extension: .xz
+- name: assotsiatsiyabank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/assotsiatsiyabank.ru/assotsiatsiyabank.ru.warc.xz
+  size: 65380524
+  modified: '2014-05-13T10:02:55'
+  type: WARC
+  extension: .xz
+- name: assotsiatsiyabank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/assotsiatsiyabank.ru/assotsiatsiyabank.ru.7z
+  size: 65978441
+  modified: '2014-08-18T01:49:50'
+  type: ''
+  extension: .7z
+url: https://assotsiatsiyabank.ru
+created: '2014-05-13T10:02:55'

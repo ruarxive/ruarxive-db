@@ -1,0 +1,16 @@
+id: tsu-ru
+name: tsu.ru.7z (2013-09-23)
+domain: tsu.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: tsu.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/tsu.ru.7z
+  size: 854576778
+  modified: '2013-09-23T15:52:55'
+  type: httrack archive
+  extension: .7z
+url: https://tsu.ru.7z
+created: '2013-09-23T15:52:55'

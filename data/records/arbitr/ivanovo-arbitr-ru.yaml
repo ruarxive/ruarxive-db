@@ -1,0 +1,40 @@
+id: ivanovo-arbitr-ru
+name: ivanovo.arbitr.ru (2014-08-02)
+domain: ivanovo.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: ivanovo.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ivanovo.arbitr.ru/ivanovo.arbitr.ru.warc.xz
+  size: 13827636
+  modified: '2014-08-02T20:34:39'
+  type: WARC
+  extension: .xz
+- name: ivanovo.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ivanovo.arbitr.ru/ivanovo.arbitr.ru.7z
+  size: 13267031
+  modified: '2014-08-19T18:51:09'
+  type: ''
+  extension: .7z
+- name: ivanovo.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ivanovo.arbitr.ru/ivanovo.arbitr.ru.cdx.xz
+  size: 69636
+  modified: '2014-08-02T20:34:39'
+  type: CDX
+  extension: .xz
+- name: www.ivanovo.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ivanovo.arbitr.ru/www.ivanovo.arbitr.ru.7z
+  size: 753332
+  modified: '2014-08-19T18:51:02'
+  type: ''
+  extension: .7z
+- name: ivanovo.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ivanovo.arbitr.ru/ivanovo.arbitr.ru.log.xz
+  size: 43452
+  modified: '2014-08-02T20:34:39'
+  type: wpull log
+  extension: .xz
+url: https://ivanovo.arbitr.ru
+created: '2014-08-02T20:34:39'

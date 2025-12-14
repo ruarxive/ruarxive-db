@@ -1,0 +1,28 @@
+id: richfordcredit-ru
+name: richfordcredit.ru (2014-01-31)
+domain: richfordcredit.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.richfordcredit.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.richfordcredit.ru/www.richfordcredit.ru.warc.xz
+  size: 27478516
+  modified: '2014-01-31T17:52:03'
+  type: WARC
+  extension: .xz
+- name: www.richfordcredit.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.richfordcredit.ru/www.richfordcredit.ru.log.xz
+  size: 10616
+  modified: '2014-01-31T17:52:03'
+  type: wpull log
+  extension: .xz
+- name: www.richfordcredit.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.richfordcredit.ru/www.richfordcredit.ru.cdx.xz
+  size: 10432
+  modified: '2014-01-31T17:52:01'
+  type: CDX
+  extension: .xz
+url: https://richfordcredit.ru
+created: '2014-01-31T17:52:03'

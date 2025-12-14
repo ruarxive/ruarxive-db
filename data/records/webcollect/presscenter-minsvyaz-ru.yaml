@@ -1,0 +1,16 @@
+id: presscenter-minsvyaz-ru
+name: presscenter.minsvyaz.ru.7z (2013-08-27)
+domain: presscenter.minsvyaz.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: presscenter.minsvyaz.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/presscenter.minsvyaz.ru.7z
+  size: 12527103
+  modified: '2013-08-27T12:14:17'
+  type: httrack archive
+  extension: .7z
+url: https://presscenter.minsvyaz.ru.7z
+created: '2013-08-27T12:14:17'

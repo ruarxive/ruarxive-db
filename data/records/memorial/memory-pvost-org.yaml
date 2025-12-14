@@ -1,0 +1,28 @@
+id: memory-pvost-org
+name: memory.pvost.org (2013-12-30)
+domain: memory.pvost.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: memory.pvost.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memory.pvost.org/memory.pvost.org.log.xz
+  size: 33580
+  modified: '2013-12-30T12:41:03'
+  type: wpull log
+  extension: .xz
+- name: memory.pvost.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memory.pvost.org/memory.pvost.org.warc.xz
+  size: 4214316
+  modified: '2013-12-30T12:41:03'
+  type: WARC
+  extension: .xz
+- name: memory.pvost.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memory.pvost.org/memory.pvost.org.cdx.xz
+  size: 61024
+  modified: '2013-12-30T12:41:03'
+  type: CDX
+  extension: .xz
+url: https://memory.pvost.org
+created: '2013-12-30T12:41:03'

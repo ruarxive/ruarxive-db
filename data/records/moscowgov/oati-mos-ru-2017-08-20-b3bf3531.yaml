@@ -1,0 +1,40 @@
+id: oati-mos-ru-2017-08-20-b3bf3531
+name: oati.mos.ru (2017-08-20)
+domain: oati.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: oati.mos.ru-2017-08-20-b3bf3531-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/oati.mos.ru-2017-08-20-b3bf3531/oati.mos.ru-2017-08-20-b3bf3531-meta.warc.gz
+  size: 26602
+  modified: '2017-08-20T16:31:17'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/oati.mos.ru-2017-08-20-b3bf3531/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-08-20T16:31:12'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/oati.mos.ru-2017-08-20-b3bf3531/wpull.db
+  size: 212992
+  modified: '2017-08-20T16:31:17'
+  type: wpull database
+  extension: .db
+- name: oati.mos.ru-2017-08-20-b3bf3531-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/oati.mos.ru-2017-08-20-b3bf3531/oati.mos.ru-2017-08-20-b3bf3531-00000.warc.gz
+  size: 2861234
+  modified: '2017-08-20T16:31:17'
+  type: WARC
+  extension: .warc.gz
+- name: oati.mos.ru-2017-08-20-b3bf3531.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/oati.mos.ru-2017-08-20-b3bf3531/oati.mos.ru-2017-08-20-b3bf3531.cdx
+  size: 190451
+  modified: '2017-08-20T16:31:17'
+  type: CDX
+  extension: .cdx
+url: https://oati.mos.ru
+created: '2017-08-20'

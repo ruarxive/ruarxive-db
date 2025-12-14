@@ -1,0 +1,28 @@
+id: moscow-reg-izbirkom-ru
+name: moscow-reg.izbirkom.ru (2014-02-28)
+domain: moscow-reg.izbirkom.ru
+collection:
+  id: mosreg
+  slug: mosreg
+  name: Региональное правительство Москвы
+resources:
+- name: moscow-reg.izbirkom.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/moscow-reg.izbirkom.ru/moscow-reg.izbirkom.ru.warc.xz
+  size: 790508856
+  modified: '2014-02-28T09:38:41'
+  type: WARC
+  extension: .xz
+- name: moscow-reg.izbirkom.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/moscow-reg.izbirkom.ru/moscow-reg.izbirkom.ru.cdx.xz
+  size: 1403024
+  modified: '2014-02-28T09:38:41'
+  type: CDX
+  extension: .xz
+- name: moscow-reg.izbirkom.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/moscow-reg.izbirkom.ru/moscow-reg.izbirkom.ru.log.xz
+  size: 562920
+  modified: '2014-02-28T09:38:41'
+  type: wpull log
+  extension: .xz
+url: https://moscow-reg.izbirkom.ru
+created: '2014-02-28T09:38:41'

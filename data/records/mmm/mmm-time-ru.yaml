@@ -1,0 +1,28 @@
+id: mmm-time-ru
+name: mmm-time.ru (2013-11-04)
+domain: mmm-time.ru
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmm-time.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm-time.ru/mmm-time.ru.cdx.xz
+  size: 74528
+  modified: '2013-11-04T14:18:41'
+  type: CDX
+  extension: .xz
+- name: mmm-time.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm-time.ru/mmm-time.ru.warc.xz
+  size: 2226488
+  modified: '2013-11-04T14:18:42'
+  type: WARC
+  extension: .xz
+- name: mmm-time.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm-time.ru/mmm-time.ru.log.xz
+  size: 29960
+  modified: '2013-11-04T14:18:41'
+  type: wpull log
+  extension: .xz
+url: https://mmm-time.ru
+created: '2013-11-04T14:18:42'

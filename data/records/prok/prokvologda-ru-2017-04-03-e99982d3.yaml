@@ -1,0 +1,40 @@
+id: prokvologda-ru-2017-04-03-e99982d3
+name: prokvologda.ru (2017-04-03)
+domain: prokvologda.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: prokvologda.ru-2017-04-03-e99982d3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokvologda.ru-2017-04-03-e99982d3/prokvologda.ru-2017-04-03-e99982d3-00000.warc.gz
+  size: 19672414
+  modified: '2017-04-03T18:32:07'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokvologda.ru-2017-04-03-e99982d3/dupes_db/data.mdb
+  size: 200704
+  modified: '2017-04-03T18:31:42'
+  type: ''
+  extension: .mdb
+- name: prokvologda.ru-2017-04-03-e99982d3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokvologda.ru-2017-04-03-e99982d3/prokvologda.ru-2017-04-03-e99982d3.cdx
+  size: 556993
+  modified: '2017-04-03T18:32:07'
+  type: CDX
+  extension: .cdx
+- name: prokvologda.ru-2017-04-03-e99982d3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokvologda.ru-2017-04-03-e99982d3/prokvologda.ru-2017-04-03-e99982d3-meta.warc.gz
+  size: 57473
+  modified: '2017-04-03T18:32:08'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokvologda.ru-2017-04-03-e99982d3/wpull.db
+  size: 444416
+  modified: '2017-04-03T18:32:08'
+  type: wpull database
+  extension: .db
+url: https://prokvologda.ru
+created: '2017-04-03'

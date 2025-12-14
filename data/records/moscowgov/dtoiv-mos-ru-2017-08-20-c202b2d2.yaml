@@ -1,0 +1,46 @@
+id: dtoiv-mos-ru-2017-08-20-c202b2d2
+name: dtoiv.mos.ru (2017-08-20)
+domain: dtoiv.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: dtoiv.mos.ru-2017-08-20-c202b2d2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dtoiv.mos.ru-2017-08-20-c202b2d2/dtoiv.mos.ru-2017-08-20-c202b2d2.cdx
+  size: 156819066
+  modified: '2017-08-23T16:30:17'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dtoiv.mos.ru-2017-08-20-c202b2d2/dupes_db/data.mdb
+  size: 188321792
+  modified: '2017-08-23T16:30:14'
+  type: ''
+  extension: .mdb
+- name: dtoiv.mos.ru-2017-08-20-c202b2d2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dtoiv.mos.ru-2017-08-20-c202b2d2/dtoiv.mos.ru-2017-08-20-c202b2d2-00000.warc.gz
+  size: 5368752615
+  modified: '2017-08-22T10:34:11'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dtoiv.mos.ru-2017-08-20-c202b2d2/wpull.db
+  size: 311663616
+  modified: '2017-08-23T16:30:17'
+  type: wpull database
+  extension: .db
+- name: dtoiv.mos.ru-2017-08-20-c202b2d2-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dtoiv.mos.ru-2017-08-20-c202b2d2/dtoiv.mos.ru-2017-08-20-c202b2d2-00001.warc.gz
+  size: 1265711814
+  modified: '2017-08-23T16:30:17'
+  type: WARC
+  extension: .warc.gz
+- name: dtoiv.mos.ru-2017-08-20-c202b2d2-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dtoiv.mos.ru-2017-08-20-c202b2d2/dtoiv.mos.ru-2017-08-20-c202b2d2-meta.warc.gz
+  size: 4175492
+  modified: '2017-08-23T16:30:27'
+  type: WARC
+  extension: .warc.gz
+url: https://dtoiv.mos.ru
+created: '2017-08-20'

@@ -1,0 +1,40 @@
+id: credofinans-ru
+name: credofinans.ru (2013-12-17)
+domain: credofinans.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.credofinans.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.credofinans.ru/www.credofinans.ru.cdx.xz
+  size: 1804
+  modified: '2014-05-13T09:42:50'
+  type: CDX
+  extension: .xz
+- name: www.credofinans.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.credofinans.ru/www.credofinans.ru.warc
+  size: 628897
+  modified: '2014-05-13T09:42:50'
+  type: WARC
+  extension: .warc
+- name: www.credofinans.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.credofinans.ru/www.credofinans.ru.log.xz
+  size: 1556
+  modified: '2014-05-13T09:42:50'
+  type: wpull log
+  extension: .xz
+- name: www.credofinans.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.credofinans.ru/www.credofinans.ru.7z
+  size: 440866
+  modified: '2014-08-20T06:59:41'
+  type: ''
+  extension: .7z
+- name: www.credofinans.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.credofinans.ru/www.credofinans.ru.warc.xz
+  size: 1908272
+  modified: '2013-12-17T17:24:27'
+  type: WARC
+  extension: .xz
+url: https://credofinans.ru
+created: '2013-12-17T17:24:27'

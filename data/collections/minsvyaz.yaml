@@ -1,0 +1,95 @@
+id: minsvyaz
+slug: minsvyaz
+name: Министерство связи и массовых коммуникаций РФ
+num_records: 17
+records:
+- id: 365-minsvyaz-ru-2017-04-23-4c7dfda0
+  name: 365.minsvyaz.ru (2017-04-23)
+  url: https://365.minsvyaz.ru
+  created: '2017-04-23'
+  domain: 365.minsvyaz.ru
+- id: bgir-minsvyaz-ru-2017-04-23-fc5313ad
+  name: bgir.minsvyaz.ru (2017-04-23)
+  url: https://bgir.minsvyaz.ru
+  created: '2017-04-23'
+  domain: bgir.minsvyaz.ru
+- id: do-gosuslugi-ru-2017-04-23-2758faff
+  name: do.gosuslugi.ru (2017-04-23)
+  url: https://do.gosuslugi.ru
+  created: '2017-04-23'
+  domain: do.gosuslugi.ru
+- id: e-trust-gosuslugi-ru-2017-04-23-3bcb497c
+  name: e-trust.gosuslugi.ru (2017-04-23)
+  url: https://e-trust.gosuslugi.ru
+  created: '2017-04-23'
+  domain: e-trust.gosuslugi.ru
+- id: esia-gosuslugi-ru-2017-04-23-5d757a99
+  name: esia.gosuslugi.ru (2017-04-23)
+  url: https://esia.gosuslugi.ru
+  created: '2017-04-23'
+  domain: esia.gosuslugi.ru
+- id: forum-minsvyaz-ru-2017-04-23-9ec24816
+  name: forum.minsvyaz.ru (2017-04-23)
+  url: https://forum.minsvyaz.ru
+  created: '2017-04-23'
+  domain: forum.minsvyaz.ru
+- id: geo-minsvyaz-ru-2017-04-23-e1bc1ce1
+  name: geo.minsvyaz.ru (2017-04-23)
+  url: https://geo.minsvyaz.ru
+  created: '2017-04-23'
+  domain: geo.minsvyaz.ru
+- id: gosbar-gosuslugi-ru-2017-04-24-e59f8c90
+  name: gosbar.gosuslugi.ru (2017-04-24)
+  url: https://gosbar.gosuslugi.ru
+  created: '2017-04-24'
+  domain: gosbar.gosuslugi.ru
+- id: nfap-minsvyaz-ru-2017-04-23-85e2e609
+  name: nfap.minsvyaz.ru (2017-04-23)
+  url: https://nfap.minsvyaz.ru
+  created: '2017-04-23'
+  domain: nfap.minsvyaz.ru
+- id: nsi-gosuslugi-ru-2017-04-23-3a0da546
+  name: nsi.gosuslugi.ru (2017-04-23)
+  url: https://nsi.gosuslugi.ru
+  created: '2017-04-23'
+  domain: nsi.gosuslugi.ru
+- id: reestr-minsvyaz-ru-2017-04-23-40a7b901
+  name: reestr.minsvyaz.ru (2017-04-23)
+  url: https://reestr.minsvyaz.ru
+  created: '2017-04-23'
+  domain: reestr.minsvyaz.ru
+- id: reestr-minsvyaz-ru-2017-04-23-4d4a8716
+  name: reestr.minsvyaz.ru (2017-04-23)
+  url: https://reestr.minsvyaz.ru
+  created: '2017-04-23'
+  domain: reestr.minsvyaz.ru
+- id: sc-minsvyaz-ru-2017-04-23-3fbb9e68
+  name: sc.minsvyaz.ru (2017-04-23)
+  url: https://sc.minsvyaz.ru
+  created: '2017-04-23'
+  domain: sc.minsvyaz.ru
+- id: smev-gosuslugi-ru-2017-04-23-0e450a58
+  name: smev.gosuslugi.ru (2017-04-23)
+  url: https://smev.gosuslugi.ru
+  created: '2017-04-23'
+  domain: smev.gosuslugi.ru
+- id: smev3-gosuslugi-ru-2017-04-23-c985ce8e
+  name: smev3.gosuslugi.ru (2017-04-23)
+  url: https://smev3.gosuslugi.ru
+  created: '2017-04-23'
+  domain: smev3.gosuslugi.ru
+- id: stat-minsvyaz-ru-2017-04-24-8e41545b
+  name: stat.minsvyaz.ru (2017-04-24)
+  url: https://stat.minsvyaz.ru
+  created: '2017-04-24'
+  domain: stat.minsvyaz.ru
+- id: techportal-gosuslugi-ru-2017-04-23-26b4d489
+  name: techportal.gosuslugi.ru (2017-04-23)
+  url: https://techportal.gosuslugi.ru
+  created: '2017-04-23'
+  domain: techportal.gosuslugi.ru
+files:
+  total_count: 341
+  total_size: 10562908588
+  directories:
+  - webcollect2017

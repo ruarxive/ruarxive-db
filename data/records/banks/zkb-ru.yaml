@@ -1,0 +1,34 @@
+id: zkb-ru
+name: zkb.ru (2014-05-12)
+domain: zkb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.zkb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zkb.ru/www.zkb.ru.log.xz
+  size: 30884
+  modified: '2014-05-12T16:22:09'
+  type: wpull log
+  extension: .xz
+- name: www.zkb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zkb.ru/www.zkb.ru.cdx.xz
+  size: 48360
+  modified: '2014-05-12T16:22:09'
+  type: CDX
+  extension: .xz
+- name: www.zkb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zkb.ru/www.zkb.ru.warc.xz
+  size: 47668036
+  modified: '2014-05-12T16:22:09'
+  type: WARC
+  extension: .xz
+- name: www.zkb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zkb.ru/www.zkb.ru.7z
+  size: 46722964
+  modified: '2014-08-20T00:53:06'
+  type: ''
+  extension: .7z
+url: https://zkb.ru
+created: '2014-05-12T16:22:09'

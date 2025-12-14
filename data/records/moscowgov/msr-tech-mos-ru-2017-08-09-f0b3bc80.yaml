@@ -1,0 +1,40 @@
+id: msr-tech-mos-ru-2017-08-09-f0b3bc80
+name: msr.tech.mos.ru (2017-08-09)
+domain: msr.tech.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msr.tech.mos.ru-2017-08-09-f0b3bc80/wpull.db
+  size: 10240
+  modified: '2017-08-09T15:22:06'
+  type: wpull database
+  extension: .db
+- name: msr.tech.mos.ru-2017-08-09-f0b3bc80-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msr.tech.mos.ru-2017-08-09-f0b3bc80/msr.tech.mos.ru-2017-08-09-f0b3bc80-meta.warc.gz
+  size: 2896
+  modified: '2017-08-09T15:22:07'
+  type: WARC
+  extension: .warc.gz
+- name: msr.tech.mos.ru-2017-08-09-f0b3bc80.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msr.tech.mos.ru-2017-08-09-f0b3bc80/msr.tech.mos.ru-2017-08-09-f0b3bc80.cdx
+  size: 581
+  modified: '2017-08-09T15:22:06'
+  type: CDX
+  extension: .cdx
+- name: msr.tech.mos.ru-2017-08-09-f0b3bc80-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msr.tech.mos.ru-2017-08-09-f0b3bc80/msr.tech.mos.ru-2017-08-09-f0b3bc80-00000.warc.gz
+  size: 5837
+  modified: '2017-08-09T15:22:06'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msr.tech.mos.ru-2017-08-09-f0b3bc80/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-08-09T15:22:03'
+  type: ''
+  extension: .mdb
+url: https://msr.tech.mos.ru
+created: '2017-08-09'

@@ -1,0 +1,40 @@
+id: mmtproc-ru-2017-04-04-7157f8ef
+name: mmtproc.ru (2017-04-04)
+domain: mmtproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.mmtproc.ru-2017-04-04-7157f8ef.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.mmtproc.ru-2017-04-04-7157f8ef/www.mmtproc.ru-2017-04-04-7157f8ef.cdx
+  size: 3180049
+  modified: '2017-04-04T09:01:20'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.mmtproc.ru-2017-04-04-7157f8ef/wpull.db
+  size: 2652160
+  modified: '2017-04-04T09:01:21'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.mmtproc.ru-2017-04-04-7157f8ef/dupes_db/data.mdb
+  size: 1572864
+  modified: '2017-04-04T09:01:20'
+  type: ''
+  extension: .mdb
+- name: www.mmtproc.ru-2017-04-04-7157f8ef-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.mmtproc.ru-2017-04-04-7157f8ef/www.mmtproc.ru-2017-04-04-7157f8ef-00000.warc.gz
+  size: 283919492
+  modified: '2017-04-04T09:01:20'
+  type: WARC
+  extension: .warc.gz
+- name: www.mmtproc.ru-2017-04-04-7157f8ef-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.mmtproc.ru-2017-04-04-7157f8ef/www.mmtproc.ru-2017-04-04-7157f8ef-meta.warc.gz
+  size: 282046
+  modified: '2017-04-04T09:01:21'
+  type: WARC
+  extension: .warc.gz
+url: https://mmtproc.ru
+created: '2017-04-04'

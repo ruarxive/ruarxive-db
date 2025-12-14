@@ -1,0 +1,28 @@
+id: kpsb-ru
+name: kpsb.ru (2014-05-15)
+domain: kpsb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.kpsb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kpsb.ru/www.kpsb.ru.log.xz
+  size: 360
+  modified: '2014-05-15T15:15:55'
+  type: wpull log
+  extension: .xz
+- name: www.kpsb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kpsb.ru/www.kpsb.ru.cdx.xz
+  size: 232
+  modified: '2014-05-15T15:15:55'
+  type: CDX
+  extension: .xz
+- name: www.kpsb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kpsb.ru/www.kpsb.ru.warc.xz
+  size: 2176
+  modified: '2014-05-15T15:15:55'
+  type: WARC
+  extension: .xz
+url: https://kpsb.ru
+created: '2014-05-15T15:15:55'

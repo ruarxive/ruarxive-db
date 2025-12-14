@@ -1,0 +1,40 @@
+id: uniim-rospotrebnadzor-ru-2017-05-14-1f57f643
+name: uniim.rospotrebnadzor.ru (2017-05-14)
+domain: uniim.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: uniim.rospotrebnadzor.ru-2017-05-14-1f57f643.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/uniim.rospotrebnadzor.ru-2017-05-14-1f57f643/uniim.rospotrebnadzor.ru-2017-05-14-1f57f643.cdx
+  size: 898355
+  modified: '2017-05-14T15:34:21'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/uniim.rospotrebnadzor.ru-2017-05-14-1f57f643/dupes_db/data.mdb
+  size: 311296
+  modified: '2017-05-14T15:34:14'
+  type: ''
+  extension: .mdb
+- name: uniim.rospotrebnadzor.ru-2017-05-14-1f57f643-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/uniim.rospotrebnadzor.ru-2017-05-14-1f57f643/uniim.rospotrebnadzor.ru-2017-05-14-1f57f643-meta.warc.gz
+  size: 98418
+  modified: '2017-05-14T15:34:22'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/uniim.rospotrebnadzor.ru-2017-05-14-1f57f643/wpull.db
+  size: 739328
+  modified: '2017-05-14T15:34:21'
+  type: wpull database
+  extension: .db
+- name: uniim.rospotrebnadzor.ru-2017-05-14-1f57f643-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/uniim.rospotrebnadzor.ru-2017-05-14-1f57f643/uniim.rospotrebnadzor.ru-2017-05-14-1f57f643-00000.warc.gz
+  size: 385094853
+  modified: '2017-05-14T15:34:21'
+  type: WARC
+  extension: .warc.gz
+url: https://uniim.rospotrebnadzor.ru
+created: '2017-05-14'

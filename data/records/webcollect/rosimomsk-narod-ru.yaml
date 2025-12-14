@@ -1,0 +1,16 @@
+id: rosimomsk-narod-ru
+name: rosimomsk.narod.ru.7z (2013-08-13)
+domain: rosimomsk.narod.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: rosimomsk.narod.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/rosimomsk.narod.ru.7z
+  size: 1911367
+  modified: '2013-08-13T13:27:49'
+  type: httrack archive
+  extension: .7z
+url: https://rosimomsk.narod.ru.7z
+created: '2013-08-13T13:27:49'

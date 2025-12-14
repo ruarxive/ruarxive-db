@@ -1,0 +1,81 @@
+id: rusnano2021
+slug: rusnano2021
+name: Роснано 2021
+created: '2021-11-22T08:46:02.000Z'
+description: Роснано - государственная корпорация, в ноябре 2021 года было объявлено
+  о её техническом дефолте
+collection_type: единовременная
+collection_date: '2021-11-22'
+reason: Предбанкротное состояние организации
+reason_url: https://www.rusnano.com/news/20211119-rosnano-obyavlyaet-o-provedenii-vstrechi-s-kreditorami-i-krupnymi-derzhatelyami-obligatsiy/
+num_records: 10
+records:
+- id: edunano-ru
+  name: Официальный сайт АНО еНано
+  url: https://edunano.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T09:32:47.000Z'
+  domain: edunano.ru
+- id: en-rusnano-com
+  name: Англоязычная версия официального сайта Роснано
+  url: https://en.rusnano.com
+  status: собран
+  status_id: collected
+  created: '2021-11-22T12:21:15.000Z'
+  domain: en.rusnano.com
+- id: fiop-site
+  name: Официальный сайт Фонда инфраструктурных и образовательных программ
+  url: https://fiop.site
+  status: собран
+  status_id: collected
+  created: '2021-11-22T08:24:48.000Z'
+  domain: fiop.site
+- id: nanocertifica-ru
+  name: Официальный сайт АНО Наносертифика
+  url: http://nanocertifica.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T09:30:54.000Z'
+  domain: nanocertifica.ru
+- id: rusnano-com
+  name: Официальный сайт Роснано
+  url: https://www.rusnano.com
+  status: собран
+  status_id: collected
+  created: '2021-11-22T08:24:48.000Z'
+  domain: rusnano.com
+- id: rusnano-dmm-ru
+  name: Цифровое моделирование новых материалов
+  url: https://rusnano-dmm.ru/
+  status: собран
+  status_id: collected
+  created: '2021-11-22T09:54:10.000Z'
+  domain: rusnano-dmm.ru
+- id: schoolnano-ru
+  name: Официальный сайт АНПО Школьная лига
+  url: http://schoolnano.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T09:31:31.000Z'
+  domain: schoolnano.ru
+- id: startbase-ru
+  name: Стартбэйз
+  url: https://startbase.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T12:21:24.000Z'
+  domain: startbase.ru
+- id: t-me-9
+  name: Телеграм канал Роснано
+  status: запланирован
+  status_id: planned
+  created: '2021-11-22T09:52:57.000Z'
+  domain: t.me
+- id: thesaurus-rusnano-com
+  name: Словарь нанотехнологических и связанных с нанотехнологиями терминов
+  url: https://thesaurus.rusnano.com
+  status: собран
+  status_id: collected
+  created: '2021-11-22T12:18:04.000Z'
+  domain: thesaurus.rusnano.com

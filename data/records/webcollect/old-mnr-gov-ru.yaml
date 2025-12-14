@@ -1,0 +1,16 @@
+id: old-mnr-gov-ru
+name: old.mnr.gov.ru.7z (2013-08-13)
+domain: old.mnr.gov.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.mnr.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.mnr.gov.ru.7z
+  size: 2682473994
+  modified: '2013-08-13T14:04:59'
+  type: httrack archive
+  extension: .7z
+url: https://old.mnr.gov.ru.7z
+created: '2013-08-13T14:04:59'

@@ -1,0 +1,28 @@
+id: nkmb-ru
+name: nkmb.ru (2013-12-24)
+domain: nkmb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.nkmb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nkmb.ru/www.nkmb.ru.log.xz
+  size: 37260
+  modified: '2013-12-24T12:12:33'
+  type: wpull log
+  extension: .xz
+- name: www.nkmb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nkmb.ru/www.nkmb.ru.warc.xz
+  size: 84116916
+  modified: '2013-12-24T12:12:35'
+  type: WARC
+  extension: .xz
+- name: www.nkmb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nkmb.ru/www.nkmb.ru.cdx.xz
+  size: 54852
+  modified: '2013-12-24T12:12:33'
+  type: CDX
+  extension: .xz
+url: https://nkmb.ru
+created: '2013-12-24T12:12:35'

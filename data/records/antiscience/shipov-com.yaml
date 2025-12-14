@@ -1,0 +1,28 @@
+id: shipov-com
+name: shipov.com (2013-12-14)
+domain: shipov.com
+collection:
+  id: antiscience
+  slug: antiscience
+  name: Антинаука
+resources:
+- name: www.shipov.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/antiscience/www.shipov.com/www.shipov.com.log.xz
+  size: 836
+  modified: '2013-11-08T11:37:44'
+  type: wpull log
+  extension: .xz
+- name: www.shipov.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/antiscience/www.shipov.com/www.shipov.com.warc.xz
+  size: 135140
+  modified: '2013-12-14T07:40:06'
+  type: WARC
+  extension: .xz
+- name: www.shipov.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/antiscience/www.shipov.com/www.shipov.com.cdx.xz
+  size: 648
+  modified: '2013-11-08T11:37:44'
+  type: CDX
+  extension: .xz
+url: https://shipov.com
+created: '2013-12-14T07:40:06'

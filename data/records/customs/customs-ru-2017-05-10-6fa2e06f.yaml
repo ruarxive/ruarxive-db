@@ -1,0 +1,58 @@
+id: customs-ru-2017-05-10-6fa2e06f
+name: customs.ru (2017-05-10)
+domain: customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: customs.ru-2017-05-10-6fa2e06f-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/customs.ru-2017-05-10-6fa2e06f/customs.ru-2017-05-10-6fa2e06f-00001.warc.gz
+  size: 5385115842
+  modified: '2017-05-10T23:46:37'
+  type: WARC
+  extension: .warc.gz
+- name: customs.ru-2017-05-10-6fa2e06f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/customs.ru-2017-05-10-6fa2e06f/customs.ru-2017-05-10-6fa2e06f.cdx
+  size: 42444411
+  modified: '2017-05-12T08:04:40'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/customs.ru-2017-05-10-6fa2e06f/dupes_db/data.mdb
+  size: 34889728
+  modified: '2017-05-12T08:04:39'
+  type: ''
+  extension: .mdb
+- name: customs.ru-2017-05-10-6fa2e06f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/customs.ru-2017-05-10-6fa2e06f/customs.ru-2017-05-10-6fa2e06f-00000.warc.gz
+  size: 5393266949
+  modified: '2017-05-10T23:27:06'
+  type: WARC
+  extension: .warc.gz
+- name: customs.ru-2017-05-10-6fa2e06f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/customs.ru-2017-05-10-6fa2e06f/customs.ru-2017-05-10-6fa2e06f-meta.warc.gz
+  size: 3865163
+  modified: '2017-05-12T08:04:50'
+  type: WARC
+  extension: .warc.gz
+- name: customs.ru-2017-05-10-6fa2e06f-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/customs.ru-2017-05-10-6fa2e06f/customs.ru-2017-05-10-6fa2e06f-00002.warc.gz
+  size: 5368862629
+  modified: '2017-05-11T07:45:45'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/customs.ru-2017-05-10-6fa2e06f/wpull.db
+  size: 88004608
+  modified: '2017-05-12T08:04:41'
+  type: wpull database
+  extension: .db
+- name: customs.ru-2017-05-10-6fa2e06f-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/customs.ru-2017-05-10-6fa2e06f/customs.ru-2017-05-10-6fa2e06f-00003.warc.gz
+  size: 4261732680
+  modified: '2017-05-12T08:04:41'
+  type: WARC
+  extension: .warc.gz
+url: https://customs.ru
+created: '2017-05-10'

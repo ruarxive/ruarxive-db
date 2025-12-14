@@ -1,0 +1,28 @@
+id: mvs-gov-ua
+name: mvs.gov.ua (2014-02-22)
+domain: mvs.gov.ua
+collection:
+  id: ukraine
+  slug: ukraine
+  name: Украина
+resources:
+- name: mvs.gov.ua.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ukraine/mvs.gov.ua/mvs.gov.ua.log.xz
+  size: 3344316
+  modified: '2014-02-22T16:28:15'
+  type: wpull log
+  extension: .xz
+- name: mvs.gov.ua.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ukraine/mvs.gov.ua/mvs.gov.ua.warc.xz
+  size: 2206108652
+  modified: '2014-02-22T16:28:15'
+  type: WARC
+  extension: .xz
+- name: mvs.gov.ua.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ukraine/mvs.gov.ua/mvs.gov.ua.cdx.xz
+  size: 5808928
+  modified: '2014-02-22T16:28:15'
+  type: CDX
+  extension: .xz
+url: https://mvs.gov.ua
+created: '2014-02-22T16:28:15'

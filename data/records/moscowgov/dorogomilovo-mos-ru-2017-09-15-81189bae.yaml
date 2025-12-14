@@ -1,0 +1,40 @@
+id: dorogomilovo-mos-ru-2017-09-15-81189bae
+name: dorogomilovo.mos.ru (2017-09-15)
+domain: dorogomilovo.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: dorogomilovo.mos.ru-2017-09-15-81189bae.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dorogomilovo.mos.ru-2017-09-15-81189bae/dorogomilovo.mos.ru-2017-09-15-81189bae.cdx
+  size: 11925659
+  modified: '2017-09-17T19:37:45'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dorogomilovo.mos.ru-2017-09-15-81189bae/dupes_db/data.mdb
+  size: 7098368
+  modified: '2017-09-17T19:37:45'
+  type: ''
+  extension: .mdb
+- name: dorogomilovo.mos.ru-2017-09-15-81189bae-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dorogomilovo.mos.ru-2017-09-15-81189bae/dorogomilovo.mos.ru-2017-09-15-81189bae-meta.warc.gz
+  size: 1598230
+  modified: '2017-09-17T19:37:48'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dorogomilovo.mos.ru-2017-09-15-81189bae/wpull.db
+  size: 14895104
+  modified: '2017-09-17T19:37:45'
+  type: wpull database
+  extension: .db
+- name: dorogomilovo.mos.ru-2017-09-15-81189bae-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dorogomilovo.mos.ru-2017-09-15-81189bae/dorogomilovo.mos.ru-2017-09-15-81189bae-00000.warc.gz
+  size: 4950989939
+  modified: '2017-09-17T19:37:45'
+  type: WARC
+  extension: .warc.gz
+url: https://dorogomilovo.mos.ru
+created: '2017-09-15'

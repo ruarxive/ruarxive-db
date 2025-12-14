@@ -1,0 +1,40 @@
+id: safe-sputnik-ru-2018-02-05-f9d2ad24
+name: safe.sputnik.ru (2018-02-05)
+domain: safe.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/safe.sputnik.ru-2018-02-05-f9d2ad24/wpull.db
+  size: 10240
+  modified: '2018-02-05T17:07:25'
+  type: wpull database
+  extension: .db
+- name: safe.sputnik.ru-2018-02-05-f9d2ad24-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/safe.sputnik.ru-2018-02-05-f9d2ad24/safe.sputnik.ru-2018-02-05-f9d2ad24-meta.warc.gz
+  size: 2912
+  modified: '2018-02-05T17:07:25'
+  type: WARC
+  extension: .warc.gz
+- name: safe.sputnik.ru-2018-02-05-f9d2ad24.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/safe.sputnik.ru-2018-02-05-f9d2ad24/safe.sputnik.ru-2018-02-05-f9d2ad24.cdx
+  size: 939
+  modified: '2018-02-05T17:07:24'
+  type: CDX
+  extension: .cdx
+- name: safe.sputnik.ru-2018-02-05-f9d2ad24-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/safe.sputnik.ru-2018-02-05-f9d2ad24/safe.sputnik.ru-2018-02-05-f9d2ad24-00000.warc.gz
+  size: 7817
+  modified: '2018-02-05T17:07:24'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/safe.sputnik.ru-2018-02-05-f9d2ad24/dupes_db/data.mdb
+  size: 12288
+  modified: '2018-02-05T17:07:23'
+  type: ''
+  extension: .mdb
+url: https://safe.sputnik.ru
+created: '2018-02-05'

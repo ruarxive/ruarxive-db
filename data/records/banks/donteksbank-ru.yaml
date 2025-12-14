@@ -1,0 +1,28 @@
+id: donteksbank-ru
+name: donteksbank.ru (2013-12-19)
+domain: donteksbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.donteksbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.donteksbank.ru/www.donteksbank.ru.cdx.xz
+  size: 14480
+  modified: '2013-12-19T11:30:28'
+  type: CDX
+  extension: .xz
+- name: www.donteksbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.donteksbank.ru/www.donteksbank.ru.warc.xz
+  size: 510788
+  modified: '2013-12-19T11:30:28'
+  type: WARC
+  extension: .xz
+- name: www.donteksbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.donteksbank.ru/www.donteksbank.ru.log.xz
+  size: 6728
+  modified: '2013-12-19T11:30:29'
+  type: wpull log
+  extension: .xz
+url: https://donteksbank.ru
+created: '2013-12-19T11:30:28'

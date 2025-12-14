@@ -1,0 +1,16 @@
+id: mintrans-ru8080
+name: mintrans.ru (2013-08-13)
+domain: mintrans.ru
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: www.mintrans.ru_8080.7z
+  url: https://cdn.ruarxive.org/public/mirrors/www.mintrans.ru_8080.7z
+  size: 3602527285
+  modified: '2013-08-13T14:15:19'
+  type: httrack archive
+  extension: .7z
+url: https://mintrans.ru
+created: '2013-08-13T14:15:19'

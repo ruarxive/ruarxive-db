@@ -1,0 +1,28 @@
+id: 2014-tpu-ru
+name: 2014.tpu.ru (2014-02-03)
+domain: 2014.tpu.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: 2014.tpu.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/2014.tpu.ru/2014.tpu.ru.cdx.xz
+  size: 40740
+  modified: '2014-02-03T22:26:44'
+  type: CDX
+  extension: .xz
+- name: 2014.tpu.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/2014.tpu.ru/2014.tpu.ru.log.xz
+  size: 27684
+  modified: '2014-02-03T22:26:44'
+  type: wpull log
+  extension: .xz
+- name: 2014.tpu.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/2014.tpu.ru/2014.tpu.ru.warc.xz
+  size: 58572460
+  modified: '2014-02-03T22:26:44'
+  type: WARC
+  extension: .xz
+url: https://2014.tpu.ru
+created: '2014-02-03T22:26:44'

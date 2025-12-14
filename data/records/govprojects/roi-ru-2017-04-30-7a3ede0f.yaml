@@ -1,0 +1,40 @@
+id: roi-ru-2017-04-30-7a3ede0f
+name: roi.ru (2017-04-30)
+domain: roi.ru
+collection:
+  id: govprojects
+  slug: govprojects
+  name: Государственные проекты
+resources:
+- name: www.roi.ru-2017-04-30-7a3ede0f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.roi.ru-2017-04-30-7a3ede0f/www.roi.ru-2017-04-30-7a3ede0f-meta.warc.gz
+  size: 133433
+  modified: '2017-04-30T10:14:37'
+  type: WARC
+  extension: .warc.gz
+- name: www.roi.ru-2017-04-30-7a3ede0f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.roi.ru-2017-04-30-7a3ede0f/www.roi.ru-2017-04-30-7a3ede0f.cdx
+  size: 985265
+  modified: '2017-04-30T09:42:27'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.roi.ru-2017-04-30-7a3ede0f/dupes_db/data.mdb
+  size: 516096
+  modified: '2017-04-30T09:42:27'
+  type: ''
+  extension: .mdb
+- name: www.roi.ru-2017-04-30-7a3ede0f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.roi.ru-2017-04-30-7a3ede0f/www.roi.ru-2017-04-30-7a3ede0f-00000.warc.gz
+  size: 261734216
+  modified: '2017-04-30T09:58:32'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/www.roi.ru-2017-04-30-7a3ede0f/wpull.db
+  size: 852992
+  modified: '2017-04-30T10:14:37'
+  type: wpull database
+  extension: .db
+url: https://roi.ru
+created: '2017-04-30'

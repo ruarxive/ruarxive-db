@@ -1,0 +1,28 @@
+id: eurasian-bank-ru
+name: eurasian-bank.ru (2013-12-19)
+domain: eurasian-bank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.eurasian-bank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.eurasian-bank.ru/www.eurasian-bank.ru.cdx.xz
+  size: 27568
+  modified: '2013-12-19T12:28:56'
+  type: CDX
+  extension: .xz
+- name: www.eurasian-bank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.eurasian-bank.ru/www.eurasian-bank.ru.warc.xz
+  size: 86090220
+  modified: '2013-12-19T12:29:00'
+  type: WARC
+  extension: .xz
+- name: www.eurasian-bank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.eurasian-bank.ru/www.eurasian-bank.ru.log.xz
+  size: 32260
+  modified: '2013-12-19T12:28:56'
+  type: wpull log
+  extension: .xz
+url: https://eurasian-bank.ru
+created: '2013-12-19T12:29:00'

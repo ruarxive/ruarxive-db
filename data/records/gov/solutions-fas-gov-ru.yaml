@@ -1,0 +1,28 @@
+id: solutions-fas-gov-ru
+name: solutions.fas.gov.ru (2017-03-13)
+domain: solutions.fas.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: solutions.fas.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/solutions.fas.gov.ru/solutions.fas.gov.ru.cdx
+  size: 254495888
+  modified: '2017-03-13T09:12:02'
+  type: CDX
+  extension: .cdx
+- name: solutions.fas.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/solutions.fas.gov.ru/solutions.fas.gov.ru.log.xz
+  size: 32649772
+  modified: '2017-03-13T09:12:02'
+  type: wpull log
+  extension: .xz
+- name: solutions.fas.gov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/solutions.fas.gov.ru/solutions.fas.gov.ru.warc.gz
+  size: 52793678846
+  modified: '2017-03-13T09:12:03'
+  type: WARC
+  extension: .warc.gz
+url: https://solutions.fas.gov.ru
+created: '2017-03-13T09:12:03'

@@ -1,0 +1,93 @@
+id: torgi-gov-ru-2017-05-03-5811720c
+name: torgi.gov.ru (2017-05-03)
+domain: torgi.gov.ru
+collection:
+  id: govprojects
+  slug: govprojects
+  name: Государственные проекты
+resources:
+- name: torgi.gov.ru-2017-05-03-5811720c-00005.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/torgi.gov.ru-2017-05-03-5811720c-00005.warc.gz
+  size: 2611467862
+  modified: '2017-05-04T23:47:48'
+  type: WARC
+  extension: .warc.gz
+- name: torgi.gov.ru-2017-05-03-5811720c-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/torgi.gov.ru-2017-05-03-5811720c-00001.warc.gz
+  size: 5369358300
+  modified: '2017-05-03T15:07:46'
+  type: WARC
+  extension: .warc.gz
+- name: torgi.gov.ru-2017-05-03-5811720c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/torgi.gov.ru-2017-05-03-5811720c.cdx
+  size: 92434734
+  modified: '2017-05-04T23:47:48'
+  type: CDX
+  extension: .cdx
+- name: torgi.gov.ru-2017-05-03-5811720c-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/torgi.gov.ru-2017-05-03-5811720c-00004.warc.gz
+  size: 5368721214
+  modified: '2017-05-03T21:31:20'
+  type: WARC
+  extension: .warc.gz
+- name: torgi.gov.ru-2017-05-03-5811720c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/torgi.gov.ru-2017-05-03-5811720c-00000.warc.gz
+  size: 5369101020
+  modified: '2017-05-03T12:47:44'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/dupes_db/data.mdb
+  size: 18481152
+  modified: '2017-05-04T23:46:24'
+  type: ''
+  extension: .mdb
+- name: torgi.gov.ru-2017-05-03-5811720c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/torgi.gov.ru-2017-05-03-5811720c-meta.warc.gz
+  size: 7315738
+  modified: '2017-05-04T23:47:55'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/wpull.db
+  size: 178718720
+  modified: '2017-05-04T23:47:48'
+  type: wpull database
+  extension: .db
+- name: torgi.gov.ru-2017-05-03-5811720c-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/torgi.gov.ru-2017-05-03-5811720c-00002.warc.gz
+  size: 5368754087
+  modified: '2017-05-03T17:19:17'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-warcsesreq-0fc60m.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/temp/tmp-wpull-warcsesreq-0fc60m.tmp
+  size: 550
+  modified: '2017-05-04T23:46:25'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-xt1pu1.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/temp/tmp-wpull-warcsesrsp-xt1pu1.tmp
+  size: 0
+  modified: '2017-05-04T23:46:25'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-81tf90.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/temp/tmp-wpull-resp_cb-81tf90.tmp
+  size: 265
+  modified: '2017-05-04T23:47:48'
+  type: ''
+  extension: .tmp
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/stop
+  size: 0
+  modified: '2017-05-04T23:47:27'
+  type: ''
+- name: torgi.gov.ru-2017-05-03-5811720c-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/torgi.gov.ru-2017-05-03-5811720c/torgi.gov.ru-2017-05-03-5811720c-00003.warc.gz
+  size: 5368962363
+  modified: '2017-05-03T19:27:22'
+  type: WARC
+  extension: .warc.gz
+url: https://torgi.gov.ru
+created: '2017-05-03'

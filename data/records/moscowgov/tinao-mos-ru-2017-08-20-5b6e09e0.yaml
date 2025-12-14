@@ -1,0 +1,46 @@
+id: tinao-mos-ru-2017-08-20-5b6e09e0
+name: tinao.mos.ru (2017-08-20)
+domain: tinao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tinao.mos.ru-2017-08-20-5b6e09e0/dupes_db/data.mdb
+  size: 11538432
+  modified: '2017-08-23T07:26:57'
+  type: ''
+  extension: .mdb
+- name: tinao.mos.ru-2017-08-20-5b6e09e0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tinao.mos.ru-2017-08-20-5b6e09e0/tinao.mos.ru-2017-08-20-5b6e09e0-00000.warc.gz
+  size: 5379413240
+  modified: '2017-08-22T17:35:32'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tinao.mos.ru-2017-08-20-5b6e09e0/wpull.db
+  size: 45287424
+  modified: '2017-08-23T07:44:07'
+  type: wpull database
+  extension: .db
+- name: tinao.mos.ru-2017-08-20-5b6e09e0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tinao.mos.ru-2017-08-20-5b6e09e0/tinao.mos.ru-2017-08-20-5b6e09e0.cdx
+  size: 23002414
+  modified: '2017-08-23T07:27:25'
+  type: CDX
+  extension: .cdx
+- name: tinao.mos.ru-2017-08-20-5b6e09e0-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tinao.mos.ru-2017-08-20-5b6e09e0/tinao.mos.ru-2017-08-20-5b6e09e0-00001.warc.gz
+  size: 5365737549
+  modified: '2017-08-23T07:29:06'
+  type: WARC
+  extension: .warc.gz
+- name: tinao.mos.ru-2017-08-20-5b6e09e0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tinao.mos.ru-2017-08-20-5b6e09e0/tinao.mos.ru-2017-08-20-5b6e09e0-meta.warc.gz
+  size: 2894921
+  modified: '2017-08-23T07:44:09'
+  type: WARC
+  extension: .warc.gz
+url: https://tinao.mos.ru
+created: '2017-08-20'

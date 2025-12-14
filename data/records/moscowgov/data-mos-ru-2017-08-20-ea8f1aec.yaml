@@ -1,0 +1,69 @@
+id: data-mos-ru-2017-08-20-ea8f1aec
+name: data.mos.ru (2017-08-20)
+domain: data.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mos.ru-2017-08-20-ea8f1aec.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/data.mos.ru-2017-08-20-ea8f1aec.cdx
+  size: 42763863
+  modified: '2017-08-26T03:05:58'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/dupes_db/data.mdb
+  size: 27742208
+  modified: '2017-08-26T03:05:58'
+  type: ''
+  extension: .mdb
+- name: data.mos.ru-2017-08-20-ea8f1aec-meta.warc.gz-wpullinc
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/data.mos.ru-2017-08-20-ea8f1aec-meta.warc.gz-wpullinc
+  size: 0
+  modified: '2017-08-26T03:05:59'
+  type: ''
+  extension: .gz-wpullinc
+- name: data.mos.ru-2017-08-20-ea8f1aec-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/data.mos.ru-2017-08-20-ea8f1aec-meta.warc.gz
+  size: 0
+  modified: '2017-08-26T03:05:59'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-qtl10y.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/temp/tmp-wpull-resp_cb-qtl10y.tmp
+  size: 207328
+  modified: '2017-08-26T03:05:58'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-7yjsom.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/temp/tmp-wpull-warc-7yjsom.log.gz
+  size: 7605691
+  modified: '2017-08-26T03:05:59'
+  type: wpull log
+  extension: .gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/stop
+  size: 0
+  modified: '2017-08-26T06:49:35'
+  type: ''
+- name: data.mos.ru-2017-08-20-ea8f1aec-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/data.mos.ru-2017-08-20-ea8f1aec-00000.warc.gz
+  size: 5368749579
+  modified: '2017-08-25T03:41:08'
+  type: WARC
+  extension: .warc.gz
+- name: data.mos.ru-2017-08-20-ea8f1aec-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/data.mos.ru-2017-08-20-ea8f1aec-00001.warc.gz
+  size: 1265561022
+  modified: '2017-08-26T03:05:58'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/data.mos.ru-2017-08-20-ea8f1aec/wpull.db
+  size: 90731520
+  modified: '2017-08-26T03:05:58'
+  type: wpull database
+  extension: .db
+url: https://data.mos.ru
+created: '2017-08-20'

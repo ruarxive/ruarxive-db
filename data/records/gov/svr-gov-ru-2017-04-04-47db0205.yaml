@@ -1,0 +1,40 @@
+id: svr-gov-ru-2017-04-04-47db0205
+name: svr.gov.ru (2017-04-04)
+domain: svr.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: svr.gov.ru-2017-04-04-47db0205-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/svr.gov.ru-2017-04-04-47db0205/svr.gov.ru-2017-04-04-47db0205-meta.warc.gz
+  size: 93266
+  modified: '2017-04-04T21:33:14'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/svr.gov.ru-2017-04-04-47db0205/dupes_db/data.mdb
+  size: 430080
+  modified: '2017-04-04T21:33:14'
+  type: ''
+  extension: .mdb
+- name: svr.gov.ru-2017-04-04-47db0205.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/svr.gov.ru-2017-04-04-47db0205/svr.gov.ru-2017-04-04-47db0205.cdx
+  size: 788894
+  modified: '2017-04-04T21:33:14'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/svr.gov.ru-2017-04-04-47db0205/wpull.db
+  size: 691200
+  modified: '2017-04-04T21:33:14'
+  type: wpull database
+  extension: .db
+- name: svr.gov.ru-2017-04-04-47db0205-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/svr.gov.ru-2017-04-04-47db0205/svr.gov.ru-2017-04-04-47db0205-00000.warc.gz
+  size: 2115664824
+  modified: '2017-04-04T21:33:14'
+  type: WARC
+  extension: .warc.gz
+url: https://svr.gov.ru
+created: '2017-04-04'

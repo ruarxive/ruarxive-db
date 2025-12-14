@@ -1,0 +1,40 @@
+id: dgkhb-vao-mos-ru-2017-08-20-f039af08
+name: dgkhb.vao.mos.ru (2017-08-20)
+domain: dgkhb.vao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: dgkhb.vao.mos.ru-2017-08-20-f039af08.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgkhb.vao.mos.ru-2017-08-20-f039af08/dgkhb.vao.mos.ru-2017-08-20-f039af08.cdx
+  size: 23
+  modified: '2017-08-20T16:20:05'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgkhb.vao.mos.ru-2017-08-20-f039af08/wpull.db
+  size: 10240
+  modified: '2017-08-20T16:20:08'
+  type: wpull database
+  extension: .db
+- name: dgkhb.vao.mos.ru-2017-08-20-f039af08-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgkhb.vao.mos.ru-2017-08-20-f039af08/dgkhb.vao.mos.ru-2017-08-20-f039af08-00000.warc.gz
+  size: 2241
+  modified: '2017-08-20T16:20:05'
+  type: WARC
+  extension: .warc.gz
+- name: dgkhb.vao.mos.ru-2017-08-20-f039af08-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgkhb.vao.mos.ru-2017-08-20-f039af08/dgkhb.vao.mos.ru-2017-08-20-f039af08-meta.warc.gz
+  size: 2924
+  modified: '2017-08-20T16:20:09'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgkhb.vao.mos.ru-2017-08-20-f039af08/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-08-20T16:20:05'
+  type: ''
+  extension: .mdb
+url: https://dgkhb.vao.mos.ru
+created: '2017-08-20'

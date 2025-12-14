@@ -1,0 +1,51 @@
+id: 62-rospotrebnadzor-ru-2017-05-11-014d0206
+name: 62.rospotrebnadzor.ru (2017-05-11)
+domain: 62.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/62.rospotrebnadzor.ru-2017-05-11-014d0206/stop
+  size: 0
+  modified: '2017-05-13T04:55:36'
+  type: ''
+- name: tmp-wpull-resp_cb-aw_rx8.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/62.rospotrebnadzor.ru-2017-05-11-014d0206/temp/tmp-wpull-resp_cb-aw_rx8.tmp
+  size: 87398
+  modified: '2017-05-13T04:55:35'
+  type: ''
+  extension: .tmp
+- name: 62.rospotrebnadzor.ru-2017-05-11-014d0206.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/62.rospotrebnadzor.ru-2017-05-11-014d0206/62.rospotrebnadzor.ru-2017-05-11-014d0206.cdx
+  size: 104476326
+  modified: '2017-05-13T04:55:35'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/62.rospotrebnadzor.ru-2017-05-11-014d0206/wpull.db
+  size: 287531008
+  modified: '2017-05-13T04:55:37'
+  type: wpull database
+  extension: .db
+- name: 62.rospotrebnadzor.ru-2017-05-11-014d0206-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/62.rospotrebnadzor.ru-2017-05-11-014d0206/62.rospotrebnadzor.ru-2017-05-11-014d0206-00000.warc.gz
+  size: 3598552152
+  modified: '2017-05-13T04:55:35'
+  type: WARC
+  extension: .warc.gz
+- name: 62.rospotrebnadzor.ru-2017-05-11-014d0206-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/62.rospotrebnadzor.ru-2017-05-11-014d0206/62.rospotrebnadzor.ru-2017-05-11-014d0206-meta.warc.gz
+  size: 6164639
+  modified: '2017-05-13T04:56:32'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/62.rospotrebnadzor.ru-2017-05-11-014d0206/dupes_db/data.mdb
+  size: 115740672
+  modified: '2017-05-13T04:55:35'
+  type: ''
+  extension: .mdb
+url: https://62.rospotrebnadzor.ru
+created: '2017-05-11'

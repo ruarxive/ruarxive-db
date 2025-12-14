@@ -1,0 +1,15 @@
+id: llil-space
+name: Самоорганизация Олега Устинова
+domain: llil.space
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: официальный сайт организации
+resource_type_id: official-site
+collection:
+  id: selforganised_garage
+  name: Самоиздат
+  slug: selforganised_garage
+source:
+  id: garage-museum
+  name: Garage Museum

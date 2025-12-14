@@ -1,0 +1,34 @@
+id: priovtb-com
+name: priovtb.com (2014-05-09)
+domain: priovtb.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.priovtb.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.priovtb.com/www.priovtb.com.warc.xz
+  size: 67236696
+  modified: '2014-05-09T18:41:06'
+  type: WARC
+  extension: .xz
+- name: www.priovtb.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.priovtb.com/www.priovtb.com.7z
+  size: 70488379
+  modified: '2014-08-19T07:27:01'
+  type: ''
+  extension: .7z
+- name: www.priovtb.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.priovtb.com/www.priovtb.com.cdx.xz
+  size: 122940
+  modified: '2014-05-09T18:41:06'
+  type: CDX
+  extension: .xz
+- name: www.priovtb.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.priovtb.com/www.priovtb.com.log.xz
+  size: 68724
+  modified: '2014-05-09T18:41:06'
+  type: wpull log
+  extension: .xz
+url: https://priovtb.com
+created: '2014-05-09T18:41:06'

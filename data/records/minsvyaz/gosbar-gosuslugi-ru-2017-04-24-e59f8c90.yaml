@@ -1,0 +1,40 @@
+id: gosbar-gosuslugi-ru-2017-04-24-e59f8c90
+name: gosbar.gosuslugi.ru (2017-04-24)
+domain: gosbar.gosuslugi.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/gosbar.gosuslugi.ru-2017-04-24-e59f8c90/wpull.db
+  size: 217088
+  modified: '2017-04-24T22:12:53'
+  type: wpull database
+  extension: .db
+- name: gosbar.gosuslugi.ru-2017-04-24-e59f8c90-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/gosbar.gosuslugi.ru-2017-04-24-e59f8c90/gosbar.gosuslugi.ru-2017-04-24-e59f8c90-00000.warc.gz
+  size: 7380045
+  modified: '2017-04-24T22:12:53'
+  type: WARC
+  extension: .warc.gz
+- name: gosbar.gosuslugi.ru-2017-04-24-e59f8c90.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/gosbar.gosuslugi.ru-2017-04-24-e59f8c90/gosbar.gosuslugi.ru-2017-04-24-e59f8c90.cdx
+  size: 223368
+  modified: '2017-04-24T22:12:53'
+  type: CDX
+  extension: .cdx
+- name: gosbar.gosuslugi.ru-2017-04-24-e59f8c90-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/gosbar.gosuslugi.ru-2017-04-24-e59f8c90/gosbar.gosuslugi.ru-2017-04-24-e59f8c90-meta.warc.gz
+  size: 21087
+  modified: '2017-04-24T22:12:53'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/gosbar.gosuslugi.ru-2017-04-24-e59f8c90/dupes_db/data.mdb
+  size: 159744
+  modified: '2017-04-24T22:12:53'
+  type: ''
+  extension: .mdb
+url: https://gosbar.gosuslugi.ru
+created: '2017-04-24'

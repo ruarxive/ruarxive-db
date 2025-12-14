@@ -1,0 +1,40 @@
+id: smeforum-ru-2017-05-15-09a6381e
+name: smeforum.ru (2017-05-15)
+domain: smeforum.ru
+collection:
+  id: corpmsp
+  slug: corpmsp
+  name: Корпорация "МСП"
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/smeforum.ru-2017-05-15-09a6381e/wpull.db
+  size: 10240
+  modified: '2017-05-15T09:11:50'
+  type: wpull database
+  extension: .db
+- name: smeforum.ru-2017-05-15-09a6381e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/smeforum.ru-2017-05-15-09a6381e/smeforum.ru-2017-05-15-09a6381e-00000.warc.gz
+  size: 28598
+  modified: '2017-05-15T09:11:50'
+  type: WARC
+  extension: .warc.gz
+- name: smeforum.ru-2017-05-15-09a6381e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/smeforum.ru-2017-05-15-09a6381e/smeforum.ru-2017-05-15-09a6381e.cdx
+  size: 563
+  modified: '2017-05-15T09:11:50'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/smeforum.ru-2017-05-15-09a6381e/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-05-15T09:11:49'
+  type: ''
+  extension: .mdb
+- name: smeforum.ru-2017-05-15-09a6381e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/smeforum.ru-2017-05-15-09a6381e/smeforum.ru-2017-05-15-09a6381e-meta.warc.gz
+  size: 2880
+  modified: '2017-05-15T09:11:51'
+  type: WARC
+  extension: .warc.gz
+url: https://smeforum.ru
+created: '2017-05-15'

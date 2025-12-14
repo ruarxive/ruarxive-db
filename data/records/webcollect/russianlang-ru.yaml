@@ -1,0 +1,16 @@
+id: russianlang-ru
+name: russianlang.ru.7z (2012-10-22)
+domain: russianlang.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: russianlang.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/russianlang.ru.7z
+  size: 2976383
+  modified: '2012-10-22T10:08:46'
+  type: httrack archive
+  extension: .7z
+url: https://russianlang.ru.7z
+created: '2012-10-22T10:08:46'

@@ -1,0 +1,34 @@
+id: kremlin-ru
+name: kremlin.ru (2015-04-08)
+domain: kremlin.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: kremlin.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/kremlin.ru/kremlin.ru.warc.xz
+  size: 20642404608
+  modified: '2015-04-08T09:30:27'
+  type: WARC
+  extension: .xz
+- name: kremlin.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/kremlin.ru/kremlin.ru.log.xz
+  size: 2213148
+  modified: '2015-04-08T09:30:26'
+  type: wpull log
+  extension: .xz
+- name: kremlin.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/kremlin.ru/kremlin.ru.cdx
+  size: 10089639
+  modified: '2015-04-08T09:30:26'
+  type: CDX
+  extension: .cdx
+- name: kremlin.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/kremlin.ru/kremlin.ru.7z
+  size: 20667984095
+  modified: '2015-04-12T20:42:08'
+  type: ''
+  extension: .7z
+url: https://kremlin.ru
+created: '2015-04-08T09:30:27'

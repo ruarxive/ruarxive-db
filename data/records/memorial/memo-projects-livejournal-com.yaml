@@ -1,0 +1,34 @@
+id: memo-projects-livejournal-com
+name: memo-projects.livejournal.com (2014-08-04)
+domain: memo-projects.livejournal.com
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: memo-projects.livejournal.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memo-projects.livejournal.com/memo-projects.livejournal.com.cdx.xz
+  size: 2433220
+  modified: '2014-08-04T08:59:08'
+  type: CDX
+  extension: .xz
+- name: memo-projects.livejournal.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memo-projects.livejournal.com/memo-projects.livejournal.com.7z
+  size: 35076945
+  modified: '2014-08-10T13:52:48'
+  type: ''
+  extension: .7z
+- name: memo-projects.livejournal.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memo-projects.livejournal.com/memo-projects.livejournal.com.warc.xz
+  size: 45261288
+  modified: '2014-08-04T08:59:08'
+  type: WARC
+  extension: .xz
+- name: memo-projects.livejournal.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memo-projects.livejournal.com/memo-projects.livejournal.com.log.xz
+  size: 1426692
+  modified: '2014-08-04T08:59:08'
+  type: wpull log
+  extension: .xz
+url: https://memo-projects.livejournal.com
+created: '2014-08-04T08:59:08'

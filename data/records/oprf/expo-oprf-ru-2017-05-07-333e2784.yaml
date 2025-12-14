@@ -1,0 +1,51 @@
+id: expo-oprf-ru-2017-05-07-333e2784
+name: expo.oprf.ru (2017-05-07)
+domain: expo.oprf.ru
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/expo.oprf.ru-2017-05-07-333e2784/wpull.db
+  size: 196208640
+  modified: '2017-05-09T19:13:16'
+  type: wpull database
+  extension: .db
+- name: expo.oprf.ru-2017-05-07-333e2784-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/expo.oprf.ru-2017-05-07-333e2784/expo.oprf.ru-2017-05-07-333e2784-00000.warc.gz
+  size: 2012933061
+  modified: '2017-05-09T19:13:16'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-2ziwt0.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/expo.oprf.ru-2017-05-07-333e2784/temp/tmp-wpull-resp_cb-2ziwt0.tmp
+  size: 1270
+  modified: '2017-05-09T19:13:16'
+  type: ''
+  extension: .tmp
+- name: expo.oprf.ru-2017-05-07-333e2784-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/expo.oprf.ru-2017-05-07-333e2784/expo.oprf.ru-2017-05-07-333e2784-meta.warc.gz
+  size: 16356492
+  modified: '2017-05-09T19:13:32'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/expo.oprf.ru-2017-05-07-333e2784/stop
+  size: 0
+  modified: '2017-05-09T19:13:15'
+  type: ''
+- name: expo.oprf.ru-2017-05-07-333e2784.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/expo.oprf.ru-2017-05-07-333e2784/expo.oprf.ru-2017-05-07-333e2784.cdx
+  size: 225448453
+  modified: '2017-05-09T19:13:16'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/expo.oprf.ru-2017-05-07-333e2784/dupes_db/data.mdb
+  size: 112427008
+  modified: '2017-05-09T19:13:16'
+  type: ''
+  extension: .mdb
+url: https://expo.oprf.ru
+created: '2017-05-07'

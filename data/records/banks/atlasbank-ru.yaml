@@ -1,0 +1,28 @@
+id: atlasbank-ru
+name: atlasbank.ru (2014-05-05)
+domain: atlasbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.atlasbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.atlasbank.ru/www.atlasbank.ru.cdx.xz
+  size: 24800
+  modified: '2014-05-05T10:46:31'
+  type: CDX
+  extension: .xz
+- name: www.atlasbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.atlasbank.ru/www.atlasbank.ru.warc.xz
+  size: 49237848
+  modified: '2014-05-05T10:46:31'
+  type: WARC
+  extension: .xz
+- name: www.atlasbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.atlasbank.ru/www.atlasbank.ru.log.xz
+  size: 19468
+  modified: '2014-05-05T10:46:31'
+  type: wpull log
+  extension: .xz
+url: https://atlasbank.ru
+created: '2014-05-05T10:46:31'

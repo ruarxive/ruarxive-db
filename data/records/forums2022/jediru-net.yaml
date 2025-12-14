@@ -1,0 +1,30 @@
+id: jediru-net
+name: Форум Костромских джедаев
+url: https://jediru.net/
+domain: jediru.net
+created: '2022-03-16T19:30:18.000Z'
+date: '2022-03-17T08:27:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Анонс закрытия сайта с 16 марта 2022 г.
+reason_id: site-closure-1
+reason_url: https://kostroma.news/news/v-kostrome-zakryli-forum-dzhedaev/
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: forums2022
+  name: Интернет Форумы в 2022 г
+  slug: forums2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: jediru.net.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/forums2022/jediru.net/jediru.net.warc.gz

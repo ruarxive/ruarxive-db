@@ -1,0 +1,40 @@
+id: budget-council-gov-ru-2017-05-09-a961b1a0
+name: budget.council.gov.ru (2017-05-09)
+domain: budget.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: budget.council.gov.ru-2017-05-09-a961b1a0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/budget.council.gov.ru-2017-05-09-a961b1a0/budget.council.gov.ru-2017-05-09-a961b1a0-meta.warc.gz
+  size: 14321
+  modified: '2017-05-09T20:23:07'
+  type: WARC
+  extension: .warc.gz
+- name: budget.council.gov.ru-2017-05-09-a961b1a0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/budget.council.gov.ru-2017-05-09-a961b1a0/budget.council.gov.ru-2017-05-09-a961b1a0-00000.warc.gz
+  size: 4011721
+  modified: '2017-05-09T20:23:07'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/budget.council.gov.ru-2017-05-09-a961b1a0/dupes_db/data.mdb
+  size: 81920
+  modified: '2017-05-09T20:23:07'
+  type: ''
+  extension: .mdb
+- name: budget.council.gov.ru-2017-05-09-a961b1a0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/budget.council.gov.ru-2017-05-09-a961b1a0/budget.council.gov.ru-2017-05-09-a961b1a0.cdx
+  size: 67660
+  modified: '2017-05-09T20:23:07'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/budget.council.gov.ru-2017-05-09-a961b1a0/wpull.db
+  size: 83968
+  modified: '2017-05-09T20:23:07'
+  type: wpull database
+  extension: .db
+url: https://budget.council.gov.ru
+created: '2017-05-09'

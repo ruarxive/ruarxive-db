@@ -1,0 +1,40 @@
+id: olympiads-mccme-ru-2017-06-28-3ca6c7b0
+name: olympiads.mccme.ru (2017-06-28)
+domain: olympiads.mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: olympiads.mccme.ru-2017-06-28-3ca6c7b0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/olympiads.mccme.ru-2017-06-28-3ca6c7b0/olympiads.mccme.ru-2017-06-28-3ca6c7b0.cdx
+  size: 5979753
+  modified: '2017-06-29T04:52:06'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/olympiads.mccme.ru-2017-06-28-3ca6c7b0/dupes_db/data.mdb
+  size: 3174400
+  modified: '2017-06-29T04:52:04'
+  type: ''
+  extension: .mdb
+- name: olympiads.mccme.ru-2017-06-28-3ca6c7b0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/olympiads.mccme.ru-2017-06-28-3ca6c7b0/olympiads.mccme.ru-2017-06-28-3ca6c7b0-meta.warc.gz
+  size: 554493
+  modified: '2017-06-29T04:52:07'
+  type: WARC
+  extension: .warc.gz
+- name: olympiads.mccme.ru-2017-06-28-3ca6c7b0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/olympiads.mccme.ru-2017-06-28-3ca6c7b0/olympiads.mccme.ru-2017-06-28-3ca6c7b0-00000.warc.gz
+  size: 3683450096
+  modified: '2017-06-29T04:52:06'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/olympiads.mccme.ru-2017-06-28-3ca6c7b0/wpull.db
+  size: 6059008
+  modified: '2017-06-29T04:52:07'
+  type: wpull database
+  extension: .db
+url: https://olympiads.mccme.ru
+created: '2017-06-28'

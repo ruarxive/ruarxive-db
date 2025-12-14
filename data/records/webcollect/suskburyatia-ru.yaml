@@ -1,0 +1,16 @@
+id: suskburyatia-ru
+name: suskburyatia.ru.7z (2013-09-18)
+domain: suskburyatia.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: suskburyatia.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/suskburyatia.ru.7z
+  size: 53425914
+  modified: '2013-09-18T22:23:49'
+  type: httrack archive
+  extension: .7z
+url: https://suskburyatia.ru.7z
+created: '2013-09-18T22:23:49'

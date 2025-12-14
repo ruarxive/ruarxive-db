@@ -1,0 +1,40 @@
+id: sakhalinprokur-ru-2017-04-03-56d1f416
+name: sakhalinprokur.ru (2017-04-03)
+domain: sakhalinprokur.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.sakhalinprokur.ru-2017-04-03-56d1f416-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sakhalinprokur.ru-2017-04-03-56d1f416/www.sakhalinprokur.ru-2017-04-03-56d1f416-meta.warc.gz
+  size: 887278
+  modified: '2017-04-03T10:35:29'
+  type: WARC
+  extension: .warc.gz
+- name: www.sakhalinprokur.ru-2017-04-03-56d1f416.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sakhalinprokur.ru-2017-04-03-56d1f416/www.sakhalinprokur.ru-2017-04-03-56d1f416.cdx
+  size: 8525789
+  modified: '2017-04-03T10:35:28'
+  type: CDX
+  extension: .cdx
+- name: www.sakhalinprokur.ru-2017-04-03-56d1f416-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sakhalinprokur.ru-2017-04-03-56d1f416/www.sakhalinprokur.ru-2017-04-03-56d1f416-00000.warc.gz
+  size: 308559835
+  modified: '2017-04-03T10:35:28'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sakhalinprokur.ru-2017-04-03-56d1f416/wpull.db
+  size: 7915520
+  modified: '2017-04-03T10:35:29'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sakhalinprokur.ru-2017-04-03-56d1f416/dupes_db/data.mdb
+  size: 3276800
+  modified: '2017-04-03T10:35:28'
+  type: ''
+  extension: .mdb
+url: https://sakhalinprokur.ru
+created: '2017-04-03'

@@ -1,0 +1,28 @@
+id: noto-ruz-net
+name: noto.ruz.net (2013-12-23)
+domain: noto.ruz.net
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: noto.ruz.net.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/noto.ruz.net/noto.ruz.net.warc.xz
+  size: 1917532
+  modified: '2013-12-23T05:47:40'
+  type: WARC
+  extension: .xz
+- name: noto.ruz.net.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/noto.ruz.net/noto.ruz.net.cdx.xz
+  size: 27536
+  modified: '2013-12-23T05:47:40'
+  type: CDX
+  extension: .xz
+- name: noto.ruz.net.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/noto.ruz.net/noto.ruz.net.log.xz
+  size: 14944
+  modified: '2013-12-23T05:47:39'
+  type: wpull log
+  extension: .xz
+url: https://noto.ruz.net
+created: '2013-12-23T05:47:40'

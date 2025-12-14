@@ -1,0 +1,28 @@
+id: open-gov-ru
+name: open.gov.ru (2017-02-19)
+domain: open.gov.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: open.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/open.gov.ru/open.gov.ru.cdx
+  size: 29333928
+  modified: '2017-02-19T04:03:20'
+  type: CDX
+  extension: .cdx
+- name: open.gov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/open.gov.ru/open.gov.ru.warc.gz
+  size: 8751458782
+  modified: '2017-02-19T04:03:29'
+  type: WARC
+  extension: .warc.gz
+- name: open.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/open.gov.ru/open.gov.ru.log
+  size: 67169197
+  modified: '2017-02-19T04:03:29'
+  type: ''
+  extension: .log
+url: https://open.gov.ru
+created: '2017-02-19T04:03:29'

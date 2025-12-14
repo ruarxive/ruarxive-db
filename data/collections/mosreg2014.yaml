@@ -1,0 +1,359 @@
+id: mosreg2014
+slug: mosreg2014
+name: Региональное правительство Москвы 2014
+num_records: 70
+records:
+- id: old-gatn-mosreg-ru-7z
+  name: old.gatn.mosreg.ru.7z (2017-05-06)
+  url: https://old.gatn.mosreg.ru.7z
+  created: '2017-05-06T10:03:42'
+  domain: old.gatn.mosreg.ru.7z
+- id: old-gatn-mosreg-ru-warc-gz
+  name: old.gatn.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.gatn.mosreg.ru.warc.gz
+  created: '2017-05-06T10:03:49'
+  domain: old.gatn.mosreg.ru.warc.gz
+- id: old-gau-mosreg-ru-7z
+  name: old.gau.mosreg.ru.7z (2017-05-06)
+  url: https://old.gau.mosreg.ru.7z
+  created: '2017-05-06T10:04:05'
+  domain: old.gau.mosreg.ru.7z
+- id: old-gau-mosreg-ru-warc-gz
+  name: old.gau.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.gau.mosreg.ru.warc.gz
+  created: '2017-05-06T10:04:18'
+  domain: old.gau.mosreg.ru.warc.gz
+- id: old-gku-mosreg-ru-7z
+  name: old.gku.mosreg.ru.7z (2017-05-06)
+  url: https://old.gku.mosreg.ru.7z
+  created: '2017-05-06T10:04:19'
+  domain: old.gku.mosreg.ru.7z
+- id: old-gku-mosreg-ru-warc-gz
+  name: old.gku.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.gku.mosreg.ru.warc.gz
+  created: '2017-05-06T10:04:21'
+  domain: old.gku.mosreg.ru.warc.gz
+- id: old-guag-mosreg-ru-7z
+  name: old.guag.mosreg.ru.7z (2017-05-06)
+  url: https://old.guag.mosreg.ru.7z
+  created: '2017-05-06T10:05:31'
+  domain: old.guag.mosreg.ru.7z
+- id: old-guag-mosreg-ru-warc-gz
+  name: old.guag.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.guag.mosreg.ru.warc.gz
+  created: '2017-05-06T10:06:52'
+  domain: old.guag.mosreg.ru.warc.gz
+- id: old-gudh-mosreg-ru-7z
+  name: old.gudh.mosreg.ru.7z (2017-05-06)
+  url: https://old.gudh.mosreg.ru.7z
+  created: '2017-05-06T10:06:56'
+  domain: old.gudh.mosreg.ru.7z
+- id: old-gudh-mosreg-ru-warc-gz
+  name: old.gudh.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.gudh.mosreg.ru.warc.gz
+  created: '2017-05-06T10:07:03'
+  domain: old.gudh.mosreg.ru.warc.gz
+- id: old-guip-mosreg-ru-7z
+  name: old.guip.mosreg.ru.7z (2017-05-06)
+  url: https://old.guip.mosreg.ru.7z
+  created: '2017-05-06T10:07:04'
+  domain: old.guip.mosreg.ru.7z
+- id: old-guip-mosreg-ru-warc-gz
+  name: old.guip.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.guip.mosreg.ru.warc.gz
+  created: '2017-05-06T10:07:11'
+  domain: old.guip.mosreg.ru.warc.gz
+- id: old-gumovfo-mosreg-ru-7z
+  name: old.gumovfo.mosreg.ru.7z (2017-05-06)
+  url: https://old.gumovfo.mosreg.ru.7z
+  created: '2017-05-06T10:07:11'
+  domain: old.gumovfo.mosreg.ru.7z
+- id: old-gumovfo-mosreg-ru-warc-gz
+  name: old.gumovfo.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.gumovfo.mosreg.ru.warc.gz
+  created: '2017-05-06T10:07:11'
+  domain: old.gumovfo.mosreg.ru.warc.gz
+- id: old-gurb-mosreg-ru-7z
+  name: old.gurb.mosreg.ru.7z (2017-05-06)
+  url: https://old.gurb.mosreg.ru.7z
+  created: '2017-05-06T10:07:13'
+  domain: old.gurb.mosreg.ru.7z
+- id: old-gurb-mosreg-ru-warc-gz
+  name: old.gurb.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.gurb.mosreg.ru.warc.gz
+  created: '2017-05-06T10:07:16'
+  domain: old.gurb.mosreg.ru.warc.gz
+- id: old-gusn-mosreg-ru-7z
+  name: old.gusn.mosreg.ru.7z (2017-05-06)
+  url: https://old.gusn.mosreg.ru.7z
+  created: '2017-05-06T10:07:18'
+  domain: old.gusn.mosreg.ru.7z
+- id: old-gusn-mosreg-ru-warc-gz
+  name: old.gusn.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.gusn.mosreg.ru.warc.gz
+  created: '2017-05-06T10:07:23'
+  domain: old.gusn.mosreg.ru.warc.gz
+- id: old-guv-mosreg-ru-7z
+  name: old.guv.mosreg.ru.7z (2017-05-06)
+  url: https://old.guv.mosreg.ru.7z
+  created: '2017-05-06T10:07:26'
+  domain: old.guv.mosreg.ru.7z
+- id: old-guv-mosreg-ru-warc-gz
+  name: old.guv.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.guv.mosreg.ru.warc.gz
+  created: '2017-05-06T10:07:31'
+  domain: old.guv.mosreg.ru.warc.gz
+- id: old-gzhi-mosreg-ru-7z
+  name: old.gzhi.mosreg.ru.7z (2017-05-06)
+  url: https://old.gzhi.mosreg.ru.7z
+  created: '2017-05-06T10:07:32'
+  domain: old.gzhi.mosreg.ru.7z
+- id: old-gzhi-mosreg-ru-warc-gz
+  name: old.gzhi.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.gzhi.mosreg.ru.warc.gz
+  created: '2017-05-06T10:07:36'
+  domain: old.gzhi.mosreg.ru.warc.gz
+- id: old-kds-mosreg-ru-7z
+  name: old.kds.mosreg.ru.7z (2017-05-06)
+  url: https://old.kds.mosreg.ru.7z
+  created: '2017-05-06T10:07:58'
+  domain: old.kds.mosreg.ru.7z
+- id: old-kds-mosreg-ru-warc-gz
+  name: old.kds.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.kds.mosreg.ru.warc.gz
+  created: '2017-05-06T10:07:59'
+  domain: old.kds.mosreg.ru.warc.gz
+- id: old-klh-mosreg-ru-7z
+  name: old.klh.mosreg.ru.7z (2017-05-06)
+  url: https://old.klh.mosreg.ru.7z
+  created: '2017-05-06T10:08:26'
+  domain: old.klh.mosreg.ru.7z
+- id: old-klh-mosreg-ru-warc-gz
+  name: old.klh.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.klh.mosreg.ru.warc.gz
+  created: '2017-05-06T10:09:00'
+  domain: old.klh.mosreg.ru.warc.gz
+- id: old-ktc-mosreg-ru-7z
+  name: old.ktc.mosreg.ru.7z (2017-05-06)
+  url: https://old.ktc.mosreg.ru.7z
+  created: '2017-05-06T10:09:16'
+  domain: old.ktc.mosreg.ru.7z
+- id: old-ktc-mosreg-ru-warc-gz
+  name: old.ktc.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.ktc.mosreg.ru.warc.gz
+  created: '2017-05-06T10:09:36'
+  domain: old.ktc.mosreg.ru.warc.gz
+- id: old-ktzn-mosreg-ru-7z
+  name: old.ktzn.mosreg.ru.7z (2017-05-06)
+  url: https://old.ktzn.mosreg.ru.7z
+  created: '2017-05-06T10:09:39'
+  domain: old.ktzn.mosreg.ru.7z
+- id: old-ktzn-mosreg-ru-warc-gz
+  name: old.ktzn.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.ktzn.mosreg.ru.warc.gz
+  created: '2017-05-06T10:09:50'
+  domain: old.ktzn.mosreg.ru.warc.gz
+- id: old-me-mosreg-ru-7z
+  name: old.me.mosreg.ru.7z (2017-05-06)
+  url: https://old.me.mosreg.ru.7z
+  created: '2017-05-06T10:09:58'
+  domain: old.me.mosreg.ru.7z
+- id: old-me-mosreg-ru-warc-gz
+  name: old.me.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.me.mosreg.ru.warc.gz
+  created: '2017-05-06T10:10:08'
+  domain: old.me.mosreg.ru.warc.gz
+- id: old-mep-mosreg-ru-7z
+  name: old.mep.mosreg.ru.7z (2017-05-06)
+  url: https://old.mep.mosreg.ru.7z
+  created: '2017-05-06T10:10:12'
+  domain: old.mep.mosreg.ru.7z
+- id: old-mep-mosreg-ru-warc-gz
+  name: old.mep.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mep.mosreg.ru.warc.gz
+  created: '2017-05-06T10:10:22'
+  domain: old.mep.mosreg.ru.warc.gz
+- id: old-mf-mosreg-ru-7z
+  name: old.mf.mosreg.ru.7z (2017-05-06)
+  url: https://old.mf.mosreg.ru.7z
+  created: '2017-05-06T10:10:28'
+  domain: old.mf.mosreg.ru.7z
+- id: old-mf-mosreg-ru-warc-gz
+  name: old.mf.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mf.mosreg.ru.warc.gz
+  created: '2017-05-06T10:10:35'
+  domain: old.mf.mosreg.ru.warc.gz
+- id: old-mii-mosreg-ru-7z
+  name: old.mii.mosreg.ru.7z (2017-05-06)
+  url: https://old.mii.mosreg.ru.7z
+  created: '2017-05-06T10:10:37'
+  domain: old.mii.mosreg.ru.7z
+- id: old-mii-mosreg-ru-warc-gz
+  name: old.mii.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mii.mosreg.ru.warc.gz
+  created: '2017-05-06T10:10:42'
+  domain: old.mii.mosreg.ru.warc.gz
+- id: old-minenergo-mosreg-ru-7z
+  name: old.minenergo.mosreg.ru.7z (2017-05-06)
+  url: https://old.minenergo.mosreg.ru.7z
+  created: '2017-05-06T10:10:44'
+  domain: old.minenergo.mosreg.ru.7z
+- id: old-minenergo-mosreg-ru-warc-gz
+  name: old.minenergo.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.minenergo.mosreg.ru.warc.gz
+  created: '2017-05-06T10:10:48'
+  domain: old.minenergo.mosreg.ru.warc.gz
+- id: old-mits-mosreg-ru-7z
+  name: old.mits.mosreg.ru.7z (2017-05-06)
+  url: https://old.mits.mosreg.ru.7z
+  created: '2017-05-06T10:10:56'
+  domain: old.mits.mosreg.ru.7z
+- id: old-mits-mosreg-ru-warc-gz
+  name: old.mits.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mits.mosreg.ru.warc.gz
+  created: '2017-05-06T10:11:11'
+  domain: old.mits.mosreg.ru.warc.gz
+- id: old-mk-mosreg-ru-7z
+  name: old.mk.mosreg.ru.7z (2017-05-06)
+  url: https://old.mk.mosreg.ru.7z
+  created: '2017-05-06T10:11:19'
+  domain: old.mk.mosreg.ru.7z
+- id: old-mk-mosreg-ru-warc-gz
+  name: old.mk.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mk.mosreg.ru.warc.gz
+  created: '2017-05-06T10:11:33'
+  domain: old.mk.mosreg.ru.warc.gz
+- id: old-mo-mosreg-ru-7z
+  name: old.mo.mosreg.ru.7z (2017-05-06)
+  url: https://old.mo.mosreg.ru.7z
+  created: '2017-05-06T10:11:49'
+  domain: old.mo.mosreg.ru.7z
+- id: old-mo-mosreg-ru-warc-gz
+  name: old.mo.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mo.mosreg.ru.warc.gz
+  created: '2017-05-06T10:12:08'
+  domain: old.mo.mosreg.ru.warc.gz
+- id: old-mpru-mosreg-ru-7z
+  name: old.mpru.mosreg.ru.7z (2017-05-06)
+  url: https://old.mpru.mosreg.ru.7z
+  created: '2017-05-06T10:12:10'
+  domain: old.mpru.mosreg.ru.7z
+- id: old-mpru-mosreg-ru-warc-gz
+  name: old.mpru.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mpru.mosreg.ru.warc.gz
+  created: '2017-05-06T10:12:14'
+  domain: old.mpru.mosreg.ru.warc.gz
+- id: old-msh-mosreg-ru-7z
+  name: old.msh.mosreg.ru.7z (2017-05-06)
+  url: https://old.msh.mosreg.ru.7z
+  created: '2017-05-06T10:12:15'
+  domain: old.msh.mosreg.ru.7z
+- id: old-msh-mosreg-ru-warc-gz
+  name: old.msh.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.msh.mosreg.ru.warc.gz
+  created: '2017-05-06T10:12:16'
+  domain: old.msh.mosreg.ru.warc.gz
+- id: old-msk-mosreg-ru-7z
+  name: old.msk.mosreg.ru.7z (2017-05-06)
+  url: https://old.msk.mosreg.ru.7z
+  created: '2017-05-06T10:12:21'
+  domain: old.msk.mosreg.ru.7z
+- id: old-msk-mosreg-ru-warc-gz
+  name: old.msk.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.msk.mosreg.ru.warc.gz
+  created: '2017-05-06T10:12:35'
+  domain: old.msk.mosreg.ru.warc.gz
+- id: old-mst-mosreg-ru-7z
+  name: old.mst.mosreg.ru.7z (2017-05-06)
+  url: https://old.mst.mosreg.ru.7z
+  created: '2017-05-06T10:14:35'
+  domain: old.mst.mosreg.ru.7z
+- id: old-mst-mosreg-ru-warc-gz
+  name: old.mst.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mst.mosreg.ru.warc.gz
+  created: '2017-05-06T10:16:49'
+  domain: old.mst.mosreg.ru.warc.gz
+- id: old-mszn-mosreg-ru-7z
+  name: old.mszn.mosreg.ru.7z (2017-05-06)
+  url: https://old.mszn.mosreg.ru.7z
+  created: '2017-05-06T10:16:52'
+  domain: old.mszn.mosreg.ru.7z
+- id: old-mszn-mosreg-ru-warc-gz
+  name: old.mszn.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mszn.mosreg.ru.warc.gz
+  created: '2017-05-06T10:17:01'
+  domain: old.mszn.mosreg.ru.warc.gz
+- id: old-mt-mosreg-ru-7z
+  name: old.mt.mosreg.ru.7z (2017-05-06)
+  url: https://old.mt.mosreg.ru.7z
+  created: '2017-05-06T10:17:03'
+  domain: old.mt.mosreg.ru.7z
+- id: old-mt-mosreg-ru-warc-gz
+  name: old.mt.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mt.mosreg.ru.warc.gz
+  created: '2017-05-06T10:17:09'
+  domain: old.mt.mosreg.ru.warc.gz
+- id: old-mz-mosreg-ru-7z
+  name: old.mz.mosreg.ru.7z (2017-05-06)
+  url: https://old.mz.mosreg.ru.7z
+  created: '2017-05-06T10:17:13'
+  domain: old.mz.mosreg.ru.7z
+- id: old-mz-mosreg-ru-warc-gz
+  name: old.mz.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.mz.mosreg.ru.warc.gz
+  created: '2017-05-06T10:17:18'
+  domain: old.mz.mosreg.ru.warc.gz
+- id: old-politika-mosreg-ru-7z
+  name: old.politika.mosreg.ru.7z (2017-05-06)
+  url: https://old.politika.mosreg.ru.7z
+  created: '2017-05-06T10:17:19'
+  domain: old.politika.mosreg.ru.7z
+- id: old-politika-mosreg-ru-warc-gz
+  name: old.politika.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.politika.mosreg.ru.warc.gz
+  created: '2017-05-06T10:17:22'
+  domain: old.politika.mosreg.ru.warc.gz
+- id: old-udms-mosreg-ru-7z
+  name: old.udms.mosreg.ru.7z (2017-05-06)
+  url: https://old.udms.mosreg.ru.7z
+  created: '2017-05-06T10:17:26'
+  domain: old.udms.mosreg.ru.7z
+- id: old-udms-mosreg-ru-warc-gz
+  name: old.udms.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.udms.mosreg.ru.warc.gz
+  created: '2017-05-06T10:17:30'
+  domain: old.udms.mosreg.ru.warc.gz
+- id: old-ugms-mosreg-ru-7z
+  name: old.ugms.mosreg.ru.7z (2017-05-06)
+  url: https://old.ugms.mosreg.ru.7z
+  created: '2017-05-06T10:17:32'
+  domain: old.ugms.mosreg.ru.7z
+- id: old-ugms-mosreg-ru-warc-gz
+  name: old.ugms.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.ugms.mosreg.ru.warc.gz
+  created: '2017-05-06T10:17:34'
+  domain: old.ugms.mosreg.ru.warc.gz
+- id: old-upss-mosreg-ru-7z
+  name: old.upss.mosreg.ru.7z (2017-05-06)
+  url: https://old.upss.mosreg.ru.7z
+  created: '2017-05-06T10:17:37'
+  domain: old.upss.mosreg.ru.7z
+- id: old-upss-mosreg-ru-warc-gz
+  name: old.upss.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.upss.mosreg.ru.warc.gz
+  created: '2017-05-06T10:17:40'
+  domain: old.upss.mosreg.ru.warc.gz
+- id: old-zags-mosreg-ru-7z
+  name: old.zags.mosreg.ru.7z (2017-05-06)
+  url: https://old.zags.mosreg.ru.7z
+  created: '2017-05-06T10:18:03'
+  domain: old.zags.mosreg.ru.7z
+- id: old-zags-mosreg-ru-warc-gz
+  name: old.zags.mosreg.ru.warc.gz (2017-05-06)
+  url: https://old.zags.mosreg.ru.warc.gz
+  created: '2017-05-06T10:18:32'
+  domain: old.zags.mosreg.ru.warc.gz
+files:
+  total_count: 70
+  total_size: 32549256548
+  directories: []

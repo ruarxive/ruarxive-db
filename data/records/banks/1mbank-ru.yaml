@@ -1,0 +1,52 @@
+id: 1mbank-ru
+name: 1mbank.ru (2013-12-18)
+domain: 1mbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: 1mbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/1mbank.ru/1mbank.ru.log.xz
+  size: 83524
+  modified: '2013-12-18T15:32:44'
+  type: wpull log
+  extension: .xz
+- name: 1mbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/1mbank.ru/1mbank.ru.cdx.xz
+  size: 143952
+  modified: '2013-12-18T15:32:12'
+  type: CDX
+  extension: .xz
+- name: 1mbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/1mbank.ru/1mbank.ru.warc.xz
+  size: 79310372
+  modified: '2013-12-18T15:32:13'
+  type: WARC
+  extension: .xz
+- name: www.1mbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.1mbank.ru/www.1mbank.ru.warc.xz
+  size: 88521492
+  modified: '2014-05-10T23:50:45'
+  type: WARC
+  extension: .xz
+- name: www.1mbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.1mbank.ru/www.1mbank.ru.log.xz
+  size: 55528
+  modified: '2014-05-10T23:50:45'
+  type: wpull log
+  extension: .xz
+- name: www.1mbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.1mbank.ru/www.1mbank.ru.7z
+  size: 88851949
+  modified: '2014-08-19T14:20:47'
+  type: ''
+  extension: .7z
+- name: www.1mbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.1mbank.ru/www.1mbank.ru.cdx.xz
+  size: 80700
+  modified: '2014-05-10T23:50:45'
+  type: CDX
+  extension: .xz
+url: https://1mbank.ru
+created: '2013-12-18T15:32:13'

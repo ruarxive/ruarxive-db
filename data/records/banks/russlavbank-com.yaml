@@ -1,0 +1,28 @@
+id: russlavbank-com
+name: russlavbank.com (2014-04-24)
+domain: russlavbank.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.russlavbank.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.russlavbank.com/www.russlavbank.com.warc.xz
+  size: 315020624
+  modified: '2014-04-24T20:45:52'
+  type: WARC
+  extension: .xz
+- name: www.russlavbank.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.russlavbank.com/www.russlavbank.com.cdx.xz
+  size: 205104
+  modified: '2014-04-24T20:45:52'
+  type: CDX
+  extension: .xz
+- name: www.russlavbank.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.russlavbank.com/www.russlavbank.com.log.xz
+  size: 137336
+  modified: '2014-04-24T20:45:52'
+  type: wpull log
+  extension: .xz
+url: https://russlavbank.com
+created: '2014-04-24T20:45:52'

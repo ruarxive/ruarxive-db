@@ -1,0 +1,28 @@
+id: video_garage
+slug: video_garage
+name: Видео
+created: '2022-03-29T16:19:40.000Z'
+num_records: 3
+records:
+- id: instagram-com
+  name: ЦК19. Встречи с художниками с фестиваля 48 часов Новосибирск (Insta)
+  url: https://www.instagram.com/centreforculture19/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: instagram.com
+- id: youtube-com-1
+  name: 'Студия Сдвиг (Youtube-канал с видеоархивом:'
+  url: https://www.youtube.com/channel/UCrX4Vo7Bcg3L5VESweNTGwg/videos
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: youtube.com
+- id: youtube-com-2
+  name: ЦК19. Встречи с художниками с фестиваля 48 часов Новосибирск, есть риск удаления
+    отдельных соцсетей (Youtube)
+  url: https://www.youtube.com/channel/UCvjTAHqIrWcJj_3Qp1QaPmA/videos
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: youtube.com

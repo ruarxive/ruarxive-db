@@ -1,0 +1,40 @@
+id: fguzsamo-ru-2017-05-14-ad5fa855
+name: fguzsamo.ru (2017-05-14)
+domain: fguzsamo.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzsamo.ru-2017-05-14-ad5fa855/wpull.db
+  size: 249856
+  modified: '2017-05-14T14:14:53'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzsamo.ru-2017-05-14-ad5fa855/dupes_db/data.mdb
+  size: 159744
+  modified: '2017-05-14T14:14:49'
+  type: ''
+  extension: .mdb
+- name: www.fguzsamo.ru-2017-05-14-ad5fa855-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzsamo.ru-2017-05-14-ad5fa855/www.fguzsamo.ru-2017-05-14-ad5fa855-meta.warc.gz
+  size: 37525
+  modified: '2017-05-14T14:14:53'
+  type: WARC
+  extension: .warc.gz
+- name: www.fguzsamo.ru-2017-05-14-ad5fa855.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzsamo.ru-2017-05-14-ad5fa855/www.fguzsamo.ru-2017-05-14-ad5fa855.cdx
+  size: 244543
+  modified: '2017-05-14T14:14:53'
+  type: CDX
+  extension: .cdx
+- name: www.fguzsamo.ru-2017-05-14-ad5fa855-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzsamo.ru-2017-05-14-ad5fa855/www.fguzsamo.ru-2017-05-14-ad5fa855-00000.warc.gz
+  size: 76266381
+  modified: '2017-05-14T14:14:53'
+  type: WARC
+  extension: .warc.gz
+url: https://fguzsamo.ru
+created: '2017-05-14'

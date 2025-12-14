@@ -1,0 +1,19 @@
+id: the-village-ru
+name: The Village
+url: https://www.the-village.ru/
+domain: the-village.ru
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Блокировка Роскомнадзора
+reason_id: roskomnadzor-blocking-1
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: средний

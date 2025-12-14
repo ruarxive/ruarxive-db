@@ -1,0 +1,40 @@
+id: fedsfm-ru-2017-04-04-9afd7bbb
+name: fedsfm.ru (2017-04-04)
+domain: fedsfm.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fedsfm.ru-2017-04-04-9afd7bbb-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fedsfm.ru-2017-04-04-9afd7bbb/www.fedsfm.ru-2017-04-04-9afd7bbb-00000.warc.gz
+  size: 2342732875
+  modified: '2017-04-04T21:37:29'
+  type: WARC
+  extension: .warc.gz
+- name: www.fedsfm.ru-2017-04-04-9afd7bbb-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fedsfm.ru-2017-04-04-9afd7bbb/www.fedsfm.ru-2017-04-04-9afd7bbb-meta.warc.gz
+  size: 132811
+  modified: '2017-04-04T21:37:29'
+  type: WARC
+  extension: .warc.gz
+- name: www.fedsfm.ru-2017-04-04-9afd7bbb.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fedsfm.ru-2017-04-04-9afd7bbb/www.fedsfm.ru-2017-04-04-9afd7bbb.cdx
+  size: 1102935
+  modified: '2017-04-04T21:37:29'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fedsfm.ru-2017-04-04-9afd7bbb/wpull.db
+  size: 1218560
+  modified: '2017-04-04T21:37:29'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fedsfm.ru-2017-04-04-9afd7bbb/dupes_db/data.mdb
+  size: 655360
+  modified: '2017-04-04T21:37:26'
+  type: ''
+  extension: .mdb
+url: https://fedsfm.ru
+created: '2017-04-04'

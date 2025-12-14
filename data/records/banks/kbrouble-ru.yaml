@@ -1,0 +1,28 @@
+id: kbrouble-ru
+name: kbrouble.ru (2013-12-24)
+domain: kbrouble.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: kbrouble.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kbrouble.ru/kbrouble.ru.log.xz
+  size: 6096
+  modified: '2013-12-24T08:17:03'
+  type: wpull log
+  extension: .xz
+- name: kbrouble.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kbrouble.ru/kbrouble.ru.cdx.xz
+  size: 7756
+  modified: '2013-12-24T08:17:03'
+  type: CDX
+  extension: .xz
+- name: kbrouble.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kbrouble.ru/kbrouble.ru.warc.xz
+  size: 6344832
+  modified: '2013-12-24T08:17:04'
+  type: WARC
+  extension: .xz
+url: https://kbrouble.ru
+created: '2013-12-24T08:17:04'

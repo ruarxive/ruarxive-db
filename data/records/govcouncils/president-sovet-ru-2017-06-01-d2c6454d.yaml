@@ -1,0 +1,57 @@
+id: president-sovet-ru-2017-06-01-d2c6454d
+name: president-sovet.ru (2017-06-01)
+domain: president-sovet.ru
+collection:
+  id: govcouncils
+  slug: govcouncils
+  name: Государственные советы
+resources:
+- name: www.president-sovet.ru-2017-06-01-d2c6454d-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/www.president-sovet.ru-2017-06-01-d2c6454d/www.president-sovet.ru-2017-06-01-d2c6454d-00001.warc.gz
+  size: 4441544299
+  modified: '2017-06-02T09:37:25'
+  type: WARC
+  extension: .warc.gz
+- name: www.president-sovet.ru-2017-06-01-d2c6454d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/www.president-sovet.ru-2017-06-01-d2c6454d/www.president-sovet.ru-2017-06-01-d2c6454d-00000.warc.gz
+  size: 5368720267
+  modified: '2017-06-02T09:34:47'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/www.president-sovet.ru-2017-06-01-d2c6454d/wpull.db
+  size: 257412096
+  modified: '2017-06-02T09:32:08'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/www.president-sovet.ru-2017-06-01-d2c6454d/dupes_db/data.mdb
+  size: 39878656
+  modified: '2017-06-02T09:39:03'
+  type: ''
+  extension: .mdb
+- name: tmp-wpull-resp_cb-4hp5ap.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/www.president-sovet.ru-2017-06-01-d2c6454d/temp/tmp-wpull-resp_cb-4hp5ap.tmp
+  size: 37459
+  modified: '2017-06-02T09:38:38'
+  type: ''
+  extension: .tmp
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/www.president-sovet.ru-2017-06-01-d2c6454d/stop
+  size: 0
+  modified: '2017-06-02T09:31:30'
+  type: ''
+- name: www.president-sovet.ru-2017-06-01-d2c6454d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/www.president-sovet.ru-2017-06-01-d2c6454d/www.president-sovet.ru-2017-06-01-d2c6454d-meta.warc.gz
+  size: 5789983
+  modified: '2017-06-02T09:32:32'
+  type: WARC
+  extension: .warc.gz
+- name: www.president-sovet.ru-2017-06-01-d2c6454d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/www.president-sovet.ru-2017-06-01-d2c6454d/www.president-sovet.ru-2017-06-01-d2c6454d.cdx
+  size: 91071582
+  modified: '2017-06-02T09:38:40'
+  type: CDX
+  extension: .cdx
+url: https://president-sovet.ru
+created: '2017-06-01'

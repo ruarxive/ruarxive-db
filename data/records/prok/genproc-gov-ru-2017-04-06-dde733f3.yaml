@@ -1,0 +1,40 @@
+id: genproc-gov-ru-2017-04-06-dde733f3
+name: genproc.gov.ru (2017-04-06)
+domain: genproc.gov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.genproc.gov.ru-2017-04-06-dde733f3/wpull.db
+  size: 135168
+  modified: '2017-04-06T21:30:48'
+  type: wpull database
+  extension: .db
+- name: www.genproc.gov.ru-2017-04-06-dde733f3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.genproc.gov.ru-2017-04-06-dde733f3/www.genproc.gov.ru-2017-04-06-dde733f3-00000.warc.gz
+  size: 15803729
+  modified: '2017-04-06T21:30:47'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.genproc.gov.ru-2017-04-06-dde733f3/dupes_db/data.mdb
+  size: 77824
+  modified: '2017-04-06T21:30:48'
+  type: ''
+  extension: .mdb
+- name: www.genproc.gov.ru-2017-04-06-dde733f3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.genproc.gov.ru-2017-04-06-dde733f3/www.genproc.gov.ru-2017-04-06-dde733f3.cdx
+  size: 264219
+  modified: '2017-04-06T21:30:47'
+  type: CDX
+  extension: .cdx
+- name: www.genproc.gov.ru-2017-04-06-dde733f3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.genproc.gov.ru-2017-04-06-dde733f3/www.genproc.gov.ru-2017-04-06-dde733f3-meta.warc.gz
+  size: 26250
+  modified: '2017-04-06T21:30:48'
+  type: WARC
+  extension: .warc.gz
+url: https://genproc.gov.ru
+created: '2017-04-06'

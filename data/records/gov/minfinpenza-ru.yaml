@@ -1,0 +1,28 @@
+id: minfinpenza-ru
+name: minfinpenza.ru (2013-09-30)
+domain: minfinpenza.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.minfinpenza.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minfinpenza.ru/www.minfinpenza.ru.log.xz
+  size: 166080
+  modified: '2013-09-30T07:14:44'
+  type: wpull log
+  extension: .xz
+- name: www.minfinpenza.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minfinpenza.ru/www.minfinpenza.ru.warc.xz
+  size: 338761112
+  modified: '2013-09-30T07:17:21'
+  type: WARC
+  extension: .xz
+- name: www.minfinpenza.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minfinpenza.ru/www.minfinpenza.ru.cdx.xz
+  size: 238876
+  modified: '2013-09-30T07:14:43'
+  type: CDX
+  extension: .xz
+url: https://minfinpenza.ru
+created: '2013-09-30T07:17:21'

@@ -1,0 +1,25 @@
+id: thinkkazan-com
+name: Думай Казань
+url: http://thinkkazan.com/
+domain: thinkkazan.com
+created: '2022-04-05T05:23:13.000Z'
+date: '2022-04-05T07:43:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сайт не обновлялся с 2018 года. Есть вероятность исчезновения
+reason_id: not-updated-3
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: science
+  name: Наука
+  slug: science
+source:
+  id: community
+  name: Сообщество
+priority: низкий

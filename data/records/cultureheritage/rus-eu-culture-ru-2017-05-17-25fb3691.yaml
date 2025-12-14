@@ -1,0 +1,40 @@
+id: rus-eu-culture-ru-2017-05-17-25fb3691
+name: rus-eu-culture.ru (2017-05-17)
+domain: rus-eu-culture.ru
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.rus-eu-culture.ru-2017-05-17-25fb3691/dupes_db/data.mdb
+  size: 1953792
+  modified: '2017-05-17T15:17:22'
+  type: ''
+  extension: .mdb
+- name: www.rus-eu-culture.ru-2017-05-17-25fb3691-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.rus-eu-culture.ru-2017-05-17-25fb3691/www.rus-eu-culture.ru-2017-05-17-25fb3691-00000.warc.gz
+  size: 280585390
+  modified: '2017-05-17T15:17:38'
+  type: WARC
+  extension: .warc.gz
+- name: www.rus-eu-culture.ru-2017-05-17-25fb3691-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.rus-eu-culture.ru-2017-05-17-25fb3691/www.rus-eu-culture.ru-2017-05-17-25fb3691-meta.warc.gz
+  size: 476032
+  modified: '2017-05-17T15:17:39'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.rus-eu-culture.ru-2017-05-17-25fb3691/wpull.db
+  size: 4261888
+  modified: '2017-05-17T15:17:38'
+  type: wpull database
+  extension: .db
+- name: www.rus-eu-culture.ru-2017-05-17-25fb3691.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.rus-eu-culture.ru-2017-05-17-25fb3691/www.rus-eu-culture.ru-2017-05-17-25fb3691.cdx
+  size: 4597251
+  modified: '2017-05-17T15:17:38'
+  type: CDX
+  extension: .cdx
+url: https://rus-eu-culture.ru
+created: '2017-05-17'

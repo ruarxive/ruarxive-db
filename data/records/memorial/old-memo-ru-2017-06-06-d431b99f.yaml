@@ -1,0 +1,40 @@
+id: old-memo-ru-2017-06-06-d431b99f
+name: old.memo.ru (2017-06-06)
+domain: old.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/old.memo.ru-2017-06-06-d431b99f/wpull.db
+  size: 114274304
+  modified: '2017-06-08T19:08:40'
+  type: wpull database
+  extension: .db
+- name: old.memo.ru-2017-06-06-d431b99f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/old.memo.ru-2017-06-06-d431b99f/old.memo.ru-2017-06-06-d431b99f-00000.warc.gz
+  size: 1937568349
+  modified: '2017-06-08T19:12:03'
+  type: WARC
+  extension: .warc.gz
+- name: old.memo.ru-2017-06-06-d431b99f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/old.memo.ru-2017-06-06-d431b99f/old.memo.ru-2017-06-06-d431b99f.cdx
+  size: 50539103
+  modified: '2017-06-08T19:08:43'
+  type: CDX
+  extension: .cdx
+- name: tmp-wpull-warc-11ae2d.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/old.memo.ru-2017-06-06-d431b99f/temp/tmp-wpull-warc-11ae2d.log.gz
+  size: 9342015
+  modified: '2017-06-08T19:12:04'
+  type: wpull log
+  extension: .gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/old.memo.ru-2017-06-06-d431b99f/dupes_db/data.mdb
+  size: 17268736
+  modified: '2017-06-08T19:12:04'
+  type: ''
+  extension: .mdb
+url: https://old.memo.ru
+created: '2017-06-06'

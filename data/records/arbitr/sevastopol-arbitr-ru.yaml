@@ -1,0 +1,34 @@
+id: sevastopol-arbitr-ru
+name: sevastopol.arbitr.ru (2014-08-02)
+domain: sevastopol.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: sevastopol.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/sevastopol.arbitr.ru/sevastopol.arbitr.ru.7z
+  size: 271471436
+  modified: '2014-08-08T13:21:26'
+  type: ''
+  extension: .7z
+- name: sevastopol.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/sevastopol.arbitr.ru/sevastopol.arbitr.ru.warc.xz
+  size: 268552364
+  modified: '2014-08-02T20:20:53'
+  type: WARC
+  extension: .xz
+- name: sevastopol.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/sevastopol.arbitr.ru/sevastopol.arbitr.ru.cdx.xz
+  size: 29876
+  modified: '2014-08-02T20:20:53'
+  type: CDX
+  extension: .xz
+- name: sevastopol.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/sevastopol.arbitr.ru/sevastopol.arbitr.ru.log.xz
+  size: 45324
+  modified: '2014-08-02T20:20:53'
+  type: wpull log
+  extension: .xz
+url: https://sevastopol.arbitr.ru
+created: '2014-08-02T20:20:53'

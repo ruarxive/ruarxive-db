@@ -1,0 +1,40 @@
+id: kuzminki-mos-ru-2017-09-15-716956e9
+name: kuzminki.mos.ru (2017-09-15)
+domain: kuzminki.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kuzminki.mos.ru-2017-09-15-716956e9/dupes_db/data.mdb
+  size: 3686400
+  modified: '2017-09-17T22:26:15'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kuzminki.mos.ru-2017-09-15-716956e9/wpull.db
+  size: 8111104
+  modified: '2017-09-17T22:26:40'
+  type: wpull database
+  extension: .db
+- name: kuzminki.mos.ru-2017-09-15-716956e9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kuzminki.mos.ru-2017-09-15-716956e9/kuzminki.mos.ru-2017-09-15-716956e9-meta.warc.gz
+  size: 928275
+  modified: '2017-09-17T22:26:41'
+  type: WARC
+  extension: .warc.gz
+- name: kuzminki.mos.ru-2017-09-15-716956e9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kuzminki.mos.ru-2017-09-15-716956e9/kuzminki.mos.ru-2017-09-15-716956e9.cdx
+  size: 6387768
+  modified: '2017-09-17T22:26:39'
+  type: CDX
+  extension: .cdx
+- name: kuzminki.mos.ru-2017-09-15-716956e9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kuzminki.mos.ru-2017-09-15-716956e9/kuzminki.mos.ru-2017-09-15-716956e9-00000.warc.gz
+  size: 1686354776
+  modified: '2017-09-17T22:26:39'
+  type: WARC
+  extension: .warc.gz
+url: https://kuzminki.mos.ru
+created: '2017-09-15'

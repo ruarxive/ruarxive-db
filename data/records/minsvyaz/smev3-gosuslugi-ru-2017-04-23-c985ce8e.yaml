@@ -1,0 +1,40 @@
+id: smev3-gosuslugi-ru-2017-04-23-c985ce8e
+name: smev3.gosuslugi.ru (2017-04-23)
+domain: smev3.gosuslugi.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: smev3.gosuslugi.ru-2017-04-23-c985ce8e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev3.gosuslugi.ru-2017-04-23-c985ce8e/smev3.gosuslugi.ru-2017-04-23-c985ce8e-00000.warc.gz
+  size: 310343643
+  modified: '2017-04-23T08:36:40'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev3.gosuslugi.ru-2017-04-23-c985ce8e/dupes_db/data.mdb
+  size: 77824
+  modified: '2017-04-23T08:36:39'
+  type: ''
+  extension: .mdb
+- name: smev3.gosuslugi.ru-2017-04-23-c985ce8e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev3.gosuslugi.ru-2017-04-23-c985ce8e/smev3.gosuslugi.ru-2017-04-23-c985ce8e.cdx
+  size: 48183
+  modified: '2017-04-23T08:36:40'
+  type: CDX
+  extension: .cdx
+- name: smev3.gosuslugi.ru-2017-04-23-c985ce8e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev3.gosuslugi.ru-2017-04-23-c985ce8e/smev3.gosuslugi.ru-2017-04-23-c985ce8e-meta.warc.gz
+  size: 8828
+  modified: '2017-04-23T08:36:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/smev3.gosuslugi.ru-2017-04-23-c985ce8e/wpull.db
+  size: 96256
+  modified: '2017-04-23T08:36:41'
+  type: wpull database
+  extension: .db
+url: https://smev3.gosuslugi.ru
+created: '2017-04-23'

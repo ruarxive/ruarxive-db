@@ -1,0 +1,17 @@
+id: showdata-gks-ru-20220419
+name: showdata.gks.ru (2022-04-19)
+domain: showdata.gks.ru
+url: https://showdata.gks.ru
+created: '2022-04-19'
+date: '2022-04-19'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: metadata_20220419.csv
+  url: https://cdn.ruarxive.org/public/dataportals/showdata.gks.ru/2022-04-19/metadata_20220419.csv
+  size: 1225058
+  modified: '2022-05-20T07:43:19'
+  type: ''
+  extension: .csv

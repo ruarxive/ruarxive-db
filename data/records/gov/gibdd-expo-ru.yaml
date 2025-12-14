@@ -1,0 +1,28 @@
+id: gibdd-expo-ru
+name: gibdd-expo.ru (2013-11-03)
+domain: gibdd-expo.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.gibdd-expo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gibdd-expo.ru/www.gibdd-expo.ru.log.xz
+  size: 42812
+  modified: '2013-11-03T23:22:43'
+  type: wpull log
+  extension: .xz
+- name: www.gibdd-expo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gibdd-expo.ru/www.gibdd-expo.ru.warc.xz
+  size: 30584516
+  modified: '2013-11-03T23:22:38'
+  type: WARC
+  extension: .xz
+- name: www.gibdd-expo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gibdd-expo.ru/www.gibdd-expo.ru.cdx.xz
+  size: 75660
+  modified: '2013-11-03T23:22:37'
+  type: CDX
+  extension: .xz
+url: https://gibdd-expo.ru
+created: '2013-11-03T23:22:38'

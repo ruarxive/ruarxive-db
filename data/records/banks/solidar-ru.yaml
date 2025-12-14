@@ -1,0 +1,34 @@
+id: solidar-ru
+name: solidar.ru (2014-05-15)
+domain: solidar.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.solidar.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solidar.ru/www.solidar.ru.cdx.xz
+  size: 63676
+  modified: '2014-05-15T07:36:11'
+  type: CDX
+  extension: .xz
+- name: www.solidar.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solidar.ru/www.solidar.ru.warc.xz
+  size: 123119608
+  modified: '2014-05-15T07:36:11'
+  type: WARC
+  extension: .xz
+- name: www.solidar.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solidar.ru/www.solidar.ru.7z
+  size: 123365026
+  modified: '2014-08-19T07:27:53'
+  type: ''
+  extension: .7z
+- name: www.solidar.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solidar.ru/www.solidar.ru.log.xz
+  size: 49152
+  modified: '2014-05-15T07:36:11'
+  type: wpull log
+  extension: .xz
+url: https://solidar.ru
+created: '2014-05-15T07:36:11'

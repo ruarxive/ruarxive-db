@@ -1,0 +1,28 @@
+id: 82-208-95-220
+name: 82.208.95.220.log.xz (2013-10-12)
+domain: 82.208.95.220.log.xz
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: 82.208.95.220.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/82.208.95.220/82.208.95.220.log.xz
+  size: 208640
+  modified: '2013-10-12T08:45:54'
+  type: wpull log
+  extension: .xz
+- name: 82.208.95.220.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/82.208.95.220/82.208.95.220.warc.xz
+  size: 379817712
+  modified: '2013-10-12T08:46:08'
+  type: WARC
+  extension: .xz
+- name: 82.208.95.220.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/82.208.95.220/82.208.95.220.cdx.xz
+  size: 231332
+  modified: '2013-10-12T08:45:53'
+  type: CDX
+  extension: .xz
+url: https://82.208.95.220.log.xz
+created: '2013-10-12T08:46:08'

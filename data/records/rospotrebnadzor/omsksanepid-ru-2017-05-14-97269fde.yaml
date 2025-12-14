@@ -1,0 +1,40 @@
+id: omsksanepid-ru-2017-05-14-97269fde
+name: omsksanepid.ru (2017-05-14)
+domain: omsksanepid.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.omsksanepid.ru-2017-05-14-97269fde.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.omsksanepid.ru-2017-05-14-97269fde/www.omsksanepid.ru-2017-05-14-97269fde.cdx
+  size: 340223
+  modified: '2017-05-14T16:50:55'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.omsksanepid.ru-2017-05-14-97269fde/wpull.db
+  size: 387072
+  modified: '2017-05-14T16:50:55'
+  type: wpull database
+  extension: .db
+- name: www.omsksanepid.ru-2017-05-14-97269fde-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.omsksanepid.ru-2017-05-14-97269fde/www.omsksanepid.ru-2017-05-14-97269fde-00000.warc.gz
+  size: 124257919
+  modified: '2017-05-14T16:50:55'
+  type: WARC
+  extension: .warc.gz
+- name: www.omsksanepid.ru-2017-05-14-97269fde-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.omsksanepid.ru-2017-05-14-97269fde/www.omsksanepid.ru-2017-05-14-97269fde-meta.warc.gz
+  size: 46173
+  modified: '2017-05-14T16:50:56'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.omsksanepid.ru-2017-05-14-97269fde/dupes_db/data.mdb
+  size: 253952
+  modified: '2017-05-14T16:50:53'
+  type: ''
+  extension: .mdb
+url: https://omsksanepid.ru
+created: '2017-05-14'

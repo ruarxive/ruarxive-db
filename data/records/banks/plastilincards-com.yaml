@@ -1,0 +1,34 @@
+id: plastilincards-com
+name: plastilincards.com (2014-05-08)
+domain: plastilincards.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.plastilincards.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.plastilincards.com/www.plastilincards.com.log.xz
+  size: 752
+  modified: '2014-05-08T18:37:43'
+  type: wpull log
+  extension: .xz
+- name: www.plastilincards.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.plastilincards.com/www.plastilincards.com.7z
+  size: 7282
+  modified: '2014-08-20T10:09:28'
+  type: ''
+  extension: .7z
+- name: www.plastilincards.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.plastilincards.com/www.plastilincards.com.warc.xz
+  size: 9616
+  modified: '2014-05-08T18:37:43'
+  type: WARC
+  extension: .xz
+- name: www.plastilincards.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.plastilincards.com/www.plastilincards.com.cdx.xz
+  size: 400
+  modified: '2014-05-08T18:37:43'
+  type: CDX
+  extension: .xz
+url: https://plastilincards.com
+created: '2014-05-08T18:37:43'

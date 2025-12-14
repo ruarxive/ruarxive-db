@@ -1,0 +1,16 @@
+id: adm-yar-ru
+name: adm.yar.ru.7z (2013-08-13)
+domain: adm.yar.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: www.adm.yar.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/www.adm.yar.ru.7z
+  size: 1523425373
+  modified: '2013-08-13T13:27:54'
+  type: httrack archive
+  extension: .7z
+url: https://adm.yar.ru.7z
+created: '2013-08-13T13:27:54'

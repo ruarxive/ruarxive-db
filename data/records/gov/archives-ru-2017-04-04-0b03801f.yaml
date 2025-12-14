@@ -1,0 +1,40 @@
+id: archives-ru-2017-04-04-0b03801f
+name: archives.ru (2017-04-04)
+domain: archives.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: archives.ru-2017-04-04-0b03801f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/archives.ru-2017-04-04-0b03801f/archives.ru-2017-04-04-0b03801f-00000.warc.gz
+  size: 2336757869
+  modified: '2017-04-04T23:59:56'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/archives.ru-2017-04-04-0b03801f/dupes_db/data.mdb
+  size: 3637248
+  modified: '2017-04-04T23:59:56'
+  type: ''
+  extension: .mdb
+- name: archives.ru-2017-04-04-0b03801f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/archives.ru-2017-04-04-0b03801f/archives.ru-2017-04-04-0b03801f-meta.warc.gz
+  size: 588666
+  modified: '2017-04-04T23:59:57'
+  type: WARC
+  extension: .warc.gz
+- name: archives.ru-2017-04-04-0b03801f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/archives.ru-2017-04-04-0b03801f/archives.ru-2017-04-04-0b03801f.cdx
+  size: 6706610
+  modified: '2017-04-04T23:59:56'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/archives.ru-2017-04-04-0b03801f/wpull.db
+  size: 8017920
+  modified: '2017-04-04T23:59:57'
+  type: wpull database
+  extension: .db
+url: https://archives.ru
+created: '2017-04-04'

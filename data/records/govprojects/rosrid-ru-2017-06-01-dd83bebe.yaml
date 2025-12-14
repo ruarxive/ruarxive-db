@@ -1,0 +1,40 @@
+id: rosrid-ru-2017-06-01-dd83bebe
+name: rosrid.ru (2017-06-01)
+domain: rosrid.ru
+collection:
+  id: govprojects
+  slug: govprojects
+  name: Государственные проекты
+resources:
+- name: rosrid.ru-2017-06-01-dd83bebe.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/rosrid.ru-2017-06-01-dd83bebe/rosrid.ru-2017-06-01-dd83bebe.cdx
+  size: 51488
+  modified: '2017-06-03T12:30:16'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/rosrid.ru-2017-06-01-dd83bebe/wpull.db
+  size: 55296
+  modified: '2017-06-03T12:30:16'
+  type: wpull database
+  extension: .db
+- name: rosrid.ru-2017-06-01-dd83bebe-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/rosrid.ru-2017-06-01-dd83bebe/rosrid.ru-2017-06-01-dd83bebe-meta.warc.gz
+  size: 10325
+  modified: '2017-06-03T12:30:16'
+  type: WARC
+  extension: .warc.gz
+- name: rosrid.ru-2017-06-01-dd83bebe-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/rosrid.ru-2017-06-01-dd83bebe/rosrid.ru-2017-06-01-dd83bebe-00000.warc.gz
+  size: 34064352
+  modified: '2017-06-03T12:30:17'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/rosrid.ru-2017-06-01-dd83bebe/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-06-03T12:30:17'
+  type: ''
+  extension: .mdb
+url: https://rosrid.ru
+created: '2017-06-01'

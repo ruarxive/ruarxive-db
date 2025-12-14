@@ -1,0 +1,34 @@
+id: old-ombudsmanrf-org
+name: old.ombudsmanrf.org (2015-04-04)
+domain: old.ombudsmanrf.org
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: old.ombudsmanrf.org.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.ombudsmanrf.org/old.ombudsmanrf.org.cdx
+  size: 17899747
+  modified: '2015-04-04T09:54:03'
+  type: CDX
+  extension: .cdx
+- name: old.ombudsmanrf.org.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.ombudsmanrf.org/old.ombudsmanrf.org.7z
+  size: 19192810
+  modified: '2015-04-04T09:56:59'
+  type: ''
+  extension: .7z
+- name: old.ombudsmanrf.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.ombudsmanrf.org/old.ombudsmanrf.org.warc.xz
+  size: 24101268
+  modified: '2015-04-04T09:54:03'
+  type: WARC
+  extension: .xz
+- name: old.ombudsmanrf.org.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.ombudsmanrf.org/old.ombudsmanrf.org.log
+  size: 29831383
+  modified: '2015-04-04T09:54:03'
+  type: ''
+  extension: .log
+url: https://old.ombudsmanrf.org
+created: '2015-04-04T09:54:03'

@@ -1,0 +1,28 @@
+id: gas-u-ru
+name: gas-u.ru (2013-10-14)
+domain: gas-u.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: gas-u.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gas-u.ru/gas-u.ru.log.xz
+  size: 72656
+  modified: '2013-10-14T17:44:07'
+  type: wpull log
+  extension: .xz
+- name: gas-u.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gas-u.ru/gas-u.ru.warc.xz
+  size: 57129556
+  modified: '2013-10-14T17:44:11'
+  type: WARC
+  extension: .xz
+- name: gas-u.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gas-u.ru/gas-u.ru.cdx.xz
+  size: 137652
+  modified: '2013-10-14T17:44:07'
+  type: CDX
+  extension: .xz
+url: https://gas-u.ru
+created: '2013-10-14T17:44:11'

@@ -1,0 +1,35 @@
+id: data-mos-gorsud-ru-20220416
+name: data.mos-gorsud.ru (2022-04-16)
+domain: data.mos-gorsud.ru
+url: https://data.mos-gorsud.ru
+created: '2022-04-16'
+date: '2022-04-16'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: data.mos-gorsud.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/data.mos-gorsud.ru/2022-04-16/data.mos-gorsud.ru.cdx
+  size: 44820
+  modified: '2022-04-16T16:14:10'
+  type: CDX
+  extension: .cdx
+- name: data.mos-gorsud.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/data.mos-gorsud.ru/2022-04-16/data.mos-gorsud.ru.log
+  size: 581072
+  modified: '2022-04-16T16:14:10'
+  type: wpull log
+  extension: .log
+- name: data.mos-gorsud.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/data.mos-gorsud.ru/2022-04-16/data.mos-gorsud.ru.warc.gz
+  size: 4343182
+  modified: '2022-04-16T16:14:10'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-data.mos-gorsud.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/data.mos-gorsud.ru/2022-04-16/sitearchive-data.mos-gorsud.ru.db
+  size: 98304
+  modified: '2022-04-16T16:14:10'
+  type: ''
+  extension: .db

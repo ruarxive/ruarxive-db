@@ -1,0 +1,40 @@
+id: vor-vkks-ru-2017-05-29-12623f0e
+name: vor.vkks.ru (2017-05-29)
+domain: vor.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/vor.vkks.ru-2017-05-29-12623f0e/dupes_db/data.mdb
+  size: 110592
+  modified: '2017-06-03T08:50:56'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/vor.vkks.ru-2017-05-29-12623f0e/wpull.db
+  size: 422912
+  modified: '2017-06-03T08:50:55'
+  type: wpull database
+  extension: .db
+- name: vor.vkks.ru-2017-05-29-12623f0e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/vor.vkks.ru-2017-05-29-12623f0e/vor.vkks.ru-2017-05-29-12623f0e-00000.warc.gz
+  size: 30990016
+  modified: '2017-06-03T08:50:56'
+  type: WARC
+  extension: .warc.gz
+- name: vor.vkks.ru-2017-05-29-12623f0e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/vor.vkks.ru-2017-05-29-12623f0e/vor.vkks.ru-2017-05-29-12623f0e-meta.warc.gz
+  size: 59237
+  modified: '2017-06-03T08:50:55'
+  type: WARC
+  extension: .warc.gz
+- name: vor.vkks.ru-2017-05-29-12623f0e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/vor.vkks.ru-2017-05-29-12623f0e/vor.vkks.ru-2017-05-29-12623f0e.cdx
+  size: 574329
+  modified: '2017-06-03T08:50:55'
+  type: CDX
+  extension: .cdx
+url: https://vor.vkks.ru
+created: '2017-05-29'

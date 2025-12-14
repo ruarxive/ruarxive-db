@@ -1,0 +1,40 @@
+id: prokrt-ru-2017-04-03-c86a2212
+name: prokrt.ru (2017-04-03)
+domain: prokrt.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrt.ru-2017-04-03-c86a2212/wpull.db
+  size: 14837760
+  modified: '2017-04-03T23:00:40'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrt.ru-2017-04-03-c86a2212/dupes_db/data.mdb
+  size: 3362816
+  modified: '2017-04-03T23:00:20'
+  type: ''
+  extension: .mdb
+- name: www.prokrt.ru-2017-04-03-c86a2212-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrt.ru-2017-04-03-c86a2212/www.prokrt.ru-2017-04-03-c86a2212-00000.warc.gz
+  size: 666424154
+  modified: '2017-04-03T23:00:30'
+  type: WARC
+  extension: .warc.gz
+- name: www.prokrt.ru-2017-04-03-c86a2212.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrt.ru-2017-04-03-c86a2212/www.prokrt.ru-2017-04-03-c86a2212.cdx
+  size: 4261050
+  modified: '2017-04-03T23:00:30'
+  type: CDX
+  extension: .cdx
+- name: www.prokrt.ru-2017-04-03-c86a2212-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrt.ru-2017-04-03-c86a2212/www.prokrt.ru-2017-04-03-c86a2212-meta.warc.gz
+  size: 462196
+  modified: '2017-04-03T23:00:40'
+  type: WARC
+  extension: .warc.gz
+url: https://prokrt.ru
+created: '2017-04-03'

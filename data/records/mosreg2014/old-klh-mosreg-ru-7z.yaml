@@ -1,0 +1,16 @@
+id: old-klh-mosreg-ru-7z
+name: old.klh.mosreg.ru.7z (2017-05-06)
+domain: old.klh.mosreg.ru.7z
+collection:
+  id: mosreg2014
+  slug: mosreg2014
+  name: Региональное правительство Москвы 2014
+resources:
+- name: old.klh.mosreg.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg2014/old.klh.mosreg.ru.7z
+  size: 1070348048
+  modified: '2017-05-06T10:08:26'
+  type: ''
+  extension: .7z
+url: https://old.klh.mosreg.ru.7z
+created: '2017-05-06T10:08:26'

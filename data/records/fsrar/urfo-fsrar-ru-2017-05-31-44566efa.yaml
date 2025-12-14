@@ -1,0 +1,40 @@
+id: urfo-fsrar-ru-2017-05-31-44566efa
+name: urfo.fsrar.ru (2017-05-31)
+domain: urfo.fsrar.ru
+collection:
+  id: fsrar
+  slug: fsrar
+  name: ФСРАР
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/urfo.fsrar.ru-2017-05-31-44566efa/wpull.db
+  size: 3954688
+  modified: '2017-06-01T12:45:24'
+  type: wpull database
+  extension: .db
+- name: urfo.fsrar.ru-2017-05-31-44566efa-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/urfo.fsrar.ru-2017-05-31-44566efa/urfo.fsrar.ru-2017-05-31-44566efa-meta.warc.gz
+  size: 439584
+  modified: '2017-06-01T12:46:17'
+  type: WARC
+  extension: .warc.gz
+- name: urfo.fsrar.ru-2017-05-31-44566efa-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/urfo.fsrar.ru-2017-05-31-44566efa/urfo.fsrar.ru-2017-05-31-44566efa-00000.warc.gz
+  size: 2253944237
+  modified: '2017-06-01T12:46:16'
+  type: WARC
+  extension: .warc.gz
+- name: urfo.fsrar.ru-2017-05-31-44566efa.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/urfo.fsrar.ru-2017-05-31-44566efa/urfo.fsrar.ru-2017-05-31-44566efa.cdx
+  size: 3436121
+  modified: '2017-06-01T12:46:17'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/urfo.fsrar.ru-2017-05-31-44566efa/dupes_db/data.mdb
+  size: 1986560
+  modified: '2017-06-01T12:46:17'
+  type: ''
+  extension: .mdb
+url: https://urfo.fsrar.ru
+created: '2017-05-31'

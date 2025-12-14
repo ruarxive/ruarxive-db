@@ -1,0 +1,40 @@
+id: fl-customs-ru-2017-05-10-bb8e78e5
+name: fl.customs.ru (2017-05-10)
+domain: fl.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/fl.customs.ru-2017-05-10-bb8e78e5/wpull.db
+  size: 350208
+  modified: '2017-05-10T09:32:37'
+  type: wpull database
+  extension: .db
+- name: fl.customs.ru-2017-05-10-bb8e78e5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/fl.customs.ru-2017-05-10-bb8e78e5/fl.customs.ru-2017-05-10-bb8e78e5-meta.warc.gz
+  size: 51729
+  modified: '2017-05-10T09:32:37'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/fl.customs.ru-2017-05-10-bb8e78e5/dupes_db/data.mdb
+  size: 208896
+  modified: '2017-05-10T09:32:31'
+  type: ''
+  extension: .mdb
+- name: fl.customs.ru-2017-05-10-bb8e78e5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/fl.customs.ru-2017-05-10-bb8e78e5/fl.customs.ru-2017-05-10-bb8e78e5-00000.warc.gz
+  size: 33173526
+  modified: '2017-05-10T09:32:37'
+  type: WARC
+  extension: .warc.gz
+- name: fl.customs.ru-2017-05-10-bb8e78e5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/fl.customs.ru-2017-05-10-bb8e78e5/fl.customs.ru-2017-05-10-bb8e78e5.cdx
+  size: 290803
+  modified: '2017-05-10T09:32:31'
+  type: CDX
+  extension: .cdx
+url: https://fl.customs.ru
+created: '2017-05-10'

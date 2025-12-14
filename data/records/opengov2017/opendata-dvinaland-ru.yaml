@@ -1,0 +1,34 @@
+id: opendata-dvinaland-ru
+name: opendata.dvinaland.ru (2017-02-18)
+domain: opendata.dvinaland.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: opendata.dvinaland.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.dvinaland.ru/opendata.dvinaland.ru.cdx
+  size: 273517
+  modified: '2017-02-18T14:40:18'
+  type: CDX
+  extension: .cdx
+- name: opendata.dvinaland.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.dvinaland.ru/opendata.dvinaland.ru.warc.gz
+  size: 8372437
+  modified: '2017-02-18T14:40:18'
+  type: WARC
+  extension: .warc.gz
+- name: opendata.dvinaland.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.dvinaland.ru/opendata.dvinaland.ru.log
+  size: 505344
+  modified: '2017-02-18T14:40:18'
+  type: ''
+  extension: .log
+- name: opendata.dvinaland.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.dvinaland.ru/opendata.dvinaland.ru.7z
+  size: 4375392
+  modified: '2017-02-23T12:50:58'
+  type: ''
+  extension: .7z
+url: https://opendata.dvinaland.ru
+created: '2017-02-18T14:40:18'

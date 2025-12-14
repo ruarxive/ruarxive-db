@@ -1,0 +1,34 @@
+id: rbb-ru
+name: rbb.ru (2014-05-14)
+domain: rbb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.rbb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rbb.ru/www.rbb.ru.warc.xz
+  size: 98801180
+  modified: '2014-05-14T18:01:05'
+  type: WARC
+  extension: .xz
+- name: www.rbb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rbb.ru/www.rbb.ru.log.xz
+  size: 26964
+  modified: '2014-05-14T18:01:05'
+  type: wpull log
+  extension: .xz
+- name: www.rbb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rbb.ru/www.rbb.ru.7z
+  size: 98945394
+  modified: '2014-08-19T21:47:38'
+  type: ''
+  extension: .7z
+- name: www.rbb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rbb.ru/www.rbb.ru.cdx.xz
+  size: 31024
+  modified: '2014-05-14T18:01:05'
+  type: CDX
+  extension: .xz
+url: https://rbb.ru
+created: '2014-05-14T18:01:05'

@@ -1,0 +1,34 @@
+id: azbank-ru
+name: azbank.ru (2014-05-13)
+domain: azbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.azbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.azbank.ru/www.azbank.ru.cdx.xz
+  size: 21256
+  modified: '2014-05-13T09:52:11'
+  type: CDX
+  extension: .xz
+- name: www.azbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.azbank.ru/www.azbank.ru.warc.xz
+  size: 93986644
+  modified: '2014-05-13T09:52:11'
+  type: WARC
+  extension: .xz
+- name: www.azbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.azbank.ru/www.azbank.ru.log.xz
+  size: 21732
+  modified: '2014-05-13T09:52:11'
+  type: wpull log
+  extension: .xz
+- name: www.azbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.azbank.ru/www.azbank.ru.7z
+  size: 94356315
+  modified: '2014-08-19T17:57:18'
+  type: ''
+  extension: .7z
+url: https://azbank.ru
+created: '2014-05-13T09:52:11'

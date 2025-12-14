@@ -1,0 +1,18 @@
+id: newtimes2022
+slug: newtimes2022
+name: The Moscow Times 2022
+created: '2022-03-04T05:23:34.000Z'
+description: Сайт и другие онлайн ресурсы The Moscow Times
+collection_type: единовременная
+collection_date: '2022-03-04'
+reason: Высокая вероятность блокировки в России и иных мер после предупреждения Роскомнадзора
+  в начале марта 2022 года.
+num_records: 1
+records:
+- id: newtimes-ru
+  name: Сайт The New Times
+  url: https://newtimes.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T05:21:43.000Z'
+  domain: newtimes.ru

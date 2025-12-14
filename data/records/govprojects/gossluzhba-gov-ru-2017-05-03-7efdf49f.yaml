@@ -1,0 +1,40 @@
+id: gossluzhba-gov-ru-2017-05-03-7efdf49f
+name: gossluzhba.gov.ru (2017-05-03)
+domain: gossluzhba.gov.ru
+collection:
+  id: govprojects
+  slug: govprojects
+  name: Государственные проекты
+resources:
+- name: gossluzhba.gov.ru-2017-05-03-7efdf49f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/gossluzhba.gov.ru-2017-05-03-7efdf49f/gossluzhba.gov.ru-2017-05-03-7efdf49f.cdx
+  size: 1955911
+  modified: '2017-05-03T09:34:14'
+  type: CDX
+  extension: .cdx
+- name: gossluzhba.gov.ru-2017-05-03-7efdf49f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/gossluzhba.gov.ru-2017-05-03-7efdf49f/gossluzhba.gov.ru-2017-05-03-7efdf49f-00000.warc.gz
+  size: 172026548
+  modified: '2017-05-03T09:41:48'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/gossluzhba.gov.ru-2017-05-03-7efdf49f/dupes_db/data.mdb
+  size: 1155072
+  modified: '2017-05-03T09:34:14'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/gossluzhba.gov.ru-2017-05-03-7efdf49f/wpull.db
+  size: 2108416
+  modified: '2017-05-03T09:41:48'
+  type: wpull database
+  extension: .db
+- name: gossluzhba.gov.ru-2017-05-03-7efdf49f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/gossluzhba.gov.ru-2017-05-03-7efdf49f/gossluzhba.gov.ru-2017-05-03-7efdf49f-meta.warc.gz
+  size: 280514
+  modified: '2017-05-03T09:41:48'
+  type: WARC
+  extension: .warc.gz
+url: https://gossluzhba.gov.ru
+created: '2017-05-03'

@@ -1,0 +1,70 @@
+id: xn--d1aqf-xn--p1ai-2017-05-10-c50da169
+name: xn--d1aqf.xn--p1ai (2017-05-10)
+domain: xn--d1aqf.xn--p1ai
+collection:
+  id: aizhk
+  slug: aizhk
+  name: АИЖК
+resources:
+- name: xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00003.warc.gz
+  size: 5369799610
+  modified: '2017-05-13T15:05:55'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/wpull.db
+  size: 34038784
+  modified: '2017-05-14T11:57:40'
+  type: wpull database
+  extension: .db
+- name: xn--d1aqf.xn--p1ai-2017-05-10-c50da169.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/xn--d1aqf.xn--p1ai-2017-05-10-c50da169.cdx
+  size: 29127870
+  modified: '2017-05-14T11:57:40'
+  type: CDX
+  extension: .cdx
+- name: xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00002.warc.gz
+  size: 5405956268
+  modified: '2017-05-13T11:19:22'
+  type: WARC
+  extension: .warc.gz
+- name: xn--d1aqf.xn--p1ai-2017-05-10-c50da169-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/xn--d1aqf.xn--p1ai-2017-05-10-c50da169-meta.warc.gz
+  size: 3176546
+  modified: '2017-05-14T11:57:43'
+  type: WARC
+  extension: .warc.gz
+- name: xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00004.warc.gz
+  size: 5383891827
+  modified: '2017-05-13T19:24:54'
+  type: WARC
+  extension: .warc.gz
+- name: xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00000.warc.gz
+  size: 5381092043
+  modified: '2017-05-12T04:47:01'
+  type: WARC
+  extension: .warc.gz
+- name: xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00005.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00005.warc.gz
+  size: 1198246149
+  modified: '2017-05-14T11:57:40'
+  type: WARC
+  extension: .warc.gz
+- name: xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/xn--d1aqf.xn--p1ai-2017-05-10-c50da169-00001.warc.gz
+  size: 5368714957
+  modified: '2017-05-13T06:12:09'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/xn--d1aqf.xn--p1ai-2017-05-10-c50da169/dupes_db/data.mdb
+  size: 9617408
+  modified: '2017-05-14T11:57:36'
+  type: ''
+  extension: .mdb
+url: https://xn--d1aqf.xn--p1ai
+created: '2017-05-10'

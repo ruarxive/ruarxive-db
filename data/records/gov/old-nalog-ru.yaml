@@ -1,0 +1,40 @@
+id: old-nalog-ru
+name: old.nalog.ru (2014-01-07)
+domain: old.nalog.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: old.nalog.ru.warc.gz.7z.001
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.nalog.ru/old.nalog.ru.warc.gz.7z.001
+  size: 3221225472
+  modified: '2014-01-07T14:30:41'
+  type: ''
+  extension: '.001'
+- name: old.nalog.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.nalog.ru/old.nalog.ru.cdx.xz
+  size: 2135044
+  modified: '2014-01-07T14:42:57'
+  type: CDX
+  extension: .xz
+- name: old.nalog.ru.warc.gz.7z.002
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.nalog.ru/old.nalog.ru.warc.gz.7z.002
+  size: 3221225472
+  modified: '2014-01-07T14:17:52'
+  type: ''
+  extension: '.002'
+- name: old.nalog.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.nalog.ru/old.nalog.ru.log.xz
+  size: 1937212
+  modified: '2014-01-07T14:39:24'
+  type: wpull log
+  extension: .xz
+- name: old.nalog.ru.warc.gz.7z.003
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.nalog.ru/old.nalog.ru.warc.gz.7z.003
+  size: 1238327613
+  modified: '2014-01-07T14:39:48'
+  type: ''
+  extension: '.003'
+url: https://old.nalog.ru
+created: '2014-01-07T14:17:52'

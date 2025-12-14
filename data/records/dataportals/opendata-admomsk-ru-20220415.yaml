@@ -1,0 +1,35 @@
+id: opendata-admomsk-ru-20220415
+name: opendata.admomsk.ru (2022-04-15)
+domain: opendata.admomsk.ru
+url: https://opendata.admomsk.ru
+created: '2022-04-15'
+date: '2022-04-15'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.admomsk.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.admomsk.ru/2022-04-15/opendata.admomsk.ru.cdx
+  size: 3389888
+  modified: '2022-04-15T16:48:52'
+  type: CDX
+  extension: .cdx
+- name: opendata.admomsk.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.admomsk.ru/2022-04-15/opendata.admomsk.ru.log
+  size: 36667100
+  modified: '2022-04-15T16:48:53'
+  type: wpull log
+  extension: .log
+- name: opendata.admomsk.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.admomsk.ru/2022-04-15/opendata.admomsk.ru.warc.gz
+  size: 282285943
+  modified: '2022-04-15T16:48:52'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.admomsk.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.admomsk.ru/2022-04-15/sitearchive-opendata.admomsk.ru.db
+  size: 10317824
+  modified: '2022-04-15T16:48:53'
+  type: ''
+  extension: .db

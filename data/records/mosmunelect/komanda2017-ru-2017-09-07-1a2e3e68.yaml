@@ -1,0 +1,40 @@
+id: komanda2017-ru-2017-09-07-1a2e3e68
+name: komanda2017.ru (2017-09-07)
+domain: komanda2017.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.komanda2017.ru-2017-09-07-1a2e3e68/dupes_db/data.mdb
+  size: 77824
+  modified: '2017-09-07T22:04:00'
+  type: ''
+  extension: .mdb
+- name: www.komanda2017.ru-2017-09-07-1a2e3e68-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.komanda2017.ru-2017-09-07-1a2e3e68/www.komanda2017.ru-2017-09-07-1a2e3e68-meta.warc.gz
+  size: 12575
+  modified: '2017-09-07T22:04:01'
+  type: WARC
+  extension: .warc.gz
+- name: www.komanda2017.ru-2017-09-07-1a2e3e68.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.komanda2017.ru-2017-09-07-1a2e3e68/www.komanda2017.ru-2017-09-07-1a2e3e68.cdx
+  size: 73826
+  modified: '2017-09-07T22:04:00'
+  type: CDX
+  extension: .cdx
+- name: www.komanda2017.ru-2017-09-07-1a2e3e68-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.komanda2017.ru-2017-09-07-1a2e3e68/www.komanda2017.ru-2017-09-07-1a2e3e68-00000.warc.gz
+  size: 7094870
+  modified: '2017-09-07T22:04:00'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.komanda2017.ru-2017-09-07-1a2e3e68/wpull.db
+  size: 83968
+  modified: '2017-09-07T22:04:00'
+  type: wpull database
+  extension: .db
+url: https://komanda2017.ru
+created: '2017-09-07'

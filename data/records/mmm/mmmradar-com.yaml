@@ -1,0 +1,28 @@
+id: mmmradar-com
+name: mmmradar.com (2013-10-28)
+domain: mmmradar.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmmradar.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmradar.com/mmmradar.com.warc.xz
+  size: 878344
+  modified: '2013-10-28T06:12:55'
+  type: WARC
+  extension: .xz
+- name: mmmradar.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmradar.com/mmmradar.com.cdx.xz
+  size: 11644
+  modified: '2013-10-28T06:12:56'
+  type: CDX
+  extension: .xz
+- name: mmmradar.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmradar.com/mmmradar.com.log.xz
+  size: 22388
+  modified: '2013-10-28T06:12:56'
+  type: wpull log
+  extension: .xz
+url: https://mmmradar.com
+created: '2013-10-28T06:12:55'

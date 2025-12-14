@@ -1,0 +1,28 @@
+id: r-mmm-ru
+name: r-mmm.ru (2013-10-27)
+domain: r-mmm.ru
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: r-mmm.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/r-mmm.ru/r-mmm.ru.warc.xz
+  size: 1456
+  modified: '2013-10-27T17:29:09'
+  type: WARC
+  extension: .xz
+- name: r-mmm.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/r-mmm.ru/r-mmm.ru.log.xz
+  size: 348
+  modified: '2013-10-27T17:29:08'
+  type: wpull log
+  extension: .xz
+- name: r-mmm.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/r-mmm.ru/r-mmm.ru.cdx.xz
+  size: 232
+  modified: '2013-10-27T17:29:10'
+  type: CDX
+  extension: .xz
+url: https://r-mmm.ru
+created: '2013-10-27T17:29:09'

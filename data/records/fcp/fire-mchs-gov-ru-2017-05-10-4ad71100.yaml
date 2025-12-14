@@ -1,0 +1,69 @@
+id: fire-mchs-gov-ru-2017-05-10-4ad71100
+name: fire.mchs.gov.ru (2017-05-10)
+domain: fire.mchs.gov.ru
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: fire.mchs.gov.ru-2017-05-10-4ad71100.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/fire.mchs.gov.ru-2017-05-10-4ad71100.cdx
+  size: 17545308
+  modified: '2017-05-11T06:53:53'
+  type: CDX
+  extension: .cdx
+- name: fire.mchs.gov.ru-2017-05-10-4ad71100-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/fire.mchs.gov.ru-2017-05-10-4ad71100-meta.warc.gz
+  size: 2043726
+  modified: '2017-05-11T07:44:01'
+  type: WARC
+  extension: .warc.gz
+- name: fire.mchs.gov.ru-2017-05-10-4ad71100-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/fire.mchs.gov.ru-2017-05-10-4ad71100-00001.warc.gz
+  size: 5396804140
+  modified: '2017-05-10T21:00:23'
+  type: WARC
+  extension: .warc.gz
+- name: fire.mchs.gov.ru-2017-05-10-4ad71100-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/fire.mchs.gov.ru-2017-05-10-4ad71100-00004.warc.gz
+  size: 640846181
+  modified: '2017-05-11T06:53:53'
+  type: WARC
+  extension: .warc.gz
+- name: fire.mchs.gov.ru-2017-05-10-4ad71100-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/fire.mchs.gov.ru-2017-05-10-4ad71100-00000.warc.gz
+  size: 5397258813
+  modified: '2017-05-10T15:45:14'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/wpull.db
+  size: 19233792
+  modified: '2017-05-11T07:43:39'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/dupes_db/data.mdb
+  size: 10489856
+  modified: '2017-05-11T06:53:53'
+  type: ''
+  extension: .mdb
+- name: fire.mchs.gov.ru-2017-05-10-4ad71100-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/fire.mchs.gov.ru-2017-05-10-4ad71100-00002.warc.gz
+  size: 5368740906
+  modified: '2017-05-11T00:09:10'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/stop
+  size: 0
+  modified: '2017-05-11T07:43:59'
+  type: ''
+- name: fire.mchs.gov.ru-2017-05-10-4ad71100-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/fire.mchs.gov.ru-2017-05-10-4ad71100/fire.mchs.gov.ru-2017-05-10-4ad71100-00003.warc.gz
+  size: 5368985584
+  modified: '2017-05-11T02:54:16'
+  type: WARC
+  extension: .warc.gz
+url: https://fire.mchs.gov.ru
+created: '2017-05-10'

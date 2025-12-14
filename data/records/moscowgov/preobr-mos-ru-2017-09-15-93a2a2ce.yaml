@@ -1,0 +1,40 @@
+id: preobr-mos-ru-2017-09-15-93a2a2ce
+name: preobr.mos.ru (2017-09-15)
+domain: preobr.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: preobr.mos.ru-2017-09-15-93a2a2ce-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/preobr.mos.ru-2017-09-15-93a2a2ce/preobr.mos.ru-2017-09-15-93a2a2ce-meta.warc.gz
+  size: 1146219
+  modified: '2017-09-17T08:45:15'
+  type: WARC
+  extension: .warc.gz
+- name: preobr.mos.ru-2017-09-15-93a2a2ce.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/preobr.mos.ru-2017-09-15-93a2a2ce/preobr.mos.ru-2017-09-15-93a2a2ce.cdx
+  size: 7709229
+  modified: '2017-09-17T08:45:01'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/preobr.mos.ru-2017-09-15-93a2a2ce/wpull.db
+  size: 9161728
+  modified: '2017-09-17T08:45:06'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/preobr.mos.ru-2017-09-15-93a2a2ce/dupes_db/data.mdb
+  size: 4390912
+  modified: '2017-09-17T08:45:01'
+  type: ''
+  extension: .mdb
+- name: preobr.mos.ru-2017-09-15-93a2a2ce-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/preobr.mos.ru-2017-09-15-93a2a2ce/preobr.mos.ru-2017-09-15-93a2a2ce-00000.warc.gz
+  size: 3439775809
+  modified: '2017-09-17T08:45:01'
+  type: WARC
+  extension: .warc.gz
+url: https://preobr.mos.ru
+created: '2017-09-15'

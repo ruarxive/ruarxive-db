@@ -1,0 +1,40 @@
+id: reestr-fgosvo-ru-2017-07-06-75284049
+name: reestr.fgosvo.ru (2017-07-06)
+domain: reestr.fgosvo.ru
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: reestr.fgosvo.ru-2017-07-06-75284049.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/reestr.fgosvo.ru-2017-07-06-75284049/reestr.fgosvo.ru-2017-07-06-75284049.cdx
+  size: 466641
+  modified: '2017-07-07T00:40:13'
+  type: CDX
+  extension: .cdx
+- name: reestr.fgosvo.ru-2017-07-06-75284049-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/reestr.fgosvo.ru-2017-07-06-75284049/reestr.fgosvo.ru-2017-07-06-75284049-00000.warc.gz
+  size: 17787164
+  modified: '2017-07-07T00:40:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/reestr.fgosvo.ru-2017-07-06-75284049/wpull.db
+  size: 468992
+  modified: '2017-07-07T00:40:13'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/reestr.fgosvo.ru-2017-07-06-75284049/dupes_db/data.mdb
+  size: 311296
+  modified: '2017-07-07T00:40:10'
+  type: ''
+  extension: .mdb
+- name: reestr.fgosvo.ru-2017-07-06-75284049-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/reestr.fgosvo.ru-2017-07-06-75284049/reestr.fgosvo.ru-2017-07-06-75284049-meta.warc.gz
+  size: 43424
+  modified: '2017-07-07T00:40:13'
+  type: WARC
+  extension: .warc.gz
+url: https://reestr.fgosvo.ru
+created: '2017-07-06'

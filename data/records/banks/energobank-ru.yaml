@@ -1,0 +1,40 @@
+id: energobank-ru
+name: energobank.ru (2013-12-19)
+domain: energobank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.energobank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energobank.ru/www.energobank.ru.log.xz
+  size: 141564
+  modified: '2014-05-09T16:20:39'
+  type: wpull log
+  extension: .xz
+- name: www.energobank.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energobank.ru/www.energobank.ru.warc
+  size: 777443020
+  modified: '2014-05-09T16:20:39'
+  type: WARC
+  extension: .warc
+- name: www.energobank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energobank.ru/www.energobank.ru.cdx.xz
+  size: 166536
+  modified: '2014-05-09T16:20:39'
+  type: CDX
+  extension: .xz
+- name: www.energobank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energobank.ru/www.energobank.ru.7z
+  size: 536935636
+  modified: '2014-08-19T22:38:16'
+  type: ''
+  extension: .7z
+- name: www.energobank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energobank.ru/www.energobank.ru.warc.xz
+  size: 506469528
+  modified: '2013-12-19T16:09:44'
+  type: WARC
+  extension: .xz
+url: https://energobank.ru
+created: '2013-12-19T16:09:44'

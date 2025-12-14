@@ -1,0 +1,40 @@
+id: finance-sputnik-ru-2018-02-05-ae67ae9a
+name: finance.sputnik.ru (2018-02-05)
+domain: finance.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: finance.sputnik.ru-2018-02-05-ae67ae9a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/finance.sputnik.ru-2018-02-05-ae67ae9a/finance.sputnik.ru-2018-02-05-ae67ae9a.cdx
+  size: 14477
+  modified: '2018-02-05T17:08:07'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/finance.sputnik.ru-2018-02-05-ae67ae9a/wpull.db
+  size: 22528
+  modified: '2018-02-05T17:08:07'
+  type: wpull database
+  extension: .db
+- name: finance.sputnik.ru-2018-02-05-ae67ae9a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/finance.sputnik.ru-2018-02-05-ae67ae9a/finance.sputnik.ru-2018-02-05-ae67ae9a-meta.warc.gz
+  size: 4891
+  modified: '2018-02-05T17:08:07'
+  type: WARC
+  extension: .warc.gz
+- name: finance.sputnik.ru-2018-02-05-ae67ae9a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/finance.sputnik.ru-2018-02-05-ae67ae9a/finance.sputnik.ru-2018-02-05-ae67ae9a-00000.warc.gz
+  size: 961385
+  modified: '2018-02-05T17:08:07'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/finance.sputnik.ru-2018-02-05-ae67ae9a/dupes_db/data.mdb
+  size: 49152
+  modified: '2018-02-05T17:08:03'
+  type: ''
+  extension: .mdb
+url: https://finance.sputnik.ru
+created: '2018-02-05'

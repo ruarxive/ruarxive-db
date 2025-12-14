@@ -1,0 +1,40 @@
+id: schools-mccme-ru-2017-06-28-b6c1bb2a
+name: schools.mccme.ru (2017-06-28)
+domain: schools.mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/schools.mccme.ru-2017-06-28-b6c1bb2a/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-06-28T19:30:52'
+  type: ''
+  extension: .mdb
+- name: schools.mccme.ru-2017-06-28-b6c1bb2a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/schools.mccme.ru-2017-06-28-b6c1bb2a/schools.mccme.ru-2017-06-28-b6c1bb2a-meta.warc.gz
+  size: 6420
+  modified: '2017-06-28T19:30:52'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/schools.mccme.ru-2017-06-28-b6c1bb2a/wpull.db
+  size: 35840
+  modified: '2017-06-28T19:30:52'
+  type: wpull database
+  extension: .db
+- name: schools.mccme.ru-2017-06-28-b6c1bb2a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/schools.mccme.ru-2017-06-28-b6c1bb2a/schools.mccme.ru-2017-06-28-b6c1bb2a.cdx
+  size: 29786
+  modified: '2017-06-28T19:30:52'
+  type: CDX
+  extension: .cdx
+- name: schools.mccme.ru-2017-06-28-b6c1bb2a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/schools.mccme.ru-2017-06-28-b6c1bb2a/schools.mccme.ru-2017-06-28-b6c1bb2a-00000.warc.gz
+  size: 1475958
+  modified: '2017-06-28T19:30:52'
+  type: WARC
+  extension: .warc.gz
+url: https://schools.mccme.ru
+created: '2017-06-28'

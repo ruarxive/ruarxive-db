@@ -1,0 +1,40 @@
+id: dyagilev7-ru-2017-09-07-07252135
+name: dyagilev7.ru (2017-09-07)
+domain: dyagilev7.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/dyagilev7.ru-2017-09-07-07252135/wpull.db
+  size: 40960
+  modified: '2017-09-07T22:00:38'
+  type: wpull database
+  extension: .db
+- name: dyagilev7.ru-2017-09-07-07252135.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/dyagilev7.ru-2017-09-07-07252135/dyagilev7.ru-2017-09-07-07252135.cdx
+  size: 27233
+  modified: '2017-09-07T22:00:37'
+  type: CDX
+  extension: .cdx
+- name: dyagilev7.ru-2017-09-07-07252135-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/dyagilev7.ru-2017-09-07-07252135/dyagilev7.ru-2017-09-07-07252135-00000.warc.gz
+  size: 16387341
+  modified: '2017-09-07T22:00:37'
+  type: WARC
+  extension: .warc.gz
+- name: dyagilev7.ru-2017-09-07-07252135-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/dyagilev7.ru-2017-09-07-07252135/dyagilev7.ru-2017-09-07-07252135-meta.warc.gz
+  size: 7142
+  modified: '2017-09-07T22:00:38'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/dyagilev7.ru-2017-09-07-07252135/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-09-07T22:00:34'
+  type: ''
+  extension: .mdb
+url: https://dyagilev7.ru
+created: '2017-09-07'

@@ -1,0 +1,28 @@
+id: delo-sps-ru
+name: delo.sps.ru (2013-12-11)
+domain: delo.sps.ru
+collection:
+  id: politics
+  slug: politics
+  name: Политика
+resources:
+- name: delo.sps.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/politics/delo.sps.ru/delo.sps.ru.log.xz
+  size: 14552
+  modified: '2013-12-11T20:06:53'
+  type: wpull log
+  extension: .xz
+- name: delo.sps.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/politics/delo.sps.ru/delo.sps.ru.warc.xz
+  size: 600656
+  modified: '2013-12-11T20:06:52'
+  type: WARC
+  extension: .xz
+- name: delo.sps.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/politics/delo.sps.ru/delo.sps.ru.cdx.xz
+  size: 38204
+  modified: '2013-12-11T20:06:51'
+  type: CDX
+  extension: .xz
+url: https://delo.sps.ru
+created: '2013-12-11T20:06:52'

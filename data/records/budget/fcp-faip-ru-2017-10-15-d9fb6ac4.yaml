@@ -1,0 +1,40 @@
+id: fcp-faip-ru-2017-10-15-d9fb6ac4
+name: fcp-faip.ru (2017-10-15)
+domain: fcp-faip.ru
+collection:
+  id: budget
+  slug: budget
+  name: Бюджет
+resources:
+- name: fcp-faip.ru-2017-10-15-d9fb6ac4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/budget/fcp-faip.ru-2017-10-15-d9fb6ac4/fcp-faip.ru-2017-10-15-d9fb6ac4-meta.warc.gz
+  size: 4451136
+  modified: '2017-10-18T02:40:11'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/budget/fcp-faip.ru-2017-10-15-d9fb6ac4/dupes_db/data.mdb
+  size: 140185600
+  modified: '2017-10-18T02:39:23'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/budget/fcp-faip.ru-2017-10-15-d9fb6ac4/wpull.db
+  size: 363187200
+  modified: '2017-10-18T02:40:05'
+  type: wpull database
+  extension: .db
+- name: fcp-faip.ru-2017-10-15-d9fb6ac4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/budget/fcp-faip.ru-2017-10-15-d9fb6ac4/fcp-faip.ru-2017-10-15-d9fb6ac4.cdx
+  size: 108160965
+  modified: '2017-10-18T02:39:23'
+  type: CDX
+  extension: .cdx
+- name: fcp-faip.ru-2017-10-15-d9fb6ac4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/budget/fcp-faip.ru-2017-10-15-d9fb6ac4/fcp-faip.ru-2017-10-15-d9fb6ac4-00000.warc.gz
+  size: 668534466
+  modified: '2017-10-18T02:39:23'
+  type: WARC
+  extension: .warc.gz
+url: https://fcp-faip.ru
+created: '2017-10-15'

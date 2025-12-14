@@ -1,0 +1,28 @@
+id: g20-org
+name: g20.org (2013-12-11)
+domain: g20.org
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: g20.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/g20.org/g20.org.cdx.xz
+  size: 11712
+  modified: '2013-12-11T05:50:44'
+  type: CDX
+  extension: .xz
+- name: g20.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/g20.org/g20.org.log.xz
+  size: 8216
+  modified: '2013-12-11T05:50:44'
+  type: wpull log
+  extension: .xz
+- name: g20.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/g20.org/g20.org.warc.xz
+  size: 1282724
+  modified: '2013-12-11T05:50:43'
+  type: WARC
+  extension: .xz
+url: https://g20.org
+created: '2013-12-11T05:50:43'

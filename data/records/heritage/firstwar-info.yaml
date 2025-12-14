@@ -1,0 +1,28 @@
+id: firstwar-info
+name: firstwar.info (2013-12-17)
+domain: firstwar.info
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: www.firstwar.info.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.firstwar.info/www.firstwar.info.warc.xz
+  size: 102772552
+  modified: '2013-12-17T13:27:31'
+  type: WARC
+  extension: .xz
+- name: www.firstwar.info.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.firstwar.info/www.firstwar.info.log.xz
+  size: 139416
+  modified: '2013-12-17T13:27:26'
+  type: wpull log
+  extension: .xz
+- name: www.firstwar.info.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.firstwar.info/www.firstwar.info.cdx.xz
+  size: 292432
+  modified: '2013-12-17T13:27:53'
+  type: CDX
+  extension: .xz
+url: https://firstwar.info
+created: '2013-12-17T13:27:31'

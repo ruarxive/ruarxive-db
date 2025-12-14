@@ -1,0 +1,35 @@
+id: data-yanao-ru-20220415
+name: data.yanao.ru (2022-04-15)
+domain: data.yanao.ru
+url: https://data.yanao.ru
+created: '2022-04-15'
+date: '2022-04-15'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: data.yanao.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/data.yanao.ru/2022-04-15/data.yanao.ru.cdx
+  size: 752305
+  modified: '2022-04-15T19:29:17'
+  type: CDX
+  extension: .cdx
+- name: data.yanao.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/data.yanao.ru/2022-04-15/data.yanao.ru.log
+  size: 9494710
+  modified: '2022-04-15T19:29:18'
+  type: wpull log
+  extension: .log
+- name: data.yanao.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/data.yanao.ru/2022-04-15/data.yanao.ru.warc.gz
+  size: 56997816
+  modified: '2022-04-15T19:29:18'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-data.yanao.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/data.yanao.ru/2022-04-15/sitearchive-data.yanao.ru.db
+  size: 1331200
+  modified: '2022-04-15T19:29:18'
+  type: ''
+  extension: .db

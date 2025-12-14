@@ -1,0 +1,40 @@
+id: mundep-aeroport-ru-2017-09-07-563b82f9
+name: mundep-aeroport.ru (2017-09-07)
+domain: mundep-aeroport.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: www.mundep-aeroport.ru-2017-09-07-563b82f9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.mundep-aeroport.ru-2017-09-07-563b82f9/www.mundep-aeroport.ru-2017-09-07-563b82f9-meta.warc.gz
+  size: 14126
+  modified: '2017-09-07T22:02:58'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.mundep-aeroport.ru-2017-09-07-563b82f9/wpull.db
+  size: 87040
+  modified: '2017-09-07T22:02:57'
+  type: wpull database
+  extension: .db
+- name: www.mundep-aeroport.ru-2017-09-07-563b82f9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.mundep-aeroport.ru-2017-09-07-563b82f9/www.mundep-aeroport.ru-2017-09-07-563b82f9.cdx
+  size: 76137
+  modified: '2017-09-07T22:02:57'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.mundep-aeroport.ru-2017-09-07-563b82f9/dupes_db/data.mdb
+  size: 77824
+  modified: '2017-09-07T22:02:57'
+  type: ''
+  extension: .mdb
+- name: www.mundep-aeroport.ru-2017-09-07-563b82f9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.mundep-aeroport.ru-2017-09-07-563b82f9/www.mundep-aeroport.ru-2017-09-07-563b82f9-00000.warc.gz
+  size: 10174348
+  modified: '2017-09-07T22:02:57'
+  type: WARC
+  extension: .warc.gz
+url: https://mundep-aeroport.ru
+created: '2017-09-07'

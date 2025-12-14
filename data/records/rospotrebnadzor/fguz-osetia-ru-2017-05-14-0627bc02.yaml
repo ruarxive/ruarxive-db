@@ -1,0 +1,40 @@
+id: fguz-osetia-ru-2017-05-14-0627bc02
+name: fguz-osetia.ru (2017-05-14)
+domain: fguz-osetia.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: fguz-osetia.ru-2017-05-14-0627bc02.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-osetia.ru-2017-05-14-0627bc02/fguz-osetia.ru-2017-05-14-0627bc02.cdx
+  size: 2803449
+  modified: '2017-05-14T16:24:29'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-osetia.ru-2017-05-14-0627bc02/dupes_db/data.mdb
+  size: 1220608
+  modified: '2017-05-14T16:24:28'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-osetia.ru-2017-05-14-0627bc02/wpull.db
+  size: 4671488
+  modified: '2017-05-14T16:24:30'
+  type: wpull database
+  extension: .db
+- name: fguz-osetia.ru-2017-05-14-0627bc02-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-osetia.ru-2017-05-14-0627bc02/fguz-osetia.ru-2017-05-14-0627bc02-00000.warc.gz
+  size: 133976537
+  modified: '2017-05-14T16:24:29'
+  type: WARC
+  extension: .warc.gz
+- name: fguz-osetia.ru-2017-05-14-0627bc02-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-osetia.ru-2017-05-14-0627bc02/fguz-osetia.ru-2017-05-14-0627bc02-meta.warc.gz
+  size: 204877
+  modified: '2017-05-14T16:24:32'
+  type: WARC
+  extension: .warc.gz
+url: https://fguz-osetia.ru
+created: '2017-05-14'

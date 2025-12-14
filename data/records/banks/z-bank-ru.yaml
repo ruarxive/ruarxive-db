@@ -1,0 +1,28 @@
+id: z-bank-ru
+name: z-bank.ru (2013-12-31)
+domain: z-bank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.z-bank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.z-bank.ru/www.z-bank.ru.log.xz
+  size: 27228
+  modified: '2013-12-31T09:22:45'
+  type: wpull log
+  extension: .xz
+- name: www.z-bank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.z-bank.ru/www.z-bank.ru.warc.xz
+  size: 38480292
+  modified: '2013-12-31T09:23:03'
+  type: WARC
+  extension: .xz
+- name: www.z-bank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.z-bank.ru/www.z-bank.ru.cdx.xz
+  size: 26096
+  modified: '2013-12-31T09:22:45'
+  type: CDX
+  extension: .xz
+url: https://z-bank.ru
+created: '2013-12-31T09:23:03'

@@ -1,0 +1,58 @@
+id: civildignity-ru-2017-04-13-e6398ebe
+name: civildignity.ru (2017-04-13)
+domain: civildignity.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.civildignity.ru-2017-04-13-e6398ebe/dupes_db/data.mdb
+  size: 19800064
+  modified: '2017-04-13T17:36:12'
+  type: ''
+  extension: .mdb
+- name: www.civildignity.ru-2017-04-13-e6398ebe.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.civildignity.ru-2017-04-13-e6398ebe/www.civildignity.ru-2017-04-13-e6398ebe.cdx
+  size: 27858066
+  modified: '2017-04-13T17:40:14'
+  type: CDX
+  extension: .cdx
+- name: www.civildignity.ru-2017-04-13-e6398ebe-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.civildignity.ru-2017-04-13-e6398ebe/www.civildignity.ru-2017-04-13-e6398ebe-00000.warc.gz
+  size: 5368927935
+  modified: '2017-04-13T15:17:37'
+  type: WARC
+  extension: .warc.gz
+- name: www.civildignity.ru-2017-04-13-e6398ebe-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.civildignity.ru-2017-04-13-e6398ebe/www.civildignity.ru-2017-04-13-e6398ebe-meta.warc.gz
+  size: 3404525
+  modified: '2017-04-13T17:40:16'
+  type: WARC
+  extension: .warc.gz
+- name: www.civildignity.ru-2017-04-13-e6398ebe-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.civildignity.ru-2017-04-13-e6398ebe/www.civildignity.ru-2017-04-13-e6398ebe-00001.warc.gz
+  size: 5368776945
+  modified: '2017-04-13T16:29:50'
+  type: WARC
+  extension: .warc.gz
+- name: www.civildignity.ru-2017-04-13-e6398ebe-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.civildignity.ru-2017-04-13-e6398ebe/www.civildignity.ru-2017-04-13-e6398ebe-00003.warc.gz
+  size: 4193087589
+  modified: '2017-04-13T17:40:14'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.civildignity.ru-2017-04-13-e6398ebe/wpull.db
+  size: 47935488
+  modified: '2017-04-13T17:40:16'
+  type: wpull database
+  extension: .db
+- name: www.civildignity.ru-2017-04-13-e6398ebe-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.civildignity.ru-2017-04-13-e6398ebe/www.civildignity.ru-2017-04-13-e6398ebe-00002.warc.gz
+  size: 5371978883
+  modified: '2017-04-13T16:56:58'
+  type: WARC
+  extension: .warc.gz
+url: https://civildignity.ru
+created: '2017-04-13'

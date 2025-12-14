@@ -1,0 +1,28 @@
+id: old-guag-mosreg-ru
+name: old.guag.mosreg.ru (2014-02-22)
+domain: old.guag.mosreg.ru
+collection:
+  id: mosreg
+  slug: mosreg
+  name: Региональное правительство Москвы
+resources:
+- name: old.guag.mosreg.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/old.guag.mosreg.ru/old.guag.mosreg.ru.cdx.xz
+  size: 653952
+  modified: '2014-02-22T23:20:22'
+  type: CDX
+  extension: .xz
+- name: old.guag.mosreg.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/old.guag.mosreg.ru/old.guag.mosreg.ru.log.xz
+  size: 415828
+  modified: '2014-02-22T23:20:22'
+  type: wpull log
+  extension: .xz
+- name: old.guag.mosreg.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/old.guag.mosreg.ru/old.guag.mosreg.ru.warc.xz
+  size: 2935194348
+  modified: '2014-02-22T23:20:22'
+  type: WARC
+  extension: .xz
+url: https://old.guag.mosreg.ru
+created: '2014-02-22T23:20:22'

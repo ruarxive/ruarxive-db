@@ -1,0 +1,28 @@
+id: che-rus4all-ru
+name: che.rus4all.ru (2013-12-10)
+domain: che.rus4all.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: che.rus4all.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/che.rus4all.ru/che.rus4all.ru.warc.xz
+  size: 2126056
+  modified: '2013-12-10T08:28:01'
+  type: WARC
+  extension: .xz
+- name: che.rus4all.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/che.rus4all.ru/che.rus4all.ru.cdx.xz
+  size: 2252
+  modified: '2013-12-10T08:28:00'
+  type: CDX
+  extension: .xz
+- name: che.rus4all.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/che.rus4all.ru/che.rus4all.ru.log.xz
+  size: 2240
+  modified: '2013-12-10T08:28:03'
+  type: wpull log
+  extension: .xz
+url: https://che.rus4all.ru
+created: '2013-12-10T08:28:01'

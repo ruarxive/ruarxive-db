@@ -1,0 +1,40 @@
+id: lysova-love-2017-05-11-f68e6dba
+name: lysova.love (2017-05-11)
+domain: lysova.love
+collection:
+  id: media
+  slug: media
+  name: Онлайн СМИ
+resources:
+- name: lysova.love-2017-05-11-f68e6dba.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/lysova.love-2017-05-11-f68e6dba/lysova.love-2017-05-11-f68e6dba.cdx
+  size: 95877
+  modified: '2017-05-11T23:42:14'
+  type: CDX
+  extension: .cdx
+- name: lysova.love-2017-05-11-f68e6dba-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/lysova.love-2017-05-11-f68e6dba/lysova.love-2017-05-11-f68e6dba-00000.warc.gz
+  size: 9288732
+  modified: '2017-05-11T23:42:14'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/lysova.love-2017-05-11-f68e6dba/dupes_db/data.mdb
+  size: 65536
+  modified: '2017-05-11T23:42:14'
+  type: ''
+  extension: .mdb
+- name: lysova.love-2017-05-11-f68e6dba-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/lysova.love-2017-05-11-f68e6dba/lysova.love-2017-05-11-f68e6dba-meta.warc.gz
+  size: 15381
+  modified: '2017-05-11T23:42:15'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/lysova.love-2017-05-11-f68e6dba/wpull.db
+  size: 97280
+  modified: '2017-05-11T23:42:15'
+  type: wpull database
+  extension: .db
+url: https://lysova.love
+created: '2017-05-11'

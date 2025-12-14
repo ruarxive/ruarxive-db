@@ -1,0 +1,46 @@
+id: faspo-arbitr-ru
+name: faspo.arbitr.ru (2014-07-31)
+domain: faspo.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: faspo.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/faspo.arbitr.ru/faspo.arbitr.ru.7z
+  size: 498986287
+  modified: '2014-08-19T19:09:37'
+  type: ''
+  extension: .7z
+- name: faspo.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/faspo.arbitr.ru/faspo.arbitr.ru.warc.xz
+  size: 499061080
+  modified: '2014-07-31T21:34:30'
+  type: WARC
+  extension: .xz
+- name: m.faspo.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/faspo.arbitr.ru/m.faspo.arbitr.ru.7z
+  size: 224193074
+  modified: '2014-08-19T19:07:25'
+  type: ''
+  extension: .7z
+- name: faspo.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/faspo.arbitr.ru/faspo.arbitr.ru.log.xz
+  size: 220940
+  modified: '2014-07-31T21:34:30'
+  type: wpull log
+  extension: .xz
+- name: www.faspo.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/faspo.arbitr.ru/www.faspo.arbitr.ru.7z
+  size: 3838623
+  modified: '2014-08-19T19:07:26'
+  type: ''
+  extension: .7z
+- name: faspo.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/faspo.arbitr.ru/faspo.arbitr.ru.cdx.xz
+  size: 378804
+  modified: '2014-07-31T21:34:30'
+  type: CDX
+  extension: .xz
+url: https://faspo.arbitr.ru
+created: '2014-07-31T21:34:30'

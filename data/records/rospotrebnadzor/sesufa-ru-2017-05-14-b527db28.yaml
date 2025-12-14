@@ -1,0 +1,40 @@
+id: sesufa-ru-2017-05-14-b527db28
+name: sesufa.ru (2017-05-14)
+domain: sesufa.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: sesufa.ru-2017-05-14-b527db28-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sesufa.ru-2017-05-14-b527db28/sesufa.ru-2017-05-14-b527db28-meta.warc.gz
+  size: 4836
+  modified: '2017-05-15T06:04:29'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sesufa.ru-2017-05-14-b527db28/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-05-14T15:14:00'
+  type: ''
+  extension: .mdb
+- name: sesufa.ru-2017-05-14-b527db28.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sesufa.ru-2017-05-14-b527db28/sesufa.ru-2017-05-14-b527db28.cdx
+  size: 1132
+  modified: '2017-05-14T15:14:00'
+  type: CDX
+  extension: .cdx
+- name: sesufa.ru-2017-05-14-b527db28-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sesufa.ru-2017-05-14-b527db28/sesufa.ru-2017-05-14-b527db28-00000.warc.gz
+  size: 49437
+  modified: '2017-05-15T05:49:28'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sesufa.ru-2017-05-14-b527db28/wpull.db
+  size: 16384
+  modified: '2017-05-15T06:04:29'
+  type: wpull database
+  extension: .db
+url: https://sesufa.ru
+created: '2017-05-14'

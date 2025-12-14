@@ -1,0 +1,51 @@
+id: rosim-ru-2017-04-04-e878e9ab
+name: rosim.ru (2017-04-04)
+domain: rosim.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosim.ru-2017-04-04-e878e9ab/wpull.db
+  size: 20413440
+  modified: '2017-04-06T08:55:02'
+  type: wpull database
+  extension: .db
+- name: www.rosim.ru-2017-04-04-e878e9ab-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosim.ru-2017-04-04-e878e9ab/www.rosim.ru-2017-04-04-e878e9ab-00001.warc.gz
+  size: 2744439771
+  modified: '2017-04-06T07:17:14'
+  type: WARC
+  extension: .warc.gz
+- name: www.rosim.ru-2017-04-04-e878e9ab.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosim.ru-2017-04-04-e878e9ab/www.rosim.ru-2017-04-04-e878e9ab.cdx
+  size: 20407876
+  modified: '2017-04-06T07:17:14'
+  type: CDX
+  extension: .cdx
+- name: www.rosim.ru-2017-04-04-e878e9ab-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosim.ru-2017-04-04-e878e9ab/www.rosim.ru-2017-04-04-e878e9ab-meta.warc.gz
+  size: 1997584
+  modified: '2017-04-06T08:55:02'
+  type: WARC
+  extension: .warc.gz
+- name: www.rosim.ru-2017-04-04-e878e9ab-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosim.ru-2017-04-04-e878e9ab/www.rosim.ru-2017-04-04-e878e9ab-00000.warc.gz
+  size: 5376386011
+  modified: '2017-04-05T06:37:38'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosim.ru-2017-04-04-e878e9ab/stop
+  size: 0
+  modified: '2017-04-06T08:54:41'
+  type: ''
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosim.ru-2017-04-04-e878e9ab/dupes_db/data.mdb
+  size: 10203136
+  modified: '2017-04-06T07:16:53'
+  type: ''
+  extension: .mdb
+url: https://rosim.ru
+created: '2017-04-04'

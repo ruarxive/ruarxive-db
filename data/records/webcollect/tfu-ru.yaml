@@ -1,0 +1,16 @@
+id: tfu-ru
+name: tfu.ru.7z (2013-08-13)
+domain: tfu.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: www.tfu.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/www.tfu.ru.7z
+  size: 35042
+  modified: '2013-08-13T13:43:01'
+  type: httrack archive
+  extension: .7z
+url: https://tfu.ru.7z
+created: '2013-08-13T13:43:01'

@@ -1,0 +1,46 @@
+id: gossluzhba-gov-ru
+name: gossluzhba.gov.ru (2017-03-23)
+domain: gossluzhba.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: files.gossluzhba.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gossluzhba.gov.ru/files.gossluzhba.gov.ru.7z
+  size: 528901701
+  modified: '2017-03-25T09:30:56'
+  type: ''
+  extension: .7z
+- name: www.gossluzhba.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gossluzhba.gov.ru/www.gossluzhba.gov.ru.7z
+  size: 105868775
+  modified: '2017-03-25T09:43:36'
+  type: ''
+  extension: .7z
+- name: gossluzhba.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gossluzhba.gov.ru/gossluzhba.gov.ru.7z
+  size: 105862077
+  modified: '2017-03-25T09:37:27'
+  type: ''
+  extension: .7z
+- name: gossluzhba.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gossluzhba.gov.ru/gossluzhba.gov.ru.cdx
+  size: 7239519
+  modified: '2017-03-23T16:44:24'
+  type: CDX
+  extension: .cdx
+- name: gossluzhba.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gossluzhba.gov.ru/gossluzhba.gov.ru.warc.xz
+  size: 627499292
+  modified: '2017-03-23T16:44:25'
+  type: WARC
+  extension: .xz
+- name: gossluzhba.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gossluzhba.gov.ru/gossluzhba.gov.ru.log
+  size: 13716391
+  modified: '2017-03-23T16:44:25'
+  type: ''
+  extension: .log
+url: https://gossluzhba.gov.ru
+created: '2017-03-23T16:44:25'

@@ -1,0 +1,40 @@
+id: utprok-ru-2017-04-04-13b2c047
+name: utprok.ru (2017-04-04)
+domain: utprok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.utprok.ru-2017-04-04-13b2c047/wpull.db
+  size: 2236416
+  modified: '2017-04-04T09:08:41'
+  type: wpull database
+  extension: .db
+- name: www.utprok.ru-2017-04-04-13b2c047-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.utprok.ru-2017-04-04-13b2c047/www.utprok.ru-2017-04-04-13b2c047-00000.warc.gz
+  size: 319476579
+  modified: '2017-04-04T09:08:41'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.utprok.ru-2017-04-04-13b2c047/dupes_db/data.mdb
+  size: 815104
+  modified: '2017-04-04T09:08:33'
+  type: ''
+  extension: .mdb
+- name: www.utprok.ru-2017-04-04-13b2c047-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.utprok.ru-2017-04-04-13b2c047/www.utprok.ru-2017-04-04-13b2c047-meta.warc.gz
+  size: 221471
+  modified: '2017-04-04T09:08:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.utprok.ru-2017-04-04-13b2c047.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.utprok.ru-2017-04-04-13b2c047/www.utprok.ru-2017-04-04-13b2c047.cdx
+  size: 2328900
+  modified: '2017-04-04T09:08:41'
+  type: CDX
+  extension: .cdx
+url: https://utprok.ru
+created: '2017-04-04'

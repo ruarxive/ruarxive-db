@@ -1,0 +1,40 @@
+id: donses-ru-2017-05-14-0e904d51
+name: donses.ru (2017-05-14)
+domain: donses.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.donses.ru-2017-05-14-0e904d51/wpull.db
+  size: 393216
+  modified: '2017-05-14T14:27:55'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.donses.ru-2017-05-14-0e904d51/dupes_db/data.mdb
+  size: 249856
+  modified: '2017-05-14T14:27:48'
+  type: ''
+  extension: .mdb
+- name: www.donses.ru-2017-05-14-0e904d51.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.donses.ru-2017-05-14-0e904d51/www.donses.ru-2017-05-14-0e904d51.cdx
+  size: 435019
+  modified: '2017-05-14T14:27:55'
+  type: CDX
+  extension: .cdx
+- name: www.donses.ru-2017-05-14-0e904d51-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.donses.ru-2017-05-14-0e904d51/www.donses.ru-2017-05-14-0e904d51-00000.warc.gz
+  size: 87700190
+  modified: '2017-05-14T14:27:55'
+  type: WARC
+  extension: .warc.gz
+- name: www.donses.ru-2017-05-14-0e904d51-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.donses.ru-2017-05-14-0e904d51/www.donses.ru-2017-05-14-0e904d51-meta.warc.gz
+  size: 51092
+  modified: '2017-05-14T14:27:56'
+  type: WARC
+  extension: .warc.gz
+url: https://donses.ru
+created: '2017-05-14'

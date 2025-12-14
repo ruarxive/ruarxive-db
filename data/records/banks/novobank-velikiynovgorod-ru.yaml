@@ -1,0 +1,34 @@
+id: novobank-velikiynovgorod-ru
+name: novobank.velikiynovgorod.ru (2014-05-14)
+domain: novobank.velikiynovgorod.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.novobank.velikiynovgorod.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novobank.velikiynovgorod.ru/www.novobank.velikiynovgorod.ru.cdx.xz
+  size: 27260
+  modified: '2014-05-14T17:58:48'
+  type: CDX
+  extension: .xz
+- name: www.novobank.velikiynovgorod.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novobank.velikiynovgorod.ru/www.novobank.velikiynovgorod.ru.warc.xz
+  size: 34417448
+  modified: '2014-05-14T17:58:48'
+  type: WARC
+  extension: .xz
+- name: www.novobank.velikiynovgorod.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novobank.velikiynovgorod.ru/www.novobank.velikiynovgorod.ru.log.xz
+  size: 18572
+  modified: '2014-05-14T17:58:48'
+  type: wpull log
+  extension: .xz
+- name: www.novobank.velikiynovgorod.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novobank.velikiynovgorod.ru/www.novobank.velikiynovgorod.ru.7z
+  size: 34488423
+  modified: '2014-08-20T09:58:10'
+  type: ''
+  extension: .7z
+url: https://novobank.velikiynovgorod.ru
+created: '2014-05-14T17:58:48'

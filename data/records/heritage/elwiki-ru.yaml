@@ -1,0 +1,28 @@
+id: elwiki-ru
+name: elwiki.ru (2013-12-28)
+domain: elwiki.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: elwiki.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/elwiki.ru/elwiki.ru.warc.xz
+  size: 18174020
+  modified: '2013-12-28T13:57:12'
+  type: WARC
+  extension: .xz
+- name: elwiki.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/elwiki.ru/elwiki.ru.log.xz
+  size: 118436
+  modified: '2013-12-28T13:57:09'
+  type: wpull log
+  extension: .xz
+- name: elwiki.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/elwiki.ru/elwiki.ru.cdx.xz
+  size: 221772
+  modified: '2013-12-28T13:57:10'
+  type: CDX
+  extension: .xz
+url: https://elwiki.ru
+created: '2013-12-28T13:57:12'

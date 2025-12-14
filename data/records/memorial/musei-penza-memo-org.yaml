@@ -1,0 +1,34 @@
+id: musei-penza-memo-org
+name: musei.penza-memo.org (2014-08-16)
+domain: musei.penza-memo.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: musei.penza-memo.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/musei.penza-memo.org/musei.penza-memo.org.log.xz
+  size: 16084
+  modified: '2014-08-16T22:29:52'
+  type: wpull log
+  extension: .xz
+- name: musei.penza-memo.org.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/musei.penza-memo.org/musei.penza-memo.org.7z
+  size: 6098670
+  modified: '2014-08-16T22:30:22'
+  type: ''
+  extension: .7z
+- name: musei.penza-memo.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/musei.penza-memo.org/musei.penza-memo.org.cdx.xz
+  size: 26020
+  modified: '2014-08-16T22:29:52'
+  type: CDX
+  extension: .xz
+- name: musei.penza-memo.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/musei.penza-memo.org/musei.penza-memo.org.warc.xz
+  size: 6147852
+  modified: '2014-08-16T22:29:52'
+  type: WARC
+  extension: .xz
+url: https://musei.penza-memo.org
+created: '2014-08-16T22:29:52'

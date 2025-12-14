@@ -1,0 +1,34 @@
+id: minstroyrf-ru
+name: minstroyrf.ru (2015-12-27)
+domain: minstroyrf.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.minstroyrf.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minstroyrf.ru/www.minstroyrf.ru.log
+  size: 9029853
+  modified: '2015-12-27T15:02:23'
+  type: ''
+  extension: .log
+- name: www.minstroyrf.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minstroyrf.ru/www.minstroyrf.ru.cdx
+  size: 1776309
+  modified: '2015-12-27T15:02:23'
+  type: CDX
+  extension: .cdx
+- name: www.minstroyrf.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minstroyrf.ru/www.minstroyrf.ru.warc.gz
+  size: 3663875071
+  modified: '2015-12-27T15:02:23'
+  type: WARC
+  extension: .warc.gz
+- name: www.minstroyrf.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minstroyrf.ru/www.minstroyrf.ru.7z
+  size: 3255358069
+  modified: '2016-04-30T10:11:40'
+  type: ''
+  extension: .7z
+url: https://minstroyrf.ru
+created: '2015-12-27T15:02:23'

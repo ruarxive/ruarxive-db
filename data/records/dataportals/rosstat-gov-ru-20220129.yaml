@@ -1,0 +1,17 @@
+id: rosstat-gov-ru-20220129
+name: rosstat.gov.ru (2022-01-29)
+domain: rosstat.gov.ru
+url: https://rosstat.gov.ru
+created: '2022-01-29'
+date: '2022-01-29'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: rostat_gov_ru_opendata_2022_01_29.zip
+  url: https://cdn.ruarxive.org/public/dataportals/rosstat.gov.ru/2022-01-29/rostat_gov_ru_opendata_2022_01_29.zip
+  size: 5344017515
+  modified: '2022-04-10T18:19:39'
+  type: ''
+  extension: .zip

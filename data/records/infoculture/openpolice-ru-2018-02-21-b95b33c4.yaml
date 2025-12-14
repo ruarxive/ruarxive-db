@@ -1,0 +1,40 @@
+id: openpolice-ru-2018-02-21-b95b33c4
+name: openpolice.ru (2018-02-21)
+domain: openpolice.ru
+collection:
+  id: infoculture
+  slug: infoculture
+  name: Инфокультура
+resources:
+- name: openpolice.ru-2018-02-21-b95b33c4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/openpolice.ru-2018-02-21-b95b33c4/openpolice.ru-2018-02-21-b95b33c4.cdx
+  size: 1322296
+  modified: '2018-02-21T15:56:28'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/openpolice.ru-2018-02-21-b95b33c4/dupes_db/data.mdb
+  size: 618496
+  modified: '2018-02-21T15:50:27'
+  type: ''
+  extension: .mdb
+- name: openpolice.ru-2018-02-21-b95b33c4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/openpolice.ru-2018-02-21-b95b33c4/openpolice.ru-2018-02-21-b95b33c4-00000.warc.gz
+  size: 938312989
+  modified: '2018-02-21T15:56:28'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/openpolice.ru-2018-02-21-b95b33c4/wpull.db
+  size: 1323008
+  modified: '2018-02-21T15:56:29'
+  type: wpull database
+  extension: .db
+- name: openpolice.ru-2018-02-21-b95b33c4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/openpolice.ru-2018-02-21-b95b33c4/openpolice.ru-2018-02-21-b95b33c4-meta.warc.gz
+  size: 209116
+  modified: '2018-02-21T15:56:29'
+  type: WARC
+  extension: .warc.gz
+url: https://openpolice.ru
+created: '2018-02-21'

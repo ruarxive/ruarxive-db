@@ -1,0 +1,40 @@
+id: sosedideputati-ru-2017-09-07-8bffa347
+name: sosedideputati.ru (2017-09-07)
+domain: sosedideputati.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sosedideputati.ru-2017-09-07-8bffa347/wpull.db
+  size: 262144
+  modified: '2017-09-07T22:10:18'
+  type: wpull database
+  extension: .db
+- name: sosedideputati.ru-2017-09-07-8bffa347-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sosedideputati.ru-2017-09-07-8bffa347/sosedideputati.ru-2017-09-07-8bffa347-00000.warc.gz
+  size: 22284455
+  modified: '2017-09-07T22:10:18'
+  type: WARC
+  extension: .warc.gz
+- name: sosedideputati.ru-2017-09-07-8bffa347.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sosedideputati.ru-2017-09-07-8bffa347/sosedideputati.ru-2017-09-07-8bffa347.cdx
+  size: 234326
+  modified: '2017-09-07T22:10:18'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sosedideputati.ru-2017-09-07-8bffa347/dupes_db/data.mdb
+  size: 167936
+  modified: '2017-09-07T22:10:18'
+  type: ''
+  extension: .mdb
+- name: sosedideputati.ru-2017-09-07-8bffa347-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sosedideputati.ru-2017-09-07-8bffa347/sosedideputati.ru-2017-09-07-8bffa347-meta.warc.gz
+  size: 31477
+  modified: '2017-09-07T22:10:18'
+  type: WARC
+  extension: .warc.gz
+url: https://sosedideputati.ru
+created: '2017-09-07'

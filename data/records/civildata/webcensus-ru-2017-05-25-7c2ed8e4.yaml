@@ -1,0 +1,40 @@
+id: webcensus-ru-2017-05-25-7c2ed8e4
+name: webcensus.ru (2017-05-25)
+domain: webcensus.ru
+collection:
+  id: civildata
+  slug: civildata
+  name: Общественная интернет-статистика
+resources:
+- name: webcensus.ru-2017-05-25-7c2ed8e4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/civildata/webcensus.ru-2017-05-25-7c2ed8e4/webcensus.ru-2017-05-25-7c2ed8e4-00000.warc.gz
+  size: 800117905
+  modified: '2017-05-26T17:08:32'
+  type: WARC
+  extension: .warc.gz
+- name: webcensus.ru-2017-05-25-7c2ed8e4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/civildata/webcensus.ru-2017-05-25-7c2ed8e4/webcensus.ru-2017-05-25-7c2ed8e4-meta.warc.gz
+  size: 20509
+  modified: '2017-05-26T17:08:13'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/civildata/webcensus.ru-2017-05-25-7c2ed8e4/dupes_db/data.mdb
+  size: 147456
+  modified: '2017-05-26T17:08:32'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/civildata/webcensus.ru-2017-05-25-7c2ed8e4/wpull.db
+  size: 234496
+  modified: '2017-05-26T17:08:13'
+  type: wpull database
+  extension: .db
+- name: webcensus.ru-2017-05-25-7c2ed8e4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/civildata/webcensus.ru-2017-05-25-7c2ed8e4/webcensus.ru-2017-05-25-7c2ed8e4.cdx
+  size: 142974
+  modified: '2017-05-26T17:08:02'
+  type: CDX
+  extension: .cdx
+url: https://webcensus.ru
+created: '2017-05-25'

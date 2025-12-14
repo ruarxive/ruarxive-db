@@ -1,0 +1,40 @@
+id: xn--90aci0ajbadllemfl7f-xn--p1ai-2017-05-07-aeaaea99
+name: xn--90aci0ajbadllemfl7f.xn--p1ai (2017-05-07)
+domain: xn--90aci0ajbadllemfl7f.xn--p1ai
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99/wpull.db
+  size: 2176000
+  modified: '2017-05-07T10:26:42'
+  type: wpull database
+  extension: .db
+- name: xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99/xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99-00000.warc.gz
+  size: 349885540
+  modified: '2017-05-07T10:26:41'
+  type: WARC
+  extension: .warc.gz
+- name: xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99/xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99-meta.warc.gz
+  size: 143866
+  modified: '2017-05-07T10:26:42'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99/dupes_db/data.mdb
+  size: 868352
+  modified: '2017-05-07T10:26:41'
+  type: ''
+  extension: .mdb
+- name: xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99/xn--90aci0ajbadllemfl7f.xn--p1ai-2017-05-07-aeaaea99.cdx
+  size: 1396408
+  modified: '2017-05-07T10:26:41'
+  type: CDX
+  extension: .cdx
+url: https://xn--90aci0ajbadllemfl7f.xn--p1ai
+created: '2017-05-07'

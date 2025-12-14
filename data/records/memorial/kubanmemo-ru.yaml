@@ -1,0 +1,28 @@
+id: kubanmemo-ru
+name: kubanmemo.ru (2013-12-31)
+domain: kubanmemo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: kubanmemo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/kubanmemo.ru/kubanmemo.ru.log.xz
+  size: 20716
+  modified: '2013-12-31T08:31:36'
+  type: wpull log
+  extension: .xz
+- name: kubanmemo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/kubanmemo.ru/kubanmemo.ru.warc.xz
+  size: 5310200
+  modified: '2013-12-31T08:31:02'
+  type: WARC
+  extension: .xz
+- name: kubanmemo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/kubanmemo.ru/kubanmemo.ru.cdx.xz
+  size: 49352
+  modified: '2013-12-31T08:31:36'
+  type: CDX
+  extension: .xz
+url: https://kubanmemo.ru
+created: '2013-12-31T08:31:02'

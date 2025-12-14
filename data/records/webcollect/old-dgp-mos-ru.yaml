@@ -1,0 +1,16 @@
+id: old-dgp-mos-ru
+name: old.dgp.mos.ru.7z (2013-09-10)
+domain: old.dgp.mos.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.dgp.mos.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.dgp.mos.ru.7z
+  size: 1165347517
+  modified: '2013-09-10T07:37:43'
+  type: httrack archive
+  extension: .7z
+url: https://old.dgp.mos.ru.7z
+created: '2013-09-10T07:37:43'

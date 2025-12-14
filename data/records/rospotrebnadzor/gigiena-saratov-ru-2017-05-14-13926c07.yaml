@@ -1,0 +1,40 @@
+id: gigiena-saratov-ru-2017-05-14-13926c07
+name: gigiena-saratov.ru (2017-05-14)
+domain: gigiena-saratov.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.gigiena-saratov.ru-2017-05-14-13926c07-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.gigiena-saratov.ru-2017-05-14-13926c07/www.gigiena-saratov.ru-2017-05-14-13926c07-meta.warc.gz
+  size: 141633
+  modified: '2017-05-14T15:23:53'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.gigiena-saratov.ru-2017-05-14-13926c07/wpull.db
+  size: 1710080
+  modified: '2017-05-14T15:23:53'
+  type: wpull database
+  extension: .db
+- name: www.gigiena-saratov.ru-2017-05-14-13926c07.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.gigiena-saratov.ru-2017-05-14-13926c07/www.gigiena-saratov.ru-2017-05-14-13926c07.cdx
+  size: 1485799
+  modified: '2017-05-14T15:23:49'
+  type: CDX
+  extension: .cdx
+- name: www.gigiena-saratov.ru-2017-05-14-13926c07-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.gigiena-saratov.ru-2017-05-14-13926c07/www.gigiena-saratov.ru-2017-05-14-13926c07-00000.warc.gz
+  size: 272794287
+  modified: '2017-05-14T15:23:49'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.gigiena-saratov.ru-2017-05-14-13926c07/dupes_db/data.mdb
+  size: 937984
+  modified: '2017-05-14T15:23:49'
+  type: ''
+  extension: .mdb
+url: https://gigiena-saratov.ru
+created: '2017-05-14'

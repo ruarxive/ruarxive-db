@@ -1,0 +1,40 @@
+id: len-vkks-ru-2017-05-29-7ff50e72
+name: len.vkks.ru (2017-05-29)
+domain: len.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/len.vkks.ru-2017-05-29-7ff50e72/wpull.db
+  size: 826368
+  modified: '2017-06-03T08:44:35'
+  type: wpull database
+  extension: .db
+- name: len.vkks.ru-2017-05-29-7ff50e72-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/len.vkks.ru-2017-05-29-7ff50e72/len.vkks.ru-2017-05-29-7ff50e72-meta.warc.gz
+  size: 114312
+  modified: '2017-06-03T08:44:36'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/len.vkks.ru-2017-05-29-7ff50e72/dupes_db/data.mdb
+  size: 229376
+  modified: '2017-06-03T08:44:38'
+  type: ''
+  extension: .mdb
+- name: len.vkks.ru-2017-05-29-7ff50e72.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/len.vkks.ru-2017-05-29-7ff50e72/len.vkks.ru-2017-05-29-7ff50e72.cdx
+  size: 1207021
+  modified: '2017-06-03T08:44:34'
+  type: CDX
+  extension: .cdx
+- name: len.vkks.ru-2017-05-29-7ff50e72-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/len.vkks.ru-2017-05-29-7ff50e72/len.vkks.ru-2017-05-29-7ff50e72-00000.warc.gz
+  size: 39792285
+  modified: '2017-06-03T08:44:37'
+  type: WARC
+  extension: .warc.gz
+url: https://len.vkks.ru
+created: '2017-05-29'

@@ -1,0 +1,28 @@
+id: redarm37-chat-ru
+name: redarm37.chat.ru (2013-12-30)
+domain: redarm37.chat.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: redarm37.chat.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/redarm37.chat.ru/redarm37.chat.ru.log.xz
+  size: 728
+  modified: '2013-12-30T12:41:31'
+  type: wpull log
+  extension: .xz
+- name: redarm37.chat.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/redarm37.chat.ru/redarm37.chat.ru.warc.xz
+  size: 13372
+  modified: '2013-12-30T12:41:32'
+  type: WARC
+  extension: .xz
+- name: redarm37.chat.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/redarm37.chat.ru/redarm37.chat.ru.cdx.xz
+  size: 548
+  modified: '2013-12-30T12:41:31'
+  type: CDX
+  extension: .xz
+url: https://redarm37.chat.ru
+created: '2013-12-30T12:41:32'

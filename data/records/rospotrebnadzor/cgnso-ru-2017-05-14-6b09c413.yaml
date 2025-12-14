@@ -1,0 +1,40 @@
+id: cgnso-ru-2017-05-14-6b09c413
+name: cgnso.ru (2017-05-14)
+domain: cgnso.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.cgnso.ru-2017-05-14-6b09c413-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgnso.ru-2017-05-14-6b09c413/www.cgnso.ru-2017-05-14-6b09c413-meta.warc.gz
+  size: 45852
+  modified: '2017-05-14T18:39:02'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgnso.ru-2017-05-14-6b09c413/dupes_db/data.mdb
+  size: 282624
+  modified: '2017-05-14T18:39:02'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgnso.ru-2017-05-14-6b09c413/wpull.db
+  size: 420864
+  modified: '2017-05-14T18:39:02'
+  type: wpull database
+  extension: .db
+- name: www.cgnso.ru-2017-05-14-6b09c413.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgnso.ru-2017-05-14-6b09c413/www.cgnso.ru-2017-05-14-6b09c413.cdx
+  size: 466079
+  modified: '2017-05-14T18:39:02'
+  type: CDX
+  extension: .cdx
+- name: www.cgnso.ru-2017-05-14-6b09c413-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgnso.ru-2017-05-14-6b09c413/www.cgnso.ru-2017-05-14-6b09c413-00000.warc.gz
+  size: 254144704
+  modified: '2017-05-14T18:39:02'
+  type: WARC
+  extension: .warc.gz
+url: https://cgnso.ru
+created: '2017-05-14'

@@ -1,0 +1,34 @@
+id: memo-ru
+name: memo.ru (2014-08-09)
+domain: memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: www.memo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.memo.ru/www.memo.ru.cdx.xz
+  size: 20369632
+  modified: '2014-08-09T01:45:31'
+  type: CDX
+  extension: .xz
+- name: www.memo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.memo.ru/www.memo.ru.log.xz
+  size: 9114020
+  modified: '2014-08-09T01:45:33'
+  type: wpull log
+  extension: .xz
+- name: www.memo.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.memo.ru/www.memo.ru.7z
+  size: 2899623254
+  modified: '2014-08-13T02:15:02'
+  type: ''
+  extension: .7z
+- name: www.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.memo.ru/www.memo.ru.warc.xz
+  size: 3142638568
+  modified: '2014-08-09T01:45:33'
+  type: WARC
+  extension: .xz
+url: https://memo.ru
+created: '2014-08-09T01:45:33'

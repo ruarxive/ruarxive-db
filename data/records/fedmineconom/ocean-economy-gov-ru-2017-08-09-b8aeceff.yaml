@@ -1,0 +1,40 @@
+id: ocean-economy-gov-ru-2017-08-09-b8aeceff
+name: ocean.economy.gov.ru (2017-08-09)
+domain: ocean.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/ocean.economy.gov.ru-2017-08-09-b8aeceff/wpull.db
+  size: 5298176
+  modified: '2017-08-10T01:36:55'
+  type: wpull database
+  extension: .db
+- name: ocean.economy.gov.ru-2017-08-09-b8aeceff.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/ocean.economy.gov.ru-2017-08-09-b8aeceff/ocean.economy.gov.ru-2017-08-09-b8aeceff.cdx
+  size: 2207538
+  modified: '2017-08-10T01:35:51'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/ocean.economy.gov.ru-2017-08-09-b8aeceff/dupes_db/data.mdb
+  size: 557056
+  modified: '2017-08-10T01:35:44'
+  type: ''
+  extension: .mdb
+- name: ocean.economy.gov.ru-2017-08-09-b8aeceff-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/ocean.economy.gov.ru-2017-08-09-b8aeceff/ocean.economy.gov.ru-2017-08-09-b8aeceff-meta.warc.gz
+  size: 280412
+  modified: '2017-08-10T01:36:56'
+  type: WARC
+  extension: .warc.gz
+- name: ocean.economy.gov.ru-2017-08-09-b8aeceff-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/ocean.economy.gov.ru-2017-08-09-b8aeceff/ocean.economy.gov.ru-2017-08-09-b8aeceff-00000.warc.gz
+  size: 21718183
+  modified: '2017-08-10T01:35:51'
+  type: WARC
+  extension: .warc.gz
+url: https://ocean.economy.gov.ru
+created: '2017-08-09'

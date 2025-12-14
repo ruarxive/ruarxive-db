@@ -1,0 +1,82 @@
+id: roskazna-ru-2017-04-30-09282f9a
+name: roskazna.ru (2017-04-30)
+domain: roskazna.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/dupes_db/data.mdb
+  size: 430080
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .mdb
+- name: roskazna.ru-2017-04-30-09282f9a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/roskazna.ru-2017-04-30-09282f9a-00000.warc.gz
+  size: 938868689
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: roskazna.ru-2017-04-30-09282f9a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/roskazna.ru-2017-04-30-09282f9a.cdx
+  size: 671949
+  modified: '2017-04-30T08:45:43'
+  type: CDX
+  extension: .cdx
+- name: roskazna.ru-2017-04-30-09282f9a-00000.warc.gz-wpullinc
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/roskazna.ru-2017-04-30-09282f9a-00000.warc.gz-wpullinc
+  size: 41
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .gz-wpullinc
+- name: tmp-wpull-warcsesreq-or_wk6.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/temp/tmp-wpull-warcsesreq-or_wk6.tmp
+  size: 496
+  modified: '2017-04-30T08:45:40'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-1w3fgk.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/temp/tmp-wpull-resp_cb-1w3fgk.tmp
+  size: 4048316
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-4yczwh.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/temp/tmp-wpull-warc-4yczwh.log.gz
+  size: 166250
+  modified: '2017-04-30T08:45:43'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesreq-k64ogi.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/temp/tmp-wpull-warcsesreq-k64ogi.tmp
+  size: 470
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-sogk1d.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/temp/tmp-wpull-warcsesrsp-sogk1d.tmp
+  size: 62280
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-uc8jex.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/temp/tmp-wpull-resp_cb-uc8jex.tmp
+  size: 61440
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-okf_42.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/temp/tmp-wpull-warcsesrsp-okf_42.tmp
+  size: 4048700
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/roskazna.ru-2017-04-30-09282f9a/wpull.db
+  size: 9622528
+  modified: '2017-04-30T08:45:43'
+  type: wpull database
+  extension: .db
+url: https://roskazna.ru
+created: '2017-04-30'

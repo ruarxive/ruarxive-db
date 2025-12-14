@@ -1,0 +1,40 @@
+id: tramwaj-narod-ru-2017-10-30-ffab2427
+name: tramwaj.narod.ru (2017-10-30)
+domain: tramwaj.narod.ru
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: tramwaj.narod.ru-2017-10-30-ffab2427-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/tramwaj.narod.ru-2017-10-30-ffab2427/tramwaj.narod.ru-2017-10-30-ffab2427-meta.warc.gz
+  size: 99099
+  modified: '2017-10-30T16:24:54'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/tramwaj.narod.ru-2017-10-30-ffab2427/dupes_db/data.mdb
+  size: 180224
+  modified: '2017-10-30T16:24:12'
+  type: ''
+  extension: .mdb
+- name: tramwaj.narod.ru-2017-10-30-ffab2427-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/tramwaj.narod.ru-2017-10-30-ffab2427/tramwaj.narod.ru-2017-10-30-ffab2427-00000.warc.gz
+  size: 226940803
+  modified: '2017-10-30T16:24:12'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/tramwaj.narod.ru-2017-10-30-ffab2427/wpull.db
+  size: 804864
+  modified: '2017-10-30T16:24:54'
+  type: wpull database
+  extension: .db
+- name: tramwaj.narod.ru-2017-10-30-ffab2427.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/tramwaj.narod.ru-2017-10-30-ffab2427/tramwaj.narod.ru-2017-10-30-ffab2427.cdx
+  size: 435724
+  modified: '2017-10-30T16:24:12'
+  type: CDX
+  extension: .cdx
+url: https://tramwaj.narod.ru
+created: '2017-10-30'

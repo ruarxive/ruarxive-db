@@ -1,0 +1,34 @@
+id: rusventure-ru
+name: rusventure.ru (2015-12-24)
+domain: rusventure.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.rusventure.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rusventure.ru/www.rusventure.ru.log
+  size: 196747469
+  modified: '2015-12-24T23:15:02'
+  type: ''
+  extension: .log
+- name: www.rusventure.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rusventure.ru/www.rusventure.ru.warc.gz
+  size: 7316742255
+  modified: '2015-12-24T23:15:02'
+  type: WARC
+  extension: .warc.gz
+- name: www.rusventure.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rusventure.ru/www.rusventure.ru.7z
+  size: 4171940075
+  modified: '2016-05-03T08:02:01'
+  type: ''
+  extension: .7z
+- name: www.rusventure.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rusventure.ru/www.rusventure.ru.cdx
+  size: 108238410
+  modified: '2015-12-24T23:15:02'
+  type: CDX
+  extension: .cdx
+url: https://rusventure.ru
+created: '2015-12-24T23:15:02'

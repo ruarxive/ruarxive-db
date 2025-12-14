@@ -1,0 +1,34 @@
+id: r43-rosfinnadzor-ru
+name: r43.rosfinnadzor.ru (2016-05-04)
+domain: r43.rosfinnadzor.ru
+collection:
+  id: rosfinnadzor
+  slug: rosfinnadzor
+  name: Росфиннадзор
+resources:
+- name: r43.rosfinnadzor.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r43.rosfinnadzor.ru/r43.rosfinnadzor.ru.cdx
+  size: 190864
+  modified: '2016-05-04T12:45:20'
+  type: CDX
+  extension: .cdx
+- name: r43.rosfinnadzor.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r43.rosfinnadzor.ru/r43.rosfinnadzor.ru.warc.gz
+  size: 254932168
+  modified: '2016-05-04T12:45:20'
+  type: WARC
+  extension: .warc.gz
+- name: r43.rosfinnadzor.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r43.rosfinnadzor.ru/r43.rosfinnadzor.ru.7z
+  size: 236991593
+  modified: '2016-05-06T20:04:46'
+  type: ''
+  extension: .7z
+- name: r43.rosfinnadzor.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r43.rosfinnadzor.ru/r43.rosfinnadzor.ru.log
+  size: 765245
+  modified: '2016-05-04T12:45:20'
+  type: ''
+  extension: .log
+url: https://r43.rosfinnadzor.ru
+created: '2016-05-04T12:45:20'

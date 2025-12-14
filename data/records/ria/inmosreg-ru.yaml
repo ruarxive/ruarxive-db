@@ -1,0 +1,46 @@
+id: inmosreg-ru
+name: inmosreg.ru (2013-12-23)
+domain: inmosreg.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: inmosreg.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/inmosreg.ru/inmosreg.ru.log.xz
+  size: 4628316
+  modified: '2014-02-28T13:08:24'
+  type: wpull log
+  extension: .xz
+- name: inmosreg.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/inmosreg.ru/inmosreg.ru.cdx.xz
+  size: 7766092
+  modified: '2014-02-28T13:08:23'
+  type: CDX
+  extension: .xz
+- name: inmosreg.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/inmosreg.ru/inmosreg.ru.warc.xz
+  size: 1815455352
+  modified: '2014-02-28T13:08:24'
+  type: WARC
+  extension: .xz
+- name: www.inmosreg.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.inmosreg.ru/www.inmosreg.ru.cdx.xz
+  size: 1067828
+  modified: '2013-12-23T08:25:21'
+  type: CDX
+  extension: .xz
+- name: www.inmosreg.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.inmosreg.ru/www.inmosreg.ru.log.xz
+  size: 598464
+  modified: '2013-12-23T08:25:19'
+  type: wpull log
+  extension: .xz
+- name: www.inmosreg.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.inmosreg.ru/www.inmosreg.ru.warc.xz
+  size: 249940372
+  modified: '2013-12-23T08:24:17'
+  type: WARC
+  extension: .xz
+url: https://inmosreg.ru
+created: '2013-12-23T08:24:17'

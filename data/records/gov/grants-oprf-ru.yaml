@@ -1,0 +1,52 @@
+id: grants-oprf-ru
+name: grants.oprf.ru (2013-09-23)
+domain: grants.oprf.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: grants.oprf.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/grants.oprf.ru/grants.oprf.ru.cdx
+  size: 35122749
+  modified: '2017-03-26T07:36:50'
+  type: CDX
+  extension: .cdx
+- name: grants.oprf.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/grants.oprf.ru/grants.oprf.ru.7z
+  size: 870494583
+  modified: '2017-03-26T09:48:59'
+  type: ''
+  extension: .7z
+- name: grants.oprf.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/grants.oprf.ru/grants.oprf.ru.log
+  size: 143913121
+  modified: '2017-03-26T07:36:50'
+  type: ''
+  extension: .log
+- name: grants.oprf.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/grants.oprf.ru/grants.oprf.ru.warc.xz
+  size: 1250328512
+  modified: '2017-03-26T07:36:50'
+  type: WARC
+  extension: .xz
+- name: grants.oprf.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/grants.oprf.ru_2013/grants.oprf.ru.cdx.xz
+  size: 2184748
+  modified: '2013-09-23T15:38:24'
+  type: CDX
+  extension: .xz
+- name: grants.oprf.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/grants.oprf.ru_2013/grants.oprf.ru.warc.xz
+  size: 36428312
+  modified: '2013-09-23T15:36:36'
+  type: WARC
+  extension: .xz
+- name: grants.oprf.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/grants.oprf.ru_2013/grants.oprf.ru.log.xz
+  size: 1255952
+  modified: '2013-09-23T15:38:28'
+  type: wpull log
+  extension: .xz
+url: https://grants.oprf.ru
+created: '2013-09-23T15:36:36'

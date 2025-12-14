@@ -1,0 +1,40 @@
+id: aeis-oprf-ru-2017-05-07-8ed00d8f
+name: aeis.oprf.ru (2017-05-07)
+domain: aeis.oprf.ru
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/aeis.oprf.ru-2017-05-07-8ed00d8f/dupes_db/data.mdb
+  size: 921600
+  modified: '2017-05-07T11:09:02'
+  type: ''
+  extension: .mdb
+- name: aeis.oprf.ru-2017-05-07-8ed00d8f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/aeis.oprf.ru-2017-05-07-8ed00d8f/aeis.oprf.ru-2017-05-07-8ed00d8f-00000.warc.gz
+  size: 154916237
+  modified: '2017-05-07T11:09:02'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/aeis.oprf.ru-2017-05-07-8ed00d8f/wpull.db
+  size: 1514496
+  modified: '2017-05-07T11:09:02'
+  type: wpull database
+  extension: .db
+- name: aeis.oprf.ru-2017-05-07-8ed00d8f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/aeis.oprf.ru-2017-05-07-8ed00d8f/aeis.oprf.ru-2017-05-07-8ed00d8f-meta.warc.gz
+  size: 262683
+  modified: '2017-05-07T11:09:02'
+  type: WARC
+  extension: .warc.gz
+- name: aeis.oprf.ru-2017-05-07-8ed00d8f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/aeis.oprf.ru-2017-05-07-8ed00d8f/aeis.oprf.ru-2017-05-07-8ed00d8f.cdx
+  size: 2932560
+  modified: '2017-05-07T11:09:02'
+  type: CDX
+  extension: .cdx
+url: https://aeis.oprf.ru
+created: '2017-05-07'

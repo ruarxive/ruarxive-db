@@ -1,0 +1,16 @@
+id: mak-ru
+name: mak.ru.7z (2013-09-16)
+domain: mak.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: mak.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/mak.ru.7z
+  size: 2669218693
+  modified: '2013-09-16T21:23:03'
+  type: httrack archive
+  extension: .7z
+url: https://mak.ru.7z
+created: '2013-09-16T21:23:03'

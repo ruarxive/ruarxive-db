@@ -1,0 +1,16 @@
+id: uvc-mil-ru
+name: uvc.mil.ru.7z (2012-10-22)
+domain: uvc.mil.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: uvc.mil.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/uvc.mil.ru.7z
+  size: 96868738
+  modified: '2012-10-22T10:09:17'
+  type: httrack archive
+  extension: .7z
+url: https://uvc.mil.ru.7z
+created: '2012-10-22T10:09:17'

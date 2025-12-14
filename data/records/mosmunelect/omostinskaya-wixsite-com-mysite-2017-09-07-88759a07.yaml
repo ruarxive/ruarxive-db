@@ -1,0 +1,40 @@
+id: omostinskaya-wixsite-com-mysite-2017-09-07-88759a07
+name: omostinskaya.wixsite.com-mysite (2017-09-07)
+domain: omostinskaya.wixsite.com-mysite
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: omostinskaya.wixsite.com-mysite-2017-09-07-88759a07.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/omostinskaya.wixsite.com-mysite-2017-09-07-88759a07/omostinskaya.wixsite.com-mysite-2017-09-07-88759a07.cdx
+  size: 3353
+  modified: '2017-09-07T21:59:15'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/omostinskaya.wixsite.com-mysite-2017-09-07-88759a07/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-09-07T21:59:13'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/omostinskaya.wixsite.com-mysite-2017-09-07-88759a07/wpull.db
+  size: 10240
+  modified: '2017-09-07T21:59:15'
+  type: wpull database
+  extension: .db
+- name: omostinskaya.wixsite.com-mysite-2017-09-07-88759a07-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/omostinskaya.wixsite.com-mysite-2017-09-07-88759a07/omostinskaya.wixsite.com-mysite-2017-09-07-88759a07-meta.warc.gz
+  size: 3519
+  modified: '2017-09-07T21:59:15'
+  type: WARC
+  extension: .warc.gz
+- name: omostinskaya.wixsite.com-mysite-2017-09-07-88759a07-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/omostinskaya.wixsite.com-mysite-2017-09-07-88759a07/omostinskaya.wixsite.com-mysite-2017-09-07-88759a07-00000.warc.gz
+  size: 59148
+  modified: '2017-09-07T21:59:15'
+  type: WARC
+  extension: .warc.gz
+url: https://omostinskaya.wixsite.com-mysite
+created: '2017-09-07'

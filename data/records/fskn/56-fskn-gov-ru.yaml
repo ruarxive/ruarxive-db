@@ -1,0 +1,37 @@
+id: 56-fskn-gov-ru
+name: 56.fskn.gov.ru (2016-06-07)
+domain: 56.fskn.gov.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: "www.56.fskn.gov.ru\uFEFF.log"
+  url: "https://cdn.ruarxive.org/public/webcollect/fskn/www.56.fskn.gov.ru\uFEFF/www.56.fskn.gov.ru\uFEFF\
+    .log"
+  size: 719
+  modified: '2016-06-07T16:29:38'
+  type: ''
+  extension: .log
+- name: www.56.fskn.gov.ru.7z
+  url: "https://cdn.ruarxive.org/public/webcollect/fskn/www.56.fskn.gov.ru\uFEFF/www.56.fskn.gov.ru.7z"
+  size: 7787
+  modified: '2016-09-28T11:40:04'
+  type: ''
+  extension: .7z
+- name: "www.56.fskn.gov.ru\uFEFF.warc.gz"
+  url: "https://cdn.ruarxive.org/public/webcollect/fskn/www.56.fskn.gov.ru\uFEFF/www.56.fskn.gov.ru\uFEFF\
+    .warc.gz"
+  size: 11982
+  modified: '2016-06-07T16:29:38'
+  type: WARC
+  extension: .warc.gz
+- name: "www.56.fskn.gov.ru\uFEFF.cdx"
+  url: "https://cdn.ruarxive.org/public/webcollect/fskn/www.56.fskn.gov.ru\uFEFF/www.56.fskn.gov.ru\uFEFF\
+    .cdx"
+  size: 230
+  modified: '2016-06-07T16:29:38'
+  type: CDX
+  extension: .cdx
+url: https://56.fskn.gov.ru
+created: '2016-06-07T16:29:38'

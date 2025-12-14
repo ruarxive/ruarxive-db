@@ -1,0 +1,34 @@
+id: rusplt-ru
+name: rusplt.ru (2014-12-07)
+domain: rusplt.ru
+collection:
+  id: media
+  slug: media
+  name: Онлайн СМИ
+resources:
+- name: rusplt.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/media/rusplt.ru/rusplt.ru.warc
+  size: 22030338977
+  modified: '2014-12-07T09:23:54'
+  type: WARC
+  extension: .warc
+- name: rusplt.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/media/rusplt.ru/rusplt.ru.7z
+  size: 6762898925
+  modified: '2014-12-15T10:01:01'
+  type: ''
+  extension: .7z
+- name: rusplt.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/media/rusplt.ru/rusplt.ru.cdx.xz
+  size: 22128244
+  modified: '2014-12-07T09:23:52'
+  type: CDX
+  extension: .xz
+- name: rusplt.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/media/rusplt.ru/rusplt.ru.log.xz
+  size: 13545940
+  modified: '2014-12-07T09:23:54'
+  type: wpull log
+  extension: .xz
+url: https://rusplt.ru
+created: '2014-12-07T09:23:54'

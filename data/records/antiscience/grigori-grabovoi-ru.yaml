@@ -1,0 +1,28 @@
+id: grigori-grabovoi-ru
+name: grigori-grabovoi.ru (2013-12-14)
+domain: grigori-grabovoi.ru
+collection:
+  id: antiscience
+  slug: antiscience
+  name: Антинаука
+resources:
+- name: grigori-grabovoi.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/antiscience/grigori-grabovoi.ru/grigori-grabovoi.ru.log.xz
+  size: 71636
+  modified: '2013-11-08T11:34:43'
+  type: wpull log
+  extension: .xz
+- name: grigori-grabovoi.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/antiscience/grigori-grabovoi.ru/grigori-grabovoi.ru.warc.xz
+  size: 688012100
+  modified: '2013-12-14T07:35:44'
+  type: WARC
+  extension: .xz
+- name: grigori-grabovoi.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/antiscience/grigori-grabovoi.ru/grigori-grabovoi.ru.cdx.xz
+  size: 29044
+  modified: '2013-11-08T11:36:39'
+  type: CDX
+  extension: .xz
+url: https://grigori-grabovoi.ru
+created: '2013-12-14T07:35:44'

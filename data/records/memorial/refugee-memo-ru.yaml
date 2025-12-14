@@ -1,0 +1,34 @@
+id: refugee-memo-ru
+name: refugee.memo.ru (2014-08-08)
+domain: refugee.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: refugee.memo.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/refugee.memo.ru/refugee.memo.ru.7z
+  size: 158169435
+  modified: '2014-08-09T18:45:46'
+  type: ''
+  extension: .7z
+- name: refugee.memo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/refugee.memo.ru/refugee.memo.ru.cdx.xz
+  size: 17312288
+  modified: '2014-08-08T08:54:43'
+  type: CDX
+  extension: .xz
+- name: refugee.memo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/refugee.memo.ru/refugee.memo.ru.log.xz
+  size: 8821216
+  modified: '2014-08-08T08:54:43'
+  type: wpull log
+  extension: .xz
+- name: refugee.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/refugee.memo.ru/refugee.memo.ru.warc.xz
+  size: 309750468
+  modified: '2014-08-08T08:54:44'
+  type: WARC
+  extension: .xz
+url: https://refugee.memo.ru
+created: '2014-08-08T08:54:44'

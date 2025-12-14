@@ -1,0 +1,40 @@
+id: rosreestr-ru-2017-04-04-b5900193
+name: rosreestr.ru (2017-04-04)
+domain: rosreestr.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.rosreestr.ru-2017-04-04-b5900193-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosreestr.ru-2017-04-04-b5900193/www.rosreestr.ru-2017-04-04-b5900193-meta.warc.gz
+  size: 18742
+  modified: '2017-04-04T21:27:39'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosreestr.ru-2017-04-04-b5900193/dupes_db/data.mdb
+  size: 110592
+  modified: '2017-04-04T21:27:38'
+  type: ''
+  extension: .mdb
+- name: www.rosreestr.ru-2017-04-04-b5900193-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosreestr.ru-2017-04-04-b5900193/www.rosreestr.ru-2017-04-04-b5900193-00000.warc.gz
+  size: 5983784
+  modified: '2017-04-04T21:27:39'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosreestr.ru-2017-04-04-b5900193/wpull.db
+  size: 209920
+  modified: '2017-04-04T21:27:39'
+  type: wpull database
+  extension: .db
+- name: www.rosreestr.ru-2017-04-04-b5900193.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosreestr.ru-2017-04-04-b5900193/www.rosreestr.ru-2017-04-04-b5900193.cdx
+  size: 156250
+  modified: '2017-04-04T21:27:39'
+  type: CDX
+  extension: .cdx
+url: https://rosreestr.ru
+created: '2017-04-04'

@@ -1,0 +1,40 @@
+id: poz-economy-gov-ru-2017-08-09-0748da2b
+name: poz.economy.gov.ru (2017-08-09)
+domain: poz.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/poz.economy.gov.ru-2017-08-09-0748da2b/wpull.db
+  size: 10240
+  modified: '2017-08-10T00:08:53'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/poz.economy.gov.ru-2017-08-09-0748da2b/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-08-10T00:08:52'
+  type: ''
+  extension: .mdb
+- name: poz.economy.gov.ru-2017-08-09-0748da2b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/poz.economy.gov.ru-2017-08-09-0748da2b/poz.economy.gov.ru-2017-08-09-0748da2b-meta.warc.gz
+  size: 2921
+  modified: '2017-08-10T00:08:54'
+  type: WARC
+  extension: .warc.gz
+- name: poz.economy.gov.ru-2017-08-09-0748da2b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/poz.economy.gov.ru-2017-08-09-0748da2b/poz.economy.gov.ru-2017-08-09-0748da2b-00000.warc.gz
+  size: 5917
+  modified: '2017-08-10T00:08:53'
+  type: WARC
+  extension: .warc.gz
+- name: poz.economy.gov.ru-2017-08-09-0748da2b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/poz.economy.gov.ru-2017-08-09-0748da2b/poz.economy.gov.ru-2017-08-09-0748da2b.cdx
+  size: 599
+  modified: '2017-08-10T00:08:53'
+  type: CDX
+  extension: .cdx
+url: https://poz.economy.gov.ru
+created: '2017-08-09'

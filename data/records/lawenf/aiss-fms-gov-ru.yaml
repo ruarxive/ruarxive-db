@@ -1,0 +1,34 @@
+id: aiss-fms-gov-ru
+name: aiss.fms.gov.ru (2016-05-05)
+domain: aiss.fms.gov.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: aiss.fms.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/aiss.fms.gov.ru/aiss.fms.gov.ru.7z
+  size: 352827991
+  modified: '2016-05-06T17:10:03'
+  type: ''
+  extension: .7z
+- name: aiss.fms.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/aiss.fms.gov.ru/aiss.fms.gov.ru.cdx.xz
+  size: 4976032
+  modified: '2016-05-05T17:27:35'
+  type: CDX
+  extension: .xz
+- name: aiss.fms.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/aiss.fms.gov.ru/aiss.fms.gov.ru.log.xz
+  size: 2101384
+  modified: '2016-05-05T17:27:37'
+  type: wpull log
+  extension: .xz
+- name: aiss.fms.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/aiss.fms.gov.ru/aiss.fms.gov.ru.warc.xz
+  size: 372644312
+  modified: '2016-05-05T17:27:37'
+  type: WARC
+  extension: .xz
+url: https://aiss.fms.gov.ru
+created: '2016-05-05T17:27:37'

@@ -1,0 +1,25 @@
+id: openleft-ru
+name: Открытая левая (openleft)
+url: http://openleft.ru
+domain: openleft.ru
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-06-27T09:34:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Важный сайт российских демократических левых середины 10-х годов
+reason_id: vazhnyy-sayt-rossiyskih-demokraticheskih
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: высокий

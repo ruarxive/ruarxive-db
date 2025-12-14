@@ -1,0 +1,40 @@
+id: is-veshnyaki-mos-ru-2017-08-09-b0343d54
+name: is-veshnyaki.mos.ru (2017-08-09)
+domain: is-veshnyaki.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: is-veshnyaki.mos.ru-2017-08-09-b0343d54-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/is-veshnyaki.mos.ru-2017-08-09-b0343d54/is-veshnyaki.mos.ru-2017-08-09-b0343d54-00000.warc.gz
+  size: 2238
+  modified: '2017-08-09T15:22:03'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/is-veshnyaki.mos.ru-2017-08-09-b0343d54/wpull.db
+  size: 10240
+  modified: '2017-08-09T15:22:06'
+  type: wpull database
+  extension: .db
+- name: is-veshnyaki.mos.ru-2017-08-09-b0343d54.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/is-veshnyaki.mos.ru-2017-08-09-b0343d54/is-veshnyaki.mos.ru-2017-08-09-b0343d54.cdx
+  size: 23
+  modified: '2017-08-09T15:22:03'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/is-veshnyaki.mos.ru-2017-08-09-b0343d54/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-08-09T15:22:03'
+  type: ''
+  extension: .mdb
+- name: is-veshnyaki.mos.ru-2017-08-09-b0343d54-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/is-veshnyaki.mos.ru-2017-08-09-b0343d54/is-veshnyaki.mos.ru-2017-08-09-b0343d54-meta.warc.gz
+  size: 2931
+  modified: '2017-08-09T15:22:07'
+  type: WARC
+  extension: .warc.gz
+url: https://is-veshnyaki.mos.ru
+created: '2017-08-09'

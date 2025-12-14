@@ -1,0 +1,34 @@
+id: reestr-fas-gov-ru
+name: reestr.fas.gov.ru (2017-03-22)
+domain: reestr.fas.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: reestr.fas.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/reestr.fas.gov.ru/reestr.fas.gov.ru.log
+  size: 46643
+  modified: '2017-03-22T06:32:31'
+  type: ''
+  extension: .log
+- name: reestr.fas.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/reestr.fas.gov.ru/reestr.fas.gov.ru.7z
+  size: 127719
+  modified: '2017-03-24T03:41:40'
+  type: ''
+  extension: .7z
+- name: reestr.fas.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/reestr.fas.gov.ru/reestr.fas.gov.ru.warc.xz
+  size: 139736
+  modified: '2017-03-22T06:32:31'
+  type: WARC
+  extension: .xz
+- name: reestr.fas.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/reestr.fas.gov.ru/reestr.fas.gov.ru.cdx
+  size: 6079
+  modified: '2017-03-22T06:32:31'
+  type: CDX
+  extension: .cdx
+url: https://reestr.fas.gov.ru
+created: '2017-03-22T06:32:31'

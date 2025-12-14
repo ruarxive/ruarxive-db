@@ -1,0 +1,40 @@
+id: mvd-ru-2017-04-30-e6e22c4b
+name: mvd.ru (2017-04-30)
+domain: mvd.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.mvd.ru-2017-04-30-e6e22c4b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mvd.ru-2017-04-30-e6e22c4b/www.mvd.ru-2017-04-30-e6e22c4b.cdx
+  size: 1591
+  modified: '2017-04-30T07:46:23'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mvd.ru-2017-04-30-e6e22c4b/dupes_db/data.mdb
+  size: 28672
+  modified: '2017-04-30T07:46:23'
+  type: ''
+  extension: .mdb
+- name: www.mvd.ru-2017-04-30-e6e22c4b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mvd.ru-2017-04-30-e6e22c4b/www.mvd.ru-2017-04-30-e6e22c4b-meta.warc.gz
+  size: 3024
+  modified: '2017-04-30T07:46:34'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mvd.ru-2017-04-30-e6e22c4b/wpull.db
+  size: 10240
+  modified: '2017-04-30T07:46:34'
+  type: wpull database
+  extension: .db
+- name: www.mvd.ru-2017-04-30-e6e22c4b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mvd.ru-2017-04-30-e6e22c4b/www.mvd.ru-2017-04-30-e6e22c4b-00000.warc.gz
+  size: 46800
+  modified: '2017-04-30T07:46:23'
+  type: WARC
+  extension: .warc.gz
+url: https://mvd.ru
+created: '2017-04-30'

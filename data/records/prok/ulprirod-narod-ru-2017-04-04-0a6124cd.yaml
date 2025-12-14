@@ -1,0 +1,40 @@
+id: ulprirod-narod-ru-2017-04-04-0a6124cd
+name: ulprirod.narod.ru (2017-04-04)
+domain: ulprirod.narod.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: ulprirod.narod.ru-2017-04-04-0a6124cd-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ulprirod.narod.ru-2017-04-04-0a6124cd/ulprirod.narod.ru-2017-04-04-0a6124cd-meta.warc.gz
+  size: 21247
+  modified: '2017-04-04T06:21:37'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ulprirod.narod.ru-2017-04-04-0a6124cd/wpull.db
+  size: 140288
+  modified: '2017-04-04T06:21:37'
+  type: wpull database
+  extension: .db
+- name: ulprirod.narod.ru-2017-04-04-0a6124cd-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ulprirod.narod.ru-2017-04-04-0a6124cd/ulprirod.narod.ru-2017-04-04-0a6124cd-00000.warc.gz
+  size: 21718773
+  modified: '2017-04-04T06:21:37'
+  type: WARC
+  extension: .warc.gz
+- name: ulprirod.narod.ru-2017-04-04-0a6124cd.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ulprirod.narod.ru-2017-04-04-0a6124cd/ulprirod.narod.ru-2017-04-04-0a6124cd.cdx
+  size: 102617
+  modified: '2017-04-04T06:21:37'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ulprirod.narod.ru-2017-04-04-0a6124cd/dupes_db/data.mdb
+  size: 81920
+  modified: '2017-04-04T06:21:37'
+  type: ''
+  extension: .mdb
+url: https://ulprirod.narod.ru
+created: '2017-04-04'

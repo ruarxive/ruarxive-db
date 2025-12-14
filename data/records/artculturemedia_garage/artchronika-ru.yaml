@@ -1,0 +1,27 @@
+id: artchronika-ru
+name: Журнал «Артхроника»
+url: http://artchronika.ru/
+domain: artchronika.ru
+created: '2022-03-29T16:16:48.000Z'
+date: '2022-03-26T16:23:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+strategy: стандартная веб архивация
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_garage
+  name: Искусство и культура
+  slug: artculturemedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: высокий
+resources:
+- type: storage
+  name: artchronika.ru
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/artchronika.ru/

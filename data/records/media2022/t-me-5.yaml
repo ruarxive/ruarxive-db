@@ -1,0 +1,28 @@
+id: t-me-5
+name: Телеграм канал Телеканала Дождь (только сообщения)
+domain: t.me
+created: '2022-03-28T14:30:36.000Z'
+date: '2022-03-08T10:25:00.000Z'
+status: собран
+status_id: collected
+resource_type: телеграм канал
+resource_type_id: telegram
+reason: Блокировка Роскомнадзора
+reason_id: roskomnadzor-blocking-1
+strategy: архивация Telegram канала
+tools:
+- telegram desktop
+format: zip
+format_id: zip
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: storage
+  name: tvrain.ru_telegram_msg-2022-03-08.zip
+  url: https://cdn.ruarxive.org/public/webcollect2022/media2022/tvrain_ru_telegram_msg/tvrain.ru_telegram_msg-2022-03-08.zip

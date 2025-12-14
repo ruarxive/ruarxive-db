@@ -1,0 +1,29 @@
+id: rosbalt-ru
+name: Росбалт
+url: https://rosbalt.ru
+domain: rosbalt.ru
+created: '2022-11-14T14:53:01.000Z'
+date: '2022-11-14T14:51:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Слухи о потенциальном закрытии проекта в ноябре 2022 г.
+reason_id: closure-rumors
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: rosbalt.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/media2022/rosbalt.ru/rosbalt.ru.warc.gz

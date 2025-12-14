@@ -1,0 +1,40 @@
+id: ipriem-genproc-gov-ru-2017-04-04-491cc414
+name: ipriem.genproc.gov.ru (2017-04-04)
+domain: ipriem.genproc.gov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ipriem.genproc.gov.ru-2017-04-04-491cc414/wpull.db
+  size: 136192
+  modified: '2017-04-04T21:35:35'
+  type: wpull database
+  extension: .db
+- name: ipriem.genproc.gov.ru-2017-04-04-491cc414-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ipriem.genproc.gov.ru-2017-04-04-491cc414/ipriem.genproc.gov.ru-2017-04-04-491cc414-meta.warc.gz
+  size: 23004
+  modified: '2017-04-04T21:35:35'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ipriem.genproc.gov.ru-2017-04-04-491cc414/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-04-04T21:34:54'
+  type: ''
+  extension: .mdb
+- name: ipriem.genproc.gov.ru-2017-04-04-491cc414.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ipriem.genproc.gov.ru-2017-04-04-491cc414/ipriem.genproc.gov.ru-2017-04-04-491cc414.cdx
+  size: 220829
+  modified: '2017-04-04T21:35:35'
+  type: CDX
+  extension: .cdx
+- name: ipriem.genproc.gov.ru-2017-04-04-491cc414-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ipriem.genproc.gov.ru-2017-04-04-491cc414/ipriem.genproc.gov.ru-2017-04-04-491cc414-00000.warc.gz
+  size: 3256387
+  modified: '2017-04-04T21:35:35'
+  type: WARC
+  extension: .warc.gz
+url: https://ipriem.genproc.gov.ru
+created: '2017-04-04'

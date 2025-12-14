@@ -1,0 +1,28 @@
+id: www15-rian-ru
+name: www15.rian.ru (2013-12-12)
+domain: www15.rian.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: www15.rian.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www15.rian.ru/www15.rian.ru.warc.xz
+  size: 34811148
+  modified: '2013-12-12T20:22:48'
+  type: WARC
+  extension: .xz
+- name: www15.rian.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www15.rian.ru/www15.rian.ru.cdx.xz
+  size: 3728964
+  modified: '2013-12-12T20:22:30'
+  type: CDX
+  extension: .xz
+- name: www15.rian.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www15.rian.ru/www15.rian.ru.log.xz
+  size: 1129708
+  modified: '2013-12-12T20:22:34'
+  type: wpull log
+  extension: .xz
+url: https://www15.rian.ru
+created: '2013-12-12T20:22:48'

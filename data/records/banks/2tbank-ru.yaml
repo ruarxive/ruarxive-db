@@ -1,0 +1,34 @@
+id: 2tbank-ru
+name: 2tbank.ru (2014-05-12)
+domain: 2tbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.2tbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.2tbank.ru/www.2tbank.ru.cdx.xz
+  size: 316
+  modified: '2014-05-12T16:02:34'
+  type: CDX
+  extension: .xz
+- name: www.2tbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.2tbank.ru/www.2tbank.ru.7z
+  size: 15874
+  modified: '2014-08-19T14:21:01'
+  type: ''
+  extension: .7z
+- name: www.2tbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.2tbank.ru/www.2tbank.ru.warc.xz
+  size: 17632
+  modified: '2014-05-12T16:02:34'
+  type: WARC
+  extension: .xz
+- name: www.2tbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.2tbank.ru/www.2tbank.ru.log.xz
+  size: 692
+  modified: '2014-05-12T16:02:34'
+  type: wpull log
+  extension: .xz
+url: https://2tbank.ru
+created: '2014-05-12T16:02:34'

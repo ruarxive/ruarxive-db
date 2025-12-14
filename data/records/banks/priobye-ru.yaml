@@ -1,0 +1,34 @@
+id: priobye-ru
+name: priobye.ru (2014-05-10)
+domain: priobye.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.priobye.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.priobye.ru/www.priobye.ru.log.xz
+  size: 7640
+  modified: '2014-05-10T23:24:06'
+  type: wpull log
+  extension: .xz
+- name: www.priobye.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.priobye.ru/www.priobye.ru.7z
+  size: 17632142
+  modified: '2014-08-19T21:45:36'
+  type: ''
+  extension: .7z
+- name: www.priobye.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.priobye.ru/www.priobye.ru.cdx.xz
+  size: 8056
+  modified: '2014-05-10T23:24:06'
+  type: CDX
+  extension: .xz
+- name: www.priobye.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.priobye.ru/www.priobye.ru.warc.xz
+  size: 17636876
+  modified: '2014-05-10T23:24:06'
+  type: WARC
+  extension: .xz
+url: https://priobye.ru
+created: '2014-05-10T23:24:06'

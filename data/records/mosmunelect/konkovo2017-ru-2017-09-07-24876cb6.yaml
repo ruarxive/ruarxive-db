@@ -1,0 +1,40 @@
+id: konkovo2017-ru-2017-09-07-24876cb6
+name: konkovo2017.ru (2017-09-07)
+domain: konkovo2017.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/konkovo2017.ru-2017-09-07-24876cb6/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-09-07T22:01:17'
+  type: ''
+  extension: .mdb
+- name: konkovo2017.ru-2017-09-07-24876cb6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/konkovo2017.ru-2017-09-07-24876cb6/konkovo2017.ru-2017-09-07-24876cb6-00000.warc.gz
+  size: 7461649
+  modified: '2017-09-07T22:01:19'
+  type: WARC
+  extension: .warc.gz
+- name: konkovo2017.ru-2017-09-07-24876cb6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/konkovo2017.ru-2017-09-07-24876cb6/konkovo2017.ru-2017-09-07-24876cb6.cdx
+  size: 41167
+  modified: '2017-09-07T22:01:19'
+  type: CDX
+  extension: .cdx
+- name: konkovo2017.ru-2017-09-07-24876cb6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/konkovo2017.ru-2017-09-07-24876cb6/konkovo2017.ru-2017-09-07-24876cb6-meta.warc.gz
+  size: 9745
+  modified: '2017-09-07T22:01:19'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/konkovo2017.ru-2017-09-07-24876cb6/wpull.db
+  size: 55296
+  modified: '2017-09-07T22:01:19'
+  type: wpull database
+  extension: .db
+url: https://konkovo2017.ru
+created: '2017-09-07'

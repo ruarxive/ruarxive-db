@@ -1,0 +1,34 @@
+id: alexbank-ru
+name: alexbank.ru (2014-05-08)
+domain: alexbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.alexbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.alexbank.ru/www.alexbank.ru.7z
+  size: 138885544
+  modified: '2014-08-20T07:10:37'
+  type: ''
+  extension: .7z
+- name: www.alexbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.alexbank.ru/www.alexbank.ru.warc.xz
+  size: 131277364
+  modified: '2014-05-08T19:13:28'
+  type: WARC
+  extension: .xz
+- name: www.alexbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.alexbank.ru/www.alexbank.ru.cdx.xz
+  size: 88368
+  modified: '2014-05-08T19:13:28'
+  type: CDX
+  extension: .xz
+- name: www.alexbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.alexbank.ru/www.alexbank.ru.log.xz
+  size: 64008
+  modified: '2014-05-08T19:13:28'
+  type: wpull log
+  extension: .xz
+url: https://alexbank.ru
+created: '2014-05-08T19:13:28'

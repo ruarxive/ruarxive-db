@@ -1,0 +1,40 @@
+id: adygproc-ru-2017-04-03-9722fcd9
+name: adygproc.ru (2017-04-03)
+domain: adygproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.adygproc.ru-2017-04-03-9722fcd9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.adygproc.ru-2017-04-03-9722fcd9/www.adygproc.ru-2017-04-03-9722fcd9-meta.warc.gz
+  size: 688690
+  modified: '2017-04-03T21:24:51'
+  type: WARC
+  extension: .warc.gz
+- name: www.adygproc.ru-2017-04-03-9722fcd9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.adygproc.ru-2017-04-03-9722fcd9/www.adygproc.ru-2017-04-03-9722fcd9.cdx
+  size: 4959906
+  modified: '2017-04-03T21:24:49'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.adygproc.ru-2017-04-03-9722fcd9/dupes_db/data.mdb
+  size: 2441216
+  modified: '2017-04-03T21:24:49'
+  type: ''
+  extension: .mdb
+- name: www.adygproc.ru-2017-04-03-9722fcd9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.adygproc.ru-2017-04-03-9722fcd9/www.adygproc.ru-2017-04-03-9722fcd9-00000.warc.gz
+  size: 366782985
+  modified: '2017-04-03T21:24:49'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.adygproc.ru-2017-04-03-9722fcd9/wpull.db
+  size: 3785728
+  modified: '2017-04-03T21:24:51'
+  type: wpull database
+  extension: .db
+url: https://adygproc.ru
+created: '2017-04-03'

@@ -1,0 +1,28 @@
+id: gtrf-info
+name: gtrf.info (2013-12-24)
+domain: gtrf.info
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: gtrf.info.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gtrf.info/gtrf.info.warc.xz
+  size: 1016074192
+  modified: '2013-12-24T10:39:28'
+  type: WARC
+  extension: .xz
+- name: gtrf.info.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gtrf.info/gtrf.info.cdx.xz
+  size: 160024
+  modified: '2013-12-24T10:39:04'
+  type: CDX
+  extension: .xz
+- name: gtrf.info.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gtrf.info/gtrf.info.log.xz
+  size: 228780
+  modified: '2013-12-24T10:39:04'
+  type: wpull log
+  extension: .xz
+url: https://gtrf.info
+created: '2013-12-24T10:39:28'

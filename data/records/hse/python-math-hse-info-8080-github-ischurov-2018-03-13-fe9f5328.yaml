@@ -1,0 +1,39 @@
+id: python-math-hse-info-8080-github-ischurov-2018-03-13-fe9f5328
+name: python.math-hse.info-8080-github-ischurov (2018-03-13)
+domain: python.math-hse.info-8080-github-ischurov
+collection:
+  slug: hse
+  name: hse
+resources:
+- name: python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328/python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328.cdx
+  size: 23
+  modified: '2018-03-13T19:29:18'
+  type: CDX
+  extension: .cdx
+- name: python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328/python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328-00000.warc.gz
+  size: 2279
+  modified: '2018-03-13T19:29:18'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328/wpull.db
+  size: 10240
+  modified: '2018-03-13T19:30:20'
+  type: wpull database
+  extension: .db
+- name: python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328/python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328-meta.warc.gz
+  size: 2950
+  modified: '2018-03-13T19:30:20'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-fe9f5328/dupes_db/data.mdb
+  size: 8192
+  modified: '2018-03-13T19:29:18'
+  type: ''
+  extension: .mdb
+url: https://python.math-hse.info-8080-github-ischurov
+created: '2018-03-13'

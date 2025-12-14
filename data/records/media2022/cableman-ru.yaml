@@ -1,0 +1,26 @@
+id: cableman-ru
+name: Кабельщик
+url: https://www.cableman.ru
+domain: cableman.ru
+created: '2022-03-30T16:25:17.000Z'
+date: '2022-04-02T07:43:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Анонс закрытия сайта автором
+reason_id: author-closure
+reason_url: https://t.me/cablemanru/10330
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: средний

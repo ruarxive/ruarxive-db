@@ -1,0 +1,28 @@
+id: stalin-memo-ru
+name: stalin.memo.ru (2013-10-21)
+domain: stalin.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: stalin.memo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/stalin.memo.ru/stalin.memo.ru.cdx.xz
+  size: 380788
+  modified: '2013-10-21T18:15:04'
+  type: CDX
+  extension: .xz
+- name: stalin.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/stalin.memo.ru/stalin.memo.ru.warc.xz
+  size: 13093464
+  modified: '2013-10-21T18:14:58'
+  type: WARC
+  extension: .xz
+- name: stalin.memo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/stalin.memo.ru/stalin.memo.ru.log.xz
+  size: 162324
+  modified: '2013-10-21T18:15:03'
+  type: wpull log
+  extension: .xz
+url: https://stalin.memo.ru
+created: '2013-10-21T18:14:58'

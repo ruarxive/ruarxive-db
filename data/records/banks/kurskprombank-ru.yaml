@@ -1,0 +1,40 @@
+id: kurskprombank-ru
+name: kurskprombank.ru (2014-05-13)
+domain: kurskprombank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.kurskprombank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kurskprombank.ru/www.kurskprombank.ru.warc.xz
+  size: 1111915876
+  modified: '2014-05-13T21:38:57'
+  type: WARC
+  extension: .xz
+- name: www.kurskprombank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kurskprombank.ru/www.kurskprombank.ru.log.xz
+  size: 266972
+  modified: '2014-05-13T21:38:57'
+  type: wpull log
+  extension: .xz
+- name: www.kurskprombank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kurskprombank.ru/www.kurskprombank.ru.7z
+  size: 1134370295
+  modified: '2014-08-19T22:46:52'
+  type: ''
+  extension: .7z
+- name: www.kurskprombank.ru:5443.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kurskprombank.ru/www.kurskprombank.ru:5443.7z
+  size: 261480
+  modified: '2014-08-19T22:46:53'
+  type: ''
+  extension: .7z
+- name: www.kurskprombank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kurskprombank.ru/www.kurskprombank.ru.cdx.xz
+  size: 249988
+  modified: '2014-05-13T21:38:57'
+  type: CDX
+  extension: .xz
+url: https://kurskprombank.ru
+created: '2014-05-13T21:38:57'

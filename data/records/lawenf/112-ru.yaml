@@ -1,0 +1,28 @@
+id: 112-ru
+name: 112.ru (2014-01-21)
+domain: 112.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: 112.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/112.ru/112.ru.cdx.xz
+  size: 373660
+  modified: '2014-01-21T06:56:37'
+  type: CDX
+  extension: .xz
+- name: 112.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/112.ru/112.ru.log.xz
+  size: 184696
+  modified: '2014-01-21T06:56:38'
+  type: wpull log
+  extension: .xz
+- name: 112.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/112.ru/112.ru.warc.xz
+  size: 35196196
+  modified: '2014-01-21T06:56:22'
+  type: WARC
+  extension: .xz
+url: https://112.ru
+created: '2014-01-21T06:56:22'

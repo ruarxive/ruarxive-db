@@ -1,0 +1,35 @@
+id: opendata-yarcloud-ru-20220417
+name: opendata.yarcloud.ru (2022-04-17)
+domain: opendata.yarcloud.ru
+url: https://opendata.yarcloud.ru
+created: '2022-04-17'
+date: '2022-04-17'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.yarcloud.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.yarcloud.ru/2022-04-17/opendata.yarcloud.ru.cdx
+  size: 12790485
+  modified: '2022-04-17T06:31:09'
+  type: CDX
+  extension: .cdx
+- name: opendata.yarcloud.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.yarcloud.ru/2022-04-17/opendata.yarcloud.ru.log
+  size: 104681011
+  modified: '2022-04-17T06:31:09'
+  type: wpull log
+  extension: .log
+- name: opendata.yarcloud.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.yarcloud.ru/2022-04-17/opendata.yarcloud.ru.warc.gz
+  size: 249565998
+  modified: '2022-04-17T06:31:09'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.yarcloud.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.yarcloud.ru/2022-04-17/sitearchive-opendata.yarcloud.ru.db
+  size: 88645632
+  modified: '2022-04-17T06:31:09'
+  type: ''
+  extension: .db

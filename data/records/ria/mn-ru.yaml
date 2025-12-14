@@ -1,0 +1,28 @@
+id: mn-ru
+name: mn.ru (2014-02-16)
+domain: mn.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: www.mn.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.mn.ru/www.mn.ru.cdx.xz
+  size: 10156164
+  modified: '2014-02-16T12:17:00'
+  type: CDX
+  extension: .xz
+- name: www.mn.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.mn.ru/www.mn.ru.warc.xz
+  size: 7104852444
+  modified: '2014-02-16T12:17:01'
+  type: WARC
+  extension: .xz
+- name: www.mn.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.mn.ru/www.mn.ru.log.xz
+  size: 6350696
+  modified: '2014-02-16T12:17:01'
+  type: wpull log
+  extension: .xz
+url: https://mn.ru
+created: '2014-02-16T12:17:01'

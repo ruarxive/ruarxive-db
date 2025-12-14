@@ -1,0 +1,40 @@
+id: belproc-ru-2017-04-03-8d84edab
+name: belproc.ru (2017-04-03)
+domain: belproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.belproc.ru-2017-04-03-8d84edab-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.belproc.ru-2017-04-03-8d84edab/www.belproc.ru-2017-04-03-8d84edab-00000.warc.gz
+  size: 129643263
+  modified: '2017-04-03T19:45:11'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.belproc.ru-2017-04-03-8d84edab/wpull.db
+  size: 2072576
+  modified: '2017-04-03T19:45:11'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.belproc.ru-2017-04-03-8d84edab/dupes_db/data.mdb
+  size: 536576
+  modified: '2017-04-03T19:45:09'
+  type: ''
+  extension: .mdb
+- name: www.belproc.ru-2017-04-03-8d84edab-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.belproc.ru-2017-04-03-8d84edab/www.belproc.ru-2017-04-03-8d84edab-meta.warc.gz
+  size: 257933
+  modified: '2017-04-03T19:45:11'
+  type: WARC
+  extension: .warc.gz
+- name: www.belproc.ru-2017-04-03-8d84edab.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.belproc.ru-2017-04-03-8d84edab/www.belproc.ru-2017-04-03-8d84edab.cdx
+  size: 3135516
+  modified: '2017-04-03T19:45:11'
+  type: CDX
+  extension: .cdx
+url: https://belproc.ru
+created: '2017-04-03'

@@ -1,0 +1,40 @@
+id: pechatniki-mos-ru-2017-09-15-49922340
+name: pechatniki.mos.ru (2017-09-15)
+domain: pechatniki.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: pechatniki.mos.ru-2017-09-15-49922340-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/pechatniki.mos.ru-2017-09-15-49922340/pechatniki.mos.ru-2017-09-15-49922340-00000.warc.gz
+  size: 4613494417
+  modified: '2017-09-17T06:57:21'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/pechatniki.mos.ru-2017-09-15-49922340/wpull.db
+  size: 10452992
+  modified: '2017-09-17T06:57:21'
+  type: wpull database
+  extension: .db
+- name: pechatniki.mos.ru-2017-09-15-49922340.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/pechatniki.mos.ru-2017-09-15-49922340/pechatniki.mos.ru-2017-09-15-49922340.cdx
+  size: 8957990
+  modified: '2017-09-17T06:57:21'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/pechatniki.mos.ru-2017-09-15-49922340/dupes_db/data.mdb
+  size: 4980736
+  modified: '2017-09-17T06:57:21'
+  type: ''
+  extension: .mdb
+- name: pechatniki.mos.ru-2017-09-15-49922340-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/pechatniki.mos.ru-2017-09-15-49922340/pechatniki.mos.ru-2017-09-15-49922340-meta.warc.gz
+  size: 1277950
+  modified: '2017-09-17T06:57:31'
+  type: WARC
+  extension: .warc.gz
+url: https://pechatniki.mos.ru
+created: '2017-09-15'

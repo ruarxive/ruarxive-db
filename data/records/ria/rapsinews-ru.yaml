@@ -1,0 +1,28 @@
+id: rapsinews-ru
+name: rapsinews.ru (2013-12-14)
+domain: rapsinews.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: www.rapsinews.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.rapsinews.ru/www.rapsinews.ru.warc.xz
+  size: 108588108
+  modified: '2013-12-14T12:20:02'
+  type: WARC
+  extension: .xz
+- name: www.rapsinews.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.rapsinews.ru/www.rapsinews.ru.cdx.xz
+  size: 6725012
+  modified: '2013-12-14T12:23:50'
+  type: CDX
+  extension: .xz
+- name: www.rapsinews.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.rapsinews.ru/www.rapsinews.ru.log.xz
+  size: 3280464
+  modified: '2013-12-14T12:23:39'
+  type: wpull log
+  extension: .xz
+url: https://rapsinews.ru
+created: '2013-12-14T12:20:02'

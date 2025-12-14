@@ -1,0 +1,46 @@
+id: math-ru-2017-06-28-6d89594a
+name: math.ru (2017-06-28)
+domain: math.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.math.ru-2017-06-28-6d89594a/wpull.db
+  size: 2296832
+  modified: '2017-06-28T23:43:54'
+  type: wpull database
+  extension: .db
+- name: www.math.ru-2017-06-28-6d89594a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.math.ru-2017-06-28-6d89594a/www.math.ru-2017-06-28-6d89594a-meta.warc.gz
+  size: 243145
+  modified: '2017-06-28T23:43:54'
+  type: WARC
+  extension: .warc.gz
+- name: www.math.ru-2017-06-28-6d89594a-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.math.ru-2017-06-28-6d89594a/www.math.ru-2017-06-28-6d89594a-00001.warc.gz
+  size: 1563644096
+  modified: '2017-06-28T23:43:54'
+  type: WARC
+  extension: .warc.gz
+- name: www.math.ru-2017-06-28-6d89594a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.math.ru-2017-06-28-6d89594a/www.math.ru-2017-06-28-6d89594a-00000.warc.gz
+  size: 5439805050
+  modified: '2017-06-28T21:29:04'
+  type: WARC
+  extension: .warc.gz
+- name: www.math.ru-2017-06-28-6d89594a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.math.ru-2017-06-28-6d89594a/www.math.ru-2017-06-28-6d89594a.cdx
+  size: 2396579
+  modified: '2017-06-28T23:43:54'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.math.ru-2017-06-28-6d89594a/dupes_db/data.mdb
+  size: 1150976
+  modified: '2017-06-28T23:37:32'
+  type: ''
+  extension: .mdb
+url: https://math.ru
+created: '2017-06-28'

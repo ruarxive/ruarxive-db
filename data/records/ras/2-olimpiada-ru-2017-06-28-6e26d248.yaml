@@ -1,0 +1,40 @@
+id: 2-olimpiada-ru-2017-06-28-6e26d248
+name: 2.olimpiada.ru (2017-06-28)
+domain: 2.olimpiada.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: 2.olimpiada.ru-2017-06-28-6e26d248-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/2.olimpiada.ru-2017-06-28-6e26d248/2.olimpiada.ru-2017-06-28-6e26d248-meta.warc.gz
+  size: 7062
+  modified: '2017-06-28T19:31:48'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/2.olimpiada.ru-2017-06-28-6e26d248/dupes_db/data.mdb
+  size: 53248
+  modified: '2017-06-28T19:31:48'
+  type: ''
+  extension: .mdb
+- name: 2.olimpiada.ru-2017-06-28-6e26d248-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/2.olimpiada.ru-2017-06-28-6e26d248/2.olimpiada.ru-2017-06-28-6e26d248-00000.warc.gz
+  size: 31209695
+  modified: '2017-06-28T19:31:48'
+  type: WARC
+  extension: .warc.gz
+- name: 2.olimpiada.ru-2017-06-28-6e26d248.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/2.olimpiada.ru-2017-06-28-6e26d248/2.olimpiada.ru-2017-06-28-6e26d248.cdx
+  size: 33470
+  modified: '2017-06-28T19:31:48'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/2.olimpiada.ru-2017-06-28-6e26d248/wpull.db
+  size: 43008
+  modified: '2017-06-28T19:31:48'
+  type: wpull database
+  extension: .db
+url: https://2.olimpiada.ru
+created: '2017-06-28'

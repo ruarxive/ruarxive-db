@@ -1,0 +1,28 @@
+id: gibddnso-ru
+name: gibddnso.ru (2013-09-30)
+domain: gibddnso.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.gibddnso.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gibddnso.ru/www.gibddnso.ru.warc.xz
+  size: 2703149612
+  modified: '2013-09-30T07:27:34'
+  type: WARC
+  extension: .xz
+- name: www.gibddnso.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gibddnso.ru/www.gibddnso.ru.log.xz
+  size: 1578792
+  modified: '2013-09-30T07:34:04'
+  type: wpull log
+  extension: .xz
+- name: www.gibddnso.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gibddnso.ru/www.gibddnso.ru.cdx.xz
+  size: 2375768
+  modified: '2013-09-30T07:34:09'
+  type: CDX
+  extension: .xz
+url: https://gibddnso.ru
+created: '2013-09-30T07:27:34'

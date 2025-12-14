@@ -1,0 +1,40 @@
+id: book-etudes-ru-2017-06-28-da97e0b1
+name: book.etudes.ru (2017-06-28)
+domain: book.etudes.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/book.etudes.ru-2017-06-28-da97e0b1/dupes_db/data.mdb
+  size: 98304
+  modified: '2017-06-28T19:38:33'
+  type: ''
+  extension: .mdb
+- name: book.etudes.ru-2017-06-28-da97e0b1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/book.etudes.ru-2017-06-28-da97e0b1/book.etudes.ru-2017-06-28-da97e0b1-00000.warc.gz
+  size: 71437887
+  modified: '2017-06-28T19:38:35'
+  type: WARC
+  extension: .warc.gz
+- name: book.etudes.ru-2017-06-28-da97e0b1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/book.etudes.ru-2017-06-28-da97e0b1/book.etudes.ru-2017-06-28-da97e0b1-meta.warc.gz
+  size: 17861
+  modified: '2017-06-28T19:38:36'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/book.etudes.ru-2017-06-28-da97e0b1/wpull.db
+  size: 114688
+  modified: '2017-06-28T19:38:36'
+  type: wpull database
+  extension: .db
+- name: book.etudes.ru-2017-06-28-da97e0b1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/book.etudes.ru-2017-06-28-da97e0b1/book.etudes.ru-2017-06-28-da97e0b1.cdx
+  size: 122812
+  modified: '2017-06-28T19:38:35'
+  type: CDX
+  extension: .cdx
+url: https://book.etudes.ru
+created: '2017-06-28'

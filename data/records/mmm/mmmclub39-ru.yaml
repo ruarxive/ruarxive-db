@@ -1,0 +1,28 @@
+id: mmmclub39-ru
+name: mmmclub39.ru (2013-10-27)
+domain: mmmclub39.ru
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmmclub39.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmclub39.ru/mmmclub39.ru.log.xz
+  size: 5472
+  modified: '2013-10-27T17:28:50'
+  type: wpull log
+  extension: .xz
+- name: mmmclub39.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmclub39.ru/mmmclub39.ru.warc.xz
+  size: 487960
+  modified: '2013-10-27T17:28:51'
+  type: WARC
+  extension: .xz
+- name: mmmclub39.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmclub39.ru/mmmclub39.ru.cdx.xz
+  size: 8408
+  modified: '2013-10-27T17:28:51'
+  type: CDX
+  extension: .xz
+url: https://mmmclub39.ru
+created: '2013-10-27T17:28:51'

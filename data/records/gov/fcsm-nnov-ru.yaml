@@ -1,0 +1,28 @@
+id: fcsm-nnov-ru
+name: fcsm.nnov.ru (2013-09-28)
+domain: fcsm.nnov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fcsm.nnov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fcsm.nnov.ru/www.fcsm.nnov.ru.cdx.xz
+  size: 460696
+  modified: '2013-09-28T10:10:36'
+  type: CDX
+  extension: .xz
+- name: www.fcsm.nnov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fcsm.nnov.ru/www.fcsm.nnov.ru.warc.xz
+  size: 20541408
+  modified: '2013-09-28T10:10:29'
+  type: WARC
+  extension: .xz
+- name: www.fcsm.nnov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fcsm.nnov.ru/www.fcsm.nnov.ru.log.xz
+  size: 225912
+  modified: '2013-09-28T10:10:27'
+  type: wpull log
+  extension: .xz
+url: https://fcsm.nnov.ru
+created: '2013-09-28T10:10:29'

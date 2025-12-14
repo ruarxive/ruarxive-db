@@ -1,0 +1,28 @@
+id: custody-ru
+name: custody.ru (2013-12-17)
+domain: custody.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.custody.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.custody.ru/www.custody.ru.log.xz
+  size: 5032
+  modified: '2013-12-17T17:24:42'
+  type: wpull log
+  extension: .xz
+- name: www.custody.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.custody.ru/www.custody.ru.warc.xz
+  size: 138776
+  modified: '2013-12-17T17:24:42'
+  type: WARC
+  extension: .xz
+- name: www.custody.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.custody.ru/www.custody.ru.cdx.xz
+  size: 10408
+  modified: '2013-12-17T17:24:41'
+  type: CDX
+  extension: .xz
+url: https://custody.ru
+created: '2013-12-17T17:24:42'

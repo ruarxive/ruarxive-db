@@ -1,0 +1,54 @@
+id: events
+slug: events
+name: События
+num_records: 9
+records:
+- id: b20russia-com
+  name: b20russia.com (2016-05-08)
+  url: https://b20russia.com
+  created: '2016-05-08T13:49:50'
+  domain: b20russia.com
+- id: brics-tpprf-ru
+  name: brics.tpprf.ru (2016-05-08)
+  url: https://brics.tpprf.ru
+  created: '2016-05-08T10:48:20'
+  domain: brics.tpprf.ru
+- id: brics2015-ru
+  name: brics2015.ru (2016-05-08)
+  url: https://brics2015.ru
+  created: '2016-05-08T16:08:28'
+  domain: brics2015.ru
+- id: civicbrics-ru
+  name: civicbrics.ru (2016-05-08)
+  url: https://civicbrics.ru
+  created: '2016-05-08T10:32:21'
+  domain: civicbrics.ru
+- id: g20-org-tr
+  name: g20.org.tr (2016-05-08)
+  url: https://g20.org.tr
+  created: '2016-05-08T13:35:05'
+  domain: g20.org.tr
+- id: g20australia-org
+  name: g20australia.org (2016-05-08)
+  url: https://g20australia.org
+  created: '2016-05-08T13:34:51'
+  domain: g20australia.org
+- id: g20civil-com
+  name: g20civil.com (2016-05-08)
+  url: https://g20civil.com
+  created: '2016-05-08T13:46:59'
+  domain: g20civil.com
+- id: g20russia-ru
+  name: g20russia.ru (2016-05-08)
+  url: https://g20russia.ru
+  created: '2016-05-08T19:32:26'
+  domain: g20russia.ru
+- id: g7germany-de
+  name: g7germany.de (2016-05-10)
+  url: https://g7germany.de
+  created: '2016-05-10T19:41:12'
+  domain: g7germany.de
+files:
+  total_count: 45
+  total_size: 28656537808
+  directories: []

@@ -1,0 +1,35 @@
+id: opendata-krasnodar-ru-20220416
+name: opendata.krasnodar.ru (2022-04-16)
+domain: opendata.krasnodar.ru
+url: https://opendata.krasnodar.ru
+created: '2022-04-16'
+date: '2022-04-16'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.krasnodar.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.krasnodar.ru/2022-04-16/opendata.krasnodar.ru.cdx
+  size: 102715
+  modified: '2022-04-16T13:01:16'
+  type: CDX
+  extension: .cdx
+- name: opendata.krasnodar.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.krasnodar.ru/2022-04-16/opendata.krasnodar.ru.log
+  size: 1152246
+  modified: '2022-04-16T13:01:21'
+  type: wpull log
+  extension: .log
+- name: opendata.krasnodar.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.krasnodar.ru/2022-04-16/opendata.krasnodar.ru.warc.gz
+  size: 2798107
+  modified: '2022-04-16T13:01:21'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.krasnodar.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.krasnodar.ru/2022-04-16/sitearchive-opendata.krasnodar.ru.db
+  size: 188416
+  modified: '2022-04-16T13:01:21'
+  type: ''
+  extension: .db

@@ -1,0 +1,40 @@
+id: welcome2018-com-2017-04-04-713fdf5d
+name: welcome2018.com (2017-04-04)
+domain: welcome2018.com
+collection:
+  id: fifa2018
+  slug: fifa2018
+  name: FIFA 2018
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/welcome2018.com-2017-04-04-713fdf5d/wpull.db
+  size: 21991424
+  modified: '2017-04-04T19:05:17'
+  type: wpull database
+  extension: .db
+- name: welcome2018.com-2017-04-04-713fdf5d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/welcome2018.com-2017-04-04-713fdf5d/welcome2018.com-2017-04-04-713fdf5d-meta.warc.gz
+  size: 2551171
+  modified: '2017-04-04T19:05:17'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/welcome2018.com-2017-04-04-713fdf5d/dupes_db/data.mdb
+  size: 7835648
+  modified: '2017-04-04T19:05:16'
+  type: ''
+  extension: .mdb
+- name: welcome2018.com-2017-04-04-713fdf5d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/welcome2018.com-2017-04-04-713fdf5d/welcome2018.com-2017-04-04-713fdf5d-00000.warc.gz
+  size: 2639633620
+  modified: '2017-04-04T19:05:16'
+  type: WARC
+  extension: .warc.gz
+- name: welcome2018.com-2017-04-04-713fdf5d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/welcome2018.com-2017-04-04-713fdf5d/welcome2018.com-2017-04-04-713fdf5d.cdx
+  size: 21404137
+  modified: '2017-04-04T19:05:16'
+  type: CDX
+  extension: .cdx
+url: https://welcome2018.com
+created: '2017-04-04'

@@ -1,0 +1,28 @@
+id: digit-ru
+name: digit.ru (2013-12-12)
+domain: digit.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: digit.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/digit.ru/digit.ru.cdx.xz
+  size: 4723884
+  modified: '2013-12-12T22:28:07'
+  type: CDX
+  extension: .xz
+- name: digit.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/digit.ru/digit.ru.warc.xz
+  size: 1044851640
+  modified: '2013-12-12T22:23:41'
+  type: WARC
+  extension: .xz
+- name: digit.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/digit.ru/digit.ru.log.xz
+  size: 2497592
+  modified: '2013-12-12T22:28:11'
+  type: wpull log
+  extension: .xz
+url: https://digit.ru
+created: '2013-12-12T22:23:41'

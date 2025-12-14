@@ -1,0 +1,28 @@
+id: newsmoldova-ru
+name: newsmoldova.ru (2013-12-12)
+domain: newsmoldova.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: newsmoldova.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newsmoldova.ru/newsmoldova.ru.log.xz
+  size: 1868528
+  modified: '2013-12-12T10:51:56'
+  type: wpull log
+  extension: .xz
+- name: newsmoldova.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newsmoldova.ru/newsmoldova.ru.warc.xz
+  size: 501880300
+  modified: '2013-12-12T10:52:42'
+  type: WARC
+  extension: .xz
+- name: newsmoldova.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newsmoldova.ru/newsmoldova.ru.cdx.xz
+  size: 3571948
+  modified: '2013-12-12T10:54:54'
+  type: CDX
+  extension: .xz
+url: https://newsmoldova.ru
+created: '2013-12-12T10:52:42'

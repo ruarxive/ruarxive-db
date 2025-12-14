@@ -1,0 +1,40 @@
+id: mdm-ru
+name: mdm.ru (2013-12-20)
+domain: mdm.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.mdm.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mdm.ru/www.mdm.ru.7z
+  size: 947840534
+  modified: '2014-08-20T11:09:38'
+  type: ''
+  extension: .7z
+- name: www.mdm.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mdm.ru/www.mdm.ru.log.xz
+  size: 8189040
+  modified: '2014-05-14T16:07:52'
+  type: wpull log
+  extension: .xz
+- name: www.mdm.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mdm.ru/www.mdm.ru.cdx.xz
+  size: 18643324
+  modified: '2014-05-14T16:07:52'
+  type: CDX
+  extension: .xz
+- name: www.mdm.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mdm.ru/www.mdm.ru.warc.xz
+  size: 2187064
+  modified: '2013-12-20T11:10:42'
+  type: WARC
+  extension: .xz
+- name: www.mdm.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mdm.ru/www.mdm.ru.warc
+  size: 7416448881
+  modified: '2014-05-14T16:07:52'
+  type: WARC
+  extension: .warc
+url: https://mdm.ru
+created: '2013-12-20T11:10:42'

@@ -1,0 +1,28 @@
+id: fsfrorel-torr-besaba-com
+name: fsfrorel.torr.besaba.com (2013-09-23)
+domain: fsfrorel.torr.besaba.com
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: fsfrorel.torr.besaba.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fsfrorel.torr.besaba.com/fsfrorel.torr.besaba.com.log.xz
+  size: 9444
+  modified: '2013-09-23T00:04:49'
+  type: wpull log
+  extension: .xz
+- name: fsfrorel.torr.besaba.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fsfrorel.torr.besaba.com/fsfrorel.torr.besaba.com.warc.xz
+  size: 11738116
+  modified: '2013-09-23T00:04:47'
+  type: WARC
+  extension: .xz
+- name: fsfrorel.torr.besaba.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fsfrorel.torr.besaba.com/fsfrorel.torr.besaba.com.cdx.xz
+  size: 14024
+  modified: '2013-09-23T00:04:50'
+  type: CDX
+  extension: .xz
+url: https://fsfrorel.torr.besaba.com
+created: '2013-09-23T00:04:47'

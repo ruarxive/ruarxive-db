@@ -1,0 +1,34 @@
+id: pr2004-cikrf-ru
+name: pr2004.cikrf.ru (2016-05-24)
+domain: pr2004.cikrf.ru
+collection:
+  id: elections
+  slug: elections
+  name: Выборы
+resources:
+- name: pr2004.cikrf.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/elections/pr2004.cikrf.ru/pr2004.cikrf.ru.cdx
+  size: 13238
+  modified: '2016-05-24T18:54:30'
+  type: CDX
+  extension: .cdx
+- name: pr2004.cikrf.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/elections/pr2004.cikrf.ru/pr2004.cikrf.ru.7z
+  size: 1726519
+  modified: '2016-05-27T19:00:15'
+  type: ''
+  extension: .7z
+- name: pr2004.cikrf.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/elections/pr2004.cikrf.ru/pr2004.cikrf.ru.log
+  size: 27127
+  modified: '2016-05-24T18:54:30'
+  type: ''
+  extension: .log
+- name: pr2004.cikrf.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/elections/pr2004.cikrf.ru/pr2004.cikrf.ru.warc.xz
+  size: 1742140
+  modified: '2016-05-24T18:54:30'
+  type: WARC
+  extension: .xz
+url: https://pr2004.cikrf.ru
+created: '2016-05-24T18:54:30'

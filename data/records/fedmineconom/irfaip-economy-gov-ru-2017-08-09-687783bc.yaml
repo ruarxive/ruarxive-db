@@ -1,0 +1,52 @@
+id: irfaip-economy-gov-ru-2017-08-09-687783bc
+name: irfaip.economy.gov.ru (2017-08-09)
+domain: irfaip.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: irfaip.economy.gov.ru-2017-08-09-687783bc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/irfaip.economy.gov.ru-2017-08-09-687783bc/irfaip.economy.gov.ru-2017-08-09-687783bc-meta.warc.gz
+  size: 4197386
+  modified: '2017-08-15T05:25:34'
+  type: WARC
+  extension: .warc.gz
+- name: irfaip.economy.gov.ru-2017-08-09-687783bc-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/irfaip.economy.gov.ru-2017-08-09-687783bc/irfaip.economy.gov.ru-2017-08-09-687783bc-00001.warc.gz
+  size: 5368785512
+  modified: '2017-08-11T12:43:45'
+  type: WARC
+  extension: .warc.gz
+- name: irfaip.economy.gov.ru-2017-08-09-687783bc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/irfaip.economy.gov.ru-2017-08-09-687783bc/irfaip.economy.gov.ru-2017-08-09-687783bc-00000.warc.gz
+  size: 5368874565
+  modified: '2017-08-10T10:12:29'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/irfaip.economy.gov.ru-2017-08-09-687783bc/wpull.db
+  size: 72600576
+  modified: '2017-08-15T05:25:28'
+  type: wpull database
+  extension: .db
+- name: irfaip.economy.gov.ru-2017-08-09-687783bc-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/irfaip.economy.gov.ru-2017-08-09-687783bc/irfaip.economy.gov.ru-2017-08-09-687783bc-00002.warc.gz
+  size: 4283681567
+  modified: '2017-08-15T05:25:28'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/irfaip.economy.gov.ru-2017-08-09-687783bc/dupes_db/data.mdb
+  size: 41672704
+  modified: '2017-08-15T05:25:28'
+  type: ''
+  extension: .mdb
+- name: irfaip.economy.gov.ru-2017-08-09-687783bc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/irfaip.economy.gov.ru-2017-08-09-687783bc/irfaip.economy.gov.ru-2017-08-09-687783bc.cdx
+  size: 60934933
+  modified: '2017-08-15T05:25:28'
+  type: CDX
+  extension: .cdx
+url: https://irfaip.economy.gov.ru
+created: '2017-08-09'

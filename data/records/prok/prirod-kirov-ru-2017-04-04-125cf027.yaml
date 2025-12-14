@@ -1,0 +1,40 @@
+id: prirod-kirov-ru-2017-04-04-125cf027
+name: prirod-kirov.ru (2017-04-04)
+domain: prirod-kirov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: prirod-kirov.ru-2017-04-04-125cf027-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prirod-kirov.ru-2017-04-04-125cf027/prirod-kirov.ru-2017-04-04-125cf027-00000.warc.gz
+  size: 1968294
+  modified: '2017-04-04T06:18:54'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prirod-kirov.ru-2017-04-04-125cf027/wpull.db
+  size: 95232
+  modified: '2017-04-04T06:18:54'
+  type: wpull database
+  extension: .db
+- name: prirod-kirov.ru-2017-04-04-125cf027-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prirod-kirov.ru-2017-04-04-125cf027/prirod-kirov.ru-2017-04-04-125cf027-meta.warc.gz
+  size: 13467
+  modified: '2017-04-04T06:18:54'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prirod-kirov.ru-2017-04-04-125cf027/dupes_db/data.mdb
+  size: 69632
+  modified: '2017-04-04T06:18:53'
+  type: ''
+  extension: .mdb
+- name: prirod-kirov.ru-2017-04-04-125cf027.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prirod-kirov.ru-2017-04-04-125cf027/prirod-kirov.ru-2017-04-04-125cf027.cdx
+  size: 92406
+  modified: '2017-04-04T06:18:54'
+  type: CDX
+  extension: .cdx
+url: https://prirod-kirov.ru
+created: '2017-04-04'

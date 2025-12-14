@@ -1,0 +1,40 @@
+id: ekburg-ru-world
+name: ekburg.ru (2017-04-04)
+domain: ekburg.ru
+collection:
+  id: fifa2018
+  slug: fifa2018
+  name: FIFA 2018
+resources:
+- name: www.ekburg.ru-world_cup-2017-04-04-25d8b41e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.ekburg.ru-world_cup-2017-04-04-25d8b41e/www.ekburg.ru-world_cup-2017-04-04-25d8b41e-00000.warc.gz
+  size: 2765806
+  modified: '2017-04-04T12:41:03'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.ekburg.ru-world_cup-2017-04-04-25d8b41e/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-04-04T12:41:03'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.ekburg.ru-world_cup-2017-04-04-25d8b41e/wpull.db
+  size: 57344
+  modified: '2017-04-04T12:41:04'
+  type: wpull database
+  extension: .db
+- name: www.ekburg.ru-world_cup-2017-04-04-25d8b41e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.ekburg.ru-world_cup-2017-04-04-25d8b41e/www.ekburg.ru-world_cup-2017-04-04-25d8b41e-meta.warc.gz
+  size: 9434
+  modified: '2017-04-04T12:41:04'
+  type: WARC
+  extension: .warc.gz
+- name: www.ekburg.ru-world_cup-2017-04-04-25d8b41e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.ekburg.ru-world_cup-2017-04-04-25d8b41e/www.ekburg.ru-world_cup-2017-04-04-25d8b41e.cdx
+  size: 48506
+  modified: '2017-04-04T12:41:03'
+  type: CDX
+  extension: .cdx
+url: https://ekburg.ru
+created: '2017-04-04'

@@ -1,0 +1,40 @@
+id: narodnaya-org-2017-09-07-28533ef7
+name: narodnaya.org (2017-09-07)
+domain: narodnaya.org
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narodnaya.org-2017-09-07-28533ef7/dupes_db/data.mdb
+  size: 811008
+  modified: '2017-09-07T22:55:08'
+  type: ''
+  extension: .mdb
+- name: narodnaya.org-2017-09-07-28533ef7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narodnaya.org-2017-09-07-28533ef7/narodnaya.org-2017-09-07-28533ef7-00000.warc.gz
+  size: 383853294
+  modified: '2017-09-07T22:55:08'
+  type: WARC
+  extension: .warc.gz
+- name: narodnaya.org-2017-09-07-28533ef7-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narodnaya.org-2017-09-07-28533ef7/narodnaya.org-2017-09-07-28533ef7-meta.warc.gz
+  size: 151873
+  modified: '2017-09-07T22:55:08'
+  type: WARC
+  extension: .warc.gz
+- name: narodnaya.org-2017-09-07-28533ef7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narodnaya.org-2017-09-07-28533ef7/narodnaya.org-2017-09-07-28533ef7.cdx
+  size: 1202631
+  modified: '2017-09-07T22:55:08'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narodnaya.org-2017-09-07-28533ef7/wpull.db
+  size: 1504256
+  modified: '2017-09-07T22:55:08'
+  type: wpull database
+  extension: .db
+url: https://narodnaya.org
+created: '2017-09-07'

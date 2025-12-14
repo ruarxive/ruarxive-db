@@ -1,0 +1,16 @@
+id: memo-ru
+name: memo.ru.7z (2010-11-05)
+domain: memo.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: memo.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/memo.ru.7z
+  size: 467524797
+  modified: '2010-11-05T15:01:53'
+  type: httrack archive
+  extension: .7z
+url: https://memo.ru.7z
+created: '2010-11-05T15:01:53'

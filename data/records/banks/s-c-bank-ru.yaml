@@ -1,0 +1,28 @@
+id: s-c-bank-ru
+name: s-c-bank.ru (2014-03-18)
+domain: s-c-bank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.s-c-bank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.s-c-bank.ru/www.s-c-bank.ru.log.xz
+  size: 51836
+  modified: '2014-03-18T17:47:07'
+  type: wpull log
+  extension: .xz
+- name: www.s-c-bank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.s-c-bank.ru/www.s-c-bank.ru.cdx.xz
+  size: 97052
+  modified: '2014-03-18T17:47:07'
+  type: CDX
+  extension: .xz
+- name: www.s-c-bank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.s-c-bank.ru/www.s-c-bank.ru.warc.xz
+  size: 99063096
+  modified: '2014-03-18T17:47:07'
+  type: WARC
+  extension: .xz
+url: https://s-c-bank.ru
+created: '2014-03-18T17:47:07'

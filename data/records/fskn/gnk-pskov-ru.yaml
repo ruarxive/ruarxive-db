@@ -1,0 +1,34 @@
+id: gnk-pskov-ru
+name: gnk-pskov.ru (2016-06-05)
+domain: gnk-pskov.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: www.gnk-pskov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.gnk-pskov.ru/www.gnk-pskov.ru.7z
+  size: 34391206
+  modified: '2016-09-28T09:37:11'
+  type: ''
+  extension: .7z
+- name: www.gnk-pskov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.gnk-pskov.ru/www.gnk-pskov.ru.cdx
+  size: 183380
+  modified: '2016-06-05T16:54:36'
+  type: CDX
+  extension: .cdx
+- name: www.gnk-pskov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.gnk-pskov.ru/www.gnk-pskov.ru.warc.gz
+  size: 38775359
+  modified: '2016-06-05T16:54:36'
+  type: WARC
+  extension: .warc.gz
+- name: www.gnk-pskov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.gnk-pskov.ru/www.gnk-pskov.ru.log
+  size: 365424
+  modified: '2016-06-05T16:54:36'
+  type: ''
+  extension: .log
+url: https://gnk-pskov.ru
+created: '2016-06-05T16:54:36'

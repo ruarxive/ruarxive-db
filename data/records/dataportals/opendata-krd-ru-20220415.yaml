@@ -1,0 +1,35 @@
+id: opendata-krd-ru-20220415
+name: opendata.krd.ru (2022-04-15)
+domain: opendata.krd.ru
+url: https://opendata.krd.ru
+created: '2022-04-15'
+date: '2022-04-15'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.krd.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.krd.ru/2022-04-15/opendata.krd.ru.cdx
+  size: 653169
+  modified: '2022-04-15T09:12:38'
+  type: CDX
+  extension: .cdx
+- name: opendata.krd.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.krd.ru/2022-04-15/opendata.krd.ru.log
+  size: 28004940
+  modified: '2022-04-15T09:12:38'
+  type: wpull log
+  extension: .log
+- name: opendata.krd.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.krd.ru/2022-04-15/opendata.krd.ru.warc.gz
+  size: 34411811
+  modified: '2022-04-15T09:12:38'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.krd.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.krd.ru/2022-04-15/sitearchive-opendata.krd.ru.db
+  size: 34164736
+  modified: '2022-04-15T09:12:38'
+  type: ''
+  extension: .db

@@ -1,0 +1,37 @@
+id: 28-fskn-gov-ru
+name: 28.fskn.gov.ru (2016-06-07)
+domain: 28.fskn.gov.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: "28.fskn.gov.ru\uFEFF.warc.gz"
+  url: "https://cdn.ruarxive.org/public/webcollect/fskn/28.fskn.gov.ru\uFEFF/28.fskn.gov.ru\uFEFF\
+    .warc.gz"
+  size: 15866
+  modified: '2016-06-07T18:50:14'
+  type: WARC
+  extension: .warc.gz
+- name: "28.fskn.gov.ru\uFEFF.cdx"
+  url: "https://cdn.ruarxive.org/public/webcollect/fskn/28.fskn.gov.ru\uFEFF/28.fskn.gov.ru\uFEFF\
+    .cdx"
+  size: 436
+  modified: '2016-06-07T18:50:14'
+  type: CDX
+  extension: .cdx
+- name: 28.fskn.gov.ru.7z
+  url: "https://cdn.ruarxive.org/public/webcollect/fskn/28.fskn.gov.ru\uFEFF/28.fskn.gov.ru.7z"
+  size: 11302
+  modified: '2016-09-18T15:48:22'
+  type: ''
+  extension: .7z
+- name: "28.fskn.gov.ru\uFEFF.log"
+  url: "https://cdn.ruarxive.org/public/webcollect/fskn/28.fskn.gov.ru\uFEFF/28.fskn.gov.ru\uFEFF\
+    .log"
+  size: 687
+  modified: '2016-06-07T18:50:14'
+  type: ''
+  extension: .log
+url: https://28.fskn.gov.ru
+created: '2016-06-07T18:50:14'

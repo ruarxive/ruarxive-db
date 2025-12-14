@@ -1,0 +1,28 @@
+id: unistream-ru
+name: unistream.ru (2013-12-19)
+domain: unistream.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.unistream.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unistream.ru/www.unistream.ru.cdx.xz
+  size: 135244
+  modified: '2013-12-19T16:18:14'
+  type: CDX
+  extension: .xz
+- name: www.unistream.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unistream.ru/www.unistream.ru.warc.xz
+  size: 100489876
+  modified: '2013-12-19T16:17:57'
+  type: WARC
+  extension: .xz
+- name: www.unistream.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unistream.ru/www.unistream.ru.log.xz
+  size: 74364
+  modified: '2013-12-19T16:17:55'
+  type: wpull log
+  extension: .xz
+url: https://unistream.ru
+created: '2013-12-19T16:17:57'

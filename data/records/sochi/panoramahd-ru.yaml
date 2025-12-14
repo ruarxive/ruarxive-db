@@ -1,0 +1,34 @@
+id: panoramahd-ru
+name: panoramahd.ru (2014-02-03)
+domain: panoramahd.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: www.panoramahd.ru.warc.gz.7z.001
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.panoramahd.ru/www.panoramahd.ru.warc.gz.7z.001
+  size: 3221225472
+  modified: '2014-03-08T19:47:09'
+  type: ''
+  extension: '.001'
+- name: www.panoramahd.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.panoramahd.ru/www.panoramahd.ru.log.xz
+  size: 1143304
+  modified: '2014-02-03T20:55:54'
+  type: wpull log
+  extension: .xz
+- name: www.panoramahd.ru.warc.gz.7z.002
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.panoramahd.ru/www.panoramahd.ru.warc.gz.7z.002
+  size: 2835805077
+  modified: '2014-03-08T19:35:03'
+  type: ''
+  extension: '.002'
+- name: www.panoramahd.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.panoramahd.ru/www.panoramahd.ru.cdx.xz
+  size: 1095920
+  modified: '2014-03-08T19:27:16'
+  type: CDX
+  extension: .xz
+url: https://panoramahd.ru
+created: '2014-02-03T20:55:54'

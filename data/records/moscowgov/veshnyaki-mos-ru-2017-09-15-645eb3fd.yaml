@@ -1,0 +1,40 @@
+id: veshnyaki-mos-ru-2017-09-15-645eb3fd
+name: veshnyaki.mos.ru (2017-09-15)
+domain: veshnyaki.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: veshnyaki.mos.ru-2017-09-15-645eb3fd-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/veshnyaki.mos.ru-2017-09-15-645eb3fd/veshnyaki.mos.ru-2017-09-15-645eb3fd-meta.warc.gz
+  size: 1500203
+  modified: '2017-09-17T12:27:55'
+  type: WARC
+  extension: .warc.gz
+- name: veshnyaki.mos.ru-2017-09-15-645eb3fd-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/veshnyaki.mos.ru-2017-09-15-645eb3fd/veshnyaki.mos.ru-2017-09-15-645eb3fd-00000.warc.gz
+  size: 3700942754
+  modified: '2017-09-17T12:27:42'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/veshnyaki.mos.ru-2017-09-15-645eb3fd/dupes_db/data.mdb
+  size: 11554816
+  modified: '2017-09-17T12:27:42'
+  type: ''
+  extension: .mdb
+- name: veshnyaki.mos.ru-2017-09-15-645eb3fd.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/veshnyaki.mos.ru-2017-09-15-645eb3fd/veshnyaki.mos.ru-2017-09-15-645eb3fd.cdx
+  size: 14218248
+  modified: '2017-09-17T12:27:42'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/veshnyaki.mos.ru-2017-09-15-645eb3fd/wpull.db
+  size: 21898240
+  modified: '2017-09-17T12:27:47'
+  type: wpull database
+  extension: .db
+url: https://veshnyaki.mos.ru
+created: '2017-09-15'

@@ -1,0 +1,40 @@
+id: prokuratura-vrn-ru-2017-04-03-70fc88f1
+name: prokuratura-vrn.ru (2017-04-03)
+domain: prokuratura-vrn.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-vrn.ru-2017-04-03-70fc88f1/dupes_db/data.mdb
+  size: 2101248
+  modified: '2017-04-03T19:56:40'
+  type: ''
+  extension: .mdb
+- name: www.prokuratura-vrn.ru-2017-04-03-70fc88f1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-vrn.ru-2017-04-03-70fc88f1/www.prokuratura-vrn.ru-2017-04-03-70fc88f1-meta.warc.gz
+  size: 361991
+  modified: '2017-04-03T20:56:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.prokuratura-vrn.ru-2017-04-03-70fc88f1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-vrn.ru-2017-04-03-70fc88f1/www.prokuratura-vrn.ru-2017-04-03-70fc88f1.cdx
+  size: 4108647
+  modified: '2017-04-03T20:26:41'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-vrn.ru-2017-04-03-70fc88f1/wpull.db
+  size: 4032512
+  modified: '2017-04-03T20:56:41'
+  type: wpull database
+  extension: .db
+- name: www.prokuratura-vrn.ru-2017-04-03-70fc88f1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-vrn.ru-2017-04-03-70fc88f1/www.prokuratura-vrn.ru-2017-04-03-70fc88f1-00000.warc.gz
+  size: 552560212
+  modified: '2017-04-03T20:26:41'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuratura-vrn.ru
+created: '2017-04-03'

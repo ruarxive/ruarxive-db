@@ -1,0 +1,35 @@
+id: opendata-tver-ru-20220415
+name: opendata.tver.ru (2022-04-15)
+domain: opendata.tver.ru
+url: https://opendata.tver.ru
+created: '2022-04-15'
+date: '2022-04-15'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.tver.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.tver.ru/2022-04-15/opendata.tver.ru.cdx
+  size: 98822
+  modified: '2022-04-15T07:46:27'
+  type: CDX
+  extension: .cdx
+- name: opendata.tver.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.tver.ru/2022-04-15/opendata.tver.ru.log
+  size: 1305180
+  modified: '2022-04-15T07:46:33'
+  type: wpull log
+  extension: .log
+- name: opendata.tver.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.tver.ru/2022-04-15/opendata.tver.ru.warc.gz
+  size: 3619562
+  modified: '2022-04-15T07:46:33'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.tver.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.tver.ru/2022-04-15/sitearchive-opendata.tver.ru.db
+  size: 188416
+  modified: '2022-04-15T07:46:33'
+  type: ''
+  extension: .db

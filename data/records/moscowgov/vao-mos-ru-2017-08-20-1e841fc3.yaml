@@ -1,0 +1,58 @@
+id: vao-mos-ru-2017-08-20-1e841fc3
+name: vao.mos.ru (2017-08-20)
+domain: vao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: vao.mos.ru-2017-08-20-1e841fc3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vao.mos.ru-2017-08-20-1e841fc3/vao.mos.ru-2017-08-20-1e841fc3-00000.warc.gz
+  size: 5368709838
+  modified: '2017-08-22T11:04:28'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vao.mos.ru-2017-08-20-1e841fc3/wpull.db
+  size: 63969280
+  modified: '2017-08-25T05:05:45'
+  type: wpull database
+  extension: .db
+- name: vao.mos.ru-2017-08-20-1e841fc3-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vao.mos.ru-2017-08-20-1e841fc3/vao.mos.ru-2017-08-20-1e841fc3-00001.warc.gz
+  size: 5370292170
+  modified: '2017-08-23T14:01:20'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vao.mos.ru-2017-08-20-1e841fc3/dupes_db/data.mdb
+  size: 24686592
+  modified: '2017-08-25T05:05:45'
+  type: ''
+  extension: .mdb
+- name: vao.mos.ru-2017-08-20-1e841fc3-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vao.mos.ru-2017-08-20-1e841fc3/vao.mos.ru-2017-08-20-1e841fc3-00003.warc.gz
+  size: 2835411909
+  modified: '2017-08-25T05:05:45'
+  type: WARC
+  extension: .warc.gz
+- name: vao.mos.ru-2017-08-20-1e841fc3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vao.mos.ru-2017-08-20-1e841fc3/vao.mos.ru-2017-08-20-1e841fc3.cdx
+  size: 44326295
+  modified: '2017-08-25T05:05:45'
+  type: CDX
+  extension: .cdx
+- name: vao.mos.ru-2017-08-20-1e841fc3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vao.mos.ru-2017-08-20-1e841fc3/vao.mos.ru-2017-08-20-1e841fc3-meta.warc.gz
+  size: 5120391
+  modified: '2017-08-25T05:05:50'
+  type: WARC
+  extension: .warc.gz
+- name: vao.mos.ru-2017-08-20-1e841fc3-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vao.mos.ru-2017-08-20-1e841fc3/vao.mos.ru-2017-08-20-1e841fc3-00002.warc.gz
+  size: 5377914317
+  modified: '2017-08-25T04:44:53'
+  type: WARC
+  extension: .warc.gz
+url: https://vao.mos.ru
+created: '2017-08-20'

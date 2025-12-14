@@ -1,0 +1,28 @@
+id: battlefield-ru
+name: battlefield.ru (2013-12-17)
+domain: battlefield.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: www.battlefield.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.battlefield.ru/www.battlefield.ru.log.xz
+  size: 1222760
+  modified: '2013-12-17T13:24:46'
+  type: wpull log
+  extension: .xz
+- name: www.battlefield.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.battlefield.ru/www.battlefield.ru.warc.xz
+  size: 379065108
+  modified: '2013-12-17T13:25:22'
+  type: WARC
+  extension: .xz
+- name: www.battlefield.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.battlefield.ru/www.battlefield.ru.cdx.xz
+  size: 2861200
+  modified: '2013-12-17T13:27:02'
+  type: CDX
+  extension: .xz
+url: https://battlefield.ru
+created: '2013-12-17T13:25:22'

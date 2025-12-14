@@ -1,0 +1,25 @@
+id: rusteam-permian-ru
+name: Сборная России по футболу
+url: http://www.rusteam.permian.ru
+domain: rusteam.permian.ru
+created: '2022-05-17T14:14:09.000Z'
+date: '2022-05-17T14:16:00.000Z'
+status: запланирован
+status_id: planned
+resource_type: сайт
+resource_type_id: site
+reason: Смерть единственного владельца ресурса https://t.me/ruarxivechat/1891
+reason_id: owner-death
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: history
+  name: История
+  slug: history
+source:
+  id: community
+  name: Сообщество
+priority: средний

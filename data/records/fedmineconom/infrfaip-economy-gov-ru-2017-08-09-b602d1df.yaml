@@ -1,0 +1,40 @@
+id: infrfaip-economy-gov-ru-2017-08-09-b602d1df
+name: infrfaip.economy.gov.ru (2017-08-09)
+domain: infrfaip.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: infrfaip.economy.gov.ru-2017-08-09-b602d1df.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/infrfaip.economy.gov.ru-2017-08-09-b602d1df/infrfaip.economy.gov.ru-2017-08-09-b602d1df.cdx
+  size: 801555
+  modified: '2017-08-10T01:18:55'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/infrfaip.economy.gov.ru-2017-08-09-b602d1df/wpull.db
+  size: 805888
+  modified: '2017-08-10T01:18:55'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/infrfaip.economy.gov.ru-2017-08-09-b602d1df/dupes_db/data.mdb
+  size: 495616
+  modified: '2017-08-10T01:18:55'
+  type: ''
+  extension: .mdb
+- name: infrfaip.economy.gov.ru-2017-08-09-b602d1df-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/infrfaip.economy.gov.ru-2017-08-09-b602d1df/infrfaip.economy.gov.ru-2017-08-09-b602d1df-meta.warc.gz
+  size: 96007
+  modified: '2017-08-10T01:18:56'
+  type: WARC
+  extension: .warc.gz
+- name: infrfaip.economy.gov.ru-2017-08-09-b602d1df-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/infrfaip.economy.gov.ru-2017-08-09-b602d1df/infrfaip.economy.gov.ru-2017-08-09-b602d1df-00000.warc.gz
+  size: 44674829
+  modified: '2017-08-10T01:18:55'
+  type: WARC
+  extension: .warc.gz
+url: https://infrfaip.economy.gov.ru
+created: '2017-08-09'

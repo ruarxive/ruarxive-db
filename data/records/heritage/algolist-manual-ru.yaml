@@ -1,0 +1,34 @@
+id: algolist-manual-ru
+name: algolist.manual.ru (2014-08-21)
+domain: algolist.manual.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: algolist.manual.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/algolist.manual.ru/algolist.manual.ru.log.xz
+  size: 92544
+  modified: '2014-08-21T12:32:56'
+  type: wpull log
+  extension: .xz
+- name: algolist.manual.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/algolist.manual.ru/algolist.manual.ru.7z
+  size: 229881566
+  modified: '2014-11-30T15:27:14'
+  type: ''
+  extension: .7z
+- name: algolist.manual.ru.warc.lzo
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/algolist.manual.ru/algolist.manual.ru.warc.lzo
+  size: 234451732
+  modified: '2014-08-21T12:32:56'
+  type: ''
+  extension: .lzo
+- name: algolist.manual.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/algolist.manual.ru/algolist.manual.ru.cdx.xz
+  size: 143860
+  modified: '2014-08-21T12:32:56'
+  type: CDX
+  extension: .xz
+url: https://algolist.manual.ru
+created: '2014-08-21T12:32:56'

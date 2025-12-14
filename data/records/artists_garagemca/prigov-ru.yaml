@@ -1,0 +1,18 @@
+id: prigov-ru
+name: Сайт художника и поэта Дмитрия Александровича Пригова
+url: http://prigov.ru/
+domain: prigov.ru
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: личный сайт
+resource_type_id: personal-site
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: artists_garagemca
+  name: Артисты
+  slug: artists_garagemca
+source:
+  id: garage-museum
+  name: Garage Museum

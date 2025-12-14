@@ -1,0 +1,16 @@
+id: mb-tomsk-ru
+name: mb.tomsk.ru.7z (2013-09-23)
+domain: mb.tomsk.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: mb.tomsk.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/mb.tomsk.ru.7z
+  size: 1092922831
+  modified: '2013-09-23T07:53:44'
+  type: httrack archive
+  extension: .7z
+url: https://mb.tomsk.ru.7z
+created: '2013-09-23T07:53:44'

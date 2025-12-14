@@ -1,0 +1,40 @@
+id: gis-antiplague-ru-2017-05-14-3ea96fcd
+name: gis.antiplague.ru (2017-05-14)
+domain: gis.antiplague.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/gis.antiplague.ru-2017-05-14-3ea96fcd/wpull.db
+  size: 41984
+  modified: '2017-05-14T14:00:20'
+  type: wpull database
+  extension: .db
+- name: gis.antiplague.ru-2017-05-14-3ea96fcd-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/gis.antiplague.ru-2017-05-14-3ea96fcd/gis.antiplague.ru-2017-05-14-3ea96fcd-meta.warc.gz
+  size: 6932
+  modified: '2017-05-14T14:00:20'
+  type: WARC
+  extension: .warc.gz
+- name: gis.antiplague.ru-2017-05-14-3ea96fcd-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/gis.antiplague.ru-2017-05-14-3ea96fcd/gis.antiplague.ru-2017-05-14-3ea96fcd-00000.warc.gz
+  size: 2005771
+  modified: '2017-05-14T14:00:20'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/gis.antiplague.ru-2017-05-14-3ea96fcd/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-05-14T14:00:08'
+  type: ''
+  extension: .mdb
+- name: gis.antiplague.ru-2017-05-14-3ea96fcd.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/gis.antiplague.ru-2017-05-14-3ea96fcd/gis.antiplague.ru-2017-05-14-3ea96fcd.cdx
+  size: 33597
+  modified: '2017-05-14T14:00:20'
+  type: CDX
+  extension: .cdx
+url: https://gis.antiplague.ru
+created: '2017-05-14'

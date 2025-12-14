@@ -1,0 +1,40 @@
+id: aca2013-mccme-ru-2017-06-28-c1f99ceb
+name: aca2013.mccme.ru (2017-06-28)
+domain: aca2013.mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/aca2013.mccme.ru-2017-06-28-c1f99ceb/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-06-28T19:29:59'
+  type: ''
+  extension: .mdb
+- name: aca2013.mccme.ru-2017-06-28-c1f99ceb-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/aca2013.mccme.ru-2017-06-28-c1f99ceb/aca2013.mccme.ru-2017-06-28-c1f99ceb-meta.warc.gz
+  size: 4054
+  modified: '2017-06-28T19:29:59'
+  type: WARC
+  extension: .warc.gz
+- name: aca2013.mccme.ru-2017-06-28-c1f99ceb.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/aca2013.mccme.ru-2017-06-28-c1f99ceb/aca2013.mccme.ru-2017-06-28-c1f99ceb.cdx
+  size: 7292
+  modified: '2017-06-28T19:29:59'
+  type: CDX
+  extension: .cdx
+- name: aca2013.mccme.ru-2017-06-28-c1f99ceb-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/aca2013.mccme.ru-2017-06-28-c1f99ceb/aca2013.mccme.ru-2017-06-28-c1f99ceb-00000.warc.gz
+  size: 25965330
+  modified: '2017-06-28T19:29:59'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/aca2013.mccme.ru-2017-06-28-c1f99ceb/wpull.db
+  size: 16384
+  modified: '2017-06-28T19:29:59'
+  type: wpull database
+  extension: .db
+url: https://aca2013.mccme.ru
+created: '2017-06-28'

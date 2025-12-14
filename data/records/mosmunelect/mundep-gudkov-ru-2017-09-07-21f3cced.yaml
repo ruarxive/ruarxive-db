@@ -1,0 +1,40 @@
+id: mundep-gudkov-ru-2017-09-07-21f3cced
+name: mundep.gudkov.ru (2017-09-07)
+domain: mundep.gudkov.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/mundep.gudkov.ru-2017-09-07-21f3cced/dupes_db/data.mdb
+  size: 94208
+  modified: '2017-09-07T22:05:18'
+  type: ''
+  extension: .mdb
+- name: mundep.gudkov.ru-2017-09-07-21f3cced-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/mundep.gudkov.ru-2017-09-07-21f3cced/mundep.gudkov.ru-2017-09-07-21f3cced-00000.warc.gz
+  size: 13167737
+  modified: '2017-09-07T22:05:19'
+  type: WARC
+  extension: .warc.gz
+- name: mundep.gudkov.ru-2017-09-07-21f3cced-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/mundep.gudkov.ru-2017-09-07-21f3cced/mundep.gudkov.ru-2017-09-07-21f3cced-meta.warc.gz
+  size: 18329
+  modified: '2017-09-07T22:05:20'
+  type: WARC
+  extension: .warc.gz
+- name: mundep.gudkov.ru-2017-09-07-21f3cced.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/mundep.gudkov.ru-2017-09-07-21f3cced/mundep.gudkov.ru-2017-09-07-21f3cced.cdx
+  size: 105024
+  modified: '2017-09-07T22:05:19'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/mundep.gudkov.ru-2017-09-07-21f3cced/wpull.db
+  size: 113664
+  modified: '2017-09-07T22:05:19'
+  type: wpull database
+  extension: .db
+url: https://mundep.gudkov.ru
+created: '2017-09-07'

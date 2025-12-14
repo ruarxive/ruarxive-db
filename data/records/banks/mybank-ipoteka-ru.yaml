@@ -1,0 +1,28 @@
+id: mybank-ipoteka-ru
+name: mybank-ipoteka.ru (2014-03-26)
+domain: mybank-ipoteka.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.mybank-ipoteka.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mybank-ipoteka.ru/www.mybank-ipoteka.ru.cdx.xz
+  size: 45728
+  modified: '2014-03-26T10:43:10'
+  type: CDX
+  extension: .xz
+- name: www.mybank-ipoteka.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mybank-ipoteka.ru/www.mybank-ipoteka.ru.warc.xz
+  size: 176293148
+  modified: '2014-03-26T10:43:10'
+  type: WARC
+  extension: .xz
+- name: www.mybank-ipoteka.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mybank-ipoteka.ru/www.mybank-ipoteka.ru.log.xz
+  size: 42132
+  modified: '2014-03-26T10:43:10'
+  type: wpull log
+  extension: .xz
+url: https://mybank-ipoteka.ru
+created: '2014-03-26T10:43:10'

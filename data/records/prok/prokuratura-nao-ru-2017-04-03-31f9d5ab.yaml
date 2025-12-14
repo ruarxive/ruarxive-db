@@ -1,0 +1,40 @@
+id: prokuratura-nao-ru-2017-04-03-31f9d5ab
+name: prokuratura-nao.ru (2017-04-03)
+domain: prokuratura-nao.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: prokuratura-nao.ru-2017-04-03-31f9d5ab-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nao.ru-2017-04-03-31f9d5ab/prokuratura-nao.ru-2017-04-03-31f9d5ab-meta.warc.gz
+  size: 1164918
+  modified: '2017-04-04T06:28:27'
+  type: WARC
+  extension: .warc.gz
+- name: prokuratura-nao.ru-2017-04-03-31f9d5ab.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nao.ru-2017-04-03-31f9d5ab/prokuratura-nao.ru-2017-04-03-31f9d5ab.cdx
+  size: 13058026
+  modified: '2017-04-04T06:28:25'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nao.ru-2017-04-03-31f9d5ab/dupes_db/data.mdb
+  size: 7880704
+  modified: '2017-04-04T06:28:25'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nao.ru-2017-04-03-31f9d5ab/wpull.db
+  size: 14201856
+  modified: '2017-04-04T06:28:27'
+  type: wpull database
+  extension: .db
+- name: prokuratura-nao.ru-2017-04-03-31f9d5ab-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nao.ru-2017-04-03-31f9d5ab/prokuratura-nao.ru-2017-04-03-31f9d5ab-00000.warc.gz
+  size: 1239624180
+  modified: '2017-04-04T06:28:25'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuratura-nao.ru
+created: '2017-04-03'

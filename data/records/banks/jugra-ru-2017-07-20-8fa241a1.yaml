@@ -1,0 +1,45 @@
+id: jugra-ru-2017-07-20-8fa241a1
+name: jugra.ru (2017-07-20)
+domain: jugra.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/banks/www.jugra.ru-2017-07-20-8fa241a1/wpull.db
+  size: 7923712
+  modified: '2017-07-20T14:19:31'
+  type: wpull database
+  extension: .db
+- name: www.jugra.ru-2017-07-20-8fa241a1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/banks/www.jugra.ru-2017-07-20-8fa241a1/www.jugra.ru-2017-07-20-8fa241a1.cdx
+  size: 648887
+  modified: '2017-07-20T10:51:59'
+  type: CDX
+  extension: .cdx
+- name: www.jugra.ru-2017-07-20-8fa241a1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/banks/www.jugra.ru-2017-07-20-8fa241a1/www.jugra.ru-2017-07-20-8fa241a1-00000.warc.gz
+  size: 45083661
+  modified: '2017-07-20T10:52:00'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/banks/www.jugra.ru-2017-07-20-8fa241a1/stop
+  size: 0
+  modified: '2017-07-20T14:19:33'
+  type: ''
+- name: www.jugra.ru-2017-07-20-8fa241a1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/banks/www.jugra.ru-2017-07-20-8fa241a1/www.jugra.ru-2017-07-20-8fa241a1-meta.warc.gz
+  size: 93222
+  modified: '2017-07-20T14:19:51'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/banks/www.jugra.ru-2017-07-20-8fa241a1/dupes_db/data.mdb
+  size: 380928
+  modified: '2017-07-20T10:51:58'
+  type: ''
+  extension: .mdb
+url: https://jugra.ru
+created: '2017-07-20'

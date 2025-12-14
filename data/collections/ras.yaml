@@ -1,0 +1,170 @@
+id: ras
+slug: ras
+name: Российская академия наук
+num_records: 32
+records:
+- id: 2-olimpiada-ru-2017-06-28-6e26d248
+  name: 2.olimpiada.ru (2017-06-28)
+  url: https://2.olimpiada.ru
+  created: '2017-06-28'
+  domain: 2.olimpiada.ru
+- id: aca2013-mccme-ru-2017-06-28-c1f99ceb
+  name: aca2013.mccme.ru (2017-06-28)
+  url: https://aca2013.mccme.ru
+  created: '2017-06-28'
+  domain: aca2013.mccme.ru
+- id: biblio-mccme-ru-2017-06-28-2d93f31b
+  name: biblio.mccme.ru (2017-06-28)
+  url: https://biblio.mccme.ru
+  created: '2017-06-28'
+  domain: biblio.mccme.ru
+- id: book-etudes-ru-2017-06-28-da97e0b1
+  name: book.etudes.ru (2017-06-28)
+  url: https://book.etudes.ru
+  created: '2017-06-28'
+  domain: book.etudes.ru
+- id: domains-txt
+  name: domains.txt (2017-06-28)
+  url: https://domains.txt
+  created: '2017-06-28T18:03:28'
+  domain: domains.txt
+- id: domainsmath-txt
+  name: domainsmath.txt (2017-06-28)
+  url: https://domainsmath.txt
+  created: '2017-06-28T19:28:45'
+  domain: domainsmath.txt
+- id: etudes-ru-2017-06-28-54b82dc1
+  name: etudes.ru (2017-06-28)
+  url: https://etudes.ru
+  created: '2017-06-28'
+  domain: etudes.ru
+- id: ilib-mccme-ru-2017-06-28-816cd4dc
+  name: ilib.mccme.ru (2017-06-28)
+  url: https://ilib.mccme.ru
+  created: '2017-06-28'
+  domain: ilib.mccme.ru
+- id: info-olimpiada-ru-2017-06-28-c4052d39
+  name: info.olimpiada.ru (2017-06-28)
+  url: https://info.olimpiada.ru
+  created: '2017-06-28'
+  domain: info.olimpiada.ru
+- id: informatics-mccme-ru-2017-06-28-431ed3ff
+  name: informatics.mccme.ru (2017-06-28)
+  url: https://informatics.mccme.ru
+  created: '2017-06-28'
+  domain: informatics.mccme.ru
+- id: ium-mccme-ru-2017-06-28-7e2bfa8d
+  name: ium.mccme.ru (2017-06-28)
+  url: https://ium.mccme.ru
+  created: '2017-06-28'
+  domain: ium.mccme.ru
+- id: kvant-ras-ru-2017-06-28-14ed3569
+  name: kvant.ras.ru (2017-06-28)
+  url: https://kvant.ras.ru
+  created: '2017-06-28'
+  domain: kvant.ras.ru
+- id: kvantik-org-2017-06-28-19d008c5
+  name: kvantik.org (2017-06-28)
+  url: https://kvantik.org
+  created: '2017-06-28'
+  domain: kvantik.org
+- id: math-nsc-ru-2017-06-28-cc4231e8
+  name: math.nsc.ru (2017-06-28)
+  url: https://math.nsc.ru
+  created: '2017-06-28'
+  domain: math.nsc.ru
+- id: math-ru-2017-06-28-6d89594a
+  name: math.ru (2017-06-28)
+  url: https://math.ru
+  created: '2017-06-28'
+  domain: math.ru
+- id: mathesis-ru-2017-06-28-711033f0
+  name: mathesis.ru (2017-06-28)
+  url: https://mathesis.ru
+  created: '2017-06-28'
+  domain: mathesis.ru
+- id: mathlib-ru-2017-06-28-1bf664a9
+  name: mathlib.ru (2017-06-28)
+  url: https://mathlib.ru
+  created: '2017-06-28'
+  domain: mathlib.ru
+- id: mathnet-ru-2017-06-28-e08aec3d
+  name: mathnet.ru (2017-06-28)
+  url: https://mathnet.ru
+  created: '2017-06-28'
+  domain: mathnet.ru
+- id: mccme-ru-2017-06-28-df6008cc
+  name: mccme.ru (2017-06-28)
+  url: https://mccme.ru
+  created: '2017-06-28'
+  domain: mccme.ru
+- id: mi-benran-ru-2017-06-28-0c778356
+  name: mi.benran.ru (2017-06-28)
+  url: https://mi.benran.ru
+  created: '2017-06-28'
+  domain: mi.benran.ru
+- id: mi-ras-ru-2017-06-28-b5fe260d
+  name: mi.ras.ru (2017-06-28)
+  url: https://mi.ras.ru
+  created: '2017-06-28'
+  domain: mi.ras.ru
+- id: mms-mathnet-ru-2017-06-28-0b30dfd7
+  name: mms.mathnet.ru (2017-06-28)
+  url: https://mms.mathnet.ru
+  created: '2017-06-28'
+  domain: mms.mathnet.ru
+- id: olympiads-mccme-ru-2017-06-28-3ca6c7b0
+  name: olympiads.mccme.ru (2017-06-28)
+  url: https://olympiads.mccme.ru
+  created: '2017-06-28'
+  domain: olympiads.mccme.ru
+- id: problems-ru-2017-06-28-858bf525
+  name: problems.ru (2017-06-28)
+  url: https://problems.ru
+  created: '2017-06-28'
+  domain: problems.ru
+- id: ptlab-mccme-ru-2017-06-28-5594d3ae
+  name: ptlab.mccme.ru (2017-06-28)
+  url: https://ptlab.mccme.ru
+  created: '2017-06-28'
+  domain: ptlab.mccme.ru
+- id: ras-ru-2017-06-28-66c86567
+  name: ras.ru (2017-06-28)
+  url: https://ras.ru
+  created: '2017-06-28'
+  domain: ras.ru
+- id: schools-mccme-ru-2017-06-28-b6c1bb2a
+  name: schools.mccme.ru (2017-06-28)
+  url: https://schools.mccme.ru
+  created: '2017-06-28'
+  domain: schools.mccme.ru
+- id: tcheb-ru-2017-06-28-112f1107
+  name: tcheb.ru (2017-06-28)
+  url: https://tcheb.ru
+  created: '2017-06-28'
+  domain: tcheb.ru
+- id: turgor-ru-2017-06-28-83fb2e4b
+  name: turgor.ru (2017-06-28)
+  url: https://turgor.ru
+  created: '2017-06-28'
+  domain: turgor.ru
+- id: turlom-olimpiada-ru-2017-06-28-f4aa6d29
+  name: turlom.olimpiada.ru (2017-06-28)
+  url: https://turlom.olimpiada.ru
+  created: '2017-06-28'
+  domain: turlom.olimpiada.ru
+- id: vofem-ru-2017-06-28-86fa1b63
+  name: vofem.ru (2017-06-28)
+  url: https://vofem.ru
+  created: '2017-06-28'
+  domain: vofem.ru
+- id: zadachi-mccme-ru-2017-06-28-96b5aa77
+  name: zadachi.mccme.ru (2017-06-28)
+  url: https://zadachi.mccme.ru
+  created: '2017-06-28'
+  domain: zadachi.mccme.ru
+files:
+  total_count: 698
+  total_size: 396389570004
+  directories:
+  - webcollect2017

@@ -1,0 +1,28 @@
+id: minregion-ru
+name: minregion.ru (2014-09-11)
+domain: minregion.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.minregion.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minregion.ru/www.minregion.ru.warc.xz
+  size: 7399332320
+  modified: '2014-09-11T09:46:21'
+  type: WARC
+  extension: .xz
+- name: www.minregion.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minregion.ru/www.minregion.ru.log.xz
+  size: 895824
+  modified: '2014-09-11T09:46:21'
+  type: wpull log
+  extension: .xz
+- name: www.minregion.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.minregion.ru/www.minregion.ru.cdx.xz
+  size: 453236
+  modified: '2014-09-11T09:46:21'
+  type: CDX
+  extension: .xz
+url: https://minregion.ru
+created: '2014-09-11T09:46:21'

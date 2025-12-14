@@ -1,0 +1,28 @@
+id: ormvd-ru
+name: ormvd.ru (2014-01-21)
+domain: ormvd.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: ormvd.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/ormvd.ru/ormvd.ru.warc.xz
+  size: 335423288
+  modified: '2014-01-21T19:47:28'
+  type: WARC
+  extension: .xz
+- name: ormvd.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/ormvd.ru/ormvd.ru.log.xz
+  size: 919604
+  modified: '2014-01-21T19:47:23'
+  type: wpull log
+  extension: .xz
+- name: ormvd.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/ormvd.ru/ormvd.ru.cdx.xz
+  size: 1043800
+  modified: '2014-01-21T19:47:17'
+  type: CDX
+  extension: .xz
+url: https://ormvd.ru
+created: '2014-01-21T19:47:28'

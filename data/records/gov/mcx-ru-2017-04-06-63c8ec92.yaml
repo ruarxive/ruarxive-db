@@ -1,0 +1,93 @@
+id: mcx-ru-2017-04-06-63c8ec92
+name: mcx.ru (2017-04-06)
+domain: mcx.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/dupes_db/data.mdb
+  size: 20008960
+  modified: '2017-04-07T23:41:30'
+  type: ''
+  extension: .mdb
+- name: mcx.ru-2017-04-06-63c8ec92-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/mcx.ru-2017-04-06-63c8ec92-00000.warc.gz
+  size: 5368728824
+  modified: '2017-04-07T04:27:44'
+  type: WARC
+  extension: .warc.gz
+- name: mcx.ru-2017-04-06-63c8ec92-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/mcx.ru-2017-04-06-63c8ec92-00004.warc.gz
+  size: 3380250507
+  modified: '2017-04-07T23:41:30'
+  type: WARC
+  extension: .warc.gz
+- name: mcx.ru-2017-04-06-63c8ec92-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/mcx.ru-2017-04-06-63c8ec92-00001.warc.gz
+  size: 5420356226
+  modified: '2017-04-07T22:51:39'
+  type: WARC
+  extension: .warc.gz
+- name: mcx.ru-2017-04-06-63c8ec92-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/mcx.ru-2017-04-06-63c8ec92-00003.warc.gz
+  size: 5475113626
+  modified: '2017-04-07T23:30:40'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-warcsesrsp-b7mz3_ip.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/temp/tmp-wpull-warcsesrsp-b7mz3_ip.tmp
+  size: 569576
+  modified: '2017-04-07T23:41:30'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-6cy8au26.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/temp/tmp-wpull-resp_cb-6cy8au26.tmp
+  size: 569258
+  modified: '2017-04-07T23:41:30'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-w8pvpq_n.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/temp/tmp-wpull-warcsesreq-w8pvpq_n.tmp
+  size: 452
+  modified: '2017-04-07T23:41:30'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-n9_qmkou.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/temp/tmp-wpull-resp_cb-n9_qmkou.tmp
+  size: 143072
+  modified: '2017-04-07T23:41:30'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/wpull.db
+  size: 93723648
+  modified: '2017-04-07T23:41:33'
+  type: wpull database
+  extension: .db
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/stop
+  size: 0
+  modified: '2017-04-07T23:41:29'
+  type: ''
+- name: mcx.ru-2017-04-06-63c8ec92.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/mcx.ru-2017-04-06-63c8ec92.cdx
+  size: 46370170
+  modified: '2017-04-07T23:41:30'
+  type: CDX
+  extension: .cdx
+- name: mcx.ru-2017-04-06-63c8ec92-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/mcx.ru-2017-04-06-63c8ec92-meta.warc.gz
+  size: 4703137
+  modified: '2017-04-07T23:41:33'
+  type: WARC
+  extension: .warc.gz
+- name: mcx.ru-2017-04-06-63c8ec92-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mcx.ru-2017-04-06-63c8ec92/mcx.ru-2017-04-06-63c8ec92-00002.warc.gz
+  size: 5378005144
+  modified: '2017-04-07T23:14:17'
+  type: WARC
+  extension: .warc.gz
+url: https://mcx.ru
+created: '2017-04-06'

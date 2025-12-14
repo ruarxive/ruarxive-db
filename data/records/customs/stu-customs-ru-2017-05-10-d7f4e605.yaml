@@ -1,0 +1,40 @@
+id: stu-customs-ru-2017-05-10-d7f4e605
+name: stu.customs.ru (2017-05-10)
+domain: stu.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/stu.customs.ru-2017-05-10-d7f4e605/wpull.db
+  size: 49155072
+  modified: '2017-05-11T01:16:46'
+  type: wpull database
+  extension: .db
+- name: stu.customs.ru-2017-05-10-d7f4e605-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/stu.customs.ru-2017-05-10-d7f4e605/stu.customs.ru-2017-05-10-d7f4e605-meta.warc.gz
+  size: 2483330
+  modified: '2017-05-11T01:16:49'
+  type: WARC
+  extension: .warc.gz
+- name: stu.customs.ru-2017-05-10-d7f4e605.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/stu.customs.ru-2017-05-10-d7f4e605/stu.customs.ru-2017-05-10-d7f4e605.cdx
+  size: 22212716
+  modified: '2017-05-11T01:16:46'
+  type: CDX
+  extension: .cdx
+- name: stu.customs.ru-2017-05-10-d7f4e605-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/stu.customs.ru-2017-05-10-d7f4e605/stu.customs.ru-2017-05-10-d7f4e605-00000.warc.gz
+  size: 3713829660
+  modified: '2017-05-11T01:16:46'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/stu.customs.ru-2017-05-10-d7f4e605/dupes_db/data.mdb
+  size: 16121856
+  modified: '2017-05-11T01:16:46'
+  type: ''
+  extension: .mdb
+url: https://stu.customs.ru
+created: '2017-05-10'

@@ -1,0 +1,16 @@
+id: maps-minregion-ru
+name: maps.minregion.ru.7z (2012-10-22)
+domain: maps.minregion.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: maps.minregion.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/maps.minregion.ru.7z
+  size: 28400296
+  modified: '2012-10-22T09:46:47'
+  type: httrack archive
+  extension: .7z
+url: https://maps.minregion.ru.7z
+created: '2012-10-22T09:46:47'

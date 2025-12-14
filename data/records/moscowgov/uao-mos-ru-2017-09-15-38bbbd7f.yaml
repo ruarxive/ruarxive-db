@@ -1,0 +1,46 @@
+id: uao-mos-ru-2017-09-15-38bbbd7f
+name: uao.mos.ru (2017-09-15)
+domain: uao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: uao.mos.ru-2017-09-15-38bbbd7f-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uao.mos.ru-2017-09-15-38bbbd7f/uao.mos.ru-2017-09-15-38bbbd7f-00001.warc.gz
+  size: 835192528
+  modified: '2017-09-18T01:15:26'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uao.mos.ru-2017-09-15-38bbbd7f/dupes_db/data.mdb
+  size: 8269824
+  modified: '2017-09-18T01:15:26'
+  type: ''
+  extension: .mdb
+- name: uao.mos.ru-2017-09-15-38bbbd7f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uao.mos.ru-2017-09-15-38bbbd7f/uao.mos.ru-2017-09-15-38bbbd7f-00000.warc.gz
+  size: 5368865262
+  modified: '2017-09-17T18:46:23'
+  type: WARC
+  extension: .warc.gz
+- name: uao.mos.ru-2017-09-15-38bbbd7f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uao.mos.ru-2017-09-15-38bbbd7f/uao.mos.ru-2017-09-15-38bbbd7f-meta.warc.gz
+  size: 1939263
+  modified: '2017-09-18T01:15:29'
+  type: WARC
+  extension: .warc.gz
+- name: uao.mos.ru-2017-09-15-38bbbd7f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uao.mos.ru-2017-09-15-38bbbd7f/uao.mos.ru-2017-09-15-38bbbd7f.cdx
+  size: 13248615
+  modified: '2017-09-18T01:15:26'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uao.mos.ru-2017-09-15-38bbbd7f/wpull.db
+  size: 17123328
+  modified: '2017-09-18T01:15:27'
+  type: wpull database
+  extension: .db
+url: https://uao.mos.ru
+created: '2017-09-15'

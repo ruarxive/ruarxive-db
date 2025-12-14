@@ -1,0 +1,83 @@
+id: lifestylemedia_garage
+slug: lifestylemedia_garage
+name: Образ жизни
+created: '2022-03-29T16:19:40.000Z'
+num_records: 11
+records:
+- id: admagazine-ru
+  name: AD magazine
+  url: https://www.admagazine.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: admagazine.ru
+- id: bazaar-ru
+  name: Harper's Bazaar
+  url: https://bazaar.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: bazaar.ru
+- id: condenast-ru
+  name: CNX (издательский дом Condé Nast)
+  url: https://www.condenast.ru/cnx_russia/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: condenast.ru
+- id: cosmo-ru
+  name: Cosmopolitan
+  url: https://www.cosmo.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: cosmo.ru
+- id: elle-ru
+  name: Elle
+  url: https://www.elle.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: elle.ru
+- id: esquire-ru
+  name: Esquire
+  url: https://esquire.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: esquire.ru
+- id: glamour-ru
+  name: Glamour
+  url: https://www.glamour.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: glamour.ru
+- id: gq-ru
+  name: GQ Russia
+  url: https://www.gq.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: gq.ru
+- id: mhealth-ru
+  name: Men's Health
+  url: https://www.mhealth.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: mhealth.ru
+- id: tatler-ru
+  name: Tatler
+  url: https://www.tatler.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: tatler.ru
+- id: vogue-ru
+  name: Vogue Russia
+  url: https://www.vogue.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: vogue.ru

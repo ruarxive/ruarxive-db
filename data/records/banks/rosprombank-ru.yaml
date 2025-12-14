@@ -1,0 +1,28 @@
+id: rosprombank-ru
+name: rosprombank.ru (2013-12-19)
+domain: rosprombank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.rosprombank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rosprombank.ru/www.rosprombank.ru.warc.xz
+  size: 33523132
+  modified: '2013-12-19T11:23:18'
+  type: WARC
+  extension: .xz
+- name: www.rosprombank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rosprombank.ru/www.rosprombank.ru.log.xz
+  size: 21960
+  modified: '2013-12-19T11:23:17'
+  type: wpull log
+  extension: .xz
+- name: www.rosprombank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rosprombank.ru/www.rosprombank.ru.cdx.xz
+  size: 27564
+  modified: '2013-12-19T11:23:16'
+  type: CDX
+  extension: .xz
+url: https://rosprombank.ru
+created: '2013-12-19T11:23:18'

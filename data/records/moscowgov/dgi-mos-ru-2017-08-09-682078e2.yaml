@@ -1,0 +1,52 @@
+id: dgi-mos-ru-2017-08-09-682078e2
+name: dgi.mos.ru (2017-08-09)
+domain: dgi.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgi.mos.ru-2017-08-09-682078e2/dupes_db/data.mdb
+  size: 16162816
+  modified: '2017-08-14T08:01:02'
+  type: ''
+  extension: .mdb
+- name: dgi.mos.ru-2017-08-09-682078e2-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgi.mos.ru-2017-08-09-682078e2/dgi.mos.ru-2017-08-09-682078e2-00002.warc.gz
+  size: 170716333
+  modified: '2017-08-14T08:01:01'
+  type: WARC
+  extension: .warc.gz
+- name: dgi.mos.ru-2017-08-09-682078e2-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgi.mos.ru-2017-08-09-682078e2/dgi.mos.ru-2017-08-09-682078e2-meta.warc.gz
+  size: 3286040
+  modified: '2017-08-14T08:01:06'
+  type: WARC
+  extension: .warc.gz
+- name: dgi.mos.ru-2017-08-09-682078e2-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgi.mos.ru-2017-08-09-682078e2/dgi.mos.ru-2017-08-09-682078e2-00001.warc.gz
+  size: 5368725411
+  modified: '2017-08-14T03:27:05'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgi.mos.ru-2017-08-09-682078e2/wpull.db
+  size: 81306624
+  modified: '2017-08-14T08:01:02'
+  type: wpull database
+  extension: .db
+- name: dgi.mos.ru-2017-08-09-682078e2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgi.mos.ru-2017-08-09-682078e2/dgi.mos.ru-2017-08-09-682078e2.cdx
+  size: 28488699
+  modified: '2017-08-14T08:01:01'
+  type: CDX
+  extension: .cdx
+- name: dgi.mos.ru-2017-08-09-682078e2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgi.mos.ru-2017-08-09-682078e2/dgi.mos.ru-2017-08-09-682078e2-00000.warc.gz
+  size: 5368905706
+  modified: '2017-08-12T12:54:23'
+  type: WARC
+  extension: .warc.gz
+url: https://dgi.mos.ru
+created: '2017-08-09'

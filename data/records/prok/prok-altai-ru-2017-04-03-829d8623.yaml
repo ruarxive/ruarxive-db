@@ -1,0 +1,40 @@
+id: prok-altai-ru-2017-04-03-829d8623
+name: prok-altai.ru (2017-04-03)
+domain: prok-altai.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-altai.ru-2017-04-03-829d8623/dupes_db/data.mdb
+  size: 5169152
+  modified: '2017-04-03T09:48:48'
+  type: ''
+  extension: .mdb
+- name: www.prok-altai.ru-2017-04-03-829d8623-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-altai.ru-2017-04-03-829d8623/www.prok-altai.ru-2017-04-03-829d8623-00000.warc.gz
+  size: 195427284
+  modified: '2017-04-03T09:48:48'
+  type: WARC
+  extension: .warc.gz
+- name: www.prok-altai.ru-2017-04-03-829d8623.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-altai.ru-2017-04-03-829d8623/www.prok-altai.ru-2017-04-03-829d8623.cdx
+  size: 6470279
+  modified: '2017-04-03T09:48:48'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-altai.ru-2017-04-03-829d8623/wpull.db
+  size: 8656896
+  modified: '2017-04-03T09:49:48'
+  type: wpull database
+  extension: .db
+- name: www.prok-altai.ru-2017-04-03-829d8623-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-altai.ru-2017-04-03-829d8623/www.prok-altai.ru-2017-04-03-829d8623-meta.warc.gz
+  size: 943283
+  modified: '2017-04-03T09:49:48'
+  type: WARC
+  extension: .warc.gz
+url: https://prok-altai.ru
+created: '2017-04-03'

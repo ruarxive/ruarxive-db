@@ -1,0 +1,16 @@
+id: sk-kursk-ru
+name: sk-kursk.ru.7z (2013-09-18)
+domain: sk-kursk.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: sk-kursk.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/sk-kursk.ru.7z
+  size: 19985511
+  modified: '2013-09-18T22:22:04'
+  type: httrack archive
+  extension: .7z
+url: https://sk-kursk.ru.7z
+created: '2013-09-18T22:22:04'

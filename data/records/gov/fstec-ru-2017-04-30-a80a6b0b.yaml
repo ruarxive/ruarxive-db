@@ -1,0 +1,40 @@
+id: fstec-ru-2017-04-30-a80a6b0b
+name: fstec.ru (2017-04-30)
+domain: fstec.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fstec.ru-2017-04-30-a80a6b0b/wpull.db
+  size: 22528
+  modified: '2017-04-30T07:45:03'
+  type: wpull database
+  extension: .db
+- name: www.fstec.ru-2017-04-30-a80a6b0b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fstec.ru-2017-04-30-a80a6b0b/www.fstec.ru-2017-04-30-a80a6b0b-meta.warc.gz
+  size: 5251
+  modified: '2017-04-30T07:45:03'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fstec.ru-2017-04-30-a80a6b0b/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-04-30T07:45:00'
+  type: ''
+  extension: .mdb
+- name: www.fstec.ru-2017-04-30-a80a6b0b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fstec.ru-2017-04-30-a80a6b0b/www.fstec.ru-2017-04-30-a80a6b0b-00000.warc.gz
+  size: 842878
+  modified: '2017-04-30T07:45:02'
+  type: WARC
+  extension: .warc.gz
+- name: www.fstec.ru-2017-04-30-a80a6b0b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fstec.ru-2017-04-30-a80a6b0b/www.fstec.ru-2017-04-30-a80a6b0b.cdx
+  size: 14105
+  modified: '2017-04-30T07:45:00'
+  type: CDX
+  extension: .cdx
+url: https://fstec.ru
+created: '2017-04-30'

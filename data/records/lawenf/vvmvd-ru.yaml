@@ -1,0 +1,46 @@
+id: vvmvd-ru
+name: vvmvd.ru (2014-01-21)
+domain: vvmvd.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: vvmvd.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/vvmvd.ru_20160508/vvmvd.ru.cdx.xz
+  size: 2955784
+  modified: '2016-05-08T08:38:21'
+  type: CDX
+  extension: .xz
+- name: vvmvd.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/vvmvd.ru_20160508/vvmvd.ru.7z
+  size: 4579780694
+  modified: '2016-05-08T09:26:06'
+  type: ''
+  extension: .7z
+- name: vvmvd.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/vvmvd.ru_20160508/vvmvd.ru.log.xz
+  size: 12318920
+  modified: '2016-05-08T09:04:12'
+  type: wpull log
+  extension: .xz
+- name: vvmvd.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/vvmvd.ru_20140121/vvmvd.ru.warc.xz
+  size: 1643579360
+  modified: '2014-01-21T10:58:30'
+  type: WARC
+  extension: .xz
+- name: vvmvd.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/vvmvd.ru_20140121/vvmvd.ru.cdx.xz
+  size: 2012076
+  modified: '2014-01-21T10:57:33'
+  type: CDX
+  extension: .xz
+- name: vvmvd.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/vvmvd.ru_20140121/vvmvd.ru.log.xz
+  size: 1232916
+  modified: '2014-01-21T10:57:35'
+  type: wpull log
+  extension: .xz
+url: https://vvmvd.ru
+created: '2014-01-21T10:58:30'

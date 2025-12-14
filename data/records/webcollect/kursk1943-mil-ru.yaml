@@ -1,0 +1,16 @@
+id: kursk1943-mil-ru
+name: kursk1943.mil.ru.7z (2012-10-22)
+domain: kursk1943.mil.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: kursk1943.mil.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/kursk1943.mil.ru.7z
+  size: 151635000
+  modified: '2012-10-22T09:46:17'
+  type: httrack archive
+  extension: .7z
+url: https://kursk1943.mil.ru.7z
+created: '2012-10-22T09:46:17'

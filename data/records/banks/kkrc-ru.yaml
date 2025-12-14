@@ -1,0 +1,28 @@
+id: kkrc-ru
+name: kkrc.ru (2013-12-22)
+domain: kkrc.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.kkrc.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kkrc.ru/www.kkrc.ru.cdx.xz
+  size: 9860
+  modified: '2013-12-22T08:51:41'
+  type: CDX
+  extension: .xz
+- name: www.kkrc.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kkrc.ru/www.kkrc.ru.warc.xz
+  size: 42479884
+  modified: '2013-12-22T08:51:33'
+  type: WARC
+  extension: .xz
+- name: www.kkrc.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kkrc.ru/www.kkrc.ru.log.xz
+  size: 12264
+  modified: '2013-12-22T08:51:31'
+  type: wpull log
+  extension: .xz
+url: https://kkrc.ru
+created: '2013-12-22T08:51:33'

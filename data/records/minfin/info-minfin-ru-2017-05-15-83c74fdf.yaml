@@ -1,0 +1,40 @@
+id: info-minfin-ru-2017-05-15-83c74fdf
+name: info.minfin.ru (2017-05-15)
+domain: info.minfin.ru
+collection:
+  id: minfin
+  slug: minfin
+  name: Министерство финансов РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/info.minfin.ru-2017-05-15-83c74fdf/wpull.db
+  size: 172032
+  modified: '2017-05-15T09:00:27'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/info.minfin.ru-2017-05-15-83c74fdf/dupes_db/data.mdb
+  size: 118784
+  modified: '2017-05-15T09:00:27'
+  type: ''
+  extension: .mdb
+- name: info.minfin.ru-2017-05-15-83c74fdf-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/info.minfin.ru-2017-05-15-83c74fdf/info.minfin.ru-2017-05-15-83c74fdf-meta.warc.gz
+  size: 21925
+  modified: '2017-05-15T09:00:27'
+  type: WARC
+  extension: .warc.gz
+- name: info.minfin.ru-2017-05-15-83c74fdf-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/info.minfin.ru-2017-05-15-83c74fdf/info.minfin.ru-2017-05-15-83c74fdf-00000.warc.gz
+  size: 27834533
+  modified: '2017-05-15T09:00:27'
+  type: WARC
+  extension: .warc.gz
+- name: info.minfin.ru-2017-05-15-83c74fdf.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/info.minfin.ru-2017-05-15-83c74fdf/info.minfin.ru-2017-05-15-83c74fdf.cdx
+  size: 158918
+  modified: '2017-05-15T09:00:27'
+  type: CDX
+  extension: .cdx
+url: https://info.minfin.ru
+created: '2017-05-15'

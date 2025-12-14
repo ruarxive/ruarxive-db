@@ -1,0 +1,40 @@
+id: solid-ru
+name: solid.ru (2013-12-20)
+domain: solid.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.solid.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solid.ru/www.solid.ru.warc
+  size: 604823823
+  modified: '2014-05-11T00:51:27'
+  type: WARC
+  extension: .warc
+- name: www.solid.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solid.ru/www.solid.ru.log.xz
+  size: 138256
+  modified: '2014-05-11T00:51:27'
+  type: wpull log
+  extension: .xz
+- name: www.solid.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solid.ru/www.solid.ru.cdx.xz
+  size: 228664
+  modified: '2014-05-11T00:51:27'
+  type: CDX
+  extension: .xz
+- name: www.solid.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solid.ru/www.solid.ru.warc.xz
+  size: 345358564
+  modified: '2013-12-20T14:03:18'
+  type: WARC
+  extension: .xz
+- name: www.solid.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.solid.ru/www.solid.ru.7z
+  size: 404901209
+  modified: '2014-08-20T09:16:42'
+  type: ''
+  extension: .7z
+url: https://solid.ru
+created: '2013-12-20T14:03:18'

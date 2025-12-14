@@ -1,0 +1,34 @@
+id: rosfinnadzor-ru
+name: rosfinnadzor.ru (2016-02-29)
+domain: rosfinnadzor.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.rosfinnadzor.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rosfinnadzor.ru/www.rosfinnadzor.ru.log
+  size: 3432567
+  modified: '2016-02-29T16:17:55'
+  type: ''
+  extension: .log
+- name: www.rosfinnadzor.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rosfinnadzor.ru/www.rosfinnadzor.ru.7z
+  size: 950086164
+  modified: '2016-04-25T07:46:19'
+  type: ''
+  extension: .7z
+- name: www.rosfinnadzor.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rosfinnadzor.ru/www.rosfinnadzor.ru.cdx
+  size: 1021890
+  modified: '2016-02-29T16:17:55'
+  type: CDX
+  extension: .cdx
+- name: www.rosfinnadzor.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rosfinnadzor.ru/www.rosfinnadzor.ru.warc.gz
+  size: 1012527763
+  modified: '2016-02-29T16:17:55'
+  type: WARC
+  extension: .warc.gz
+url: https://rosfinnadzor.ru
+created: '2016-02-29T16:17:55'

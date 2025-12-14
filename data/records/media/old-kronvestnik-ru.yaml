@@ -1,0 +1,28 @@
+id: old-kronvestnik-ru
+name: old.kronvestnik.ru (2013-11-06)
+domain: old.kronvestnik.ru
+collection:
+  id: media
+  slug: media
+  name: Онлайн СМИ
+resources:
+- name: old.kronvestnik.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/media/old.kronvestnik.ru/old.kronvestnik.ru.cdx.xz
+  size: 3970712
+  modified: '2013-11-06T21:12:41'
+  type: CDX
+  extension: .xz
+- name: old.kronvestnik.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/media/old.kronvestnik.ru/old.kronvestnik.ru.warc.xz
+  size: 4127082548
+  modified: '2013-11-06T20:58:40'
+  type: WARC
+  extension: .xz
+- name: old.kronvestnik.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/media/old.kronvestnik.ru/old.kronvestnik.ru.log.xz
+  size: 2462068
+  modified: '2013-11-06T21:12:46'
+  type: wpull log
+  extension: .xz
+url: https://old.kronvestnik.ru
+created: '2013-11-06T20:58:40'

@@ -1,0 +1,58 @@
+id: mchs-gov-ru-2017-04-30-7b52fce2
+name: mchs.gov.ru (2017-04-30)
+domain: mchs.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mchs.gov.ru-2017-04-30-7b52fce2/dupes_db/data.mdb
+  size: 425984
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .mdb
+- name: www.mchs.gov.ru-2017-04-30-7b52fce2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mchs.gov.ru-2017-04-30-7b52fce2/www.mchs.gov.ru-2017-04-30-7b52fce2-00000.warc.gz
+  size: 242912948
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: www.mchs.gov.ru-2017-04-30-7b52fce2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mchs.gov.ru-2017-04-30-7b52fce2/www.mchs.gov.ru-2017-04-30-7b52fce2.cdx
+  size: 699019
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: tmp-wpull-resp_cb-mrb_m_.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mchs.gov.ru-2017-04-30-7b52fce2/temp/tmp-wpull-resp_cb-mrb_m_.tmp
+  size: 5141856
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-ncbdxz.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mchs.gov.ru-2017-04-30-7b52fce2/temp/tmp-wpull-warcsesreq-ncbdxz.tmp
+  size: 433
+  modified: '2017-04-30T08:45:34'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-52aows.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mchs.gov.ru-2017-04-30-7b52fce2/temp/tmp-wpull-warcsesrsp-52aows.tmp
+  size: 5142173
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-htvm8o.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mchs.gov.ru-2017-04-30-7b52fce2/temp/tmp-wpull-warc-htvm8o.log.gz
+  size: 145009
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mchs.gov.ru-2017-04-30-7b52fce2/wpull.db
+  size: 4070400
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+url: https://mchs.gov.ru
+created: '2017-04-30'

@@ -1,0 +1,34 @@
+id: old-rs-gov-ru
+name: old.rs.gov.ru (2014-08-18)
+domain: old.rs.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: old.rs.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.rs.gov.ru/old.rs.gov.ru.warc.xz
+  size: 3759570412
+  modified: '2014-08-18T23:52:11'
+  type: WARC
+  extension: .xz
+- name: old.rs.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.rs.gov.ru/old.rs.gov.ru.cdx.xz
+  size: 4308604
+  modified: '2014-08-18T23:52:11'
+  type: CDX
+  extension: .xz
+- name: old.rs.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.rs.gov.ru/old.rs.gov.ru.log.xz
+  size: 2696832
+  modified: '2014-08-18T23:52:11'
+  type: wpull log
+  extension: .xz
+- name: old.rs.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.rs.gov.ru/old.rs.gov.ru.7z
+  size: 3619080122
+  modified: '2014-08-18T23:49:50'
+  type: ''
+  extension: .7z
+url: https://old.rs.gov.ru
+created: '2014-08-18T23:52:11'

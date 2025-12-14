@@ -1,0 +1,40 @@
+id: glavkontrol-mos-ru-2017-08-09-7b0ad346
+name: glavkontrol.mos.ru (2017-08-09)
+domain: glavkontrol.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/glavkontrol.mos.ru-2017-08-09-7b0ad346/dupes_db/data.mdb
+  size: 271704064
+  modified: '2017-08-14T07:54:26'
+  type: ''
+  extension: .mdb
+- name: glavkontrol.mos.ru-2017-08-09-7b0ad346-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/glavkontrol.mos.ru-2017-08-09-7b0ad346/glavkontrol.mos.ru-2017-08-09-7b0ad346-00000.warc.gz
+  size: 5081628248
+  modified: '2017-08-14T07:54:48'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/glavkontrol.mos.ru-2017-08-09-7b0ad346/wpull.db
+  size: 406344704
+  modified: '2017-08-14T07:54:48'
+  type: wpull database
+  extension: .db
+- name: glavkontrol.mos.ru-2017-08-09-7b0ad346-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/glavkontrol.mos.ru-2017-08-09-7b0ad346/glavkontrol.mos.ru-2017-08-09-7b0ad346-meta.warc.gz
+  size: 3582847
+  modified: '2017-08-14T07:55:02'
+  type: WARC
+  extension: .warc.gz
+- name: glavkontrol.mos.ru-2017-08-09-7b0ad346.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/glavkontrol.mos.ru-2017-08-09-7b0ad346/glavkontrol.mos.ru-2017-08-09-7b0ad346.cdx
+  size: 191695901
+  modified: '2017-08-14T07:54:48'
+  type: CDX
+  extension: .cdx
+url: https://glavkontrol.mos.ru
+created: '2017-08-09'

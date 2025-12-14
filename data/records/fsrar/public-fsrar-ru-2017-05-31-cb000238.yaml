@@ -1,0 +1,40 @@
+id: public-fsrar-ru-2017-05-31-cb000238
+name: public.fsrar.ru (2017-05-31)
+domain: public.fsrar.ru
+collection:
+  id: fsrar
+  slug: fsrar
+  name: ФСРАР
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/public.fsrar.ru-2017-05-31-cb000238/wpull.db
+  size: 1718272
+  modified: '2017-06-01T12:37:52'
+  type: wpull database
+  extension: .db
+- name: public.fsrar.ru-2017-05-31-cb000238-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/public.fsrar.ru-2017-05-31-cb000238/public.fsrar.ru-2017-05-31-cb000238-00000.warc.gz
+  size: 3988163279
+  modified: '2017-06-01T12:39:29'
+  type: WARC
+  extension: .warc.gz
+- name: public.fsrar.ru-2017-05-31-cb000238.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/public.fsrar.ru-2017-05-31-cb000238/public.fsrar.ru-2017-05-31-cb000238.cdx
+  size: 1695064
+  modified: '2017-06-01T12:37:53'
+  type: CDX
+  extension: .cdx
+- name: public.fsrar.ru-2017-05-31-cb000238-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/public.fsrar.ru-2017-05-31-cb000238/public.fsrar.ru-2017-05-31-cb000238-meta.warc.gz
+  size: 272440
+  modified: '2017-06-01T12:37:52'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/public.fsrar.ru-2017-05-31-cb000238/dupes_db/data.mdb
+  size: 1019904
+  modified: '2017-06-01T12:39:32'
+  type: ''
+  extension: .mdb
+url: https://public.fsrar.ru
+created: '2017-05-31'

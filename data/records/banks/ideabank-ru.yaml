@@ -1,0 +1,34 @@
+id: ideabank-ru
+name: ideabank.ru (2014-05-10)
+domain: ideabank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.ideabank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ideabank.ru/www.ideabank.ru.log.xz
+  size: 50056
+  modified: '2014-05-10T20:25:38'
+  type: wpull log
+  extension: .xz
+- name: www.ideabank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ideabank.ru/www.ideabank.ru.warc.xz
+  size: 162562072
+  modified: '2014-05-10T20:25:38'
+  type: WARC
+  extension: .xz
+- name: www.ideabank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ideabank.ru/www.ideabank.ru.cdx.xz
+  size: 54344
+  modified: '2014-05-10T20:25:38'
+  type: CDX
+  extension: .xz
+- name: www.ideabank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ideabank.ru/www.ideabank.ru.7z
+  size: 166984845
+  modified: '2014-08-19T08:13:36'
+  type: ''
+  extension: .7z
+url: https://ideabank.ru
+created: '2014-05-10T20:25:38'

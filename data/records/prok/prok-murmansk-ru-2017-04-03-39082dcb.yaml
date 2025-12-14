@@ -1,0 +1,40 @@
+id: prok-murmansk-ru-2017-04-03-39082dcb
+name: prok-murmansk.ru (2017-04-03)
+domain: prok-murmansk.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-murmansk.ru-2017-04-03-39082dcb/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-04-03T18:19:06'
+  type: ''
+  extension: .mdb
+- name: www.prok-murmansk.ru-2017-04-03-39082dcb.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-murmansk.ru-2017-04-03-39082dcb/www.prok-murmansk.ru-2017-04-03-39082dcb.cdx
+  size: 35118
+  modified: '2017-04-03T18:19:06'
+  type: CDX
+  extension: .cdx
+- name: www.prok-murmansk.ru-2017-04-03-39082dcb-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-murmansk.ru-2017-04-03-39082dcb/www.prok-murmansk.ru-2017-04-03-39082dcb-00000.warc.gz
+  size: 5441816
+  modified: '2017-04-03T18:19:06'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-murmansk.ru-2017-04-03-39082dcb/wpull.db
+  size: 44032
+  modified: '2017-04-03T18:19:07'
+  type: wpull database
+  extension: .db
+- name: www.prok-murmansk.ru-2017-04-03-39082dcb-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prok-murmansk.ru-2017-04-03-39082dcb/www.prok-murmansk.ru-2017-04-03-39082dcb-meta.warc.gz
+  size: 7620
+  modified: '2017-04-03T18:19:07'
+  type: WARC
+  extension: .warc.gz
+url: https://prok-murmansk.ru
+created: '2017-04-03'

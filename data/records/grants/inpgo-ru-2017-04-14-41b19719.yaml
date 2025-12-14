@@ -1,0 +1,40 @@
+id: inpgo-ru-2017-04-14-41b19719
+name: inpgo.ru (2017-04-14)
+domain: inpgo.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: inpgo.ru-2017-04-14-41b19719-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inpgo.ru-2017-04-14-41b19719/inpgo.ru-2017-04-14-41b19719-meta.warc.gz
+  size: 32177
+  modified: '2017-04-14T08:02:50'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inpgo.ru-2017-04-14-41b19719/dupes_db/data.mdb
+  size: 139264
+  modified: '2017-04-14T08:02:38'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inpgo.ru-2017-04-14-41b19719/wpull.db
+  size: 221184
+  modified: '2017-04-14T08:02:50'
+  type: wpull database
+  extension: .db
+- name: inpgo.ru-2017-04-14-41b19719-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inpgo.ru-2017-04-14-41b19719/inpgo.ru-2017-04-14-41b19719-00000.warc.gz
+  size: 49707690
+  modified: '2017-04-14T08:02:50'
+  type: WARC
+  extension: .warc.gz
+- name: inpgo.ru-2017-04-14-41b19719.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inpgo.ru-2017-04-14-41b19719/inpgo.ru-2017-04-14-41b19719.cdx
+  size: 252125
+  modified: '2017-04-14T08:02:50'
+  type: CDX
+  extension: .cdx
+url: https://inpgo.ru
+created: '2017-04-14'

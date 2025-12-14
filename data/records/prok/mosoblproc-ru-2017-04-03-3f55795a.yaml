@@ -1,0 +1,40 @@
+id: mosoblproc-ru-2017-04-03-3f55795a
+name: mosoblproc.ru (2017-04-03)
+domain: mosoblproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/mosoblproc.ru-2017-04-03-3f55795a/dupes_db/data.mdb
+  size: 2240512
+  modified: '2017-04-03T10:15:32'
+  type: ''
+  extension: .mdb
+- name: mosoblproc.ru-2017-04-03-3f55795a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/mosoblproc.ru-2017-04-03-3f55795a/mosoblproc.ru-2017-04-03-3f55795a-00000.warc.gz
+  size: 644380704
+  modified: '2017-04-03T10:16:06'
+  type: WARC
+  extension: .warc.gz
+- name: mosoblproc.ru-2017-04-03-3f55795a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/mosoblproc.ru-2017-04-03-3f55795a/mosoblproc.ru-2017-04-03-3f55795a-meta.warc.gz
+  size: 812315
+  modified: '2017-04-03T10:16:07'
+  type: WARC
+  extension: .warc.gz
+- name: mosoblproc.ru-2017-04-03-3f55795a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/mosoblproc.ru-2017-04-03-3f55795a/mosoblproc.ru-2017-04-03-3f55795a.cdx
+  size: 6898983
+  modified: '2017-04-03T10:16:06'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/mosoblproc.ru-2017-04-03-3f55795a/wpull.db
+  size: 10769408
+  modified: '2017-04-03T10:16:07'
+  type: wpull database
+  extension: .db
+url: https://mosoblproc.ru
+created: '2017-04-03'

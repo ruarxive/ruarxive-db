@@ -1,0 +1,29 @@
+id: wall-online-ru
+name: Wall-online
+url: https://wall-online.ru/
+domain: wall-online.ru
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-03-30T12:07:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Виртуальное пространство
+reason_id: virtualnoe-prostranstvo
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: средний
+resources:
+- type: WARC
+  name: wall-online.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/wall-online.ru/wall-online.ru.warc.gz

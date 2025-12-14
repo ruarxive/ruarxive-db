@@ -1,0 +1,40 @@
+id: cgsen89-ru-2017-05-14-d4657cca
+name: cgsen89.ru (2017-05-14)
+domain: cgsen89.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: cgsen89.ru-2017-05-14-d4657cca-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgsen89.ru-2017-05-14-d4657cca/cgsen89.ru-2017-05-14-d4657cca-meta.warc.gz
+  size: 11707873
+  modified: '2017-05-14T14:41:01'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgsen89.ru-2017-05-14-d4657cca/wpull.db
+  size: 8069120
+  modified: '2017-05-14T14:40:58'
+  type: wpull database
+  extension: .db
+- name: cgsen89.ru-2017-05-14-d4657cca-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgsen89.ru-2017-05-14-d4657cca/cgsen89.ru-2017-05-14-d4657cca-00000.warc.gz
+  size: 344083012
+  modified: '2017-05-14T14:40:47'
+  type: WARC
+  extension: .warc.gz
+- name: cgsen89.ru-2017-05-14-d4657cca.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgsen89.ru-2017-05-14-d4657cca/cgsen89.ru-2017-05-14-d4657cca.cdx
+  size: 6025640
+  modified: '2017-05-14T14:40:47'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgsen89.ru-2017-05-14-d4657cca/dupes_db/data.mdb
+  size: 151552
+  modified: '2017-05-14T14:34:18'
+  type: ''
+  extension: .mdb
+url: https://cgsen89.ru
+created: '2017-05-14'

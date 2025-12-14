@@ -1,0 +1,17 @@
+id: fedstat-ru-20220410
+name: fedstat.ru (2022-04-10)
+domain: fedstat.ru
+url: https://fedstat.ru
+created: '2022-04-10'
+date: '2022-04-10'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: fedstat_ru_20220410.zip
+  url: https://cdn.ruarxive.org/public/dataportals/fedstat.ru/2022-04-10/fedstat_ru_20220410.zip
+  size: 85009809
+  modified: '2022-04-10T19:26:22'
+  type: ''
+  extension: .zip

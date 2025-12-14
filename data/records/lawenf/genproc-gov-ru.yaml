@@ -1,0 +1,28 @@
+id: genproc-gov-ru
+name: genproc.gov.ru (2014-01-21)
+domain: genproc.gov.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: www.genproc.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.genproc.gov.ru/www.genproc.gov.ru.cdx.xz
+  size: 1608392
+  modified: '2014-01-21T19:54:46'
+  type: CDX
+  extension: .xz
+- name: www.genproc.gov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.genproc.gov.ru/www.genproc.gov.ru.warc.gz
+  size: 2847005009
+  modified: '2014-01-21T19:55:49'
+  type: WARC
+  extension: .warc.gz
+- name: www.genproc.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.genproc.gov.ru/www.genproc.gov.ru.log.xz
+  size: 945436
+  modified: '2014-01-21T19:54:43'
+  type: wpull log
+  extension: .xz
+url: https://genproc.gov.ru
+created: '2014-01-21T19:55:49'

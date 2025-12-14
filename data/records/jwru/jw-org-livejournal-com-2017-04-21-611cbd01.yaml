@@ -1,0 +1,40 @@
+id: jw-org-livejournal-com-2017-04-21-611cbd01
+name: jw-org.livejournal.com (2017-04-21)
+domain: jw-org.livejournal.com
+collection:
+  id: jwru
+  slug: jwru
+  name: Свидетели Иеговы
+resources:
+- name: jw-org.livejournal.com-2017-04-21-611cbd01-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-org.livejournal.com-2017-04-21-611cbd01/jw-org.livejournal.com-2017-04-21-611cbd01-meta.warc.gz
+  size: 283717
+  modified: '2017-04-21T09:53:26'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-org.livejournal.com-2017-04-21-611cbd01/dupes_db/data.mdb
+  size: 909312
+  modified: '2017-04-21T09:53:26'
+  type: ''
+  extension: .mdb
+- name: jw-org.livejournal.com-2017-04-21-611cbd01.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-org.livejournal.com-2017-04-21-611cbd01/jw-org.livejournal.com-2017-04-21-611cbd01.cdx
+  size: 2677232
+  modified: '2017-04-21T09:53:26'
+  type: CDX
+  extension: .cdx
+- name: jw-org.livejournal.com-2017-04-21-611cbd01-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-org.livejournal.com-2017-04-21-611cbd01/jw-org.livejournal.com-2017-04-21-611cbd01-00000.warc.gz
+  size: 518076230
+  modified: '2017-04-21T09:53:26'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-org.livejournal.com-2017-04-21-611cbd01/wpull.db
+  size: 3053568
+  modified: '2017-04-21T09:53:26'
+  type: wpull database
+  extension: .db
+url: https://jw-org.livejournal.com
+created: '2017-04-21'

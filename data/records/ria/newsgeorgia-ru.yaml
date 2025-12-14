@@ -1,0 +1,28 @@
+id: newsgeorgia-ru
+name: newsgeorgia.ru (2013-12-17)
+domain: newsgeorgia.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: newsgeorgia.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newsgeorgia.ru/newsgeorgia.ru.cdx.xz
+  size: 18226224
+  modified: '2013-12-17T20:12:39'
+  type: CDX
+  extension: .xz
+- name: newsgeorgia.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newsgeorgia.ru/newsgeorgia.ru.warc.xz
+  size: 823190620
+  modified: '2013-12-17T20:03:44'
+  type: WARC
+  extension: .xz
+- name: newsgeorgia.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newsgeorgia.ru/newsgeorgia.ru.log.xz
+  size: 9022124
+  modified: '2013-12-17T20:00:52'
+  type: wpull log
+  extension: .xz
+url: https://newsgeorgia.ru
+created: '2013-12-17T20:03:44'

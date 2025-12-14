@@ -1,0 +1,19 @@
+id: facebook-com-1
+name: Ирина Кулик
+url: https://www.facebook.com/irina.kulik.14
+domain: facebook.com
+created: '2022-03-29T15:43:19.000Z'
+status: не собран
+status_id: not-collected
+resource_type: страница fb
+resource_type_id: fb-page
+reason: Личная страница Ирины Кулик - российский художественный критик
+reason_id: lichnaya-stranitsa-iriny-kulik
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: средний

@@ -1,0 +1,16 @@
+id: mgdf-ru
+name: mgdf.ru.7z (2012-10-22)
+domain: mgdf.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: mgdf.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/mgdf.ru.7z
+  size: 27148265
+  modified: '2012-10-22T09:47:15'
+  type: httrack archive
+  extension: .7z
+url: https://mgdf.ru.7z
+created: '2012-10-22T09:47:15'

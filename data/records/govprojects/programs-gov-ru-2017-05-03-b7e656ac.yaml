@@ -1,0 +1,40 @@
+id: programs-gov-ru-2017-05-03-b7e656ac
+name: programs.gov.ru (2017-05-03)
+domain: programs.gov.ru
+collection:
+  id: govprojects
+  slug: govprojects
+  name: Государственные проекты
+resources:
+- name: programs.gov.ru-2017-05-03-b7e656ac.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/programs.gov.ru-2017-05-03-b7e656ac/programs.gov.ru-2017-05-03-b7e656ac.cdx
+  size: 2557753
+  modified: '2017-05-03T16:40:52'
+  type: CDX
+  extension: .cdx
+- name: programs.gov.ru-2017-05-03-b7e656ac-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/programs.gov.ru-2017-05-03-b7e656ac/programs.gov.ru-2017-05-03-b7e656ac-00000.warc.gz
+  size: 2674531083
+  modified: '2017-05-03T16:40:52'
+  type: WARC
+  extension: .warc.gz
+- name: programs.gov.ru-2017-05-03-b7e656ac-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/programs.gov.ru-2017-05-03-b7e656ac/programs.gov.ru-2017-05-03-b7e656ac-meta.warc.gz
+  size: 347249
+  modified: '2017-05-03T16:40:52'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/programs.gov.ru-2017-05-03-b7e656ac/wpull.db
+  size: 2859008
+  modified: '2017-05-03T16:40:52'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/programs.gov.ru-2017-05-03-b7e656ac/dupes_db/data.mdb
+  size: 1220608
+  modified: '2017-05-03T16:40:36'
+  type: ''
+  extension: .mdb
+url: https://programs.gov.ru
+created: '2017-05-03'

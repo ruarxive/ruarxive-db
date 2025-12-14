@@ -1,0 +1,29 @@
+id: chaskor-ru
+name: Частный корреспондент
+url: https://chaskor.ru
+domain: chaskor.ru
+created: '2022-03-24T14:57:45.000Z'
+date: '2022-03-27T14:59:00.000Z'
+status: собран
+status_id: collected
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Временное закрытие сайта в начале марта 2022 года
+reason_id: temporary-closure
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: chaskor.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/media2022/chaskor.ru/chaskor.ru.warc.gz

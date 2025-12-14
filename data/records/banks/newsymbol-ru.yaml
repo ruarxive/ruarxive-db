@@ -1,0 +1,34 @@
+id: newsymbol-ru
+name: newsymbol.ru (2014-05-10)
+domain: newsymbol.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.newsymbol.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.newsymbol.ru/www.newsymbol.ru.cdx.xz
+  size: 48844
+  modified: '2014-05-10T20:26:56'
+  type: CDX
+  extension: .xz
+- name: www.newsymbol.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.newsymbol.ru/www.newsymbol.ru.log.xz
+  size: 29424
+  modified: '2014-05-10T20:26:56'
+  type: wpull log
+  extension: .xz
+- name: www.newsymbol.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.newsymbol.ru/www.newsymbol.ru.7z
+  size: 35835159
+  modified: '2014-08-20T10:32:59'
+  type: ''
+  extension: .7z
+- name: www.newsymbol.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.newsymbol.ru/www.newsymbol.ru.warc.xz
+  size: 35935296
+  modified: '2014-05-10T20:26:56'
+  type: WARC
+  extension: .xz
+url: https://newsymbol.ru
+created: '2014-05-10T20:26:56'

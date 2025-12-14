@@ -1,0 +1,40 @@
+id: cgekuban-ru-2017-05-14-c5f3c951
+name: cgekuban.ru (2017-05-14)
+domain: cgekuban.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.cgekuban.ru-2017-05-14-c5f3c951-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgekuban.ru-2017-05-14-c5f3c951/www.cgekuban.ru-2017-05-14-c5f3c951-00000.warc.gz
+  size: 100521504
+  modified: '2017-05-14T15:07:45'
+  type: WARC
+  extension: .warc.gz
+- name: www.cgekuban.ru-2017-05-14-c5f3c951.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgekuban.ru-2017-05-14-c5f3c951/www.cgekuban.ru-2017-05-14-c5f3c951.cdx
+  size: 1107142
+  modified: '2017-05-14T15:07:45'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgekuban.ru-2017-05-14-c5f3c951/dupes_db/data.mdb
+  size: 618496
+  modified: '2017-05-14T15:07:42'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgekuban.ru-2017-05-14-c5f3c951/wpull.db
+  size: 1064960
+  modified: '2017-05-14T15:07:45'
+  type: wpull database
+  extension: .db
+- name: www.cgekuban.ru-2017-05-14-c5f3c951-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgekuban.ru-2017-05-14-c5f3c951/www.cgekuban.ru-2017-05-14-c5f3c951-meta.warc.gz
+  size: 126845
+  modified: '2017-05-14T15:07:45'
+  type: WARC
+  extension: .warc.gz
+url: https://cgekuban.ru
+created: '2017-05-14'

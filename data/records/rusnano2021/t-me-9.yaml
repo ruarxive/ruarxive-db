@@ -1,0 +1,25 @@
+id: t-me-9
+name: Телеграм канал Роснано
+domain: t.me
+created: '2021-11-22T09:52:57.000Z'
+date: '2021-11-21T21:00:00.000Z'
+status: запланирован
+status_id: planned
+resource_type: телеграм канал
+resource_type_id: telegram
+reason: Предбанкротное состояние организации
+reason_id: pre-bankruptcy
+reason_url: https://www.rusnano.com/news/20211119-rosnano-obyavlyaet-o-provedenii-vstrechi-s-kreditorami-i-krupnymi-derzhatelyami-obligatsiy/
+strategy: архивация Telegram канала
+tools:
+- telegram desktop
+format: jsonl
+format_id: jsonl
+collection:
+  id: rusnano2021
+  name: Роснано 2021
+  slug: rusnano2021
+source:
+  id: rosnano
+  name: Роснано
+priority: высокий

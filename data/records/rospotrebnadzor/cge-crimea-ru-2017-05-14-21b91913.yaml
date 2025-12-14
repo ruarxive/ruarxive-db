@@ -1,0 +1,40 @@
+id: cge-crimea-ru-2017-05-14-21b91913
+name: cge-crimea.ru (2017-05-14)
+domain: cge-crimea.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cge-crimea.ru-2017-05-14-21b91913/dupes_db/data.mdb
+  size: 147456
+  modified: '2017-05-14T14:09:20'
+  type: ''
+  extension: .mdb
+- name: cge-crimea.ru-2017-05-14-21b91913-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cge-crimea.ru-2017-05-14-21b91913/cge-crimea.ru-2017-05-14-21b91913-00000.warc.gz
+  size: 24970635
+  modified: '2017-05-14T14:09:22'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cge-crimea.ru-2017-05-14-21b91913/wpull.db
+  size: 208896
+  modified: '2017-05-14T14:09:22'
+  type: wpull database
+  extension: .db
+- name: cge-crimea.ru-2017-05-14-21b91913-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cge-crimea.ru-2017-05-14-21b91913/cge-crimea.ru-2017-05-14-21b91913-meta.warc.gz
+  size: 24697
+  modified: '2017-05-14T14:09:22'
+  type: WARC
+  extension: .warc.gz
+- name: cge-crimea.ru-2017-05-14-21b91913.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cge-crimea.ru-2017-05-14-21b91913/cge-crimea.ru-2017-05-14-21b91913.cdx
+  size: 174355
+  modified: '2017-05-14T14:09:22'
+  type: CDX
+  extension: .cdx
+url: https://cge-crimea.ru
+created: '2017-05-14'

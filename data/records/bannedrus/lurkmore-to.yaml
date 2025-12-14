@@ -1,0 +1,28 @@
+id: lurkmore-to
+name: lurkmore.to (2014-10-07)
+domain: lurkmore.to
+collection:
+  id: bannedrus
+  slug: bannedrus
+  name: Заблокированные сайты
+resources:
+- name: lurkmore.to.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/lurkmore.to/lurkmore.to.log.xz
+  size: 31615440
+  modified: '2014-10-07T01:27:18'
+  type: wpull log
+  extension: .xz
+- name: lurkmore.to.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/lurkmore.to/lurkmore.to.warc.xz
+  size: 1046201520
+  modified: '2014-10-07T01:27:19'
+  type: WARC
+  extension: .xz
+- name: lurkmore.to.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/lurkmore.to/lurkmore.to.cdx.xz
+  size: 58721796
+  modified: '2014-10-07T01:27:18'
+  type: CDX
+  extension: .xz
+url: https://lurkmore.to
+created: '2014-10-07T01:27:19'

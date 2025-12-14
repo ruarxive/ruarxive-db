@@ -1,0 +1,25 @@
+id: reforms
+slug: reforms
+name: Реформы
+num_records: 3
+records:
+- id: csr-ru-2017-04-05-673c6cdf
+  name: csr.ru (2017-04-05)
+  url: https://csr.ru
+  created: '2017-04-05'
+  domain: csr.ru
+- id: gasu-gov-ru-strategy-2035-2017-04-05-123d5b73
+  name: gasu.gov.ru-strategy-2035 (2017-04-05)
+  url: https://gasu.gov.ru-strategy-2035
+  created: '2017-04-05'
+  domain: gasu.gov.ru-strategy-2035
+- id: russia2035-ru-2017-04-05-6b30ff4d
+  name: russia2035.ru (2017-04-05)
+  url: https://russia2035.ru
+  created: '2017-04-05'
+  domain: russia2035.ru
+files:
+  total_count: 63
+  total_size: 648988927
+  directories:
+  - webcollect2017

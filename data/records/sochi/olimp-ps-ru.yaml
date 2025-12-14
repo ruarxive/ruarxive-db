@@ -1,0 +1,28 @@
+id: olimp-ps-ru
+name: olimp-ps.ru (2014-02-04)
+domain: olimp-ps.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: www.olimp-ps.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.olimp-ps.ru/www.olimp-ps.ru.warc.xz
+  size: 230992500
+  modified: '2014-02-04T11:04:29'
+  type: WARC
+  extension: .xz
+- name: www.olimp-ps.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.olimp-ps.ru/www.olimp-ps.ru.cdx.xz
+  size: 141624
+  modified: '2014-02-04T11:04:29'
+  type: CDX
+  extension: .xz
+- name: www.olimp-ps.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.olimp-ps.ru/www.olimp-ps.ru.log.xz
+  size: 97808
+  modified: '2014-02-04T11:04:29'
+  type: wpull log
+  extension: .xz
+url: https://olimp-ps.ru
+created: '2014-02-04T11:04:29'

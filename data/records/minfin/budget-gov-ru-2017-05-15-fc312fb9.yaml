@@ -1,0 +1,40 @@
+id: budget-gov-ru-2017-05-15-fc312fb9
+name: budget.gov.ru (2017-05-15)
+domain: budget.gov.ru
+collection:
+  id: minfin
+  slug: minfin
+  name: Министерство финансов РФ
+resources:
+- name: budget.gov.ru-2017-05-15-fc312fb9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budget.gov.ru-2017-05-15-fc312fb9/budget.gov.ru-2017-05-15-fc312fb9.cdx
+  size: 952107
+  modified: '2017-05-15T09:11:22'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budget.gov.ru-2017-05-15-fc312fb9/dupes_db/data.mdb
+  size: 299008
+  modified: '2017-05-15T09:07:50'
+  type: ''
+  extension: .mdb
+- name: budget.gov.ru-2017-05-15-fc312fb9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budget.gov.ru-2017-05-15-fc312fb9/budget.gov.ru-2017-05-15-fc312fb9-meta.warc.gz
+  size: 104426
+  modified: '2017-05-15T09:11:22'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budget.gov.ru-2017-05-15-fc312fb9/wpull.db
+  size: 1149952
+  modified: '2017-05-15T09:11:22'
+  type: wpull database
+  extension: .db
+- name: budget.gov.ru-2017-05-15-fc312fb9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budget.gov.ru-2017-05-15-fc312fb9/budget.gov.ru-2017-05-15-fc312fb9-00000.warc.gz
+  size: 18337687
+  modified: '2017-05-15T09:11:22'
+  type: WARC
+  extension: .warc.gz
+url: https://budget.gov.ru
+created: '2017-05-15'

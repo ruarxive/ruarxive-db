@@ -1,0 +1,45 @@
+id: corpmsp
+slug: corpmsp
+name: Корпорация "МСП"
+num_records: 7
+records:
+- id: conf-corpmsp-ru-2017-05-15-1aeb9e65
+  name: conf.corpmsp.ru (2017-05-15)
+  url: https://conf.corpmsp.ru
+  created: '2017-05-15'
+  domain: conf.corpmsp.ru
+- id: corpmsp-ru-2017-05-15-c530a4c4
+  name: corpmsp.ru (2017-05-15)
+  url: https://corpmsp.ru
+  created: '2017-05-15'
+  domain: corpmsp.ru
+- id: monitoring-corpmsp-ru-2017-05-15-83d5fff1
+  name: monitoring.corpmsp.ru (2017-05-15)
+  url: https://monitoring.corpmsp.ru
+  created: '2017-05-15'
+  domain: monitoring.corpmsp.ru
+- id: navigator-smbn-ru-2017-05-15-626c905c
+  name: navigator.smbn.ru (2017-05-15)
+  url: https://navigator.smbn.ru
+  created: '2017-05-15'
+  domain: navigator.smbn.ru
+- id: potok-smbn-ru-2017-05-15-aa838240
+  name: potok.smbn.ru (2017-05-15)
+  url: https://potok.smbn.ru
+  created: '2017-05-15'
+  domain: potok.smbn.ru
+- id: smbn-ru-2017-05-15-1c422072
+  name: smbn.ru (2017-05-15)
+  url: https://smbn.ru
+  created: '2017-05-15'
+  domain: smbn.ru
+- id: smeforum-ru-2017-05-15-09a6381e
+  name: smeforum.ru (2017-05-15)
+  url: https://smeforum.ru
+  created: '2017-05-15'
+  domain: smeforum.ru
+files:
+  total_count: 151
+  total_size: 7795662157
+  directories:
+  - webcollect2017

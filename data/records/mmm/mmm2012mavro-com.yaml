@@ -1,0 +1,28 @@
+id: mmm2012mavro-com
+name: mmm2012mavro.com (2013-10-28)
+domain: mmm2012mavro.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmm2012mavro.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm2012mavro.com/mmm2012mavro.com.cdx.xz
+  size: 55456
+  modified: '2013-10-28T06:13:44'
+  type: CDX
+  extension: .xz
+- name: mmm2012mavro.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm2012mavro.com/mmm2012mavro.com.log.xz
+  size: 38256
+  modified: '2013-10-28T06:13:43'
+  type: wpull log
+  extension: .xz
+- name: mmm2012mavro.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm2012mavro.com/mmm2012mavro.com.warc.xz
+  size: 25778212
+  modified: '2013-10-28T06:13:45'
+  type: WARC
+  extension: .xz
+url: https://mmm2012mavro.com
+created: '2013-10-28T06:13:45'

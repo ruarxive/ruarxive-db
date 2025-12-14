@@ -1,0 +1,28 @@
+id: znaem-mozhem-ru
+name: znaem-mozhem.ru (2013-09-23)
+domain: znaem-mozhem.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: znaem-mozhem.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/znaem-mozhem.ru/znaem-mozhem.ru.cdx.xz
+  size: 682120
+  modified: '2013-09-23T00:02:57'
+  type: CDX
+  extension: .xz
+- name: znaem-mozhem.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/znaem-mozhem.ru/znaem-mozhem.ru.warc.xz
+  size: 93329544
+  modified: '2013-09-23T00:03:05'
+  type: WARC
+  extension: .xz
+- name: znaem-mozhem.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/znaem-mozhem.ru/znaem-mozhem.ru.log.xz
+  size: 296044
+  modified: '2013-09-23T00:03:00'
+  type: wpull log
+  extension: .xz
+url: https://znaem-mozhem.ru
+created: '2013-09-23T00:03:05'

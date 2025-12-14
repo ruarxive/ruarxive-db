@@ -1,0 +1,34 @@
+id: banksaratov-ru
+name: banksaratov.ru (2014-05-09)
+domain: banksaratov.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.banksaratov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.banksaratov.ru/www.banksaratov.ru.log.xz
+  size: 640
+  modified: '2014-05-09T17:23:57'
+  type: wpull log
+  extension: .xz
+- name: www.banksaratov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.banksaratov.ru/www.banksaratov.ru.warc.xz
+  size: 6140
+  modified: '2014-05-09T17:23:57'
+  type: WARC
+  extension: .xz
+- name: www.banksaratov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.banksaratov.ru/www.banksaratov.ru.7z
+  size: 4420
+  modified: '2014-08-20T06:59:41'
+  type: ''
+  extension: .7z
+- name: www.banksaratov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.banksaratov.ru/www.banksaratov.ru.cdx.xz
+  size: 316
+  modified: '2014-05-09T17:23:57'
+  type: CDX
+  extension: .xz
+url: https://banksaratov.ru
+created: '2014-05-09T17:23:57'

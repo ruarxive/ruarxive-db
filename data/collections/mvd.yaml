@@ -1,0 +1,55 @@
+id: mvd
+slug: mvd
+name: МВД
+num_records: 9
+records:
+- id: gibdd-ru-2017-07-04-98910998
+  name: gibdd.ru (2017-07-04)
+  url: https://gibdd.ru
+  created: '2017-07-04'
+  domain: gibdd.ru
+- id: mvd-ru-2017-07-04-cec8fb0a
+  name: mvd.ru (2017-07-04)
+  url: https://mvd.ru
+  created: '2017-07-04'
+  domain: mvd.ru
+- id: xn--80adja5bqm-xn--b1aew-xn--p1ai-2017-07-04-ea4fc5e3
+  name: xn--80adja5bqm.xn--b1aew.xn--p1ai (2017-07-04)
+  url: https://xn--80adja5bqm.xn--b1aew.xn--p1ai
+  created: '2017-07-04'
+  domain: xn--80adja5bqm.xn--b1aew.xn--p1ai
+- id: xn--90aga7a7b-xn--b1aew-xn--p1ai-2017-07-04-184ed6f4
+  name: xn--90aga7a7b.xn--b1aew.xn--p1ai (2017-07-04)
+  url: https://xn--90aga7a7b.xn--b1aew.xn--p1ai
+  created: '2017-07-04'
+  domain: xn--90aga7a7b.xn--b1aew.xn--p1ai
+- id: xn--b1aew-xn--p1ai-2017-07-04-c8e9dcdf
+  name: xn--b1aew.xn--p1ai (2017-07-04)
+  url: https://xn--b1aew.xn--p1ai
+  created: '2017-07-04'
+  domain: xn--b1aew.xn--p1ai
+- id: xn--c1a4ac-xn--b1aew-xn--p1ai-2017-07-04-3e9ee481
+  name: xn--c1a4ac.xn--b1aew.xn--p1ai (2017-07-04)
+  url: https://xn--c1a4ac.xn--b1aew.xn--p1ai
+  created: '2017-07-04'
+  domain: xn--c1a4ac.xn--b1aew.xn--p1ai
+- id: xn--c1abt1a-xn--b1aew-xn--p1ai-2017-07-04-20d62a9e
+  name: xn--c1abt1a.xn--b1aew.xn--p1ai (2017-07-04)
+  url: https://xn--c1abt1a.xn--b1aew.xn--p1ai
+  created: '2017-07-04'
+  domain: xn--c1abt1a.xn--b1aew.xn--p1ai
+- id: xn--d1a2a-xn--b1aew-xn--p1ai-2017-07-04-1f39afc0
+  name: xn--d1a2a.xn--b1aew.xn--p1ai (2017-07-04)
+  url: https://xn--d1a2a.xn--b1aew.xn--p1ai
+  created: '2017-07-04'
+  domain: xn--d1a2a.xn--b1aew.xn--p1ai
+- id: xn--n1ag-xn--b1aew-xn--p1ai-2017-07-04-8e063159
+  name: xn--n1ag.xn--b1aew.xn--p1ai (2017-07-04)
+  url: https://xn--n1ag.xn--b1aew.xn--p1ai
+  created: '2017-07-04'
+  domain: xn--n1ag.xn--b1aew.xn--p1ai
+files:
+  total_count: 306
+  total_size: 631628961126
+  directories:
+  - webcollect2017

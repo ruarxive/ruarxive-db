@@ -1,0 +1,28 @@
+id: sngb-ru
+name: sngb.ru (2014-05-16)
+domain: sngb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.sngb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sngb.ru/www.sngb.ru.cdx.xz
+  size: 11753112
+  modified: '2014-05-16T14:30:26'
+  type: CDX
+  extension: .xz
+- name: www.sngb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sngb.ru/www.sngb.ru.warc.xz
+  size: 1106684956
+  modified: '2014-05-16T14:30:29'
+  type: WARC
+  extension: .xz
+- name: www.sngb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sngb.ru/www.sngb.ru.log.xz
+  size: 5382204
+  modified: '2014-05-16T14:30:29'
+  type: wpull log
+  extension: .xz
+url: https://sngb.ru
+created: '2014-05-16T14:30:29'

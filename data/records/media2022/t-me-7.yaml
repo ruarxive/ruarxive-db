@@ -1,0 +1,28 @@
+id: t-me-7
+name: Телеграм канал издания Троицкий Вариант
+domain: t.me
+created: '2022-03-28T13:25:04.000Z'
+date: '2022-03-25T07:18:00.000Z'
+status: собран
+status_id: collected
+resource_type: телеграм канал
+resource_type_id: telegram
+reason: Внесение организации в реестр иностранных агентов
+reason_id: foreign-agent-designation
+strategy: архивация Telegram канала
+tools:
+- telegram desktop
+format: zip
+format_id: zip
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: storage
+  name: trv-science-telegram_2022-03-25.zip
+  url: https://cdn.ruarxive.org/public/webcollect2022/media2022/trv-science.ru_telegram/trv-science-telegram_2022-03-25.zip

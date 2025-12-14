@@ -1,0 +1,40 @@
+id: begovoy-mos-ru-2017-09-15-b3a4a4ce
+name: begovoy.mos.ru (2017-09-15)
+domain: begovoy.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/begovoy.mos.ru-2017-09-15-b3a4a4ce/dupes_db/data.mdb
+  size: 3260416
+  modified: '2017-09-17T04:51:07'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/begovoy.mos.ru-2017-09-15-b3a4a4ce/wpull.db
+  size: 7027712
+  modified: '2017-09-17T04:51:16'
+  type: wpull database
+  extension: .db
+- name: begovoy.mos.ru-2017-09-15-b3a4a4ce.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/begovoy.mos.ru-2017-09-15-b3a4a4ce/begovoy.mos.ru-2017-09-15-b3a4a4ce.cdx
+  size: 5594014
+  modified: '2017-09-17T04:51:07'
+  type: CDX
+  extension: .cdx
+- name: begovoy.mos.ru-2017-09-15-b3a4a4ce-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/begovoy.mos.ru-2017-09-15-b3a4a4ce/begovoy.mos.ru-2017-09-15-b3a4a4ce-meta.warc.gz
+  size: 845252
+  modified: '2017-09-17T04:51:24'
+  type: WARC
+  extension: .warc.gz
+- name: begovoy.mos.ru-2017-09-15-b3a4a4ce-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/begovoy.mos.ru-2017-09-15-b3a4a4ce/begovoy.mos.ru-2017-09-15-b3a4a4ce-00000.warc.gz
+  size: 1436843965
+  modified: '2017-09-17T04:51:07'
+  type: WARC
+  extension: .warc.gz
+url: https://begovoy.mos.ru
+created: '2017-09-15'

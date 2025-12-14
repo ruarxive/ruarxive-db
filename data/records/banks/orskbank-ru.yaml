@@ -1,0 +1,34 @@
+id: orskbank-ru
+name: orskbank.ru (2014-05-12)
+domain: orskbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.orskbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.orskbank.ru/www.orskbank.ru.log.xz
+  size: 22660
+  modified: '2014-05-12T22:57:37'
+  type: wpull log
+  extension: .xz
+- name: www.orskbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.orskbank.ru/www.orskbank.ru.7z
+  size: 124310140
+  modified: '2014-08-20T07:03:17'
+  type: ''
+  extension: .7z
+- name: www.orskbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.orskbank.ru/www.orskbank.ru.warc.xz
+  size: 123418472
+  modified: '2014-05-12T22:57:37'
+  type: WARC
+  extension: .xz
+- name: www.orskbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.orskbank.ru/www.orskbank.ru.cdx.xz
+  size: 17308
+  modified: '2014-05-12T22:57:37'
+  type: CDX
+  extension: .xz
+url: https://orskbank.ru
+created: '2014-05-12T22:57:37'

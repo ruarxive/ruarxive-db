@@ -1,0 +1,16 @@
+id: old-crc-ru
+name: old.crc.ru.7z (2012-10-22)
+domain: old.crc.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.crc.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.crc.ru.7z
+  size: 1309765
+  modified: '2012-10-22T09:47:21'
+  type: httrack archive
+  extension: .7z
+url: https://old.crc.ru.7z
+created: '2012-10-22T09:47:21'

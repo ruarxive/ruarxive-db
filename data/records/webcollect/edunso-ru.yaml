@@ -1,0 +1,16 @@
+id: edunso-ru
+name: edunso.ru.7z (2012-10-22)
+domain: edunso.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: www.edunso.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/www.edunso.ru.7z
+  size: 182788016
+  modified: '2012-10-22T10:09:48'
+  type: httrack archive
+  extension: .7z
+url: https://edunso.ru.7z
+created: '2012-10-22T10:09:48'

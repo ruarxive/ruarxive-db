@@ -1,0 +1,46 @@
+id: etudes-ru-2017-06-28-54b82dc1
+name: etudes.ru (2017-06-28)
+domain: etudes.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.etudes.ru-2017-06-28-54b82dc1/wpull.db
+  size: 4777984
+  modified: '2017-06-29T07:16:28'
+  type: wpull database
+  extension: .db
+- name: www.etudes.ru-2017-06-28-54b82dc1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.etudes.ru-2017-06-28-54b82dc1/www.etudes.ru-2017-06-28-54b82dc1-meta.warc.gz
+  size: 430570
+  modified: '2017-06-29T07:16:29'
+  type: WARC
+  extension: .warc.gz
+- name: www.etudes.ru-2017-06-28-54b82dc1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.etudes.ru-2017-06-28-54b82dc1/www.etudes.ru-2017-06-28-54b82dc1-00000.warc.gz
+  size: 7078400648
+  modified: '2017-06-29T01:57:46'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.etudes.ru-2017-06-28-54b82dc1/dupes_db/data.mdb
+  size: 1830912
+  modified: '2017-06-29T07:16:26'
+  type: ''
+  extension: .mdb
+- name: www.etudes.ru-2017-06-28-54b82dc1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.etudes.ru-2017-06-28-54b82dc1/www.etudes.ru-2017-06-28-54b82dc1.cdx
+  size: 4792328
+  modified: '2017-06-29T07:16:28'
+  type: CDX
+  extension: .cdx
+- name: www.etudes.ru-2017-06-28-54b82dc1-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.etudes.ru-2017-06-28-54b82dc1/www.etudes.ru-2017-06-28-54b82dc1-00001.warc.gz
+  size: 1576397705
+  modified: '2017-06-29T07:16:28'
+  type: WARC
+  extension: .warc.gz
+url: https://etudes.ru
+created: '2017-06-28'

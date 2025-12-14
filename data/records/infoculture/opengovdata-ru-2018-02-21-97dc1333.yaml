@@ -1,0 +1,40 @@
+id: opengovdata-ru-2018-02-21-97dc1333
+name: opengovdata.ru (2018-02-21)
+domain: opengovdata.ru
+collection:
+  id: infoculture
+  slug: infoculture
+  name: Инфокультура
+resources:
+- name: opengovdata.ru-2018-02-21-97dc1333-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdata.ru-2018-02-21-97dc1333/opengovdata.ru-2018-02-21-97dc1333-00000.warc.gz
+  size: 8405218
+  modified: '2018-02-21T14:39:44'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdata.ru-2018-02-21-97dc1333/dupes_db/data.mdb
+  size: 106496
+  modified: '2018-02-21T14:39:41'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdata.ru-2018-02-21-97dc1333/wpull.db
+  size: 168960
+  modified: '2018-02-21T14:39:44'
+  type: wpull database
+  extension: .db
+- name: opengovdata.ru-2018-02-21-97dc1333.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdata.ru-2018-02-21-97dc1333/opengovdata.ru-2018-02-21-97dc1333.cdx
+  size: 140415
+  modified: '2018-02-21T14:39:44'
+  type: CDX
+  extension: .cdx
+- name: opengovdata.ru-2018-02-21-97dc1333-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdata.ru-2018-02-21-97dc1333/opengovdata.ru-2018-02-21-97dc1333-meta.warc.gz
+  size: 22800
+  modified: '2018-02-21T14:39:44'
+  type: WARC
+  extension: .warc.gz
+url: https://opengovdata.ru
+created: '2018-02-21'

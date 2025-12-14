@@ -1,0 +1,70 @@
+id: meteorf-ru-2017-04-30-d357dfb4
+name: meteorf.ru (2017-04-30)
+domain: meteorf.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.meteorf.ru-2017-04-30-d357dfb4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/www.meteorf.ru-2017-04-30-d357dfb4-00000.warc.gz
+  size: 1158221865
+  modified: '2017-04-30T08:45:43'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db-journal
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/wpull.db-journal
+  size: 512
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .db-journal
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/dupes_db/data.mdb
+  size: 626688
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/wpull.db
+  size: 2664448
+  modified: '2017-04-30T08:45:43'
+  type: wpull database
+  extension: .db
+- name: tmp-wpull-warcsesreq-0n7pu_.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/temp/tmp-wpull-warcsesreq-0n7pu_.tmp
+  size: 466
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-4qbisq.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/temp/tmp-wpull-resp_cb-4qbisq.tmp
+  size: 11814
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-k8378_.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/temp/tmp-wpull-resp_cb-k8378_.tmp
+  size: 71278
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-zs4ve2.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/temp/tmp-wpull-warcsesrsp-zs4ve2.tmp
+  size: 12330
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-6aj3be.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/temp/tmp-wpull-warc-6aj3be.log.gz
+  size: 207671
+  modified: '2017-04-30T08:45:43'
+  type: wpull log
+  extension: .gz
+- name: www.meteorf.ru-2017-04-30-d357dfb4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.meteorf.ru-2017-04-30-d357dfb4/www.meteorf.ru-2017-04-30-d357dfb4.cdx
+  size: 971439
+  modified: '2017-04-30T08:45:43'
+  type: CDX
+  extension: .cdx
+url: https://meteorf.ru
+created: '2017-04-30'

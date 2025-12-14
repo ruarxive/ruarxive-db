@@ -1,0 +1,40 @@
+id: eng-customs-ru-2017-05-10-27fc952c
+name: eng.customs.ru (2017-05-10)
+domain: eng.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: eng.customs.ru-2017-05-10-27fc952c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/eng.customs.ru-2017-05-10-27fc952c/eng.customs.ru-2017-05-10-27fc952c-meta.warc.gz
+  size: 121114
+  modified: '2017-05-10T09:58:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/eng.customs.ru-2017-05-10-27fc952c/wpull.db
+  size: 1697792
+  modified: '2017-05-10T09:58:41'
+  type: wpull database
+  extension: .db
+- name: eng.customs.ru-2017-05-10-27fc952c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/eng.customs.ru-2017-05-10-27fc952c/eng.customs.ru-2017-05-10-27fc952c-00000.warc.gz
+  size: 45905112
+  modified: '2017-05-10T09:58:41'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/eng.customs.ru-2017-05-10-27fc952c/dupes_db/data.mdb
+  size: 815104
+  modified: '2017-05-10T09:58:25'
+  type: ''
+  extension: .mdb
+- name: eng.customs.ru-2017-05-10-27fc952c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/eng.customs.ru-2017-05-10-27fc952c/eng.customs.ru-2017-05-10-27fc952c.cdx
+  size: 842549
+  modified: '2017-05-10T09:58:41'
+  type: CDX
+  extension: .cdx
+url: https://eng.customs.ru
+created: '2017-05-10'

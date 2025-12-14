@@ -1,0 +1,34 @@
+id: kirov-arbitr-ru
+name: kirov.arbitr.ru (2014-08-03)
+domain: kirov.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: kirov.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kirov.arbitr.ru/kirov.arbitr.ru.cdx.xz
+  size: 568556
+  modified: '2014-08-03T09:16:15'
+  type: CDX
+  extension: .xz
+- name: kirov.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kirov.arbitr.ru/kirov.arbitr.ru.log.xz
+  size: 403596
+  modified: '2014-08-03T09:16:15'
+  type: wpull log
+  extension: .xz
+- name: kirov.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kirov.arbitr.ru/kirov.arbitr.ru.warc.xz
+  size: 1347690676
+  modified: '2014-08-03T09:16:15'
+  type: WARC
+  extension: .xz
+- name: kirov.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kirov.arbitr.ru/kirov.arbitr.ru.7z
+  size: 1254018242
+  modified: '2014-08-09T10:22:08'
+  type: ''
+  extension: .7z
+url: https://kirov.arbitr.ru
+created: '2014-08-03T09:16:15'

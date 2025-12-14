@@ -1,0 +1,34 @@
+id: nti-one
+name: nti.one (2016-08-23)
+domain: nti.one
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: nti.one.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/nti.one/nti.one.cdx
+  size: 28080
+  modified: '2016-08-23T21:30:28'
+  type: CDX
+  extension: .cdx
+- name: nti.one.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/nti.one/nti.one.7z
+  size: 19050544
+  modified: '2016-09-29T11:31:18'
+  type: ''
+  extension: .7z
+- name: nti.one.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/nti.one/nti.one.warc.gz
+  size: 19671894
+  modified: '2016-08-23T21:30:28'
+  type: WARC
+  extension: .warc.gz
+- name: nti.one.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/nti.one/nti.one.log
+  size: 81860
+  modified: '2016-08-23T21:30:28'
+  type: ''
+  extension: .log
+url: https://nti.one
+created: '2016-08-23T21:30:28'

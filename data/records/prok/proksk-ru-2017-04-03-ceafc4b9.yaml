@@ -1,0 +1,40 @@
+id: proksk-ru-2017-04-03-ceafc4b9
+name: proksk.ru (2017-04-03)
+domain: proksk.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.proksk.ru-2017-04-03-ceafc4b9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksk.ru-2017-04-03-ceafc4b9/www.proksk.ru-2017-04-03-ceafc4b9.cdx
+  size: 290885
+  modified: '2017-04-03T17:56:47'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksk.ru-2017-04-03-ceafc4b9/wpull.db
+  size: 317440
+  modified: '2017-04-03T17:56:48'
+  type: wpull database
+  extension: .db
+- name: www.proksk.ru-2017-04-03-ceafc4b9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksk.ru-2017-04-03-ceafc4b9/www.proksk.ru-2017-04-03-ceafc4b9-meta.warc.gz
+  size: 34565
+  modified: '2017-04-03T17:56:47'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksk.ru-2017-04-03-ceafc4b9/dupes_db/data.mdb
+  size: 172032
+  modified: '2017-04-03T17:56:46'
+  type: ''
+  extension: .mdb
+- name: www.proksk.ru-2017-04-03-ceafc4b9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksk.ru-2017-04-03-ceafc4b9/www.proksk.ru-2017-04-03-ceafc4b9-00000.warc.gz
+  size: 28668030
+  modified: '2017-04-03T17:56:47'
+  type: WARC
+  extension: .warc.gz
+url: https://proksk.ru
+created: '2017-04-03'

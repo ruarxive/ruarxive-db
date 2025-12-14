@@ -1,0 +1,16 @@
+id: sociology
+slug: sociology
+name: Социология
+created: '2022-07-07T10:17:07.000Z'
+num_records: 2
+records:
+- id: levada-ru
+  name: Левада Центр
+  url: https://www.levada.ru
+  created: '2022-07-07T10:18:44.000Z'
+  domain: levada.ru
+- id: wciom-ru
+  name: ВЦИОМ
+  url: https://wciom.ru/
+  created: '2022-07-07T10:16:38.000Z'
+  domain: wciom.ru

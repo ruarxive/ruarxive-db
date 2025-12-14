@@ -1,0 +1,64 @@
+id: mathesis-ru-2017-06-28-711033f0
+name: mathesis.ru (2017-06-28)
+domain: mathesis.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: www.mathesis.ru-2017-06-28-711033f0-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/www.mathesis.ru-2017-06-28-711033f0-00002.warc.gz
+  size: 5415637172
+  modified: '2017-06-29T10:43:49'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/wpull.db
+  size: 120832
+  modified: '2017-06-29T16:51:41'
+  type: wpull database
+  extension: .db
+- name: www.mathesis.ru-2017-06-28-711033f0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/www.mathesis.ru-2017-06-28-711033f0-meta.warc.gz
+  size: 19467
+  modified: '2017-06-29T16:51:42'
+  type: WARC
+  extension: .warc.gz
+- name: www.mathesis.ru-2017-06-28-711033f0-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/www.mathesis.ru-2017-06-28-711033f0-00003.warc.gz
+  size: 5375747594
+  modified: '2017-06-29T14:54:18'
+  type: WARC
+  extension: .warc.gz
+- name: www.mathesis.ru-2017-06-28-711033f0-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/www.mathesis.ru-2017-06-28-711033f0-00001.warc.gz
+  size: 5415849224
+  modified: '2017-06-29T06:41:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.mathesis.ru-2017-06-28-711033f0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/www.mathesis.ru-2017-06-28-711033f0.cdx
+  size: 117520
+  modified: '2017-06-29T16:51:41'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/dupes_db/data.mdb
+  size: 90112
+  modified: '2017-06-29T16:48:47'
+  type: ''
+  extension: .mdb
+- name: www.mathesis.ru-2017-06-28-711033f0-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/www.mathesis.ru-2017-06-28-711033f0-00004.warc.gz
+  size: 2207562718
+  modified: '2017-06-29T16:51:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.mathesis.ru-2017-06-28-711033f0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mathesis.ru-2017-06-28-711033f0/www.mathesis.ru-2017-06-28-711033f0-00000.warc.gz
+  size: 8971341041
+  modified: '2017-06-29T02:31:39'
+  type: WARC
+  extension: .warc.gz
+url: https://mathesis.ru
+created: '2017-06-28'

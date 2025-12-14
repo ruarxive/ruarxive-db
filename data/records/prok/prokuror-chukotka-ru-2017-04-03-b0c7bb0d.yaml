@@ -1,0 +1,40 @@
+id: prokuror-chukotka-ru-2017-04-03-b0c7bb0d
+name: prokuror.chukotka.ru (2017-04-03)
+domain: prokuror.chukotka.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.chukotka.ru-2017-04-03-b0c7bb0d/wpull.db
+  size: 1985536
+  modified: '2017-04-03T09:00:20'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.chukotka.ru-2017-04-03-b0c7bb0d/dupes_db/data.mdb
+  size: 1134592
+  modified: '2017-04-03T09:00:20'
+  type: ''
+  extension: .mdb
+- name: prokuror.chukotka.ru-2017-04-03-b0c7bb0d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.chukotka.ru-2017-04-03-b0c7bb0d/prokuror.chukotka.ru-2017-04-03-b0c7bb0d.cdx
+  size: 1554154
+  modified: '2017-04-03T09:00:20'
+  type: CDX
+  extension: .cdx
+- name: prokuror.chukotka.ru-2017-04-03-b0c7bb0d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.chukotka.ru-2017-04-03-b0c7bb0d/prokuror.chukotka.ru-2017-04-03-b0c7bb0d-00000.warc.gz
+  size: 123305319
+  modified: '2017-04-03T09:00:20'
+  type: WARC
+  extension: .warc.gz
+- name: prokuror.chukotka.ru-2017-04-03-b0c7bb0d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.chukotka.ru-2017-04-03-b0c7bb0d/prokuror.chukotka.ru-2017-04-03-b0c7bb0d-meta.warc.gz
+  size: 202368
+  modified: '2017-04-03T09:00:20'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuror.chukotka.ru
+created: '2017-04-03'

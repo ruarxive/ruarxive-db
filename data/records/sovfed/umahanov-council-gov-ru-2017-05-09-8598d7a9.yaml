@@ -1,0 +1,40 @@
+id: umahanov-council-gov-ru-2017-05-09-8598d7a9
+name: umahanov.council.gov.ru (2017-05-09)
+domain: umahanov.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: umahanov.council.gov.ru-2017-05-09-8598d7a9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/umahanov.council.gov.ru-2017-05-09-8598d7a9/umahanov.council.gov.ru-2017-05-09-8598d7a9-meta.warc.gz
+  size: 15705
+  modified: '2017-05-09T20:22:29'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/umahanov.council.gov.ru-2017-05-09-8598d7a9/wpull.db
+  size: 95232
+  modified: '2017-05-09T20:22:29'
+  type: wpull database
+  extension: .db
+- name: umahanov.council.gov.ru-2017-05-09-8598d7a9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/umahanov.council.gov.ru-2017-05-09-8598d7a9/umahanov.council.gov.ru-2017-05-09-8598d7a9.cdx
+  size: 79612
+  modified: '2017-05-09T20:22:29'
+  type: CDX
+  extension: .cdx
+- name: umahanov.council.gov.ru-2017-05-09-8598d7a9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/umahanov.council.gov.ru-2017-05-09-8598d7a9/umahanov.council.gov.ru-2017-05-09-8598d7a9-00000.warc.gz
+  size: 6469386
+  modified: '2017-05-09T20:22:29'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/umahanov.council.gov.ru-2017-05-09-8598d7a9/dupes_db/data.mdb
+  size: 77824
+  modified: '2017-05-09T20:22:29'
+  type: ''
+  extension: .mdb
+url: https://umahanov.council.gov.ru
+created: '2017-05-09'

@@ -1,0 +1,25 @@
+id: discours-io
+name: Дискурс
+url: https://discours.io/
+domain: discours.io
+created: '2022-04-11T16:18:40.000Z'
+date: '2022-04-11T16:18:00.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт
+resource_type_id: site
+reason: Блокировка Роскомнадзора
+reason_id: roskomnadzor-blocking-1
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий

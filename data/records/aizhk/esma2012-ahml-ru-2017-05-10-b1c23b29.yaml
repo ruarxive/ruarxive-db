@@ -1,0 +1,40 @@
+id: esma2012-ahml-ru-2017-05-10-b1c23b29
+name: esma2012.ahml.ru (2017-05-10)
+domain: esma2012.ahml.ru
+collection:
+  id: aizhk
+  slug: aizhk
+  name: АИЖК
+resources:
+- name: esma2012.ahml.ru-2017-05-10-b1c23b29-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/esma2012.ahml.ru-2017-05-10-b1c23b29/esma2012.ahml.ru-2017-05-10-b1c23b29-meta.warc.gz
+  size: 15723
+  modified: '2017-05-10T08:44:52'
+  type: WARC
+  extension: .warc.gz
+- name: esma2012.ahml.ru-2017-05-10-b1c23b29-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/esma2012.ahml.ru-2017-05-10-b1c23b29/esma2012.ahml.ru-2017-05-10-b1c23b29-00000.warc.gz
+  size: 347907250
+  modified: '2017-05-10T08:44:52'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/esma2012.ahml.ru-2017-05-10-b1c23b29/dupes_db/data.mdb
+  size: 110592
+  modified: '2017-05-10T08:44:52'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/esma2012.ahml.ru-2017-05-10-b1c23b29/wpull.db
+  size: 130048
+  modified: '2017-05-10T08:44:52'
+  type: wpull database
+  extension: .db
+- name: esma2012.ahml.ru-2017-05-10-b1c23b29.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/esma2012.ahml.ru-2017-05-10-b1c23b29/esma2012.ahml.ru-2017-05-10-b1c23b29.cdx
+  size: 109855
+  modified: '2017-05-10T08:44:52'
+  type: CDX
+  extension: .cdx
+url: https://esma2012.ahml.ru
+created: '2017-05-10'

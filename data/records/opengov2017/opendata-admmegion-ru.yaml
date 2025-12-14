@@ -1,0 +1,34 @@
+id: opendata-admmegion-ru
+name: opendata.admmegion.ru (2017-02-18)
+domain: opendata.admmegion.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: opendata.admmegion.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.admmegion.ru/opendata.admmegion.ru.warc.gz
+  size: 1708349
+  modified: '2017-02-18T14:25:48'
+  type: WARC
+  extension: .warc.gz
+- name: opendata.admmegion.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.admmegion.ru/opendata.admmegion.ru.7z
+  size: 228212
+  modified: '2017-02-23T09:21:24'
+  type: ''
+  extension: .7z
+- name: opendata.admmegion.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.admmegion.ru/opendata.admmegion.ru.cdx
+  size: 102769
+  modified: '2017-02-18T14:25:48'
+  type: CDX
+  extension: .cdx
+- name: opendata.admmegion.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.admmegion.ru/opendata.admmegion.ru.log
+  size: 181583
+  modified: '2017-02-18T14:25:48'
+  type: ''
+  extension: .log
+url: https://opendata.admmegion.ru
+created: '2017-02-18T14:25:48'

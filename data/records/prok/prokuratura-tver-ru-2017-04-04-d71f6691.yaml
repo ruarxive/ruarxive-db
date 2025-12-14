@@ -1,0 +1,40 @@
+id: prokuratura-tver-ru-2017-04-04-d71f6691
+name: prokuratura.tver.ru (2017-04-04)
+domain: prokuratura.tver.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tver.ru-2017-04-04-d71f6691/dupes_db/data.mdb
+  size: 1200128
+  modified: '2017-04-04T07:24:08'
+  type: ''
+  extension: .mdb
+- name: prokuratura.tver.ru-2017-04-04-d71f6691-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tver.ru-2017-04-04-d71f6691/prokuratura.tver.ru-2017-04-04-d71f6691-00000.warc.gz
+  size: 698090071
+  modified: '2017-04-04T07:24:08'
+  type: WARC
+  extension: .warc.gz
+- name: prokuratura.tver.ru-2017-04-04-d71f6691.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tver.ru-2017-04-04-d71f6691/prokuratura.tver.ru-2017-04-04-d71f6691.cdx
+  size: 2368109
+  modified: '2017-04-04T07:24:08'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tver.ru-2017-04-04-d71f6691/wpull.db
+  size: 2108416
+  modified: '2017-04-04T07:24:22'
+  type: wpull database
+  extension: .db
+- name: prokuratura.tver.ru-2017-04-04-d71f6691-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tver.ru-2017-04-04-d71f6691/prokuratura.tver.ru-2017-04-04-d71f6691-meta.warc.gz
+  size: 189434
+  modified: '2017-04-04T07:24:22'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuratura.tver.ru
+created: '2017-04-04'

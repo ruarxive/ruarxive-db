@@ -1,0 +1,40 @@
+id: trud-mos-ru-2017-08-20-acc4c1ce
+name: trud.mos.ru (2017-08-20)
+domain: trud.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/trud.mos.ru-2017-08-20-acc4c1ce/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-08-20T16:28:01'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/trud.mos.ru-2017-08-20-acc4c1ce/wpull.db
+  size: 156672
+  modified: '2017-08-20T16:28:07'
+  type: wpull database
+  extension: .db
+- name: trud.mos.ru-2017-08-20-acc4c1ce-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/trud.mos.ru-2017-08-20-acc4c1ce/trud.mos.ru-2017-08-20-acc4c1ce-00000.warc.gz
+  size: 1609486
+  modified: '2017-08-20T16:28:06'
+  type: WARC
+  extension: .warc.gz
+- name: trud.mos.ru-2017-08-20-acc4c1ce.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/trud.mos.ru-2017-08-20-acc4c1ce/trud.mos.ru-2017-08-20-acc4c1ce.cdx
+  size: 136722
+  modified: '2017-08-20T16:28:06'
+  type: CDX
+  extension: .cdx
+- name: trud.mos.ru-2017-08-20-acc4c1ce-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/trud.mos.ru-2017-08-20-acc4c1ce/trud.mos.ru-2017-08-20-acc4c1ce-meta.warc.gz
+  size: 19081
+  modified: '2017-08-20T16:28:07'
+  type: WARC
+  extension: .warc.gz
+url: https://trud.mos.ru
+created: '2017-08-20'

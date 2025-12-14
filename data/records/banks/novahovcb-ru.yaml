@@ -1,0 +1,34 @@
+id: novahovcb-ru
+name: novahovcb.ru (2014-05-12)
+domain: novahovcb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.novahovcb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novahovcb.ru/www.novahovcb.ru.warc.xz
+  size: 55834628
+  modified: '2014-05-12T16:35:19'
+  type: WARC
+  extension: .xz
+- name: www.novahovcb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novahovcb.ru/www.novahovcb.ru.log.xz
+  size: 50148
+  modified: '2014-05-12T16:35:19'
+  type: wpull log
+  extension: .xz
+- name: www.novahovcb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novahovcb.ru/www.novahovcb.ru.cdx.xz
+  size: 86616
+  modified: '2014-05-12T16:35:19'
+  type: CDX
+  extension: .xz
+- name: www.novahovcb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novahovcb.ru/www.novahovcb.ru.7z
+  size: 54222131
+  modified: '2014-08-20T01:26:26'
+  type: ''
+  extension: .7z
+url: https://novahovcb.ru
+created: '2014-05-12T16:35:19'

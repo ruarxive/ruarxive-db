@@ -1,0 +1,40 @@
+id: ligazn-ru-2017-04-13-8e92dcce
+name: ligazn.ru (2017-04-13)
+domain: ligazn.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/ligazn.ru-2017-04-13-8e92dcce/dupes_db/data.mdb
+  size: 643072
+  modified: '2017-04-13T13:04:53'
+  type: ''
+  extension: .mdb
+- name: ligazn.ru-2017-04-13-8e92dcce-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/ligazn.ru-2017-04-13-8e92dcce/ligazn.ru-2017-04-13-8e92dcce-00000.warc.gz
+  size: 692762411
+  modified: '2017-04-13T13:04:53'
+  type: WARC
+  extension: .warc.gz
+- name: ligazn.ru-2017-04-13-8e92dcce.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/ligazn.ru-2017-04-13-8e92dcce/ligazn.ru-2017-04-13-8e92dcce.cdx
+  size: 1285866
+  modified: '2017-04-13T13:04:53'
+  type: CDX
+  extension: .cdx
+- name: ligazn.ru-2017-04-13-8e92dcce-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/ligazn.ru-2017-04-13-8e92dcce/ligazn.ru-2017-04-13-8e92dcce-meta.warc.gz
+  size: 201005
+  modified: '2017-04-13T13:04:53'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/ligazn.ru-2017-04-13-8e92dcce/wpull.db
+  size: 1350656
+  modified: '2017-04-13T13:04:53'
+  type: wpull database
+  extension: .db
+url: https://ligazn.ru
+created: '2017-04-13'

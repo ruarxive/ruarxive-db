@@ -1,0 +1,34 @@
+id: fadn-gov-ru
+name: fadn.gov.ru (2015-12-27)
+domain: fadn.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: fadn.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fadn.gov.ru/fadn.gov.ru.warc.xz
+  size: 160826036
+  modified: '2015-12-27T11:42:09'
+  type: WARC
+  extension: .xz
+- name: fadn.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fadn.gov.ru/fadn.gov.ru.cdx
+  size: 520563
+  modified: '2015-12-27T11:42:09'
+  type: CDX
+  extension: .cdx
+- name: fadn.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fadn.gov.ru/fadn.gov.ru.log
+  size: 1077033
+  modified: '2015-12-27T11:42:09'
+  type: ''
+  extension: .log
+- name: fadn.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/fadn.gov.ru/fadn.gov.ru.7z
+  size: 162472913
+  modified: '2016-04-30T00:21:01'
+  type: ''
+  extension: .7z
+url: https://fadn.gov.ru
+created: '2015-12-27T11:42:09'

@@ -1,0 +1,40 @@
+id: kosoblproc-ru-2017-04-04-ec134bbc
+name: kosoblproc.ru (2017-04-04)
+domain: kosoblproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.kosoblproc.ru-2017-04-04-ec134bbc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kosoblproc.ru-2017-04-04-ec134bbc/www.kosoblproc.ru-2017-04-04-ec134bbc-00000.warc.gz
+  size: 88333279
+  modified: '2017-04-04T07:06:21'
+  type: WARC
+  extension: .warc.gz
+- name: www.kosoblproc.ru-2017-04-04-ec134bbc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kosoblproc.ru-2017-04-04-ec134bbc/www.kosoblproc.ru-2017-04-04-ec134bbc-meta.warc.gz
+  size: 284943
+  modified: '2017-04-04T07:06:21'
+  type: WARC
+  extension: .warc.gz
+- name: www.kosoblproc.ru-2017-04-04-ec134bbc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kosoblproc.ru-2017-04-04-ec134bbc/www.kosoblproc.ru-2017-04-04-ec134bbc.cdx
+  size: 3287031
+  modified: '2017-04-04T07:06:21'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kosoblproc.ru-2017-04-04-ec134bbc/wpull.db
+  size: 3101696
+  modified: '2017-04-04T07:06:21'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kosoblproc.ru-2017-04-04-ec134bbc/dupes_db/data.mdb
+  size: 1871872
+  modified: '2017-04-04T07:06:21'
+  type: ''
+  extension: .mdb
+url: https://kosoblproc.ru
+created: '2017-04-04'

@@ -1,0 +1,40 @@
+id: fano-gov-ru-2017-04-04-7c6265b7
+name: fano.gov.ru (2017-04-04)
+domain: fano.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: fano.gov.ru-2017-04-04-7c6265b7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fano.gov.ru-2017-04-04-7c6265b7/fano.gov.ru-2017-04-04-7c6265b7.cdx
+  size: 8616324
+  modified: '2017-04-05T02:15:09'
+  type: CDX
+  extension: .cdx
+- name: fano.gov.ru-2017-04-04-7c6265b7-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fano.gov.ru-2017-04-04-7c6265b7/fano.gov.ru-2017-04-04-7c6265b7-meta.warc.gz
+  size: 746114
+  modified: '2017-04-05T02:15:09'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fano.gov.ru-2017-04-04-7c6265b7/dupes_db/data.mdb
+  size: 2371584
+  modified: '2017-04-05T02:15:01'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fano.gov.ru-2017-04-04-7c6265b7/wpull.db
+  size: 10117120
+  modified: '2017-04-05T02:15:09'
+  type: wpull database
+  extension: .db
+- name: fano.gov.ru-2017-04-04-7c6265b7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fano.gov.ru-2017-04-04-7c6265b7/fano.gov.ru-2017-04-04-7c6265b7-00000.warc.gz
+  size: 4684268710
+  modified: '2017-04-05T02:15:09'
+  type: WARC
+  extension: .warc.gz
+url: https://fano.gov.ru
+created: '2017-04-04'

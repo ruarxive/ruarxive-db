@@ -1,0 +1,28 @@
+id: monolitbank-ru
+name: monolitbank.ru (2014-03-08)
+domain: monolitbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.monolitbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.monolitbank.ru/www.monolitbank.ru.warc.xz
+  size: 45075992
+  modified: '2014-03-08T20:13:24'
+  type: WARC
+  extension: .xz
+- name: www.monolitbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.monolitbank.ru/www.monolitbank.ru.cdx.xz
+  size: 120684
+  modified: '2014-03-08T20:15:50'
+  type: CDX
+  extension: .xz
+- name: www.monolitbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.monolitbank.ru/www.monolitbank.ru.log.xz
+  size: 160892
+  modified: '2014-03-08T20:15:49'
+  type: wpull log
+  extension: .xz
+url: https://monolitbank.ru
+created: '2014-03-08T20:13:24'

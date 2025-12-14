@@ -1,0 +1,40 @@
+id: chelproc-ru-2017-04-03-be329dae
+name: chelproc.ru (2017-04-03)
+domain: chelproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.chelproc.ru-2017-04-03-be329dae-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chelproc.ru-2017-04-03-be329dae/www.chelproc.ru-2017-04-03-be329dae-meta.warc.gz
+  size: 795725
+  modified: '2017-04-03T19:27:21'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chelproc.ru-2017-04-03-be329dae/wpull.db
+  size: 34323456
+  modified: '2017-04-03T19:27:21'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chelproc.ru-2017-04-03-be329dae/dupes_db/data.mdb
+  size: 4669440
+  modified: '2017-04-03T19:21:36'
+  type: ''
+  extension: .mdb
+- name: www.chelproc.ru-2017-04-03-be329dae.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chelproc.ru-2017-04-03-be329dae/www.chelproc.ru-2017-04-03-be329dae.cdx
+  size: 9564206
+  modified: '2017-04-03T19:21:36'
+  type: CDX
+  extension: .cdx
+- name: www.chelproc.ru-2017-04-03-be329dae-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chelproc.ru-2017-04-03-be329dae/www.chelproc.ru-2017-04-03-be329dae-00000.warc.gz
+  size: 4154987315
+  modified: '2017-04-03T19:24:16'
+  type: WARC
+  extension: .warc.gz
+url: https://chelproc.ru
+created: '2017-04-03'

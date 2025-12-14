@@ -1,0 +1,28 @@
+id: ais-snbank-ru
+name: ais.snbank.ru (2014-05-14)
+domain: ais.snbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: ais.snbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/ais.snbank.ru/ais.snbank.ru.log.xz
+  size: 272
+  modified: '2014-05-14T17:49:09'
+  type: wpull log
+  extension: .xz
+- name: ais.snbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/ais.snbank.ru/ais.snbank.ru.warc.xz
+  size: 1116
+  modified: '2014-05-14T17:49:09'
+  type: WARC
+  extension: .xz
+- name: ais.snbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/ais.snbank.ru/ais.snbank.ru.cdx.xz
+  size: 84
+  modified: '2014-05-14T17:49:09'
+  type: CDX
+  extension: .xz
+url: https://ais.snbank.ru
+created: '2014-05-14T17:49:09'

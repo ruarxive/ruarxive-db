@@ -1,0 +1,23 @@
+id: taruts-events
+name: Алексей Таруц
+created: '2022-03-29T15:43:03.000Z'
+date: '2022-04-05T16:19:00.000Z'
+status: ожидает загрузки в хранилище
+status_id: awaiting-storage
+resource_type: сайт портфолио
+resource_type_id: portfolio
+reason: Сайт-портфолио ключего российского художника 10-х годов.
+reason_id: sayt-portfolio-klyuchego-rossiyskogo
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: высокий

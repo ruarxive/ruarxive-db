@@ -1,0 +1,47 @@
+id: data-admhmao-ru-20220414
+name: data.admhmao.ru (2022-04-14)
+domain: data.admhmao.ru
+url: https://data.admhmao.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: data.admhmao.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/data.admhmao.ru/2022-04-14/data.admhmao.ru.cdx
+  size: 11493649
+  modified: '2022-04-14T14:32:52'
+  type: CDX
+  extension: .cdx
+- name: data.admhmao.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/data.admhmao.ru/2022-04-14/data.admhmao.ru.log
+  size: 106653843
+  modified: '2022-04-14T14:32:52'
+  type: wpull log
+  extension: .log
+- name: data.admhmao.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/data.admhmao.ru/2022-04-14/data.admhmao.ru.warc.gz
+  size: 314262956
+  modified: '2022-04-14T14:33:12'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-data.admhmao.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/data.admhmao.ru/2022-04-14/sitearchive-data.admhmao.ru.db
+  size: 15048704
+  modified: '2022-04-14T14:31:57'
+  type: ''
+  extension: .db
+- name: sitearchive-data.admhmao.ru.db-shm
+  url: https://cdn.ruarxive.org/public/dataportals/data.admhmao.ru/2022-04-14/sitearchive-data.admhmao.ru.db-shm
+  size: 32768
+  modified: '2022-04-14T14:34:02'
+  type: ''
+  extension: .db-shm
+- name: sitearchive-data.admhmao.ru.db-wal
+  url: https://cdn.ruarxive.org/public/dataportals/data.admhmao.ru/2022-04-14/sitearchive-data.admhmao.ru.db-wal
+  size: 4140632
+  modified: '2022-04-14T14:34:02'
+  type: ''
+  extension: .db-wal

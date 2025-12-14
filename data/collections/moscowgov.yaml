@@ -1,0 +1,930 @@
+id: moscowgov
+slug: moscowgov
+name: Сайты правительства Москвы
+num_records: 184
+records:
+- id: aeroport-mos-ru-2017-09-15-c637ebba
+  name: aeroport.mos.ru (2017-09-15)
+  url: https://aeroport.mos.ru
+  created: '2017-09-15'
+  domain: aeroport.mos.ru
+- id: akademichesky-mos-ru-2017-09-15-2310a5ae
+  name: akademichesky.mos.ru (2017-09-15)
+  url: https://akademichesky.mos.ru
+  created: '2017-09-15'
+  domain: akademichesky.mos.ru
+- id: alekseevsky-mos-ru-2017-09-15-31fd4000
+  name: alekseevsky.mos.ru (2017-09-15)
+  url: https://alekseevsky.mos.ru
+  created: '2017-09-15'
+  domain: alekseevsky.mos.ru
+- id: altufievo-mos-ru-2017-09-15-4c103f45
+  name: altufievo.mos.ru (2017-09-15)
+  url: https://altufievo.mos.ru
+  created: '2017-09-15'
+  domain: altufievo.mos.ru
+- id: amom-mos-ru-2017-09-15-60fafb5b
+  name: amom.mos.ru (2017-09-15)
+  url: https://amom.mos.ru
+  created: '2017-09-15'
+  domain: amom.mos.ru
+- id: arbat-mos-ru-2017-09-15-ef0c309e
+  name: arbat.mos.ru (2017-09-15)
+  url: https://arbat.mos.ru
+  created: '2017-09-15'
+  domain: arbat.mos.ru
+- id: basman-mos-ru-2017-09-15-f3928d69
+  name: basman.mos.ru (2017-09-15)
+  url: https://basman.mos.ru
+  created: '2017-09-15'
+  domain: basman.mos.ru
+- id: begovoy-mos-ru-2017-09-15-b3a4a4ce
+  name: begovoy.mos.ru (2017-09-15)
+  url: https://begovoy.mos.ru
+  created: '2017-09-15'
+  domain: begovoy.mos.ru
+- id: beskudnikovo-mos-ru-2017-09-15-d2b6b473
+  name: beskudnikovo.mos.ru (2017-09-15)
+  url: https://beskudnikovo.mos.ru
+  created: '2017-09-15'
+  domain: beskudnikovo.mos.ru
+- id: bibirevo-mos-ru-2017-09-15-048d3091
+  name: bibirevo.mos.ru (2017-09-15)
+  url: https://bibirevo.mos.ru
+  created: '2017-09-15'
+  domain: bibirevo.mos.ru
+- id: bogorodskoe-mos-ru-2017-09-15-730662f7
+  name: bogorodskoe.mos.ru (2017-09-15)
+  url: https://bogorodskoe.mos.ru
+  created: '2017-09-15'
+  domain: bogorodskoe.mos.ru
+- id: butyrsky-svao-mos-ru-2017-09-15-c0399cb9
+  name: butyrsky.svao.mos.ru (2017-09-15)
+  url: https://butyrsky.svao.mos.ru
+  created: '2017-09-15'
+  domain: butyrsky.svao.mos.ru
+- id: cao-mos-ru-2017-08-20-193a598b
+  name: cao.mos.ru (2017-08-20)
+  url: https://cao.mos.ru
+  created: '2017-08-20'
+  domain: cao.mos.ru
+- id: christmas-mos-ru-2017-09-15-bcca53a6
+  name: christmas.mos.ru (2017-09-15)
+  url: https://christmas.mos.ru
+  created: '2017-09-15'
+  domain: christmas.mos.ru
+- id: data-mos-ru-2017-08-20-ea8f1aec
+  name: data.mos.ru (2017-08-20)
+  url: https://data.mos.ru
+  created: '2017-08-20'
+  domain: data.mos.ru
+- id: depteh-mos-ru-2017-08-20-52697d66
+  name: depteh.mos.ru (2017-08-20)
+  url: https://depteh.mos.ru
+  created: '2017-08-20'
+  domain: depteh.mos.ru
+- id: dgi-mos-ru-2017-08-09-682078e2
+  name: dgi.mos.ru (2017-08-09)
+  url: https://dgi.mos.ru
+  created: '2017-08-09'
+  domain: dgi.mos.ru
+- id: dgkh-mos-ru-2017-08-09-0f1ade41
+  name: dgkh.mos.ru (2017-08-09)
+  url: https://dgkh.mos.ru
+  created: '2017-08-09'
+  domain: dgkh.mos.ru
+- id: dgkhb-vao-mos-ru-2017-08-20-f039af08
+  name: dgkhb.vao.mos.ru (2017-08-20)
+  url: https://dgkhb.vao.mos.ru
+  created: '2017-08-20'
+  domain: dgkhb.vao.mos.ru
+- id: dgp-mos-ru-2017-08-09-f9c4ffde
+  name: dgp.mos.ru (2017-08-09)
+  url: https://dgp.mos.ru
+  created: '2017-08-09'
+  domain: dgp.mos.ru
+- id: dir-dogm-mos-ru-2017-08-09-aca3a226
+  name: dir.dogm.mos.ru (2017-08-09)
+  url: https://dir.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dir.dogm.mos.ru
+- id: dircao-dogm-mos-ru-2017-08-09-57870820
+  name: dircao.dogm.mos.ru (2017-08-09)
+  url: https://dircao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dircao.dogm.mos.ru
+- id: dirsao-dogm-mos-ru-2017-08-09-4ea66ebf
+  name: dirsao.dogm.mos.ru (2017-08-09)
+  url: https://dirsao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dirsao.dogm.mos.ru
+- id: dirsvao-dogm-mos-ru-2017-08-09-a8372372
+  name: dirsvao.dogm.mos.ru (2017-08-09)
+  url: https://dirsvao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dirsvao.dogm.mos.ru
+- id: dirszao-dogm-mos-ru-2017-08-09-2d0ed8b4
+  name: dirszao.dogm.mos.ru (2017-08-09)
+  url: https://dirszao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dirszao.dogm.mos.ru
+- id: dirtinao-dogm-mos-ru-2017-08-09-05eac699
+  name: dirtinao.dogm.mos.ru (2017-08-09)
+  url: https://dirtinao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dirtinao.dogm.mos.ru
+- id: diruao-dogm-mos-ru-2017-08-09-10cc87b4
+  name: diruao.dogm.mos.ru (2017-08-09)
+  url: https://diruao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: diruao.dogm.mos.ru
+- id: diruvao-dogm-mos-ru-2017-08-09-18606d0a
+  name: diruvao.dogm.mos.ru (2017-08-09)
+  url: https://diruvao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: diruvao.dogm.mos.ru
+- id: diruzao-dogm-mos-ru-2017-08-09-6637a836
+  name: diruzao.dogm.mos.ru (2017-08-09)
+  url: https://diruzao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: diruzao.dogm.mos.ru
+- id: dirvao-dogm-mos-ru-2017-08-09-29605bc3
+  name: dirvao.dogm.mos.ru (2017-08-09)
+  url: https://dirvao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dirvao.dogm.mos.ru
+- id: dirzao-dogm-mos-ru-2017-08-09-efa879b2
+  name: dirzao.dogm.mos.ru (2017-08-09)
+  url: https://dirzao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dirzao.dogm.mos.ru
+- id: dirzelao-dogm-mos-ru-2017-08-09-5510fe94
+  name: dirzelao.dogm.mos.ru (2017-08-09)
+  url: https://dirzelao.dogm.mos.ru
+  created: '2017-08-09'
+  domain: dirzelao.dogm.mos.ru
+- id: dit-mos-ru-2017-08-20-6c9d931d
+  name: dit.mos.ru (2017-08-20)
+  url: https://dit.mos.ru
+  created: '2017-08-20'
+  domain: dit.mos.ru
+- id: dkn-mos-ru-2017-08-20-4ed2f7ae
+  name: dkn.mos.ru (2017-08-20)
+  url: https://dkn.mos.ru
+  created: '2017-08-20'
+  domain: dkn.mos.ru
+- id: dkr-mos-ru-2017-08-20-82dad734
+  name: dkr.mos.ru (2017-08-20)
+  url: https://dkr.mos.ru
+  created: '2017-08-20'
+  domain: dkr.mos.ru
+- id: dmitrovskiy-mos-ru-2017-09-15-e4d726d6
+  name: dmitrovskiy.mos.ru (2017-09-15)
+  url: https://dmitrovskiy.mos.ru
+  created: '2017-09-15'
+  domain: dmitrovskiy.mos.ru
+- id: dnpp-mos-ru-2017-08-20-43306c29
+  name: dnpp.mos.ru (2017-08-20)
+  url: https://dnpp.mos.ru
+  created: '2017-08-20'
+  domain: dnpp.mos.ru
+- id: dorogi-uao-tech-mos-ru-2017-08-09-704c262f
+  name: dorogi-uao.tech.mos.ru (2017-08-09)
+  url: https://dorogi-uao.tech.mos.ru
+  created: '2017-08-09'
+  domain: dorogi-uao.tech.mos.ru
+- id: dorogomilovo-mos-ru-2017-09-15-81189bae
+  name: dorogomilovo.mos.ru (2017-09-15)
+  url: https://dorogomilovo.mos.ru
+  created: '2017-09-15'
+  domain: dorogomilovo.mos.ru
+- id: drbez-mos-ru-2017-08-20-f599c400
+  name: drbez.mos.ru (2017-08-20)
+  url: https://drbez.mos.ru
+  created: '2017-08-20'
+  domain: drbez.mos.ru
+- id: drnt-mos-ru-2017-08-20-6026220b
+  name: drnt.mos.ru (2017-08-20)
+  url: https://drnt.mos.ru
+  created: '2017-08-20'
+  domain: drnt.mos.ru
+- id: ds-mos-ru-2017-08-20-318a5e76
+  name: ds.mos.ru (2017-08-20)
+  url: https://ds.mos.ru
+  created: '2017-08-20'
+  domain: ds.mos.ru
+- id: dsmir-mos-ru-2017-08-20-81b04735
+  name: dsmir.mos.ru (2017-08-20)
+  url: https://dsmir.mos.ru
+  created: '2017-08-20'
+  domain: dsmir.mos.ru
+- id: dt-mos-ru-2017-08-20-29356db3
+  name: dt.mos.ru (2017-08-20)
+  url: https://dt.mos.ru
+  created: '2017-08-20'
+  domain: dt.mos.ru
+- id: dtoiv-mos-ru-2017-08-20-c202b2d2
+  name: dtoiv.mos.ru (2017-08-20)
+  url: https://dtoiv.mos.ru
+  created: '2017-08-20'
+  domain: dtoiv.mos.ru
+- id: dtu-mos-ru-2017-08-20-07983704
+  name: dtu.mos.ru (2017-08-20)
+  url: https://dtu.mos.ru
+  created: '2017-08-20'
+  domain: dtu.mos.ru
+- id: duma-mos-ru-2017-08-20-bf33a75c
+  name: duma.mos.ru (2017-08-20)
+  url: https://duma.mos.ru
+  created: '2017-08-20'
+  domain: duma.mos.ru
+- id: dvms-mos-ru-2017-08-09-984d47bf
+  name: dvms.mos.ru (2017-08-09)
+  url: https://dvms.mos.ru
+  created: '2017-08-09'
+  domain: dvms.mos.ru
+- id: dzdrav-mos-ru-2017-08-20-9c2adb41
+  name: dzdrav.mos.ru (2017-08-20)
+  url: https://dzdrav.mos.ru
+  created: '2017-08-20'
+  domain: dzdrav.mos.ru
+- id: eco-mos-ru-2017-08-20-1420e4d8
+  name: eco.mos.ru (2017-08-20)
+  url: https://eco.mos.ru
+  created: '2017-08-20'
+  domain: eco.mos.ru
+- id: educom-ru-2017-08-20-83ce7103
+  name: educom.ru (2017-08-20)
+  url: https://educom.ru
+  created: '2017-08-20'
+  domain: educom.ru
+- id: educom-ru-2017-08-20-b15decc6
+  name: educom.ru (2017-08-20)
+  url: https://educom.ru
+  created: '2017-08-20'
+  domain: educom.ru
+- id: exp-mos-ru-2017-08-09-37be923d
+  name: exp.mos.ru (2017-08-09)
+  url: https://exp.mos.ru
+  created: '2017-08-09'
+  domain: exp.mos.ru
+- id: findep-mos-ru-2017-08-20-fc85ff49
+  name: findep.mos.ru (2017-08-20)
+  url: https://findep.mos.ru
+  created: '2017-08-20'
+  domain: findep.mos.ru
+- id: gagarin-mos-ru-2017-09-15-499b104b
+  name: gagarin.mos.ru (2017-09-15)
+  url: https://gagarin.mos.ru
+  created: '2017-09-15'
+  domain: gagarin.mos.ru
+- id: gbuzhilishnik-mos-ru-2017-08-09-ce1650bc
+  name: gbuzhilishnik.mos.ru (2017-08-09)
+  url: https://gbuzhilishnik.mos.ru
+  created: '2017-08-09'
+  domain: gbuzhilishnik.mos.ru
+- id: ggi-mos-ru-2017-08-09-b1e134ee
+  name: ggi.mos.ru (2017-08-09)
+  url: https://ggi.mos.ru
+  created: '2017-08-09'
+  domain: ggi.mos.ru
+- id: glavkontrol-mos-ru-2017-08-09-7b0ad346
+  name: glavkontrol.mos.ru (2017-08-09)
+  url: https://glavkontrol.mos.ru
+  created: '2017-08-09'
+  domain: glavkontrol.mos.ru
+- id: golovinskiy-mos-ru-2017-09-15-8b916e23
+  name: golovinskiy.mos.ru (2017-09-15)
+  url: https://golovinskiy.mos.ru
+  created: '2017-09-15'
+  domain: golovinskiy.mos.ru
+- id: golyanovo-mos-ru-2017-09-15-a888469a
+  name: golyanovo.mos.ru (2017-09-15)
+  url: https://golyanovo.mos.ru
+  created: '2017-09-15'
+  domain: golyanovo.mos.ru
+- id: gorfin-mos-ru-2017-08-09-1caf61a4
+  name: gorfin.mos.ru (2017-08-09)
+  url: https://gorfin.mos.ru
+  created: '2017-08-09'
+  domain: gorfin.mos.ru
+- id: gorod-mos-ru-2017-05-13-a179b743
+  name: gorod.mos.ru (2017-05-13)
+  url: https://gorod.mos.ru
+  created: '2017-05-13'
+  domain: gorod.mos.ru
+- id: housing-mos-ru-2017-08-09-4686d588
+  name: housing.mos.ru (2017-08-09)
+  url: https://housing.mos.ru
+  created: '2017-08-09'
+  domain: housing.mos.ru
+- id: iatspr-mos-ru-2017-08-09-ecff616d
+  name: iatspr.mos.ru (2017-08-09)
+  url: https://iatspr.mos.ru
+  created: '2017-08-09'
+  domain: iatspr.mos.ru
+- id: incocentre-mos-ru-2017-08-09-626301f1
+  name: incocentre.mos.ru (2017-08-09)
+  url: https://incocentre.mos.ru
+  created: '2017-08-09'
+  domain: incocentre.mos.ru
+- id: invest-mos-ru-2017-08-20-4608af6b
+  name: invest.mos.ru (2017-08-20)
+  url: https://invest.mos.ru
+  created: '2017-08-20'
+  domain: invest.mos.ru
+- id: is-veshnyaki-mos-ru-2017-08-09-b0343d54
+  name: is-veshnyaki.mos.ru (2017-08-09)
+  url: https://is-veshnyaki.mos.ru
+  created: '2017-08-09'
+  domain: is-veshnyaki.mos.ru
+- id: ivanovskoe-mos-ru-2017-09-15-92d7ec7d
+  name: ivanovskoe.mos.ru (2017-09-15)
+  url: https://ivanovskoe.mos.ru
+  created: '2017-09-15'
+  domain: ivanovskoe.mos.ru
+- id: izmaylowo-mos-ru-2017-09-15-1c322b16
+  name: izmaylowo.mos.ru (2017-09-15)
+  url: https://izmaylowo.mos.ru
+  created: '2017-09-15'
+  domain: izmaylowo.mos.ru
+- id: kdkm-mos-ru-2017-08-20-5483b8cd
+  name: kdkm.mos.ru (2017-08-20)
+  url: https://kdkm.mos.ru
+  created: '2017-08-20'
+  domain: kdkm.mos.ru
+- id: kgu-mos-ru-2017-08-20-e96a0e7b
+  name: kgu.mos.ru (2017-08-20)
+  url: https://kgu.mos.ru
+  created: '2017-08-20'
+  domain: kgu.mos.ru
+- id: km-mos-ru-2017-08-09-6803b03f
+  name: km.mos.ru (2017-08-09)
+  url: https://km.mos.ru
+  created: '2017-08-09'
+  domain: km.mos.ru
+- id: koms-mos-ru-2017-08-20-0c137ee8
+  name: koms.mos.ru (2017-08-20)
+  url: https://koms.mos.ru
+  created: '2017-08-20'
+  domain: koms.mos.ru
+- id: konkovo-mos-ru-2017-09-15-27698799
+  name: konkovo.mos.ru (2017-09-15)
+  url: https://konkovo.mos.ru
+  created: '2017-09-15'
+  domain: konkovo.mos.ru
+- id: koptevo-mos-ru-2017-09-15-7ebe416c
+  name: koptevo.mos.ru (2017-09-15)
+  url: https://koptevo.mos.ru
+  created: '2017-09-15'
+  domain: koptevo.mos.ru
+- id: kos-mos-ru-2017-08-20-8a30b4aa
+  name: kos.mos.ru (2017-08-20)
+  url: https://kos.mos.ru
+  created: '2017-08-20'
+  domain: kos.mos.ru
+- id: kosino-uhtomski-mos-ru-2017-09-15-3571b243
+  name: kosino-uhtomski.mos.ru (2017-09-15)
+  url: https://kosino-uhtomski.mos.ru
+  created: '2017-09-15'
+  domain: kosino-uhtomski.mos.ru
+- id: kotlovka-mos-ru-2017-09-15-9c40ab73
+  name: kotlovka.mos.ru (2017-09-15)
+  url: https://kotlovka.mos.ru
+  created: '2017-09-15'
+  domain: kotlovka.mos.ru
+- id: krasnoselsky-mos-ru-2017-09-15-068b1524
+  name: krasnoselsky.mos.ru (2017-09-15)
+  url: https://krasnoselsky.mos.ru
+  created: '2017-09-15'
+  domain: krasnoselsky.mos.ru
+- id: krukovo-mos-ru-2017-09-15-d84d4678
+  name: krukovo.mos.ru (2017-09-15)
+  url: https://krukovo.mos.ru
+  created: '2017-09-15'
+  domain: krukovo.mos.ru
+- id: krylatskoe-mos-ru-2017-09-15-8297c49e
+  name: krylatskoe.mos.ru (2017-09-15)
+  url: https://krylatskoe.mos.ru
+  created: '2017-09-15'
+  domain: krylatskoe.mos.ru
+- id: kultura-mos-ru-2017-08-20-0da08cd5
+  name: kultura.mos.ru (2017-08-20)
+  url: https://kultura.mos.ru
+  created: '2017-08-20'
+  domain: kultura.mos.ru
+- id: kuntsevo-mos-ru-2017-09-15-756347bd
+  name: kuntsevo.mos.ru (2017-09-15)
+  url: https://kuntsevo.mos.ru
+  created: '2017-09-15'
+  domain: kuntsevo.mos.ru
+- id: kurkino-mos-ru-2017-09-15-ac6188c3
+  name: kurkino.mos.ru (2017-09-15)
+  url: https://kurkino.mos.ru
+  created: '2017-09-15'
+  domain: kurkino.mos.ru
+- id: kuzminki-mos-ru-2017-09-15-716956e9
+  name: kuzminki.mos.ru (2017-09-15)
+  url: https://kuzminki.mos.ru
+  created: '2017-09-15'
+  domain: kuzminki.mos.ru
+- id: lefortovo-mos-ru-2017-09-15-1c35fd6b
+  name: lefortovo.mos.ru (2017-09-15)
+  url: https://lefortovo.mos.ru
+  created: '2017-09-15'
+  domain: lefortovo.mos.ru
+- id: levoberezhny-mos-ru-2017-09-15-7c0d1cef
+  name: levoberezhny.mos.ru (2017-09-15)
+  url: https://levoberezhny.mos.ru
+  created: '2017-09-15'
+  domain: levoberezhny.mos.ru
+- id: lianozovo-lianet-ru-2017-09-15-e7dc4df6
+  name: lianozovo.lianet.ru (2017-09-15)
+  url: https://lianozovo.lianet.ru
+  created: '2017-09-15'
+  domain: lianozovo.lianet.ru
+- id: lomonosovsky-mos-ru-2017-09-15-ea2c9904
+  name: lomonosovsky.mos.ru (2017-09-15)
+  url: https://lomonosovsky.mos.ru
+  created: '2017-09-15'
+  domain: lomonosovsky.mos.ru
+- id: losinka-mos-ru-2017-09-15-9e1f7a08
+  name: losinka.mos.ru (2017-09-15)
+  url: https://losinka.mos.ru
+  created: '2017-09-15'
+  domain: losinka.mos.ru
+- id: lublino-mos-ru-2017-09-15-d8dc75f2
+  name: lublino.mos.ru (2017-09-15)
+  url: https://lublino.mos.ru
+  created: '2017-09-15'
+  domain: lublino.mos.ru
+- id: marfino-mos-ru-2017-09-15-13f0913d
+  name: marfino.mos.ru (2017-09-15)
+  url: https://marfino.mos.ru
+  created: '2017-09-15'
+  domain: marfino.mos.ru
+- id: marina-roscha-mos-ru-2017-09-15-15cfac4d
+  name: marina-roscha.mos.ru (2017-09-15)
+  url: https://marina-roscha.mos.ru
+  created: '2017-09-15'
+  domain: marina-roscha.mos.ru
+- id: marino-mos-ru-2017-09-15-6c7d3e17
+  name: marino.mos.ru (2017-09-15)
+  url: https://marino.mos.ru
+  created: '2017-09-15'
+  domain: marino.mos.ru
+- id: market-zakupki-mos-ru-2017-08-20-6d67c6e4
+  name: market.zakupki.mos.ru (2017-08-20)
+  url: https://market.zakupki.mos.ru
+  created: '2017-08-20'
+  domain: market.zakupki.mos.ru
+- id: market-zakupki-mos-ru-2017-09-20-9265e689
+  name: market.zakupki.mos.ru (2017-09-20)
+  url: https://market.zakupki.mos.ru
+  created: '2017-09-20'
+  domain: market.zakupki.mos.ru
+- id: matushkino-mos-ru-2017-09-15-82f84c0e
+  name: matushkino.mos.ru (2017-09-15)
+  url: https://matushkino.mos.ru
+  created: '2017-09-15'
+  domain: matushkino.mos.ru
+- id: mcav-mos-ru-2017-08-09-7a743a53
+  name: mcav.mos.ru (2017-08-09)
+  url: https://mcav.mos.ru
+  created: '2017-08-09'
+  domain: mcav.mos.ru
+- id: mcop-dogm-mos-ru-2017-08-09-4c9df7fa
+  name: mcop.dogm.mos.ru (2017-08-09)
+  url: https://mcop.dogm.mos.ru
+  created: '2017-08-09'
+  domain: mcop.dogm.mos.ru
+- id: med-sao-mos-ru-2017-08-09-13471543
+  name: med.sao.mos.ru (2017-08-09)
+  url: https://med.sao.mos.ru
+  created: '2017-08-09'
+  domain: med.sao.mos.ru
+- id: med-uvao-mos-ru-2017-08-09-c246c719
+  name: med.uvao.mos.ru (2017-08-09)
+  url: https://med.uvao.mos.ru
+  created: '2017-08-09'
+  domain: med.uvao.mos.ru
+- id: meschanka-mos-ru-2017-09-15-b777d267
+  name: meschanka.mos.ru (2017-09-15)
+  url: https://meschanka.mos.ru
+  created: '2017-09-15'
+  domain: meschanka.mos.ru
+- id: metrogorodok-mos-ru-2017-09-15-bf28bb26
+  name: metrogorodok.mos.ru (2017-09-15)
+  url: https://metrogorodok.mos.ru
+  created: '2017-09-15'
+  domain: metrogorodok.mos.ru
+- id: mgbc-mos-ru-2017-08-20-a15ea322
+  name: mgbc.mos.ru (2017-08-20)
+  url: https://mgbc.mos.ru
+  created: '2017-08-20'
+  domain: mgbc.mos.ru
+- id: mgc-mos-ru-2017-08-09-14ac1cf5
+  name: mgc.mos.ru (2017-08-09)
+  url: https://mgc.mos.ru
+  created: '2017-08-09'
+  domain: mgc.mos.ru
+- id: mgdu-dogm-mos-ru-2017-08-20-bce60d18
+  name: mgdu.dogm.mos.ru (2017-08-20)
+  url: https://mgdu.dogm.mos.ru
+  created: '2017-08-20'
+  domain: mgdu.dogm.mos.ru
+- id: mgi-mos-ru-2017-08-09-7e75b0b7
+  name: mgi.mos.ru (2017-08-09)
+  url: https://mgi.mos.ru
+  created: '2017-08-09'
+  domain: mgi.mos.ru
+- id: mitino-mos-ru-2017-09-15-6ac773b6
+  name: mitino.mos.ru (2017-09-15)
+  url: https://mitino.mos.ru
+  created: '2017-09-15'
+  domain: mitino.mos.ru
+- id: mka-mos-ru-2017-08-20-feae1584
+  name: mka.mos.ru (2017-08-20)
+  url: https://mka.mos.ru
+  created: '2017-08-20'
+  domain: mka.mos.ru
+- id: mkdn-mos-ru-2017-08-20-1f116496
+  name: mkdn.mos.ru (2017-08-20)
+  url: https://mkdn.mos.ru
+  created: '2017-08-20'
+  domain: mkdn.mos.ru
+- id: mke-mos-ru-2017-08-20-3d108eea
+  name: mke.mos.ru (2017-08-20)
+  url: https://mke.mos.ru
+  created: '2017-08-20'
+  domain: mke.mos.ru
+- id: molzhaninovskiy-mos-ru-2017-09-15-f1943321
+  name: molzhaninovskiy.mos.ru (2017-09-15)
+  url: https://molzhaninovskiy.mos.ru
+  created: '2017-09-15'
+  domain: molzhaninovskiy.mos.ru
+- id: mos-ru-2017-08-20-2a0ae42a
+  name: mos.ru (2017-08-20)
+  url: https://mos.ru
+  created: '2017-08-20'
+  domain: mos.ru
+- id: mosarchiv-mos-ru-2017-08-09-c5aa1b93
+  name: mosarchiv.mos.ru (2017-08-09)
+  url: https://mosarchiv.mos.ru
+  created: '2017-08-09'
+  domain: mosarchiv.mos.ru
+- id: moscomtour-mos-ru-2017-08-20-7df34157
+  name: moscomtour.mos.ru (2017-08-20)
+  url: https://moscomtour.mos.ru
+  created: '2017-08-20'
+  domain: moscomtour.mos.ru
+- id: moscowdebt-tech-mos-ru-2017-08-09-4aa55b3a
+  name: moscowdebt.tech.mos.ru (2017-08-09)
+  url: https://moscowdebt.tech.mos.ru
+  created: '2017-08-09'
+  domain: moscowdebt.tech.mos.ru
+- id: mosecom-mos-ru-2017-08-09-95b92d93
+  name: mosecom.mos.ru (2017-08-09)
+  url: https://mosecom.mos.ru
+  created: '2017-08-09'
+  domain: mosecom.mos.ru
+- id: mosgik-mos-ru-2017-08-09-a7b39739
+  name: mosgik.mos.ru (2017-08-09)
+  url: https://mosgik.mos.ru
+  created: '2017-08-09'
+  domain: mosgik.mos.ru
+- id: mosinvest-mos-ru-2017-08-09-1e3fa27c
+  name: mosinvest.mos.ru (2017-08-09)
+  url: https://mosinvest.mos.ru
+  created: '2017-08-09'
+  domain: mosinvest.mos.ru
+- id: moskomvet-mos-ru-2017-08-20-ec5d5bf7
+  name: moskomvet.mos.ru (2017-08-20)
+  url: https://moskomvet.mos.ru
+  created: '2017-08-20'
+  domain: moskomvet.mos.ru
+- id: moskvoreche-saburovo-mos-ru-2017-09-15-94a997f2
+  name: moskvoreche-saburovo.mos.ru (2017-09-15)
+  url: https://moskvoreche-saburovo.mos.ru
+  created: '2017-09-15'
+  domain: moskvoreche-saburovo.mos.ru
+- id: mozhaisky-mos-ru-2017-09-15-60e1388f
+  name: mozhaisky.mos.ru (2017-09-15)
+  url: https://mozhaisky.mos.ru
+  created: '2017-09-15'
+  domain: mozhaisky.mos.ru
+- id: msi-mos-ru-2017-08-09-e07945f5
+  name: msi.mos.ru (2017-08-09)
+  url: https://msi.mos.ru
+  created: '2017-08-09'
+  domain: msi.mos.ru
+- id: msr-tech-mos-ru-2017-08-09-f0b3bc80
+  name: msr.tech.mos.ru (2017-08-09)
+  url: https://msr.tech.mos.ru
+  created: '2017-08-09'
+  domain: msr.tech.mos.ru
+- id: my-mos-ru-2017-08-20-3e2ad6b0
+  name: my.mos.ru (2017-08-20)
+  url: https://my.mos.ru
+  created: '2017-08-20'
+  domain: my.mos.ru
+- id: nagatinsky-zaton-mos-ru-2017-09-15-1e597fab
+  name: nagatinsky-zaton.mos.ru (2017-09-15)
+  url: https://nagatinsky-zaton.mos.ru
+  created: '2017-09-15'
+  domain: nagatinsky-zaton.mos.ru
+- id: nagorny-mos-ru-2017-09-15-1f8b8cfe
+  name: nagorny.mos.ru (2017-09-15)
+  url: https://nagorny.mos.ru
+  created: '2017-09-15'
+  domain: nagorny.mos.ru
+- id: nekrasovka-mos-ru-2017-09-15-41abc27c
+  name: nekrasovka.mos.ru (2017-09-15)
+  url: https://nekrasovka.mos.ru
+  created: '2017-09-15'
+  domain: nekrasovka.mos.ru
+- id: niac-mos-ru-2017-08-09-b8270698
+  name: niac.mos.ru (2017-08-09)
+  url: https://niac.mos.ru
+  created: '2017-08-09'
+  domain: niac.mos.ru
+- id: nizhegorodsky-mos-ru-2017-09-15-7298130d
+  name: nizhegorodsky.mos.ru (2017-09-15)
+  url: https://nizhegorodsky.mos.ru
+  created: '2017-09-15'
+  domain: nizhegorodsky.mos.ru
+- id: novogireevo-mos-ru-2017-09-15-676e649c
+  name: novogireevo.mos.ru (2017-09-15)
+  url: https://novogireevo.mos.ru
+  created: '2017-09-15'
+  domain: novogireevo.mos.ru
+- id: novokosino-mos-ru-2017-09-15-2fd1e7a7
+  name: novokosino.mos.ru (2017-09-15)
+  url: https://novokosino.mos.ru
+  created: '2017-09-15'
+  domain: novokosino.mos.ru
+- id: oati-mos-ru-2017-08-20-b3bf3531
+  name: oati.mos.ru (2017-08-20)
+  url: https://oati.mos.ru
+  created: '2017-08-20'
+  domain: oati.mos.ru
+- id: obruchev-mos-ru-2017-09-15-90d80cd0
+  name: obruchev.mos.ru (2017-09-15)
+  url: https://obruchev.mos.ru
+  created: '2017-09-15'
+  domain: obruchev.mos.ru
+- id: ochakovo-mos-ru-2017-09-15-b91bf93b
+  name: ochakovo.mos.ru (2017-09-15)
+  url: https://ochakovo.mos.ru
+  created: '2017-09-15'
+  domain: ochakovo.mos.ru
+- id: ooptsvao-mos-ru-2017-08-09-80334452
+  name: ooptsvao.mos.ru (2017-08-09)
+  url: https://ooptsvao.mos.ru
+  created: '2017-08-09'
+  domain: ooptsvao.mos.ru
+- id: ooptzelao-mos-ru-2017-08-09-0004f030
+  name: ooptzelao.mos.ru (2017-08-09)
+  url: https://ooptzelao.mos.ru
+  created: '2017-08-09'
+  domain: ooptzelao.mos.ru
+- id: ostankino-mos-ru-2017-09-15-e87acece
+  name: ostankino.mos.ru (2017-09-15)
+  url: https://ostankino.mos.ru
+  created: '2017-09-15'
+  domain: ostankino.mos.ru
+- id: otradnoe-mos-ru-2017-09-15-2c8b2dec
+  name: otradnoe.mos.ru (2017-09-15)
+  url: https://otradnoe.mos.ru
+  created: '2017-09-15'
+  domain: otradnoe.mos.ru
+- id: pechatniki-mos-ru-2017-09-15-49922340
+  name: pechatniki.mos.ru (2017-09-15)
+  url: https://pechatniki.mos.ru
+  created: '2017-09-15'
+  domain: pechatniki.mos.ru
+- id: perovo-mos-ru-2017-09-15-8c291633
+  name: perovo.mos.ru (2017-09-15)
+  url: https://perovo.mos.ru
+  created: '2017-09-15'
+  domain: perovo.mos.ru
+- id: pokrov-streshnevo-mos-ru-2017-09-15-77a374ac
+  name: pokrov-streshnevo.mos.ru (2017-09-15)
+  url: https://pokrov-streshnevo.mos.ru
+  created: '2017-09-15'
+  domain: pokrov-streshnevo.mos.ru
+- id: preobr-mos-ru-2017-09-15-93a2a2ce
+  name: preobr.mos.ru (2017-09-15)
+  url: https://preobr.mos.ru
+  created: '2017-09-15'
+  domain: preobr.mos.ru
+- id: presnya-mos-ru-2017-09-15-6d0a76ca
+  name: presnya.mos.ru (2017-09-15)
+  url: https://presnya.mos.ru
+  created: '2017-09-15'
+  domain: presnya.mos.ru
+- id: rmr-mos-ru-2017-08-09-8f82e07f
+  name: rmr.mos.ru (2017-08-09)
+  url: https://rmr.mos.ru
+  created: '2017-08-09'
+  domain: rmr.mos.ru
+- id: rostokino-mos-ru-2017-09-15-c7ec0a6a
+  name: rostokino.mos.ru (2017-09-15)
+  url: https://rostokino.mos.ru
+  created: '2017-09-15'
+  domain: rostokino.mos.ru
+- id: ryazansky-mos-ru-2017-09-15-d84d1b36
+  name: ryazansky.mos.ru (2017-09-15)
+  url: https://ryazansky.mos.ru
+  created: '2017-09-15'
+  domain: ryazansky.mos.ru
+- id: sao-mos-ru-2017-08-20-f8941d12
+  name: sao.mos.ru (2017-08-20)
+  url: https://sao.mos.ru
+  created: '2017-08-20'
+  domain: sao.mos.ru
+- id: savelki-mos-ru-2017-09-15-c459e409
+  name: savelki.mos.ru (2017-09-15)
+  url: https://savelki.mos.ru
+  created: '2017-09-15'
+  domain: savelki.mos.ru
+- id: savelovskiy-mos-ru-2017-09-15-c19af112
+  name: savelovskiy.mos.ru (2017-09-15)
+  url: https://savelovskiy.mos.ru
+  created: '2017-09-15'
+  domain: savelovskiy.mos.ru
+- id: sd-rostokino-mos-ru-2017-09-15-23f5b811
+  name: sd-rostokino.mos.ru (2017-09-15)
+  url: https://sd-rostokino.mos.ru
+  created: '2017-09-15'
+  domain: sd-rostokino.mos.ru
+- id: sfk-dogm-mos-ru-2017-08-09-aaff1c20
+  name: sfk.dogm.mos.ru (2017-08-09)
+  url: https://sfk.dogm.mos.ru
+  created: '2017-08-09'
+  domain: sfk.dogm.mos.ru
+- id: sport-mos-ru-2017-08-20-296b067d
+  name: sport.mos.ru (2017-08-20)
+  url: https://sport.mos.ru
+  created: '2017-08-20'
+  domain: sport.mos.ru
+- id: stroi-mos-ru-2017-08-20-37041c24
+  name: stroi.mos.ru (2017-08-20)
+  url: https://stroi.mos.ru
+  created: '2017-08-20'
+  domain: stroi.mos.ru
+- id: stroinadzor-mos-ru-2017-08-20-7df65b3f
+  name: stroinadzor.mos.ru (2017-08-20)
+  url: https://stroinadzor.mos.ru
+  created: '2017-08-20'
+  domain: stroinadzor.mos.ru
+- id: sviblovo-mos-ru-2017-09-15-2497f152
+  name: sviblovo.mos.ru (2017-09-15)
+  url: https://sviblovo.mos.ru
+  created: '2017-09-15'
+  domain: sviblovo.mos.ru
+- id: svouo-dogm-mos-ru-2017-09-15-cae3e0e4
+  name: svouo.dogm.mos.ru (2017-09-15)
+  url: https://svouo.dogm.mos.ru
+  created: '2017-09-15'
+  domain: svouo.dogm.mos.ru
+- id: szao-mos-ru-2017-08-20-42d48b91
+  name: szao.mos.ru (2017-08-20)
+  url: https://szao.mos.ru
+  created: '2017-08-20'
+  domain: szao.mos.ru
+- id: talent-mos-ru-2017-08-20-23675dd6
+  name: talent.mos.ru (2017-08-20)
+  url: https://talent.mos.ru
+  created: '2017-08-20'
+  domain: talent.mos.ru
+- id: tender-mos-ru-2017-08-09-c8b27ec7
+  name: tender.mos.ru (2017-08-09)
+  url: https://tender.mos.ru
+  created: '2017-08-09'
+  domain: tender.mos.ru
+- id: tinao-mos-ru-2017-08-20-5b6e09e0
+  name: tinao.mos.ru (2017-08-20)
+  url: https://tinao.mos.ru
+  created: '2017-08-20'
+  domain: tinao.mos.ru
+- id: trud-mos-ru-2017-08-20-acc4c1ce
+  name: trud.mos.ru (2017-08-20)
+  url: https://trud.mos.ru
+  created: '2017-08-20'
+  domain: trud.mos.ru
+- id: uao-mos-ru-2017-09-15-38bbbd7f
+  name: uao.mos.ru (2017-09-15)
+  url: https://uao.mos.ru
+  created: '2017-09-15'
+  domain: uao.mos.ru
+- id: uks-ds-mos-ru-2017-08-09-4031260c
+  name: uks.ds.mos.ru (2017-08-09)
+  url: https://uks.ds.mos.ru
+  created: '2017-08-09'
+  domain: uks.ds.mos.ru
+- id: um-mos-ru-2017-09-15-1b681bd0
+  name: um.mos.ru (2017-09-15)
+  url: https://um.mos.ru
+  created: '2017-09-15'
+  domain: um.mos.ru
+- id: uprava-kapotnya-mos-ru-2017-09-15-0f1d33d7
+  name: uprava-kapotnya.mos.ru (2017-09-15)
+  url: https://uprava-kapotnya.mos.ru
+  created: '2017-09-15'
+  domain: uprava-kapotnya.mos.ru
+- id: upt-ds-mos-ru-2017-08-09-d26d73dd
+  name: upt.ds.mos.ru (2017-08-09)
+  url: https://upt.ds.mos.ru
+  created: '2017-08-09'
+  domain: upt.ds.mos.ru
+- id: uvao-mos-ru-2017-08-20-326cf8ab
+  name: uvao.mos.ru (2017-08-20)
+  url: https://uvao.mos.ru
+  created: '2017-08-20'
+  domain: uvao.mos.ru
+- id: uzao-mos-ru-2017-08-20-c7a2f670
+  name: uzao.mos.ru (2017-08-20)
+  url: https://uzao.mos.ru
+  created: '2017-08-20'
+  domain: uzao.mos.ru
+- id: v-izm-mos-ru-2017-09-15-d4317441
+  name: v-izm.mos.ru (2017-09-15)
+  url: https://v-izm.mos.ru
+  created: '2017-09-15'
+  domain: v-izm.mos.ru
+- id: vao-mos-ru-2017-08-20-1e841fc3
+  name: vao.mos.ru (2017-08-20)
+  url: https://vao.mos.ru
+  created: '2017-08-20'
+  domain: vao.mos.ru
+- id: vernadskogo-mos-ru-2017-09-15-50dc7d21
+  name: vernadskogo.mos.ru (2017-09-15)
+  url: https://vernadskogo.mos.ru
+  created: '2017-09-15'
+  domain: vernadskogo.mos.ru
+- id: veshnyaki-mos-ru-2017-09-15-645eb3fd
+  name: veshnyaki.mos.ru (2017-09-15)
+  url: https://veshnyaki.mos.ru
+  created: '2017-09-15'
+  domain: veshnyaki.mos.ru
+- id: vestnik-mos-ru-2017-08-09-396ab1fe
+  name: vestnik.mos.ru (2017-08-09)
+  url: https://vestnik.mos.ru
+  created: '2017-08-09'
+  domain: vestnik.mos.ru
+- id: vnukovo-mos-ru-2017-09-15-b2e14029
+  name: vnukovo.mos.ru (2017-09-15)
+  url: https://vnukovo.mos.ru
+  created: '2017-09-15'
+  domain: vnukovo.mos.ru
+- id: vost-degunino-mos-ru-2017-09-15-d3d544e3
+  name: vost-degunino.mos.ru (2017-09-15)
+  url: https://vost-degunino.mos.ru
+  created: '2017-09-15'
+  domain: vost-degunino.mos.ru
+- id: vostochniy-mos-ru-2017-09-15-79fddc55
+  name: vostochniy.mos.ru (2017-09-15)
+  url: https://vostochniy.mos.ru
+  created: '2017-09-15'
+  domain: vostochniy.mos.ru
+- id: voykovsky-mos-ru-2017-09-15-116a0421
+  name: voykovsky.mos.ru (2017-09-15)
+  url: https://voykovsky.mos.ru
+  created: '2017-09-15'
+  domain: voykovsky.mos.ru
+- id: vyhino-zhulebino-mos-ru-2017-09-15-357e6b45
+  name: vyhino-zhulebino.mos.ru (2017-09-15)
+  url: https://vyhino-zhulebino.mos.ru
+  created: '2017-09-15'
+  domain: vyhino-zhulebino.mos.ru
+- id: zakupki-mos-ru-2017-09-20-62cd4923
+  name: zakupki.mos.ru (2017-09-20)
+  url: https://zakupki.mos.ru
+  created: '2017-09-20'
+  domain: zakupki.mos.ru
+- id: zap-degunino-mos-ru-2017-09-15-40b03487
+  name: zap-degunino.mos.ru (2017-09-15)
+  url: https://zap-degunino.mos.ru
+  created: '2017-09-15'
+  domain: zap-degunino.mos.ru
+- id: zelao-mos-ru-2017-08-20-afd4d51c
+  name: zelao.mos.ru (2017-08-20)
+  url: https://zelao.mos.ru
+  created: '2017-08-20'
+  domain: zelao.mos.ru
+- id: zuzino-mos-ru-2017-09-15-0be2759c
+  name: zuzino.mos.ru (2017-09-15)
+  url: https://zuzino.mos.ru
+  created: '2017-09-15'
+  domain: zuzino.mos.ru
+- id: zyablikovo-mos-ru-2017-09-15-f6740bf1
+  name: zyablikovo.mos.ru (2017-09-15)
+  url: https://zyablikovo.mos.ru
+  created: '2017-09-15'
+  domain: zyablikovo.mos.ru
+files:
+  total_count: 4019
+  total_size: 1051305639500
+  directories:
+  - webcollect2017

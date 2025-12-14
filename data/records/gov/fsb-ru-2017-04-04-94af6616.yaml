@@ -1,0 +1,40 @@
+id: fsb-ru-2017-04-04-94af6616
+name: fsb.ru (2017-04-04)
+domain: fsb.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsb.ru-2017-04-04-94af6616/wpull.db
+  size: 6663168
+  modified: '2017-04-04T22:12:13'
+  type: wpull database
+  extension: .db
+- name: www.fsb.ru-2017-04-04-94af6616-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsb.ru-2017-04-04-94af6616/www.fsb.ru-2017-04-04-94af6616-meta.warc.gz
+  size: 443368
+  modified: '2017-04-04T22:12:13'
+  type: WARC
+  extension: .warc.gz
+- name: www.fsb.ru-2017-04-04-94af6616-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsb.ru-2017-04-04-94af6616/www.fsb.ru-2017-04-04-94af6616-00000.warc.gz
+  size: 266195680
+  modified: '2017-04-04T22:12:13'
+  type: WARC
+  extension: .warc.gz
+- name: www.fsb.ru-2017-04-04-94af6616.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsb.ru-2017-04-04-94af6616/www.fsb.ru-2017-04-04-94af6616.cdx
+  size: 5358301
+  modified: '2017-04-04T22:12:13'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsb.ru-2017-04-04-94af6616/dupes_db/data.mdb
+  size: 3723264
+  modified: '2017-04-04T22:12:13'
+  type: ''
+  extension: .mdb
+url: https://fsb.ru
+created: '2017-04-04'

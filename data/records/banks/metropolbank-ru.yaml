@@ -1,0 +1,40 @@
+id: metropolbank-ru
+name: metropolbank.ru (2013-12-19)
+domain: metropolbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.metropolbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.metropolbank.ru/www.metropolbank.ru.log.xz
+  size: 26504
+  modified: '2014-05-15T15:29:46'
+  type: wpull log
+  extension: .xz
+- name: www.metropolbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.metropolbank.ru/www.metropolbank.ru.7z
+  size: 34685901
+  modified: '2014-08-20T10:07:16'
+  type: ''
+  extension: .7z
+- name: www.metropolbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.metropolbank.ru/www.metropolbank.ru.warc.xz
+  size: 30123556
+  modified: '2013-12-19T11:27:42'
+  type: WARC
+  extension: .xz
+- name: www.metropolbank.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.metropolbank.ru/www.metropolbank.ru.warc
+  size: 55936241
+  modified: '2014-05-15T15:29:46'
+  type: WARC
+  extension: .warc
+- name: www.metropolbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.metropolbank.ru/www.metropolbank.ru.cdx.xz
+  size: 38368
+  modified: '2014-05-15T15:29:42'
+  type: CDX
+  extension: .xz
+url: https://metropolbank.ru
+created: '2013-12-19T11:27:42'

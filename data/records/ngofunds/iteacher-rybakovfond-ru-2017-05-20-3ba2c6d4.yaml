@@ -1,0 +1,40 @@
+id: iteacher-rybakovfond-ru-2017-05-20-3ba2c6d4
+name: iteacher.rybakovfond.ru (2017-05-20)
+domain: iteacher.rybakovfond.ru
+collection:
+  id: ngofunds
+  slug: ngofunds
+  name: Фонды НКО
+resources:
+- name: iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4/iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4-00000.warc.gz
+  size: 13843887
+  modified: '2017-05-20T11:00:23'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-05-20T11:00:23'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4/wpull.db
+  size: 74752
+  modified: '2017-05-20T11:00:23'
+  type: wpull database
+  extension: .db
+- name: iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4/iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4-meta.warc.gz
+  size: 12134
+  modified: '2017-05-20T11:00:24'
+  type: WARC
+  extension: .warc.gz
+- name: iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4/iteacher.rybakovfond.ru-2017-05-20-3ba2c6d4.cdx
+  size: 57759
+  modified: '2017-05-20T11:00:23'
+  type: CDX
+  extension: .cdx
+url: https://iteacher.rybakovfond.ru
+created: '2017-05-20'

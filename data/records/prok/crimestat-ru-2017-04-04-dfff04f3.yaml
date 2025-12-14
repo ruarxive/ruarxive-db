@@ -1,0 +1,40 @@
+id: crimestat-ru-2017-04-04-dfff04f3
+name: crimestat.ru (2017-04-04)
+domain: crimestat.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: crimestat.ru-2017-04-04-dfff04f3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/crimestat.ru-2017-04-04-dfff04f3/crimestat.ru-2017-04-04-dfff04f3-00000.warc.gz
+  size: 1000106
+  modified: '2017-04-04T21:03:42'
+  type: WARC
+  extension: .warc.gz
+- name: crimestat.ru-2017-04-04-dfff04f3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/crimestat.ru-2017-04-04-dfff04f3/crimestat.ru-2017-04-04-dfff04f3-meta.warc.gz
+  size: 5967
+  modified: '2017-04-04T21:03:42'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/crimestat.ru-2017-04-04-dfff04f3/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-04-04T21:03:42'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/crimestat.ru-2017-04-04-dfff04f3/wpull.db
+  size: 33792
+  modified: '2017-04-04T21:03:42'
+  type: wpull database
+  extension: .db
+- name: crimestat.ru-2017-04-04-dfff04f3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/crimestat.ru-2017-04-04-dfff04f3/crimestat.ru-2017-04-04-dfff04f3.cdx
+  size: 25697
+  modified: '2017-04-04T21:03:42'
+  type: CDX
+  extension: .cdx
+url: https://crimestat.ru
+created: '2017-04-04'

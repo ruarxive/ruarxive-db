@@ -1,0 +1,34 @@
+id: novabank-ru
+name: novabank.ru (2014-05-13)
+domain: novabank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.novabank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novabank.ru/www.novabank.ru.7z
+  size: 32295786
+  modified: '2014-08-19T22:37:49'
+  type: ''
+  extension: .7z
+- name: www.novabank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novabank.ru/www.novabank.ru.log.xz
+  size: 10808
+  modified: '2014-05-13T09:48:00'
+  type: wpull log
+  extension: .xz
+- name: www.novabank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novabank.ru/www.novabank.ru.cdx.xz
+  size: 11940
+  modified: '2014-05-13T09:48:00'
+  type: CDX
+  extension: .xz
+- name: www.novabank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.novabank.ru/www.novabank.ru.warc.xz
+  size: 32320336
+  modified: '2014-05-13T09:48:00'
+  type: WARC
+  extension: .xz
+url: https://novabank.ru
+created: '2014-05-13T09:48:00'

@@ -1,0 +1,40 @@
+id: sovet-gagarin-org-2017-09-07-c1db640f
+name: sovet-gagarin.org (2017-09-07)
+domain: sovet-gagarin.org
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: sovet-gagarin.org-2017-09-07-c1db640f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sovet-gagarin.org-2017-09-07-c1db640f/sovet-gagarin.org-2017-09-07-c1db640f.cdx
+  size: 671760
+  modified: '2017-09-07T22:49:04'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sovet-gagarin.org-2017-09-07-c1db640f/wpull.db
+  size: 723968
+  modified: '2017-09-07T22:49:04'
+  type: wpull database
+  extension: .db
+- name: sovet-gagarin.org-2017-09-07-c1db640f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sovet-gagarin.org-2017-09-07-c1db640f/sovet-gagarin.org-2017-09-07-c1db640f-meta.warc.gz
+  size: 101311
+  modified: '2017-09-07T22:49:04'
+  type: WARC
+  extension: .warc.gz
+- name: sovet-gagarin.org-2017-09-07-c1db640f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sovet-gagarin.org-2017-09-07-c1db640f/sovet-gagarin.org-2017-09-07-c1db640f-00000.warc.gz
+  size: 196414235
+  modified: '2017-09-07T22:49:04'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/sovet-gagarin.org-2017-09-07-c1db640f/dupes_db/data.mdb
+  size: 413696
+  modified: '2017-09-07T22:49:04'
+  type: ''
+  extension: .mdb
+url: https://sovet-gagarin.org
+created: '2017-09-07'

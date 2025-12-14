@@ -1,0 +1,64 @@
+id: roszdravnadzor-ru-2017-04-30-e2fb307c
+name: roszdravnadzor.ru (2017-04-30)
+domain: roszdravnadzor.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/dupes_db/data.mdb
+  size: 434176
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .mdb
+- name: tmp-wpull-warcsesreq-2myw7l.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/temp/tmp-wpull-warcsesreq-2myw7l.tmp
+  size: 359
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-ucd08a.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/temp/tmp-wpull-warc-ucd08a.log.gz
+  size: 150951
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-resp_cb-vrpejg.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/temp/tmp-wpull-resp_cb-vrpejg.tmp
+  size: 42107
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-j6kf7d.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/temp/tmp-wpull-resp_cb-j6kf7d.tmp
+  size: 36864
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-su7su1.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/temp/tmp-wpull-warcsesrsp-su7su1.tmp
+  size: 37146
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/wpull.db
+  size: 1627136
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+- name: www.roszdravnadzor.ru-2017-04-30-e2fb307c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/www.roszdravnadzor.ru-2017-04-30-e2fb307c.cdx
+  size: 707532
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: www.roszdravnadzor.ru-2017-04-30-e2fb307c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.roszdravnadzor.ru-2017-04-30-e2fb307c/www.roszdravnadzor.ru-2017-04-30-e2fb307c-00000.warc.gz
+  size: 568066643
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+url: https://roszdravnadzor.ru
+created: '2017-04-30'

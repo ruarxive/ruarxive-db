@@ -1,0 +1,34 @@
+id: lenmartirolog-memorial-nic-org
+name: lenmartirolog.memorial-nic.org (2016-12-11)
+domain: lenmartirolog.memorial-nic.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: lenmartirolog.memorial-nic.org.log
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lenmartirolog.memorial-nic.org/lenmartirolog.memorial-nic.org.log
+  size: 6993
+  modified: '2016-12-11T19:48:55'
+  type: ''
+  extension: .log
+- name: lenmartirolog.memorial-nic.org.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lenmartirolog.memorial-nic.org/lenmartirolog.memorial-nic.org.cdx
+  size: 3253
+  modified: '2016-12-11T19:48:55'
+  type: CDX
+  extension: .cdx
+- name: lenmartirolog.memorial-nic.org.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lenmartirolog.memorial-nic.org/lenmartirolog.memorial-nic.org.7z
+  size: 278430
+  modified: '2016-12-11T23:03:36'
+  type: ''
+  extension: .7z
+- name: lenmartirolog.memorial-nic.org.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lenmartirolog.memorial-nic.org/lenmartirolog.memorial-nic.org.warc.gz
+  size: 346100
+  modified: '2016-12-11T19:48:55'
+  type: WARC
+  extension: .warc.gz
+url: https://lenmartirolog.memorial-nic.org
+created: '2016-12-11T19:48:55'

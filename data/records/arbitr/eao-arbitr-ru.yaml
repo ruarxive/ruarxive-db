@@ -1,0 +1,34 @@
+id: eao-arbitr-ru
+name: eao.arbitr.ru (2014-08-02)
+domain: eao.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: eao.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/eao.arbitr.ru/eao.arbitr.ru.log.xz
+  size: 38352
+  modified: '2014-08-02T20:31:02'
+  type: wpull log
+  extension: .xz
+- name: eao.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/eao.arbitr.ru/eao.arbitr.ru.7z
+  size: 17932165
+  modified: '2014-08-09T13:07:28'
+  type: ''
+  extension: .7z
+- name: eao.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/eao.arbitr.ru/eao.arbitr.ru.warc.xz
+  size: 18012268
+  modified: '2014-08-02T20:31:02'
+  type: WARC
+  extension: .xz
+- name: eao.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/eao.arbitr.ru/eao.arbitr.ru.cdx.xz
+  size: 64816
+  modified: '2014-08-02T20:31:02'
+  type: CDX
+  extension: .xz
+url: https://eao.arbitr.ru
+created: '2014-08-02T20:31:02'

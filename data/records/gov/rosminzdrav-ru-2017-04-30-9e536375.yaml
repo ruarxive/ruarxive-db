@@ -1,0 +1,64 @@
+id: rosminzdrav-ru-2017-04-30-9e536375
+name: rosminzdrav.ru (2017-04-30)
+domain: rosminzdrav.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/dupes_db/data.mdb
+  size: 1380352
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .mdb
+- name: www.rosminzdrav.ru-2017-04-30-9e536375.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/www.rosminzdrav.ru-2017-04-30-9e536375.cdx
+  size: 2518943
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: tmp-wpull-warcsesreq-1_ocan.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/temp/tmp-wpull-warcsesreq-1_ocan.tmp
+  size: 476
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-glu76p.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/temp/tmp-wpull-warcsesrsp-glu76p.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-pm6crj.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/temp/tmp-wpull-warcsesreq-pm6crj.tmp
+  size: 422
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-tbu8vc.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/temp/tmp-wpull-warcsesrsp-tbu8vc.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-363kwu.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/temp/tmp-wpull-warc-363kwu.log.gz
+  size: 440813
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: www.rosminzdrav.ru-2017-04-30-9e536375-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/www.rosminzdrav.ru-2017-04-30-9e536375-00000.warc.gz
+  size: 115699223
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosminzdrav.ru-2017-04-30-9e536375/wpull.db
+  size: 9021440
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+url: https://rosminzdrav.ru
+created: '2017-04-30'

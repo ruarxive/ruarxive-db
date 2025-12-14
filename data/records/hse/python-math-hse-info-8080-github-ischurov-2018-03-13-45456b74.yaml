@@ -1,0 +1,44 @@
+id: python-math-hse-info-8080-github-ischurov-2018-03-13-45456b74
+name: python.math-hse.info-8080-github-ischurov (2018-03-13)
+domain: python.math-hse.info-8080-github-ischurov
+collection:
+  slug: hse
+  name: hse
+resources:
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74/stop
+  size: 0
+  modified: '2018-03-13T19:41:36'
+  type: ''
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74/dupes_db/data.mdb
+  size: 8192
+  modified: '2018-03-13T19:41:20'
+  type: ''
+  extension: .mdb
+- name: python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74.cdx
+  size: 23
+  modified: '2018-03-13T19:41:20'
+  type: CDX
+  extension: .cdx
+- name: python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74-00000.warc.gz
+  size: 2294
+  modified: '2018-03-13T19:41:20'
+  type: WARC
+  extension: .warc.gz
+- name: python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74-meta.warc.gz
+  size: 2954
+  modified: '2018-03-13T19:41:40'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/hse/python.math-hse.info-8080-github-ischurov-2018-03-13-45456b74/wpull.db
+  size: 10240
+  modified: '2018-03-13T19:41:20'
+  type: wpull database
+  extension: .db
+url: https://python.math-hse.info-8080-github-ischurov
+created: '2018-03-13'

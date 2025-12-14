@@ -1,0 +1,75 @@
+id: mka-mos-ru-2017-08-20-feae1584
+name: mka.mos.ru (2017-08-20)
+domain: mka.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: mka.mos.ru-2017-08-20-feae1584-meta.warc.gz-wpullinc
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/mka.mos.ru-2017-08-20-feae1584-meta.warc.gz-wpullinc
+  size: 0
+  modified: '2017-08-26T03:05:59'
+  type: ''
+  extension: .gz-wpullinc
+- name: mka.mos.ru-2017-08-20-feae1584-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/mka.mos.ru-2017-08-20-feae1584-00002.warc.gz
+  size: 3115501913
+  modified: '2017-08-26T03:05:58'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/dupes_db/data.mdb
+  size: 189526016
+  modified: '2017-08-26T03:05:58'
+  type: ''
+  extension: .mdb
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/stop
+  size: 0
+  modified: '2017-08-26T06:49:26'
+  type: ''
+- name: mka.mos.ru-2017-08-20-feae1584.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/mka.mos.ru-2017-08-20-feae1584.cdx
+  size: 145115509
+  modified: '2017-08-26T03:05:58'
+  type: CDX
+  extension: .cdx
+- name: mka.mos.ru-2017-08-20-feae1584-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/mka.mos.ru-2017-08-20-feae1584-00001.warc.gz
+  size: 5468198613
+  modified: '2017-08-22T15:33:20'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-warc-hv93tk.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/temp/tmp-wpull-warc-hv93tk.log.gz
+  size: 12540493
+  modified: '2017-08-26T03:05:59'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-resp_cb-xun09z.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/temp/tmp-wpull-resp_cb-xun09z.tmp
+  size: 97630
+  modified: '2017-08-26T03:05:58'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/wpull.db
+  size: 430270464
+  modified: '2017-08-26T03:05:58'
+  type: wpull database
+  extension: .db
+- name: mka.mos.ru-2017-08-20-feae1584-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/mka.mos.ru-2017-08-20-feae1584-00000.warc.gz
+  size: 5377876547
+  modified: '2017-08-22T02:14:44'
+  type: WARC
+  extension: .warc.gz
+- name: mka.mos.ru-2017-08-20-feae1584-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mka.mos.ru-2017-08-20-feae1584/mka.mos.ru-2017-08-20-feae1584-meta.warc.gz
+  size: 0
+  modified: '2017-08-26T03:05:59'
+  type: WARC
+  extension: .warc.gz
+url: https://mka.mos.ru
+created: '2017-08-20'

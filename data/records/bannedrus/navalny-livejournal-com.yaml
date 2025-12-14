@@ -1,0 +1,28 @@
+id: navalny-livejournal-com
+name: navalny.livejournal.com (2014-03-25)
+domain: navalny.livejournal.com
+collection:
+  id: bannedrus
+  slug: bannedrus
+  name: Заблокированные сайты
+resources:
+- name: navalny.livejournal.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/navalny.livejournal.com/navalny.livejournal.com.cdx.xz
+  size: 17372352
+  modified: '2014-03-25T11:22:48'
+  type: CDX
+  extension: .xz
+- name: navalny.livejournal.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/navalny.livejournal.com/navalny.livejournal.com.warc.xz
+  size: 555987076
+  modified: '2014-03-25T11:22:49'
+  type: WARC
+  extension: .xz
+- name: navalny.livejournal.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/navalny.livejournal.com/navalny.livejournal.com.log.xz
+  size: 8848804
+  modified: '2014-03-25T11:22:48'
+  type: wpull log
+  extension: .xz
+url: https://navalny.livejournal.com
+created: '2014-03-25T11:22:49'

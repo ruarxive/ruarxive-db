@@ -1,0 +1,16 @@
+id: fcsm-ru
+name: fcsm.ru.7z (2013-08-17)
+domain: fcsm.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: fcsm.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/fcsm.ru.7z
+  size: 1247681583
+  modified: '2013-08-17T13:17:47'
+  type: httrack archive
+  extension: .7z
+url: https://fcsm.ru.7z
+created: '2013-08-17T13:17:47'

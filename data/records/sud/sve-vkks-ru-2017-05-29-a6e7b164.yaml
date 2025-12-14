@@ -1,0 +1,40 @@
+id: sve-vkks-ru-2017-05-29-a6e7b164
+name: sve.vkks.ru (2017-05-29)
+domain: sve.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: sve.vkks.ru-2017-05-29-a6e7b164-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/sve.vkks.ru-2017-05-29-a6e7b164/sve.vkks.ru-2017-05-29-a6e7b164-00000.warc.gz
+  size: 96335115
+  modified: '2017-06-03T08:47:34'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/sve.vkks.ru-2017-05-29-a6e7b164/dupes_db/data.mdb
+  size: 442368
+  modified: '2017-06-03T08:47:36'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/sve.vkks.ru-2017-05-29-a6e7b164/wpull.db
+  size: 1368064
+  modified: '2017-06-03T08:47:32'
+  type: wpull database
+  extension: .db
+- name: sve.vkks.ru-2017-05-29-a6e7b164.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/sve.vkks.ru-2017-05-29-a6e7b164/sve.vkks.ru-2017-05-29-a6e7b164.cdx
+  size: 1973009
+  modified: '2017-06-03T08:47:30'
+  type: CDX
+  extension: .cdx
+- name: sve.vkks.ru-2017-05-29-a6e7b164-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/sve.vkks.ru-2017-05-29-a6e7b164/sve.vkks.ru-2017-05-29-a6e7b164-meta.warc.gz
+  size: 184963
+  modified: '2017-06-03T08:47:35'
+  type: WARC
+  extension: .warc.gz
+url: https://sve.vkks.ru
+created: '2017-05-29'

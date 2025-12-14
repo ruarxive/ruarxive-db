@@ -1,0 +1,16 @@
+id: fssn-ru
+name: fssn.ru.7z (2013-08-13)
+domain: fssn.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: fssn.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/fssn.ru.7z
+  size: 157797516
+  modified: '2013-08-13T13:24:42'
+  type: httrack archive
+  extension: .7z
+url: https://fssn.ru.7z
+created: '2013-08-13T13:24:42'

@@ -1,0 +1,40 @@
+id: kids-kremlin-ru-2017-05-02-93d852df
+name: kids.kremlin.ru (2017-05-02)
+domain: kids.kremlin.ru
+collection:
+  id: kremlin
+  slug: kremlin
+  name: Администрация Президента РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/kids.kremlin.ru-2017-05-02-93d852df/dupes_db/data.mdb
+  size: 167936
+  modified: '2017-05-02T21:52:31'
+  type: ''
+  extension: .mdb
+- name: kids.kremlin.ru-2017-05-02-93d852df.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/kids.kremlin.ru-2017-05-02-93d852df/kids.kremlin.ru-2017-05-02-93d852df.cdx
+  size: 241391
+  modified: '2017-05-02T21:52:34'
+  type: CDX
+  extension: .cdx
+- name: kids.kremlin.ru-2017-05-02-93d852df-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/kids.kremlin.ru-2017-05-02-93d852df/kids.kremlin.ru-2017-05-02-93d852df-meta.warc.gz
+  size: 35324
+  modified: '2017-05-02T21:52:34'
+  type: WARC
+  extension: .warc.gz
+- name: kids.kremlin.ru-2017-05-02-93d852df-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/kids.kremlin.ru-2017-05-02-93d852df/kids.kremlin.ru-2017-05-02-93d852df-00000.warc.gz
+  size: 10502021
+  modified: '2017-05-02T21:52:34'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/kids.kremlin.ru-2017-05-02-93d852df/wpull.db
+  size: 256000
+  modified: '2017-05-02T21:52:34'
+  type: wpull database
+  extension: .db
+url: https://kids.kremlin.ru
+created: '2017-05-02'

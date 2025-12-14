@@ -1,0 +1,28 @@
+id: old-samregion-ru
+name: old.samregion.ru (2013-10-07)
+domain: old.samregion.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: old.samregion.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.samregion.ru/old.samregion.ru.log.xz
+  size: 1112992
+  modified: '2013-10-07T04:08:39'
+  type: wpull log
+  extension: .xz
+- name: old.samregion.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.samregion.ru/old.samregion.ru.warc.xz
+  size: 2002497688
+  modified: '2013-10-07T04:09:48'
+  type: WARC
+  extension: .xz
+- name: old.samregion.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/old.samregion.ru/old.samregion.ru.cdx.xz
+  size: 1763848
+  modified: '2013-10-07T04:08:52'
+  type: CDX
+  extension: .xz
+url: https://old.samregion.ru
+created: '2013-10-07T04:09:48'

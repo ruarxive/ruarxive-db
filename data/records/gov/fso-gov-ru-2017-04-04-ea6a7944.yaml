@@ -1,0 +1,40 @@
+id: fso-gov-ru-2017-04-04-ea6a7944
+name: fso.gov.ru (2017-04-04)
+domain: fso.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fso.gov.ru-2017-04-04-ea6a7944/wpull.db
+  size: 698368
+  modified: '2017-04-04T21:24:45'
+  type: wpull database
+  extension: .db
+- name: www.fso.gov.ru-2017-04-04-ea6a7944-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fso.gov.ru-2017-04-04-ea6a7944/www.fso.gov.ru-2017-04-04-ea6a7944-meta.warc.gz
+  size: 77785
+  modified: '2017-04-04T21:24:45'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fso.gov.ru-2017-04-04-ea6a7944/dupes_db/data.mdb
+  size: 434176
+  modified: '2017-04-04T21:24:45'
+  type: ''
+  extension: .mdb
+- name: www.fso.gov.ru-2017-04-04-ea6a7944.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fso.gov.ru-2017-04-04-ea6a7944/www.fso.gov.ru-2017-04-04-ea6a7944.cdx
+  size: 759355
+  modified: '2017-04-04T21:24:45'
+  type: CDX
+  extension: .cdx
+- name: www.fso.gov.ru-2017-04-04-ea6a7944-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fso.gov.ru-2017-04-04-ea6a7944/www.fso.gov.ru-2017-04-04-ea6a7944-00000.warc.gz
+  size: 334916931
+  modified: '2017-04-04T21:24:45'
+  type: WARC
+  extension: .warc.gz
+url: https://fso.gov.ru
+created: '2017-04-04'

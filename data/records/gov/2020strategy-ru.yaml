@@ -1,0 +1,34 @@
+id: 2020strategy-ru
+name: 2020strategy.ru (2016-08-21)
+domain: 2020strategy.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: 2020strategy.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/2020strategy.ru/2020strategy.ru.7z
+  size: 992377367
+  modified: '2016-08-22T15:20:24'
+  type: ''
+  extension: .7z
+- name: 2020strategy.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/2020strategy.ru/2020strategy.ru.log
+  size: 6485797
+  modified: '2016-08-21T04:46:35'
+  type: ''
+  extension: .log
+- name: 2020strategy.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/2020strategy.ru/2020strategy.ru.warc.xz
+  size: 1004116048
+  modified: '2016-08-21T04:46:35'
+  type: WARC
+  extension: .xz
+- name: 2020strategy.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/2020strategy.ru/2020strategy.ru.cdx
+  size: 3086703
+  modified: '2016-08-21T04:46:34'
+  type: CDX
+  extension: .cdx
+url: https://2020strategy.ru
+created: '2016-08-21T04:46:35'

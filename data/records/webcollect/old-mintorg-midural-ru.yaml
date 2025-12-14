@@ -1,0 +1,16 @@
+id: old-mintorg-midural-ru
+name: old.mintorg.midural.ru.7z (2012-10-22)
+domain: old.mintorg.midural.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.mintorg.midural.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.mintorg.midural.ru.7z
+  size: 144396343
+  modified: '2012-10-22T09:52:57'
+  type: httrack archive
+  extension: .7z
+url: https://old.mintorg.midural.ru.7z
+created: '2012-10-22T09:52:57'

@@ -1,0 +1,18 @@
+id: roomfor-ru
+name: 'Сайт Кати Ганюшиной и Ани Кравченко, посвященный современному танцу: '
+url: http://roomfor.ru/
+domain: roomfor.ru
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: artists_garagemca
+  name: Артисты
+  slug: artists_garagemca
+source:
+  id: garage-museum
+  name: Garage Museum

@@ -1,0 +1,28 @@
+id: system-mmm2011-com
+name: system-mmm2011.com (2013-10-27)
+domain: system-mmm2011.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: system-mmm2011.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/system-mmm2011.com/system-mmm2011.com.warc.xz
+  size: 108760
+  modified: '2013-10-27T17:30:45'
+  type: WARC
+  extension: .xz
+- name: system-mmm2011.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/system-mmm2011.com/system-mmm2011.com.log.xz
+  size: 1516
+  modified: '2013-10-27T17:30:43'
+  type: wpull log
+  extension: .xz
+- name: system-mmm2011.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/system-mmm2011.com/system-mmm2011.com.cdx.xz
+  size: 1816
+  modified: '2013-10-27T17:30:43'
+  type: CDX
+  extension: .xz
+url: https://system-mmm2011.com
+created: '2013-10-27T17:30:45'

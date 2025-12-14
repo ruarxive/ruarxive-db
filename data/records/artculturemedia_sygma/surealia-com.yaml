@@ -1,0 +1,28 @@
+id: surealia-com
+name: Sui Yumzhana
+url: https://surealia.com/
+domain: surealia.com
+created: '2022-03-29T15:43:19.000Z'
+status: собран
+status_id: collected
+resource_type: сайт портфолио
+resource_type_id: portfolio
+reason: Сайт-портфолио художницы Sui Yumzhana. Внешний запрос.
+reason_id: external-request-14
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: низкий
+resources:
+- type: WARC
+  name: surealia.com.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/surealia.com/surealia.com.warc.gz

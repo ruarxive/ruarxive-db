@@ -1,0 +1,28 @@
+id: nsk-ffms-ru
+name: nsk.ffms.ru (2013-09-28)
+domain: nsk.ffms.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.nsk.ffms.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.nsk.ffms.ru/www.nsk.ffms.ru.warc.xz
+  size: 5200584
+  modified: '2013-09-28T09:34:41'
+  type: WARC
+  extension: .xz
+- name: www.nsk.ffms.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.nsk.ffms.ru/www.nsk.ffms.ru.cdx.xz
+  size: 368560
+  modified: '2013-09-24T06:16:24'
+  type: CDX
+  extension: .xz
+- name: www.nsk.ffms.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.nsk.ffms.ru/www.nsk.ffms.ru.log.xz
+  size: 121536
+  modified: '2013-09-28T09:34:48'
+  type: wpull log
+  extension: .xz
+url: https://nsk.ffms.ru
+created: '2013-09-28T09:34:41'

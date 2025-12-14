@@ -1,0 +1,34 @@
+id: reestrgk-roskazna-ru
+name: reestrgk.roskazna.ru (2014-08-20)
+domain: reestrgk.roskazna.ru
+collection:
+  id: goszakaz
+  slug: goszakaz
+  name: Государственные закупки
+resources:
+- name: reestrgk.roskazna.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/goszakaz/reestrgk.roskazna.ru/reestrgk.roskazna.ru.7z
+  size: 1188930429
+  modified: '2014-08-20T15:01:28'
+  type: ''
+  extension: .7z
+- name: reestrgk.roskazna.ru.warc.lzo
+  url: https://cdn.ruarxive.org/public/webcollect/goszakaz/reestrgk.roskazna.ru/reestrgk.roskazna.ru.warc.lzo
+  size: 1202951993
+  modified: '2014-08-20T11:51:58'
+  type: ''
+  extension: .lzo
+- name: reestrgk.roskazna.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/goszakaz/reestrgk.roskazna.ru/reestrgk.roskazna.ru.log.xz
+  size: 80408
+  modified: '2014-08-20T11:51:58'
+  type: wpull log
+  extension: .xz
+- name: reestrgk.roskazna.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/goszakaz/reestrgk.roskazna.ru/reestrgk.roskazna.ru.cdx.xz
+  size: 9744
+  modified: '2014-08-20T11:51:58'
+  type: CDX
+  extension: .xz
+url: https://reestrgk.roskazna.ru
+created: '2014-08-20T11:51:58'

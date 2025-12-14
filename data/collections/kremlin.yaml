@@ -1,0 +1,50 @@
+id: kremlin
+slug: kremlin
+name: Администрация Президента РФ
+num_records: 8
+records:
+- id: blog-kremlin-ru-2017-05-02-794d01aa
+  name: blog.kremlin.ru (2017-05-02)
+  url: https://blog.kremlin.ru
+  created: '2017-05-02'
+  domain: blog.kremlin.ru
+- id: constitution-kremlin-ru-2017-05-02-3ebebac2
+  name: constitution.kremlin.ru (2017-05-02)
+  url: https://constitution.kremlin.ru
+  created: '2017-05-02'
+  domain: constitution.kremlin.ru
+- id: flag-kremlin-ru-2017-05-02-d759ec91
+  name: flag.kremlin.ru (2017-05-02)
+  url: https://flag.kremlin.ru
+  created: '2017-05-02'
+  domain: flag.kremlin.ru
+- id: kids-kremlin-ru-2017-05-02-93d852df
+  name: kids.kremlin.ru (2017-05-02)
+  url: https://kids.kremlin.ru
+  created: '2017-05-02'
+  domain: kids.kremlin.ru
+- id: kremlin-ru-2017-05-02-44482e85
+  name: kremlin.ru (2017-05-02)
+  url: https://kremlin.ru
+  created: '2017-05-02'
+  domain: kremlin.ru
+- id: letters-kremlin-ru-2017-05-02-a1fe6928
+  name: letters.kremlin.ru (2017-05-02)
+  url: https://letters.kremlin.ru
+  created: '2017-05-02'
+  domain: letters.kremlin.ru
+- id: putin-kremlin-ru-2017-05-02-899d14a2
+  name: putin.kremlin.ru (2017-05-02)
+  url: https://putin.kremlin.ru
+  created: '2017-05-02'
+  domain: putin.kremlin.ru
+- id: tours-kremlin-ru-2017-05-02-db9a3f5e
+  name: tours.kremlin.ru (2017-05-02)
+  url: https://tours.kremlin.ru
+  created: '2017-05-02'
+  domain: tours.kremlin.ru
+files:
+  total_count: 236
+  total_size: 383917902183
+  directories:
+  - webcollect2017

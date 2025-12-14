@@ -1,0 +1,28 @@
+id: klookva-ru
+name: klookva.ru (2014-05-09)
+domain: klookva.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.klookva.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.klookva.ru/www.klookva.ru.cdx.xz
+  size: 310440
+  modified: '2014-05-09T19:31:51'
+  type: CDX
+  extension: .xz
+- name: www.klookva.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.klookva.ru/www.klookva.ru.warc.xz
+  size: 117553188
+  modified: '2014-05-09T19:31:52'
+  type: WARC
+  extension: .xz
+- name: www.klookva.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.klookva.ru/www.klookva.ru.log.xz
+  size: 162248
+  modified: '2014-05-09T19:31:51'
+  type: wpull log
+  extension: .xz
+url: https://klookva.ru
+created: '2014-05-09T19:31:52'

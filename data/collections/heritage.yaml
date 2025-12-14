@@ -1,0 +1,159 @@
+id: heritage
+slug: heritage
+name: Наследие
+num_records: 30
+records:
+- id: algolist-manual-ru
+  name: algolist.manual.ru (2014-08-21)
+  url: https://algolist.manual.ru
+  created: '2014-08-21T12:32:56'
+  domain: algolist.manual.ru
+- id: alternaria-ru
+  name: alternaria.ru (2013-12-17)
+  url: https://alternaria.ru
+  created: '2013-12-17T13:28:51'
+  domain: alternaria.ru
+- id: battlefield-ru
+  name: battlefield.ru (2013-12-17)
+  url: https://battlefield.ru
+  created: '2013-12-17T13:25:22'
+  domain: battlefield.ru
+- id: danefae-org
+  name: danefae.org (2013-12-17)
+  url: https://danefae.org
+  created: '2013-12-17T13:29:08'
+  domain: danefae.org
+- id: dmvn-mexmat-net
+  name: dmvn.mexmat.net (2013-12-17)
+  url: https://dmvn.mexmat.net
+  created: '2013-12-17T13:40:20'
+  domain: dmvn.mexmat.net
+- id: e-maxx-ru
+  name: e-maxx.ru (2013-12-28)
+  url: https://e-maxx.ru
+  created: '2013-12-28T15:05:29'
+  domain: e-maxx.ru
+- id: elwiki-ru
+  name: elwiki.ru (2013-12-28)
+  url: https://elwiki.ru
+  created: '2013-12-28T13:57:12'
+  domain: elwiki.ru
+- id: etudes-ru
+  name: etudes.ru (2014-08-22)
+  url: https://etudes.ru
+  created: '2014-08-22T00:20:29'
+  domain: etudes.ru
+- id: eu-spb-ru
+  name: eu.spb.ru (2016-12-17)
+  url: https://eu.spb.ru
+  created: '2016-12-17T14:13:56'
+  domain: eu.spb.ru
+- id: fauna-toxin-ru
+  name: fauna-toxin.ru (2013-12-17)
+  url: https://fauna-toxin.ru
+  created: '2013-12-17T13:31:14'
+  domain: fauna-toxin.ru
+- id: firstwar-info
+  name: firstwar.info (2013-12-17)
+  url: https://firstwar.info
+  created: '2013-12-17T13:27:31'
+  domain: firstwar.info
+- id: hb-karelia-ru
+  name: hb.karelia.ru (2013-12-17)
+  url: https://hb.karelia.ru
+  created: '2013-12-17T13:31:24'
+  domain: hb.karelia.ru
+- id: ilib-mccme-ru
+  name: ilib.mccme.ru (2014-08-22)
+  url: https://ilib.mccme.ru
+  created: '2014-08-22T16:22:26'
+  domain: ilib.mccme.ru
+- id: kartofel-org
+  name: kartofel.org (2013-12-17)
+  url: https://kartofel.org
+  created: '2013-12-17T13:42:07'
+  domain: kartofel.org
+- id: kvant-mccme-ru
+  name: kvant.mccme.ru (2014-08-23)
+  url: https://kvant.mccme.ru
+  created: '2014-08-23T02:49:26'
+  domain: kvant.mccme.ru
+- id: lingvisto-org
+  name: lingvisto.org (2013-12-17)
+  url: https://lingvisto.org
+  created: '2013-12-17T13:28:06'
+  domain: lingvisto.org
+- id: mathesis-ru
+  name: mathesis.ru (2014-08-22)
+  url: https://mathesis.ru
+  created: '2014-08-22T05:02:02'
+  domain: mathesis.ru
+- id: noto-ruz-net
+  name: noto.ruz.net (2013-12-23)
+  url: https://noto.ruz.net
+  created: '2013-12-23T05:47:40'
+  domain: noto.ruz.net
+- id: ogi-ru
+  name: ogi.ru (2013-12-23)
+  url: https://ogi.ru
+  created: '2013-12-23T05:47:54'
+  domain: ogi.ru
+- id: openbudget-karelia-ru
+  name: openbudget.karelia.ru (2013-11-08)
+  url: https://openbudget.karelia.ru
+  created: '2013-11-08T18:50:43'
+  domain: openbudget.karelia.ru
+- id: pakhmutova-ru
+  name: pakhmutova.ru (2013-12-29)
+  url: https://pakhmutova.ru
+  created: '2013-12-29T17:28:43'
+  domain: pakhmutova.ru
+- id: pobeda-elar-ru
+  name: pobeda.elar.ru (2014-12-29)
+  url: https://pobeda.elar.ru
+  created: '2014-12-29T15:33:03'
+  domain: pobeda.elar.ru
+- id: pobediteli-ru
+  name: pobediteli.ru (2013-10-23)
+  url: https://pobediteli.ru
+  created: '2013-10-23T14:13:09'
+  domain: pobediteli.ru
+- id: ruthenia-ru
+  name: ruthenia.ru (2013-12-23)
+  url: https://ruthenia.ru
+  created: '2013-12-23T05:51:24'
+  domain: ruthenia.ru
+- id: sbelan-ru
+  name: sbelan.ru (2015-03-30)
+  url: https://sbelan.ru
+  created: '2015-03-30T16:07:54'
+  domain: sbelan.ru
+- id: sources-ru
+  name: sources.ru (2014-08-21)
+  url: https://sources.ru
+  created: '2014-08-21T14:37:02'
+  domain: sources.ru
+- id: tcheb-ru
+  name: tcheb.ru (2014-08-21)
+  url: https://tcheb.ru
+  created: '2014-08-21T09:55:26'
+  domain: tcheb.ru
+- id: transparentbudget-ru
+  name: transparentbudget.ru (2013-12-13)
+  url: https://transparentbudget.ru
+  created: '2013-12-13T02:04:45'
+  domain: transparentbudget.ru
+- id: vofem-ru
+  name: vofem.ru (2014-08-23)
+  url: https://vofem.ru
+  created: '2014-08-23T11:33:30'
+  domain: vofem.ru
+- id: zhurnal-ru
+  name: zhurnal.ru (2013-10-23)
+  url: https://zhurnal.ru
+  created: '2013-10-23T14:10:49'
+  domain: zhurnal.ru
+files:
+  total_count: 132
+  total_size: 242166124514
+  directories: []

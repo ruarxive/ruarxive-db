@@ -1,0 +1,13 @@
+id: entertainment2022
+slug: entertainment2022
+name: Развлекательные сайты 2022
+created: '2022-03-16T19:29:31.000Z'
+num_records: 1
+records:
+- id: coub-com
+  name: Coub
+  url: https://coub.com
+  status: собирается
+  status_id: collecting
+  created: '2022-03-16T19:29:16.000Z'
+  domain: coub.com

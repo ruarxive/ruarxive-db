@@ -1,0 +1,40 @@
+id: kgn-vkks-ru-2017-05-29-8f870f8b
+name: kgn.vkks.ru (2017-05-29)
+domain: kgn.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/kgn.vkks.ru-2017-05-29-8f870f8b/wpull.db
+  size: 515072
+  modified: '2017-06-03T08:44:39'
+  type: wpull database
+  extension: .db
+- name: kgn.vkks.ru-2017-05-29-8f870f8b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/kgn.vkks.ru-2017-05-29-8f870f8b/kgn.vkks.ru-2017-05-29-8f870f8b.cdx
+  size: 697511
+  modified: '2017-06-03T08:44:38'
+  type: CDX
+  extension: .cdx
+- name: kgn.vkks.ru-2017-05-29-8f870f8b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/kgn.vkks.ru-2017-05-29-8f870f8b/kgn.vkks.ru-2017-05-29-8f870f8b-00000.warc.gz
+  size: 35374854
+  modified: '2017-06-03T08:44:42'
+  type: WARC
+  extension: .warc.gz
+- name: kgn.vkks.ru-2017-05-29-8f870f8b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/kgn.vkks.ru-2017-05-29-8f870f8b/kgn.vkks.ru-2017-05-29-8f870f8b-meta.warc.gz
+  size: 71260
+  modified: '2017-06-03T08:44:39'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/kgn.vkks.ru-2017-05-29-8f870f8b/dupes_db/data.mdb
+  size: 155648
+  modified: '2017-06-03T08:44:44'
+  type: ''
+  extension: .mdb
+url: https://kgn.vkks.ru
+created: '2017-05-29'

@@ -1,0 +1,40 @@
+id: russia2035-ru-2017-04-05-6b30ff4d
+name: russia2035.ru (2017-04-05)
+domain: russia2035.ru
+collection:
+  id: reforms
+  slug: reforms
+  name: Реформы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/www.russia2035.ru-2017-04-05-6b30ff4d/dupes_db/data.mdb
+  size: 233472
+  modified: '2017-04-05T06:05:18'
+  type: ''
+  extension: .mdb
+- name: www.russia2035.ru-2017-04-05-6b30ff4d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/www.russia2035.ru-2017-04-05-6b30ff4d/www.russia2035.ru-2017-04-05-6b30ff4d-meta.warc.gz
+  size: 45823
+  modified: '2017-04-05T06:05:18'
+  type: WARC
+  extension: .warc.gz
+- name: www.russia2035.ru-2017-04-05-6b30ff4d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/www.russia2035.ru-2017-04-05-6b30ff4d/www.russia2035.ru-2017-04-05-6b30ff4d-00000.warc.gz
+  size: 138268227
+  modified: '2017-04-05T06:05:18'
+  type: WARC
+  extension: .warc.gz
+- name: www.russia2035.ru-2017-04-05-6b30ff4d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/www.russia2035.ru-2017-04-05-6b30ff4d/www.russia2035.ru-2017-04-05-6b30ff4d.cdx
+  size: 373652
+  modified: '2017-04-05T06:05:18'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/www.russia2035.ru-2017-04-05-6b30ff4d/wpull.db
+  size: 382976
+  modified: '2017-04-05T06:05:18'
+  type: wpull database
+  extension: .db
+url: https://russia2035.ru
+created: '2017-04-05'

@@ -1,0 +1,51 @@
+id: frprf-ru-2017-06-28-b7e07cb1
+name: frprf.ru (2017-06-28)
+domain: frprf.ru
+collection:
+  id: goventerprises
+  slug: goventerprises
+  name: Государственные предприятия
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/frprf.ru-2017-06-28-b7e07cb1/dupes_db/data.mdb
+  size: 96698368
+  modified: '2017-07-02T20:02:18'
+  type: ''
+  extension: .mdb
+- name: frprf.ru-2017-06-28-b7e07cb1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/frprf.ru-2017-06-28-b7e07cb1/frprf.ru-2017-06-28-b7e07cb1-00000.warc.gz
+  size: 4017527196
+  modified: '2017-07-02T20:02:18'
+  type: WARC
+  extension: .warc.gz
+- name: frprf.ru-2017-06-28-b7e07cb1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/frprf.ru-2017-06-28-b7e07cb1/frprf.ru-2017-06-28-b7e07cb1.cdx
+  size: 99850601
+  modified: '2017-07-02T20:02:18'
+  type: CDX
+  extension: .cdx
+- name: frprf.ru-2017-06-28-b7e07cb1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/frprf.ru-2017-06-28-b7e07cb1/frprf.ru-2017-06-28-b7e07cb1-meta.warc.gz
+  size: 6893555
+  modified: '2017-07-02T20:02:27'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/frprf.ru-2017-06-28-b7e07cb1/wpull.db
+  size: 373817344
+  modified: '2017-07-02T20:02:19'
+  type: wpull database
+  extension: .db
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/frprf.ru-2017-06-28-b7e07cb1/stop
+  size: 0
+  modified: '2017-07-02T20:02:19'
+  type: ''
+- name: tmp-wpull-resp_cb-04d5mv.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/frprf.ru-2017-06-28-b7e07cb1/temp/tmp-wpull-resp_cb-04d5mv.tmp
+  size: 55294
+  modified: '2017-07-02T20:02:18'
+  type: ''
+  extension: .tmp
+url: https://frprf.ru
+created: '2017-06-28'

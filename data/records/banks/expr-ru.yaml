@@ -1,0 +1,34 @@
+id: expr-ru
+name: expr.ru (2014-05-09)
+domain: expr.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.expr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.expr.ru/www.expr.ru.cdx.xz
+  size: 83340
+  modified: '2014-05-09T15:31:30'
+  type: CDX
+  extension: .xz
+- name: www.expr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.expr.ru/www.expr.ru.warc.xz
+  size: 28107048
+  modified: '2014-05-09T15:31:30'
+  type: WARC
+  extension: .xz
+- name: www.expr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.expr.ru/www.expr.ru.log.xz
+  size: 47420
+  modified: '2014-05-09T15:31:30'
+  type: wpull log
+  extension: .xz
+- name: www.expr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.expr.ru/www.expr.ru.7z
+  size: 27973572
+  modified: '2014-08-19T22:47:17'
+  type: ''
+  extension: .7z
+url: https://expr.ru
+created: '2014-05-09T15:31:30'

@@ -1,0 +1,28 @@
+id: u-gai-ru
+name: u-gai.ru (2013-11-22)
+domain: u-gai.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.u-gai.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.u-gai.ru/www.u-gai.ru.cdx.xz
+  size: 152908
+  modified: '2013-11-22T15:25:20'
+  type: CDX
+  extension: .xz
+- name: www.u-gai.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.u-gai.ru/www.u-gai.ru.log.xz
+  size: 82364
+  modified: '2013-11-22T15:25:05'
+  type: wpull log
+  extension: .xz
+- name: www.u-gai.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.u-gai.ru/www.u-gai.ru.warc.xz
+  size: 78477876
+  modified: '2013-11-22T15:25:07'
+  type: WARC
+  extension: .xz
+url: https://u-gai.ru
+created: '2013-11-22T15:25:07'

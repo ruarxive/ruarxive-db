@@ -1,0 +1,28 @@
+id: elementy-ru
+name: elementy.ru (2015-06-02)
+domain: elementy.ru
+collection:
+  id: science
+  slug: science
+  name: Наука
+resources:
+- name: elementy.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/science/elementy.ru/elementy.ru.log.xz
+  size: 10153132
+  modified: '2015-06-02T08:43:04'
+  type: wpull log
+  extension: .xz
+- name: elementy.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/science/elementy.ru/elementy.ru.cdx.xz
+  size: 5399188
+  modified: '2015-06-02T08:43:01'
+  type: CDX
+  extension: .xz
+- name: elementy.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/science/elementy.ru/elementy.ru.7z
+  size: 5055574714
+  modified: '2015-06-03T16:53:08'
+  type: ''
+  extension: .7z
+url: https://elementy.ru
+created: '2015-06-02T08:43:01'

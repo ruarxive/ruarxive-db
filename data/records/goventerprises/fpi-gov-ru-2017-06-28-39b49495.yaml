@@ -1,0 +1,40 @@
+id: fpi-gov-ru-2017-06-28-39b49495
+name: fpi.gov.ru (2017-06-28)
+domain: fpi.gov.ru
+collection:
+  id: goventerprises
+  slug: goventerprises
+  name: Государственные предприятия
+resources:
+- name: fpi.gov.ru-2017-06-28-39b49495.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/fpi.gov.ru-2017-06-28-39b49495/fpi.gov.ru-2017-06-28-39b49495.cdx
+  size: 1485238
+  modified: '2017-06-29T00:14:26'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/fpi.gov.ru-2017-06-28-39b49495/dupes_db/data.mdb
+  size: 778240
+  modified: '2017-06-29T00:08:37'
+  type: ''
+  extension: .mdb
+- name: fpi.gov.ru-2017-06-28-39b49495-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/fpi.gov.ru-2017-06-28-39b49495/fpi.gov.ru-2017-06-28-39b49495-00000.warc.gz
+  size: 296562628
+  modified: '2017-06-29T00:14:26'
+  type: WARC
+  extension: .warc.gz
+- name: fpi.gov.ru-2017-06-28-39b49495-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/fpi.gov.ru-2017-06-28-39b49495/fpi.gov.ru-2017-06-28-39b49495-meta.warc.gz
+  size: 215025
+  modified: '2017-06-29T00:14:27'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/fpi.gov.ru-2017-06-28-39b49495/wpull.db
+  size: 1537024
+  modified: '2017-06-29T00:14:26'
+  type: wpull database
+  extension: .db
+url: https://fpi.gov.ru
+created: '2017-06-28'

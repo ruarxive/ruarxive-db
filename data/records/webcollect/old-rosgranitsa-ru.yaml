@@ -1,0 +1,16 @@
+id: old-rosgranitsa-ru
+name: old.rosgranitsa.ru.7z (2012-10-22)
+domain: old.rosgranitsa.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.rosgranitsa.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.rosgranitsa.ru.7z
+  size: 100763676
+  modified: '2012-10-22T09:59:35'
+  type: httrack archive
+  extension: .7z
+url: https://old.rosgranitsa.ru.7z
+created: '2012-10-22T09:59:35'

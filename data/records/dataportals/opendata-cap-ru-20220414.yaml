@@ -1,0 +1,35 @@
+id: opendata-cap-ru-20220414
+name: opendata.cap.ru (2022-04-14)
+domain: opendata.cap.ru
+url: https://opendata.cap.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.cap.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.cap.ru/2022-04-14/opendata.cap.ru.cdx
+  size: 1845414
+  modified: '2022-04-14T12:36:26'
+  type: CDX
+  extension: .cdx
+- name: opendata.cap.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.cap.ru/2022-04-14/opendata.cap.ru.log
+  size: 21480905
+  modified: '2022-04-14T12:36:31'
+  type: wpull log
+  extension: .log
+- name: opendata.cap.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.cap.ru/2022-04-14/opendata.cap.ru.warc.gz
+  size: 113310927
+  modified: '2022-04-14T12:36:31'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.cap.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.cap.ru/2022-04-14/sitearchive-opendata.cap.ru.db
+  size: 2191360
+  modified: '2022-04-14T12:36:31'
+  type: ''
+  extension: .db

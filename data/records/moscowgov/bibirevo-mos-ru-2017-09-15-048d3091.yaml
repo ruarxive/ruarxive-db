@@ -1,0 +1,40 @@
+id: bibirevo-mos-ru-2017-09-15-048d3091
+name: bibirevo.mos.ru (2017-09-15)
+domain: bibirevo.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: bibirevo.mos.ru-2017-09-15-048d3091-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/bibirevo.mos.ru-2017-09-15-048d3091/bibirevo.mos.ru-2017-09-15-048d3091-00000.warc.gz
+  size: 1903547795
+  modified: '2017-09-17T01:44:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/bibirevo.mos.ru-2017-09-15-048d3091/wpull.db
+  size: 9766912
+  modified: '2017-09-17T01:44:20'
+  type: wpull database
+  extension: .db
+- name: bibirevo.mos.ru-2017-09-15-048d3091.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/bibirevo.mos.ru-2017-09-15-048d3091/bibirevo.mos.ru-2017-09-15-048d3091.cdx
+  size: 8171776
+  modified: '2017-09-17T01:44:13'
+  type: CDX
+  extension: .cdx
+- name: bibirevo.mos.ru-2017-09-15-048d3091-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/bibirevo.mos.ru-2017-09-15-048d3091/bibirevo.mos.ru-2017-09-15-048d3091-meta.warc.gz
+  size: 1163964
+  modified: '2017-09-17T01:44:30'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/bibirevo.mos.ru-2017-09-15-048d3091/dupes_db/data.mdb
+  size: 4841472
+  modified: '2017-09-17T01:44:13'
+  type: ''
+  extension: .mdb
+url: https://bibirevo.mos.ru
+created: '2017-09-15'

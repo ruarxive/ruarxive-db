@@ -1,0 +1,40 @@
+id: pamyat-kolymy-ucoz-ru-2017-06-06-2801a517
+name: pamyat-kolymy.ucoz.ru (2017-06-06)
+domain: pamyat-kolymy.ucoz.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/pamyat-kolymy.ucoz.ru-2017-06-06-2801a517/wpull.db
+  size: 2195456
+  modified: '2017-06-08T19:12:05'
+  type: wpull database
+  extension: .db
+- name: pamyat-kolymy.ucoz.ru-2017-06-06-2801a517.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/pamyat-kolymy.ucoz.ru-2017-06-06-2801a517/pamyat-kolymy.ucoz.ru-2017-06-06-2801a517.cdx
+  size: 2032390
+  modified: '2017-06-08T19:12:05'
+  type: CDX
+  extension: .cdx
+- name: pamyat-kolymy.ucoz.ru-2017-06-06-2801a517-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/pamyat-kolymy.ucoz.ru-2017-06-06-2801a517/pamyat-kolymy.ucoz.ru-2017-06-06-2801a517-meta.warc.gz
+  size: 161478
+  modified: '2017-06-08T19:12:05'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/pamyat-kolymy.ucoz.ru-2017-06-06-2801a517/dupes_db/data.mdb
+  size: 888832
+  modified: '2017-06-08T19:12:08'
+  type: ''
+  extension: .mdb
+- name: pamyat-kolymy.ucoz.ru-2017-06-06-2801a517-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/pamyat-kolymy.ucoz.ru-2017-06-06-2801a517/pamyat-kolymy.ucoz.ru-2017-06-06-2801a517-00000.warc.gz
+  size: 100883493
+  modified: '2017-06-08T19:12:08'
+  type: WARC
+  extension: .warc.gz
+url: https://pamyat-kolymy.ucoz.ru
+created: '2017-06-06'

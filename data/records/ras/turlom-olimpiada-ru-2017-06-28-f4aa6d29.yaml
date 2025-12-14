@@ -1,0 +1,40 @@
+id: turlom-olimpiada-ru-2017-06-28-f4aa6d29
+name: turlom.olimpiada.ru (2017-06-28)
+domain: turlom.olimpiada.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: turlom.olimpiada.ru-2017-06-28-f4aa6d29-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/turlom.olimpiada.ru-2017-06-28-f4aa6d29/turlom.olimpiada.ru-2017-06-28-f4aa6d29-00000.warc.gz
+  size: 81157842
+  modified: '2017-06-28T20:35:05'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/turlom.olimpiada.ru-2017-06-28-f4aa6d29/wpull.db
+  size: 1225728
+  modified: '2017-06-28T20:35:06'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/turlom.olimpiada.ru-2017-06-28-f4aa6d29/dupes_db/data.mdb
+  size: 507904
+  modified: '2017-06-28T20:26:00'
+  type: ''
+  extension: .mdb
+- name: turlom.olimpiada.ru-2017-06-28-f4aa6d29.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/turlom.olimpiada.ru-2017-06-28-f4aa6d29/turlom.olimpiada.ru-2017-06-28-f4aa6d29.cdx
+  size: 1369574
+  modified: '2017-06-28T20:35:05'
+  type: CDX
+  extension: .cdx
+- name: turlom.olimpiada.ru-2017-06-28-f4aa6d29-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/turlom.olimpiada.ru-2017-06-28-f4aa6d29/turlom.olimpiada.ru-2017-06-28-f4aa6d29-meta.warc.gz
+  size: 130813
+  modified: '2017-06-28T20:35:06'
+  type: WARC
+  extension: .warc.gz
+url: https://turlom.olimpiada.ru
+created: '2017-06-28'

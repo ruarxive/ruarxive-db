@@ -1,0 +1,28 @@
+id: lagerkolyma-narod-ru
+name: lagerkolyma.narod.ru (2013-12-30)
+domain: lagerkolyma.narod.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: www.lagerkolyma.narod.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.lagerkolyma.narod.ru/www.lagerkolyma.narod.ru.log.xz
+  size: 21588
+  modified: '2013-12-30T12:38:14'
+  type: wpull log
+  extension: .xz
+- name: www.lagerkolyma.narod.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.lagerkolyma.narod.ru/www.lagerkolyma.narod.ru.warc.xz
+  size: 2648584
+  modified: '2013-12-30T12:38:12'
+  type: WARC
+  extension: .xz
+- name: www.lagerkolyma.narod.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.lagerkolyma.narod.ru/www.lagerkolyma.narod.ru.cdx.xz
+  size: 30320
+  modified: '2013-12-30T12:38:12'
+  type: CDX
+  extension: .xz
+url: https://lagerkolyma.narod.ru
+created: '2013-12-30T12:38:12'

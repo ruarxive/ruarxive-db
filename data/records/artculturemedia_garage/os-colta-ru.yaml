@@ -1,0 +1,19 @@
+id: os-colta-ru
+name: http://OpenSpace.ru (Colta.ru) архив
+url: http://os.colta.ru/
+domain: os.colta.ru
+created: '2022-03-29T15:50:44.000Z'
+status: не собран
+status_id: not-collected
+resource_type: раздел сайта
+resource_type_id: site-section
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: artculturemedia_garage
+  name: Искусство и культура
+  slug: artculturemedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: средний

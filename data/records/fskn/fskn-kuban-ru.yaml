@@ -1,0 +1,34 @@
+id: fskn-kuban-ru
+name: fskn-kuban.ru (2016-06-06)
+domain: fskn-kuban.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: www.fskn-kuban.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.fskn-kuban.ru/www.fskn-kuban.ru.7z
+  size: 92142145
+  modified: '2016-09-28T09:40:55'
+  type: ''
+  extension: .7z
+- name: www.fskn-kuban.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.fskn-kuban.ru/www.fskn-kuban.ru.log
+  size: 9884614
+  modified: '2016-06-06T15:28:04'
+  type: ''
+  extension: .log
+- name: www.fskn-kuban.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.fskn-kuban.ru/www.fskn-kuban.ru.warc.gz
+  size: 508009648
+  modified: '2016-06-06T15:28:04'
+  type: WARC
+  extension: .warc.gz
+- name: www.fskn-kuban.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.fskn-kuban.ru/www.fskn-kuban.ru.cdx
+  size: 5493818
+  modified: '2016-06-06T15:28:04'
+  type: CDX
+  extension: .cdx
+url: https://fskn-kuban.ru
+created: '2016-06-06T15:28:04'

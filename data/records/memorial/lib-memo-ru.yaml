@@ -1,0 +1,28 @@
+id: lib-memo-ru
+name: lib.memo.ru (2013-10-27)
+domain: lib.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: lib.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lib.memo.ru/lib.memo.ru.warc.xz
+  size: 35720
+  modified: '2013-10-27T17:28:40'
+  type: WARC
+  extension: .xz
+- name: lib.memo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lib.memo.ru/lib.memo.ru.cdx.xz
+  size: 2396
+  modified: '2013-10-27T17:28:39'
+  type: CDX
+  extension: .xz
+- name: lib.memo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lib.memo.ru/lib.memo.ru.log.xz
+  size: 2948
+  modified: '2013-10-27T17:28:39'
+  type: wpull log
+  extension: .xz
+url: https://lib.memo.ru
+created: '2013-10-27T17:28:40'

@@ -1,0 +1,40 @@
+id: forum-minsvyaz-ru-2017-04-23-9ec24816
+name: forum.minsvyaz.ru (2017-04-23)
+domain: forum.minsvyaz.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: forum.minsvyaz.ru-2017-04-23-9ec24816-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/forum.minsvyaz.ru-2017-04-23-9ec24816/forum.minsvyaz.ru-2017-04-23-9ec24816-meta.warc.gz
+  size: 50826
+  modified: '2017-04-23T07:46:54'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/forum.minsvyaz.ru-2017-04-23-9ec24816/wpull.db
+  size: 436224
+  modified: '2017-04-23T07:46:54'
+  type: wpull database
+  extension: .db
+- name: forum.minsvyaz.ru-2017-04-23-9ec24816.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/forum.minsvyaz.ru-2017-04-23-9ec24816/forum.minsvyaz.ru-2017-04-23-9ec24816.cdx
+  size: 464122
+  modified: '2017-04-23T07:46:54'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/forum.minsvyaz.ru-2017-04-23-9ec24816/dupes_db/data.mdb
+  size: 163840
+  modified: '2017-04-23T07:46:53'
+  type: ''
+  extension: .mdb
+- name: forum.minsvyaz.ru-2017-04-23-9ec24816-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/forum.minsvyaz.ru-2017-04-23-9ec24816/forum.minsvyaz.ru-2017-04-23-9ec24816-00000.warc.gz
+  size: 4892471608
+  modified: '2017-04-23T07:46:54'
+  type: WARC
+  extension: .warc.gz
+url: https://forum.minsvyaz.ru
+created: '2017-04-23'

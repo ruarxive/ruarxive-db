@@ -1,0 +1,40 @@
+id: isepr-ru-2017-04-14-a50b1534
+name: isepr.ru (2017-04-14)
+domain: isepr.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.isepr.ru-2017-04-14-a50b1534/wpull.db
+  size: 187392
+  modified: '2017-04-14T08:01:48'
+  type: wpull database
+  extension: .db
+- name: www.isepr.ru-2017-04-14-a50b1534.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.isepr.ru-2017-04-14-a50b1534/www.isepr.ru-2017-04-14-a50b1534.cdx
+  size: 176713
+  modified: '2017-04-14T08:01:48'
+  type: CDX
+  extension: .cdx
+- name: www.isepr.ru-2017-04-14-a50b1534-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.isepr.ru-2017-04-14-a50b1534/www.isepr.ru-2017-04-14-a50b1534-00000.warc.gz
+  size: 88755845
+  modified: '2017-04-14T08:01:48'
+  type: WARC
+  extension: .warc.gz
+- name: www.isepr.ru-2017-04-14-a50b1534-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.isepr.ru-2017-04-14-a50b1534/www.isepr.ru-2017-04-14-a50b1534-meta.warc.gz
+  size: 28856
+  modified: '2017-04-14T08:01:48'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.isepr.ru-2017-04-14-a50b1534/dupes_db/data.mdb
+  size: 122880
+  modified: '2017-04-14T08:01:47'
+  type: ''
+  extension: .mdb
+url: https://isepr.ru
+created: '2017-04-14'

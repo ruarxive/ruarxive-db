@@ -1,0 +1,40 @@
+id: economy-gov-ru-2017-04-04-1d07af2a
+name: economy.gov.ru (2017-04-04)
+domain: economy.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.economy.gov.ru-2017-04-04-1d07af2a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.economy.gov.ru-2017-04-04-1d07af2a/www.economy.gov.ru-2017-04-04-1d07af2a.cdx
+  size: 14265
+  modified: '2017-04-04T21:27:28'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.economy.gov.ru-2017-04-04-1d07af2a/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-04-04T21:27:27'
+  type: ''
+  extension: .mdb
+- name: www.economy.gov.ru-2017-04-04-1d07af2a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.economy.gov.ru-2017-04-04-1d07af2a/www.economy.gov.ru-2017-04-04-1d07af2a-meta.warc.gz
+  size: 5638
+  modified: '2017-04-04T21:27:28'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.economy.gov.ru-2017-04-04-1d07af2a/wpull.db
+  size: 22528
+  modified: '2017-04-04T21:27:28'
+  type: wpull database
+  extension: .db
+- name: www.economy.gov.ru-2017-04-04-1d07af2a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.economy.gov.ru-2017-04-04-1d07af2a/www.economy.gov.ru-2017-04-04-1d07af2a-00000.warc.gz
+  size: 2026874
+  modified: '2017-04-04T21:27:28'
+  type: WARC
+  extension: .warc.gz
+url: https://economy.gov.ru
+created: '2017-04-04'

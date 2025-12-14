@@ -1,0 +1,35 @@
+id: opendata-adm-ussuriisk-ru-20220416
+name: opendata.adm-ussuriisk.ru (2022-04-16)
+domain: opendata.adm-ussuriisk.ru
+url: https://opendata.adm-ussuriisk.ru
+created: '2022-04-16'
+date: '2022-04-16'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.adm-ussuriisk.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.adm-ussuriisk.ru/2022-04-16/opendata.adm-ussuriisk.ru.cdx
+  size: 407755
+  modified: '2022-04-16T13:09:02'
+  type: CDX
+  extension: .cdx
+- name: opendata.adm-ussuriisk.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.adm-ussuriisk.ru/2022-04-16/opendata.adm-ussuriisk.ru.log
+  size: 4748643
+  modified: '2022-04-16T13:09:02'
+  type: wpull log
+  extension: .log
+- name: opendata.adm-ussuriisk.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.adm-ussuriisk.ru/2022-04-16/opendata.adm-ussuriisk.ru.warc.gz
+  size: 65594817
+  modified: '2022-04-16T13:09:02'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.adm-ussuriisk.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.adm-ussuriisk.ru/2022-04-16/sitearchive-opendata.adm-ussuriisk.ru.db
+  size: 1097728
+  modified: '2022-04-16T13:09:02'
+  type: ''
+  extension: .db

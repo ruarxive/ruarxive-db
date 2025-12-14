@@ -1,0 +1,34 @@
+id: sdm-ru
+name: sdm.ru (2014-05-15)
+domain: sdm.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.sdm.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sdm.ru/www.sdm.ru.log.xz
+  size: 488672
+  modified: '2014-05-15T21:00:13'
+  type: wpull log
+  extension: .xz
+- name: www.sdm.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sdm.ru/www.sdm.ru.7z
+  size: 418423671
+  modified: '2014-08-19T22:02:15'
+  type: ''
+  extension: .7z
+- name: www.sdm.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sdm.ru/www.sdm.ru.warc.xz
+  size: 420741708
+  modified: '2014-05-15T21:00:13'
+  type: WARC
+  extension: .xz
+- name: www.sdm.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sdm.ru/www.sdm.ru.cdx.xz
+  size: 754564
+  modified: '2014-05-15T21:00:13'
+  type: CDX
+  extension: .xz
+url: https://sdm.ru
+created: '2014-05-15T21:00:13'

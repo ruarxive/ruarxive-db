@@ -1,0 +1,34 @@
+id: sckb-ru
+name: sckb.ru (2014-05-12)
+domain: sckb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.sckb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sckb.ru/www.sckb.ru.warc.xz
+  size: 27397992
+  modified: '2014-05-12T22:55:11'
+  type: WARC
+  extension: .xz
+- name: www.sckb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sckb.ru/www.sckb.ru.cdx.xz
+  size: 19672
+  modified: '2014-05-12T22:55:11'
+  type: CDX
+  extension: .xz
+- name: www.sckb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sckb.ru/www.sckb.ru.7z
+  size: 27469173
+  modified: '2014-08-19T21:57:39'
+  type: ''
+  extension: .7z
+- name: www.sckb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sckb.ru/www.sckb.ru.log.xz
+  size: 14624
+  modified: '2014-05-12T22:55:11'
+  type: wpull log
+  extension: .xz
+url: https://sckb.ru
+created: '2014-05-12T22:55:11'

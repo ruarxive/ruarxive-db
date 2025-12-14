@@ -1,0 +1,40 @@
+id: savelki-mos-ru-2017-09-15-c459e409
+name: savelki.mos.ru (2017-09-15)
+domain: savelki.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/savelki.mos.ru-2017-09-15-c459e409/dupes_db/data.mdb
+  size: 5074944
+  modified: '2017-09-17T00:28:19'
+  type: ''
+  extension: .mdb
+- name: savelki.mos.ru-2017-09-15-c459e409-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/savelki.mos.ru-2017-09-15-c459e409/savelki.mos.ru-2017-09-15-c459e409-00000.warc.gz
+  size: 3836331016
+  modified: '2017-09-17T00:28:19'
+  type: WARC
+  extension: .warc.gz
+- name: savelki.mos.ru-2017-09-15-c459e409-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/savelki.mos.ru-2017-09-15-c459e409/savelki.mos.ru-2017-09-15-c459e409-meta.warc.gz
+  size: 1369198
+  modified: '2017-09-17T00:28:42'
+  type: WARC
+  extension: .warc.gz
+- name: savelki.mos.ru-2017-09-15-c459e409.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/savelki.mos.ru-2017-09-15-c459e409/savelki.mos.ru-2017-09-15-c459e409.cdx
+  size: 9852344
+  modified: '2017-09-17T00:28:19'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/savelki.mos.ru-2017-09-15-c459e409/wpull.db
+  size: 12052480
+  modified: '2017-09-17T00:28:27'
+  type: wpull database
+  extension: .db
+url: https://savelki.mos.ru
+created: '2017-09-15'

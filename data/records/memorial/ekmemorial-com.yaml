@@ -1,0 +1,34 @@
+id: ekmemorial-com
+name: ekmemorial.com (2014-08-04)
+domain: ekmemorial.com
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: ekmemorial.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/ekmemorial.com/ekmemorial.com.log.xz
+  size: 2104924
+  modified: '2014-08-04T21:57:25'
+  type: wpull log
+  extension: .xz
+- name: ekmemorial.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/ekmemorial.com/ekmemorial.com.7z
+  size: 29516973
+  modified: '2014-08-10T14:22:32'
+  type: ''
+  extension: .7z
+- name: ekmemorial.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/ekmemorial.com/ekmemorial.com.cdx.xz
+  size: 5617748
+  modified: '2014-08-04T21:57:25'
+  type: CDX
+  extension: .xz
+- name: ekmemorial.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/ekmemorial.com/ekmemorial.com.warc.xz
+  size: 45999552
+  modified: '2014-08-04T21:57:26'
+  type: WARC
+  extension: .xz
+url: https://ekmemorial.com
+created: '2014-08-04T21:57:26'

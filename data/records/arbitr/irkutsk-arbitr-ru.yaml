@@ -1,0 +1,46 @@
+id: irkutsk-arbitr-ru
+name: irkutsk.arbitr.ru (2014-08-03)
+domain: irkutsk.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: irkutsk.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/irkutsk.arbitr.ru/irkutsk.arbitr.ru.cdx.xz
+  size: 471580
+  modified: '2014-08-03T00:10:49'
+  type: CDX
+  extension: .xz
+- name: m.irkutsk.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/irkutsk.arbitr.ru/m.irkutsk.arbitr.ru.7z
+  size: 987931
+  modified: '2014-08-19T10:22:46'
+  type: ''
+  extension: .7z
+- name: irkutsk.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/irkutsk.arbitr.ru/irkutsk.arbitr.ru.warc.xz
+  size: 621816172
+  modified: '2014-08-03T00:10:49'
+  type: WARC
+  extension: .xz
+- name: irkutsk.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/irkutsk.arbitr.ru/irkutsk.arbitr.ru.7z
+  size: 627016590
+  modified: '2014-08-19T10:22:28'
+  type: ''
+  extension: .7z
+- name: www.irkutsk.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/irkutsk.arbitr.ru/www.irkutsk.arbitr.ru.7z
+  size: 7918
+  modified: '2014-08-19T10:19:35'
+  type: ''
+  extension: .7z
+- name: irkutsk.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/irkutsk.arbitr.ru/irkutsk.arbitr.ru.log.xz
+  size: 296568
+  modified: '2014-08-03T00:10:49'
+  type: wpull log
+  extension: .xz
+url: https://irkutsk.arbitr.ru
+created: '2014-08-03T00:10:49'

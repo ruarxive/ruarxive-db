@@ -1,0 +1,52 @@
+id: mosoblbank-ru
+name: mosoblbank.ru (2013-12-18)
+domain: mosoblbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.mosoblbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mosoblbank.ru/www.mosoblbank.ru.log.xz
+  size: 1410080
+  modified: '2014-05-16T04:26:43'
+  type: wpull log
+  extension: .xz
+- name: www.mosoblbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mosoblbank.ru/www.mosoblbank.ru.warc.xz
+  size: 6153414272
+  modified: '2014-05-16T04:26:43'
+  type: WARC
+  extension: .xz
+- name: www.mosoblbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mosoblbank.ru/www.mosoblbank.ru.cdx.xz
+  size: 1426080
+  modified: '2014-05-16T04:26:42'
+  type: CDX
+  extension: .xz
+- name: www.mosoblbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mosoblbank.ru/www.mosoblbank.ru.7z
+  size: 6206893392
+  modified: '2014-08-19T21:53:26'
+  type: ''
+  extension: .7z
+- name: mosoblbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/mosoblbank.ru/mosoblbank.ru.log.xz
+  size: 1234132
+  modified: '2013-12-18T10:09:51'
+  type: wpull log
+  extension: .xz
+- name: mosoblbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/mosoblbank.ru/mosoblbank.ru.cdx.xz
+  size: 1438420
+  modified: '2013-12-18T09:56:08'
+  type: CDX
+  extension: .xz
+- name: mosoblbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/mosoblbank.ru/mosoblbank.ru.warc.xz
+  size: 4462739576
+  modified: '2013-12-18T09:57:59'
+  type: WARC
+  extension: .xz
+url: https://mosoblbank.ru
+created: '2013-12-18T09:57:59'

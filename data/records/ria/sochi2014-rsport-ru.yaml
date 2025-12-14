@@ -1,0 +1,28 @@
+id: sochi2014-rsport-ru
+name: sochi2014.rsport.ru (2013-12-14)
+domain: sochi2014.rsport.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: sochi2014.rsport.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/sochi2014.rsport.ru/sochi2014.rsport.ru.warc.xz
+  size: 48821604
+  modified: '2013-12-14T11:44:29'
+  type: WARC
+  extension: .xz
+- name: sochi2014.rsport.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/sochi2014.rsport.ru/sochi2014.rsport.ru.cdx.xz
+  size: 4747332
+  modified: '2013-12-14T11:48:08'
+  type: CDX
+  extension: .xz
+- name: sochi2014.rsport.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/sochi2014.rsport.ru/sochi2014.rsport.ru.log.xz
+  size: 1768844
+  modified: '2013-12-14T11:47:54'
+  type: wpull log
+  extension: .xz
+url: https://sochi2014.rsport.ru
+created: '2013-12-14T11:44:29'

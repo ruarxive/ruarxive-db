@@ -1,0 +1,40 @@
+id: irkproc-ru-2017-04-03-8ba105f3
+name: irkproc.ru (2017-04-03)
+domain: irkproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.irkproc.ru-2017-04-03-8ba105f3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.irkproc.ru-2017-04-03-8ba105f3/www.irkproc.ru-2017-04-03-8ba105f3-00000.warc.gz
+  size: 282352069
+  modified: '2017-04-03T14:39:47'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.irkproc.ru-2017-04-03-8ba105f3/dupes_db/data.mdb
+  size: 1503232
+  modified: '2017-04-03T14:39:47'
+  type: ''
+  extension: .mdb
+- name: www.irkproc.ru-2017-04-03-8ba105f3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.irkproc.ru-2017-04-03-8ba105f3/www.irkproc.ru-2017-04-03-8ba105f3-meta.warc.gz
+  size: 302571
+  modified: '2017-04-03T14:39:48'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.irkproc.ru-2017-04-03-8ba105f3/wpull.db
+  size: 2463744
+  modified: '2017-04-03T14:39:48'
+  type: wpull database
+  extension: .db
+- name: www.irkproc.ru-2017-04-03-8ba105f3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.irkproc.ru-2017-04-03-8ba105f3/www.irkproc.ru-2017-04-03-8ba105f3.cdx
+  size: 2967758
+  modified: '2017-04-03T14:39:47'
+  type: CDX
+  extension: .cdx
+url: https://irkproc.ru
+created: '2017-04-03'

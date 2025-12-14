@@ -1,0 +1,29 @@
+id: derjivora-org
+name: Держи Вора!
+url: https://derjivora.org
+domain: derjivora.org
+created: '2022-11-14T14:51:00.000Z'
+date: '2022-11-14T14:51:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт
+resource_type_id: site
+reason: Сохранение контента
+reason_id: content-preservation
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: politics
+  name: Политика
+  slug: politics
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: derjivora.org.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/deathwatch/derjivora.org/derjivora.org.warc.gz

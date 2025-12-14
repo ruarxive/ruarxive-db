@@ -1,0 +1,26 @@
+id: typography-online-ru
+name: ЦСИ Типография (Краснодар)
+url: http://typography-online.ru/
+domain: typography-online.ru
+created: '2022-03-29T16:16:48.000Z'
+date: '2022-05-17T09:46:00.000Z'
+status: ожидает загрузки в хранилище
+status_id: awaiting-storage
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+reason_url: Первая культурная институция, признанная иноагентом
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: institutions_garage
+  name: Институты
+  slug: institutions_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: высокий

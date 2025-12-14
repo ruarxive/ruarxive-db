@@ -1,0 +1,52 @@
+id: mid-ru-2017-04-30-d830fa17
+name: mid.ru (2017-04-30)
+domain: mid.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mid.ru-2017-04-30-d830fa17/wpull.db
+  size: 21228544
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+- name: www.mid.ru-2017-04-30-d830fa17.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mid.ru-2017-04-30-d830fa17/www.mid.ru-2017-04-30-d830fa17.cdx
+  size: 822572
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mid.ru-2017-04-30-d830fa17/dupes_db/data.mdb
+  size: 364544
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .mdb
+- name: www.mid.ru-2017-04-30-d830fa17-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mid.ru-2017-04-30-d830fa17/www.mid.ru-2017-04-30-d830fa17-00000.warc.gz
+  size: 192552334
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-warcsesrsp-1dg7bq.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mid.ru-2017-04-30-d830fa17/temp/tmp-wpull-warcsesrsp-1dg7bq.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-_5olq4.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mid.ru-2017-04-30-d830fa17/temp/tmp-wpull-warc-_5olq4.log.gz
+  size: 160503
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesreq-b517ma.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mid.ru-2017-04-30-d830fa17/temp/tmp-wpull-warcsesreq-b517ma.tmp
+  size: 342
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+url: https://mid.ru
+created: '2017-04-30'

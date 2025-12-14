@@ -1,0 +1,34 @@
+id: data-mos-ru
+name: data.mos.ru (2014-10-07)
+domain: data.mos.ru
+collection:
+  id: data
+  slug: data
+  name: Государственные данные
+resources:
+- name: data.mos.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/data/data.mos.ru/data.mos.ru.cdx.xz
+  size: 16601936
+  modified: '2014-10-07T01:26:11'
+  type: CDX
+  extension: .xz
+- name: data.mos.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/data/data.mos.ru/data.mos.ru.warc.xz
+  size: 8083558304
+  modified: '2014-10-07T01:26:14'
+  type: WARC
+  extension: .xz
+- name: data.mos.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/data/data.mos.ru/data.mos.ru.log.xz
+  size: 40053556
+  modified: '2014-10-07T01:26:11'
+  type: wpull log
+  extension: .xz
+- name: data.mos.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/data/data.mos.ru/data.mos.ru.7z
+  size: 7943924647
+  modified: '2014-11-30T10:14:29'
+  type: ''
+  extension: .7z
+url: https://data.mos.ru
+created: '2014-10-07T01:26:14'

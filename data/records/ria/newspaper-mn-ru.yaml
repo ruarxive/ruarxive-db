@@ -1,0 +1,28 @@
+id: newspaper-mn-ru
+name: newspaper.mn.ru (2013-12-10)
+domain: newspaper.mn.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: newspaper.mn.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newspaper.mn.ru/newspaper.mn.ru.log.xz
+  size: 27620
+  modified: '2013-12-10T09:40:41'
+  type: wpull log
+  extension: .xz
+- name: newspaper.mn.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newspaper.mn.ru/newspaper.mn.ru.warc.xz
+  size: 1310828
+  modified: '2013-12-10T09:40:42'
+  type: WARC
+  extension: .xz
+- name: newspaper.mn.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/newspaper.mn.ru/newspaper.mn.ru.cdx.xz
+  size: 55216
+  modified: '2013-12-10T09:40:43'
+  type: CDX
+  extension: .xz
+url: https://newspaper.mn.ru
+created: '2013-12-10T09:40:42'

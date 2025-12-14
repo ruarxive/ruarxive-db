@@ -1,0 +1,16 @@
+id: award-gov-ru
+name: award.gov.ru.7z (2012-10-22)
+domain: award.gov.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: award.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/award.gov.ru.7z
+  size: 5431121
+  modified: '2012-10-22T09:39:04'
+  type: httrack archive
+  extension: .7z
+url: https://award.gov.ru.7z
+created: '2012-10-22T09:39:04'

@@ -1,0 +1,40 @@
+id: voykovsky-mos-ru-2017-09-15-116a0421
+name: voykovsky.mos.ru (2017-09-15)
+domain: voykovsky.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: voykovsky.mos.ru-2017-09-15-116a0421-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/voykovsky.mos.ru-2017-09-15-116a0421/voykovsky.mos.ru-2017-09-15-116a0421-meta.warc.gz
+  size: 1296046
+  modified: '2017-09-17T21:11:52'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/voykovsky.mos.ru-2017-09-15-116a0421/wpull.db
+  size: 13604864
+  modified: '2017-09-17T21:11:50'
+  type: wpull database
+  extension: .db
+- name: voykovsky.mos.ru-2017-09-15-116a0421-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/voykovsky.mos.ru-2017-09-15-116a0421/voykovsky.mos.ru-2017-09-15-116a0421-00000.warc.gz
+  size: 2346739485
+  modified: '2017-09-17T21:09:04'
+  type: WARC
+  extension: .warc.gz
+- name: voykovsky.mos.ru-2017-09-15-116a0421.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/voykovsky.mos.ru-2017-09-15-116a0421/voykovsky.mos.ru-2017-09-15-116a0421.cdx
+  size: 10674677
+  modified: '2017-09-17T21:09:04'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/voykovsky.mos.ru-2017-09-15-116a0421/dupes_db/data.mdb
+  size: 6803456
+  modified: '2017-09-17T21:09:05'
+  type: ''
+  extension: .mdb
+url: https://voykovsky.mos.ru
+created: '2017-09-15'

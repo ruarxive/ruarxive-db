@@ -1,0 +1,34 @@
+id: rosgranitsa-ru
+name: rosgranitsa.ru (2016-05-06)
+domain: rosgranitsa.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: www.rosgranitsa.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.rosgranitsa.ru/www.rosgranitsa.ru.7z
+  size: 386448339
+  modified: '2016-05-06T12:11:27'
+  type: ''
+  extension: .7z
+- name: www.rosgranitsa.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.rosgranitsa.ru/www.rosgranitsa.ru.log.xz
+  size: 3183712
+  modified: '2016-05-06T07:19:17'
+  type: wpull log
+  extension: .xz
+- name: www.rosgranitsa.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.rosgranitsa.ru/www.rosgranitsa.ru.warc.gz
+  size: 1688605806
+  modified: '2016-05-06T07:19:17'
+  type: WARC
+  extension: .warc.gz
+- name: www.rosgranitsa.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.rosgranitsa.ru/www.rosgranitsa.ru.cdx.xz
+  size: 8059152
+  modified: '2016-05-06T07:19:17'
+  type: CDX
+  extension: .xz
+url: https://rosgranitsa.ru
+created: '2016-05-06T07:19:17'

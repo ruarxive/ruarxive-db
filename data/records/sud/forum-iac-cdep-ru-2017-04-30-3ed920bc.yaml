@@ -1,0 +1,40 @@
+id: forum-iac-cdep-ru-2017-04-30-3ed920bc
+name: forum.iac.cdep.ru (2017-04-30)
+domain: forum.iac.cdep.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/forum.iac.cdep.ru-2017-04-30-3ed920bc/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-04-30T11:11:20'
+  type: ''
+  extension: .mdb
+- name: forum.iac.cdep.ru-2017-04-30-3ed920bc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/forum.iac.cdep.ru-2017-04-30-3ed920bc/forum.iac.cdep.ru-2017-04-30-3ed920bc-meta.warc.gz
+  size: 6869
+  modified: '2017-04-30T11:11:20'
+  type: WARC
+  extension: .warc.gz
+- name: forum.iac.cdep.ru-2017-04-30-3ed920bc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/forum.iac.cdep.ru-2017-04-30-3ed920bc/forum.iac.cdep.ru-2017-04-30-3ed920bc-00000.warc.gz
+  size: 875750
+  modified: '2017-04-30T11:11:20'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/forum.iac.cdep.ru-2017-04-30-3ed920bc/wpull.db
+  size: 52224
+  modified: '2017-04-30T11:11:20'
+  type: wpull database
+  extension: .db
+- name: forum.iac.cdep.ru-2017-04-30-3ed920bc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/forum.iac.cdep.ru-2017-04-30-3ed920bc/forum.iac.cdep.ru-2017-04-30-3ed920bc.cdx
+  size: 39632
+  modified: '2017-04-30T11:11:20'
+  type: CDX
+  extension: .cdx
+url: https://forum.iac.cdep.ru
+created: '2017-04-30'

@@ -1,0 +1,40 @@
+id: doshkolka-rybakovfond-ru-2017-05-20-49861c7d
+name: doshkolka.rybakovfond.ru (2017-05-20)
+domain: doshkolka.rybakovfond.ru
+collection:
+  id: ngofunds
+  slug: ngofunds
+  name: Фонды НКО
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/doshkolka.rybakovfond.ru-2017-05-20-49861c7d/dupes_db/data.mdb
+  size: 94208
+  modified: '2017-05-20T11:01:59'
+  type: ''
+  extension: .mdb
+- name: doshkolka.rybakovfond.ru-2017-05-20-49861c7d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/doshkolka.rybakovfond.ru-2017-05-20-49861c7d/doshkolka.rybakovfond.ru-2017-05-20-49861c7d-meta.warc.gz
+  size: 19825
+  modified: '2017-05-20T11:01:59'
+  type: WARC
+  extension: .warc.gz
+- name: doshkolka.rybakovfond.ru-2017-05-20-49861c7d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/doshkolka.rybakovfond.ru-2017-05-20-49861c7d/doshkolka.rybakovfond.ru-2017-05-20-49861c7d.cdx
+  size: 113809
+  modified: '2017-05-20T11:01:59'
+  type: CDX
+  extension: .cdx
+- name: doshkolka.rybakovfond.ru-2017-05-20-49861c7d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/doshkolka.rybakovfond.ru-2017-05-20-49861c7d/doshkolka.rybakovfond.ru-2017-05-20-49861c7d-00000.warc.gz
+  size: 24135062
+  modified: '2017-05-20T11:01:59'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/doshkolka.rybakovfond.ru-2017-05-20-49861c7d/wpull.db
+  size: 131072
+  modified: '2017-05-20T11:01:59'
+  type: wpull database
+  extension: .db
+url: https://doshkolka.rybakovfond.ru
+created: '2017-05-20'

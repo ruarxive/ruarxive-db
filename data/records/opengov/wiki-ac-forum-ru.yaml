@@ -1,0 +1,34 @@
+id: wiki-ac-forum-ru
+name: wiki.ac-forum.ru (2015-12-07)
+domain: wiki.ac-forum.ru
+collection:
+  id: opengov
+  slug: opengov
+  name: Открытое правительство РФ
+resources:
+- name: wiki.ac-forum.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/wiki.ac-forum.ru/wiki.ac-forum.ru.log.xz
+  size: 1711008
+  modified: '2015-12-07T08:43:29'
+  type: wpull log
+  extension: .xz
+- name: wiki.ac-forum.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/wiki.ac-forum.ru/wiki.ac-forum.ru.7z
+  size: 5821741
+  modified: '2015-12-08T08:15:30'
+  type: ''
+  extension: .7z
+- name: wiki.ac-forum.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/wiki.ac-forum.ru/wiki.ac-forum.ru.warc.xz
+  size: 21111668
+  modified: '2015-12-07T08:43:30'
+  type: WARC
+  extension: .xz
+- name: wiki.ac-forum.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/wiki.ac-forum.ru/wiki.ac-forum.ru.cdx.xz
+  size: 3236424
+  modified: '2015-12-07T08:43:29'
+  type: CDX
+  extension: .xz
+url: https://wiki.ac-forum.ru
+created: '2015-12-07T08:43:30'

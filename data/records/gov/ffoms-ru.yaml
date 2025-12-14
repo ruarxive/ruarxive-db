@@ -1,0 +1,64 @@
+id: ffoms-ru
+name: ffoms.ru (2017-03-29)
+domain: ffoms.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: ffoms.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/ffoms.ru.cdx
+  size: 149938267
+  modified: '2017-03-29T12:04:07'
+  type: CDX
+  extension: .cdx
+- name: ffoms.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/ffoms.ru.7z
+  size: 345801555
+  modified: '2017-03-30T12:01:55'
+  type: ''
+  extension: .7z
+- name: web.ffoms.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/web.ffoms.ru.7z
+  size: 1034055
+  modified: '2017-03-30T12:04:31'
+  type: ''
+  extension: .7z
+- name: weboms3.ffoms.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/weboms3.ffoms.ru.7z
+  size: 564040
+  modified: '2017-03-30T10:54:53'
+  type: ''
+  extension: .7z
+- name: analytics.ffoms.ru:8080.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/analytics.ffoms.ru:8080.7z
+  size: 869604
+  modified: '2017-03-30T10:54:54'
+  type: ''
+  extension: .7z
+- name: www.ffoms.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/www.ffoms.ru.7z
+  size: 342618243
+  modified: '2017-03-30T10:52:57'
+  type: ''
+  extension: .7z
+- name: ffoms.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/ffoms.ru.warc.gz
+  size: 5654316865
+  modified: '2017-03-29T12:04:07'
+  type: WARC
+  extension: .warc.gz
+- name: ffoms.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/ffoms.ru.log.xz
+  size: 10380704
+  modified: '2017-03-29T12:04:07'
+  type: wpull log
+  extension: .xz
+- name: ucfoms.ffoms.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ffoms.ru/ucfoms.ffoms.ru.7z
+  size: 4411
+  modified: '2017-03-30T10:54:33'
+  type: ''
+  extension: .7z
+url: https://ffoms.ru
+created: '2017-03-29T12:04:07'

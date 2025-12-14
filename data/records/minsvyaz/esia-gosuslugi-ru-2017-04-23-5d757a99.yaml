@@ -1,0 +1,40 @@
+id: esia-gosuslugi-ru-2017-04-23-5d757a99
+name: esia.gosuslugi.ru (2017-04-23)
+domain: esia.gosuslugi.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/esia.gosuslugi.ru-2017-04-23-5d757a99/dupes_db/data.mdb
+  size: 90112
+  modified: '2017-04-23T08:39:12'
+  type: ''
+  extension: .mdb
+- name: esia.gosuslugi.ru-2017-04-23-5d757a99-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/esia.gosuslugi.ru-2017-04-23-5d757a99/esia.gosuslugi.ru-2017-04-23-5d757a99-meta.warc.gz
+  size: 20525
+  modified: '2017-04-23T08:39:12'
+  type: WARC
+  extension: .warc.gz
+- name: esia.gosuslugi.ru-2017-04-23-5d757a99-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/esia.gosuslugi.ru-2017-04-23-5d757a99/esia.gosuslugi.ru-2017-04-23-5d757a99-00000.warc.gz
+  size: 4705647
+  modified: '2017-04-23T08:39:12'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/esia.gosuslugi.ru-2017-04-23-5d757a99/wpull.db
+  size: 188416
+  modified: '2017-04-23T08:39:12'
+  type: wpull database
+  extension: .db
+- name: esia.gosuslugi.ru-2017-04-23-5d757a99.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/esia.gosuslugi.ru-2017-04-23-5d757a99/esia.gosuslugi.ru-2017-04-23-5d757a99.cdx
+  size: 147730
+  modified: '2017-04-23T08:39:12'
+  type: CDX
+  extension: .cdx
+url: https://esia.gosuslugi.ru
+created: '2017-04-23'

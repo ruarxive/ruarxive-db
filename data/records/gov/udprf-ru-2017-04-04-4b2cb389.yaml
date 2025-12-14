@@ -1,0 +1,46 @@
+id: udprf-ru-2017-04-04-4b2cb389
+name: udprf.ru (2017-04-04)
+domain: udprf.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.udprf.ru-2017-04-04-4b2cb389-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.udprf.ru-2017-04-04-4b2cb389/www.udprf.ru-2017-04-04-4b2cb389-00000.warc.gz
+  size: 6657747444
+  modified: '2017-04-04T23:02:25'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.udprf.ru-2017-04-04-4b2cb389/wpull.db
+  size: 10553344
+  modified: '2017-04-04T23:26:31'
+  type: wpull database
+  extension: .db
+- name: www.udprf.ru-2017-04-04-4b2cb389-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.udprf.ru-2017-04-04-4b2cb389/www.udprf.ru-2017-04-04-4b2cb389-00001.warc.gz
+  size: 1773935826
+  modified: '2017-04-04T23:26:30'
+  type: WARC
+  extension: .warc.gz
+- name: www.udprf.ru-2017-04-04-4b2cb389.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.udprf.ru-2017-04-04-4b2cb389/www.udprf.ru-2017-04-04-4b2cb389.cdx
+  size: 7941960
+  modified: '2017-04-04T23:26:30'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.udprf.ru-2017-04-04-4b2cb389/dupes_db/data.mdb
+  size: 2097152
+  modified: '2017-04-04T23:26:30'
+  type: ''
+  extension: .mdb
+- name: www.udprf.ru-2017-04-04-4b2cb389-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.udprf.ru-2017-04-04-4b2cb389/www.udprf.ru-2017-04-04-4b2cb389-meta.warc.gz
+  size: 778318
+  modified: '2017-04-04T23:26:31'
+  type: WARC
+  extension: .warc.gz
+url: https://udprf.ru
+created: '2017-04-04'

@@ -1,0 +1,28 @@
+id: rosbank-ru
+name: rosbank.ru (2013-12-17)
+domain: rosbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.rosbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rosbank.ru/www.rosbank.ru.cdx.xz
+  size: 518740
+  modified: '2013-12-17T23:11:18'
+  type: CDX
+  extension: .xz
+- name: www.rosbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rosbank.ru/www.rosbank.ru.warc.xz
+  size: 194435644
+  modified: '2013-12-17T23:10:42'
+  type: WARC
+  extension: .xz
+- name: www.rosbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rosbank.ru/www.rosbank.ru.log.xz
+  size: 254668
+  modified: '2013-12-17T23:10:37'
+  type: wpull log
+  extension: .xz
+url: https://rosbank.ru
+created: '2013-12-17T23:10:42'

@@ -1,0 +1,16 @@
+id: old-minsvyaz-ru
+name: old.minsvyaz.ru.7z (2013-08-13)
+domain: old.minsvyaz.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.minsvyaz.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.minsvyaz.ru.7z
+  size: 3024998031
+  modified: '2013-08-13T13:56:14'
+  type: httrack archive
+  extension: .7z
+url: https://old.minsvyaz.ru.7z
+created: '2013-08-13T13:56:14'

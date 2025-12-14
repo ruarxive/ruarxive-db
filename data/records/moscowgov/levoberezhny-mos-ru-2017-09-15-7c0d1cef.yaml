@@ -1,0 +1,40 @@
+id: levoberezhny-mos-ru-2017-09-15-7c0d1cef
+name: levoberezhny.mos.ru (2017-09-15)
+domain: levoberezhny.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/levoberezhny.mos.ru-2017-09-15-7c0d1cef/dupes_db/data.mdb
+  size: 4608000
+  modified: '2017-09-17T16:06:23'
+  type: ''
+  extension: .mdb
+- name: levoberezhny.mos.ru-2017-09-15-7c0d1cef-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/levoberezhny.mos.ru-2017-09-15-7c0d1cef/levoberezhny.mos.ru-2017-09-15-7c0d1cef-00000.warc.gz
+  size: 3260431887
+  modified: '2017-09-17T16:06:23'
+  type: WARC
+  extension: .warc.gz
+- name: levoberezhny.mos.ru-2017-09-15-7c0d1cef.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/levoberezhny.mos.ru-2017-09-15-7c0d1cef/levoberezhny.mos.ru-2017-09-15-7c0d1cef.cdx
+  size: 9186872
+  modified: '2017-09-17T16:06:23'
+  type: CDX
+  extension: .cdx
+- name: levoberezhny.mos.ru-2017-09-15-7c0d1cef-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/levoberezhny.mos.ru-2017-09-15-7c0d1cef/levoberezhny.mos.ru-2017-09-15-7c0d1cef-meta.warc.gz
+  size: 1269797
+  modified: '2017-09-17T16:06:27'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/levoberezhny.mos.ru-2017-09-15-7c0d1cef/wpull.db
+  size: 10683392
+  modified: '2017-09-17T16:06:23'
+  type: wpull database
+  extension: .db
+url: https://levoberezhny.mos.ru
+created: '2017-09-15'

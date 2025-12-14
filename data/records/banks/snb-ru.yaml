@@ -1,0 +1,40 @@
+id: snb-ru
+name: snb.ru (2013-12-18)
+domain: snb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.snb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.snb.ru/www.snb.ru.log.xz
+  size: 52940
+  modified: '2014-05-10T20:45:51'
+  type: wpull log
+  extension: .xz
+- name: www.snb.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.snb.ru/www.snb.ru.warc
+  size: 193423776
+  modified: '2013-12-18T15:29:17'
+  type: WARC
+  extension: .warc
+- name: www.snb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.snb.ru/www.snb.ru.7z
+  size: 170065300
+  modified: '2014-08-20T13:02:18'
+  type: ''
+  extension: .7z
+- name: www.snb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.snb.ru/www.snb.ru.warc.xz
+  size: 168528540
+  modified: '2014-05-10T20:45:51'
+  type: WARC
+  extension: .xz
+- name: www.snb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.snb.ru/www.snb.ru.cdx.xz
+  size: 62608
+  modified: '2014-05-10T20:45:51'
+  type: CDX
+  extension: .xz
+url: https://snb.ru
+created: '2013-12-18T15:29:17'

@@ -1,0 +1,28 @@
+id: samara-ffms-ru
+name: samara.ffms.ru (2013-09-23)
+domain: samara.ffms.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.samara.ffms.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.samara.ffms.ru/www.samara.ffms.ru.log.xz
+  size: 18120
+  modified: '2013-09-23T00:04:36'
+  type: wpull log
+  extension: .xz
+- name: www.samara.ffms.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.samara.ffms.ru/www.samara.ffms.ru.warc.xz
+  size: 8559536
+  modified: '2013-09-23T00:04:32'
+  type: WARC
+  extension: .xz
+- name: www.samara.ffms.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.samara.ffms.ru/www.samara.ffms.ru.cdx.xz
+  size: 15044
+  modified: '2013-09-23T00:04:31'
+  type: CDX
+  extension: .xz
+url: https://samara.ffms.ru
+created: '2013-09-23T00:04:32'

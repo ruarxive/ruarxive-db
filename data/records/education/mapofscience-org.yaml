@@ -1,0 +1,28 @@
+id: mapofscience-org
+name: mapofscience.org (2013-12-10)
+domain: mapofscience.org
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: mapofscience.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/education/mapofscience.org/mapofscience.org.cdx.xz
+  size: 4474056
+  modified: '2013-12-10T07:58:39'
+  type: CDX
+  extension: .xz
+- name: mapofscience.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/education/mapofscience.org/mapofscience.org.warc.xz
+  size: 44940076
+  modified: '2013-12-10T07:59:34'
+  type: WARC
+  extension: .xz
+- name: mapofscience.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/education/mapofscience.org/mapofscience.org.log.xz
+  size: 2357176
+  modified: '2013-12-10T07:59:07'
+  type: wpull log
+  extension: .xz
+url: https://mapofscience.org
+created: '2013-12-10T07:59:34'

@@ -1,0 +1,27 @@
+id: syg-ma
+name: Syg.ma
+domain: syg.ma
+created: '2022-03-29T16:16:48.000Z'
+date: '2022-03-28T16:43:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Высокая вероятность блокировки в России и иных мер после предупреждения Роскомнадзора
+  в начале марта 2022 года
+reason_id: high-blocking-risk-1
+strategy: стандартная веб архивация
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_garage
+  name: Искусство и культура
+  slug: artculturemedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: высокий
+resources:
+- type: storage
+  name: syg.ma
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/syg.ma/

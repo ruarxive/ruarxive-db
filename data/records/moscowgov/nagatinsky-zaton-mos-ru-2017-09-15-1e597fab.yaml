@@ -1,0 +1,40 @@
+id: nagatinsky-zaton-mos-ru-2017-09-15-1e597fab
+name: nagatinsky-zaton.mos.ru (2017-09-15)
+domain: nagatinsky-zaton.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagatinsky-zaton.mos.ru-2017-09-15-1e597fab/wpull.db
+  size: 11719680
+  modified: '2017-09-17T05:06:31'
+  type: wpull database
+  extension: .db
+- name: nagatinsky-zaton.mos.ru-2017-09-15-1e597fab-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagatinsky-zaton.mos.ru-2017-09-15-1e597fab/nagatinsky-zaton.mos.ru-2017-09-15-1e597fab-00000.warc.gz
+  size: 2332081862
+  modified: '2017-09-17T05:06:31'
+  type: WARC
+  extension: .warc.gz
+- name: nagatinsky-zaton.mos.ru-2017-09-15-1e597fab-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagatinsky-zaton.mos.ru-2017-09-15-1e597fab/nagatinsky-zaton.mos.ru-2017-09-15-1e597fab-meta.warc.gz
+  size: 1247341
+  modified: '2017-09-17T05:06:44'
+  type: WARC
+  extension: .warc.gz
+- name: nagatinsky-zaton.mos.ru-2017-09-15-1e597fab.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagatinsky-zaton.mos.ru-2017-09-15-1e597fab/nagatinsky-zaton.mos.ru-2017-09-15-1e597fab.cdx
+  size: 8962458
+  modified: '2017-09-17T05:06:31'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagatinsky-zaton.mos.ru-2017-09-15-1e597fab/dupes_db/data.mdb
+  size: 5378048
+  modified: '2017-09-17T05:06:31'
+  type: ''
+  extension: .mdb
+url: https://nagatinsky-zaton.mos.ru
+created: '2017-09-15'

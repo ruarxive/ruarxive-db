@@ -1,0 +1,34 @@
+id: prb-ru
+name: prb.ru (2014-05-15)
+domain: prb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.prb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.prb.ru/www.prb.ru.cdx.xz
+  size: 3016
+  modified: '2014-05-15T16:20:27'
+  type: CDX
+  extension: .xz
+- name: www.prb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.prb.ru/www.prb.ru.warc.xz
+  size: 782444
+  modified: '2014-05-15T16:20:27'
+  type: WARC
+  extension: .xz
+- name: www.prb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.prb.ru/www.prb.ru.7z
+  size: 771004
+  modified: '2014-08-19T07:23:13'
+  type: ''
+  extension: .7z
+- name: www.prb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.prb.ru/www.prb.ru.log.xz
+  size: 2480
+  modified: '2014-05-15T16:20:27'
+  type: wpull log
+  extension: .xz
+url: https://prb.ru
+created: '2014-05-15T16:20:27'

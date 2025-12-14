@@ -1,0 +1,28 @@
+id: schools-mn-ru
+name: schools.mn.ru (2013-12-11)
+domain: schools.mn.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: schools.mn.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/schools.mn.ru/schools.mn.ru.cdx.xz
+  size: 1040960
+  modified: '2013-12-11T04:27:15'
+  type: CDX
+  extension: .xz
+- name: schools.mn.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/schools.mn.ru/schools.mn.ru.warc.xz
+  size: 7615656
+  modified: '2013-12-11T04:26:37'
+  type: WARC
+  extension: .xz
+- name: schools.mn.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/schools.mn.ru/schools.mn.ru.log.xz
+  size: 468472
+  modified: '2013-12-11T04:26:26'
+  type: wpull log
+  extension: .xz
+url: https://schools.mn.ru
+created: '2013-12-11T04:26:37'

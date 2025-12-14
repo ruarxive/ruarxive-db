@@ -1,0 +1,46 @@
+id: skalabuhin-narod-ru-2017-08-08-d49413ba
+name: skalabuhin.narod.ru (2017-08-08)
+domain: skalabuhin.narod.ru
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: skalabuhin.narod.ru-2017-08-08-d49413ba-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/skalabuhin.narod.ru-2017-08-08-d49413ba/skalabuhin.narod.ru-2017-08-08-d49413ba-00001.warc.gz
+  size: 505213311
+  modified: '2017-08-08T14:15:05'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/skalabuhin.narod.ru-2017-08-08-d49413ba/dupes_db/data.mdb
+  size: 491520
+  modified: '2017-08-08T14:15:05'
+  type: ''
+  extension: .mdb
+- name: skalabuhin.narod.ru-2017-08-08-d49413ba-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/skalabuhin.narod.ru-2017-08-08-d49413ba/skalabuhin.narod.ru-2017-08-08-d49413ba-00000.warc.gz
+  size: 5371551705
+  modified: '2017-08-08T13:49:46'
+  type: WARC
+  extension: .warc.gz
+- name: skalabuhin.narod.ru-2017-08-08-d49413ba-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/skalabuhin.narod.ru-2017-08-08-d49413ba/skalabuhin.narod.ru-2017-08-08-d49413ba-meta.warc.gz
+  size: 382919
+  modified: '2017-08-08T14:15:06'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/skalabuhin.narod.ru-2017-08-08-d49413ba/wpull.db
+  size: 3435520
+  modified: '2017-08-08T14:15:05'
+  type: wpull database
+  extension: .db
+- name: skalabuhin.narod.ru-2017-08-08-d49413ba.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/skalabuhin.narod.ru-2017-08-08-d49413ba/skalabuhin.narod.ru-2017-08-08-d49413ba.cdx
+  size: 1902632
+  modified: '2017-08-08T14:15:05'
+  type: CDX
+  extension: .cdx
+url: https://skalabuhin.narod.ru
+created: '2017-08-08'

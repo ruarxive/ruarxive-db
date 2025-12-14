@@ -1,0 +1,34 @@
+id: rosim-ru
+name: rosim.ru (2016-06-20)
+domain: rosim.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: rosim.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/rosim.ru/rosim.ru.warc.gz
+  size: 6790611623
+  modified: '2016-06-20T09:54:41'
+  type: WARC
+  extension: .warc.gz
+- name: rosim.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/rosim.ru/rosim.ru.cdx
+  size: 8498800
+  modified: '2016-06-20T09:54:40'
+  type: CDX
+  extension: .cdx
+- name: rosim.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/rosim.ru/rosim.ru.log
+  size: 26331560
+  modified: '2016-06-20T09:56:51'
+  type: ''
+  extension: .log
+- name: rosim.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/rosim.ru/rosim.ru.7z
+  size: 4285835590
+  modified: '2016-08-20T23:48:56'
+  type: ''
+  extension: .7z
+url: https://rosim.ru
+created: '2016-06-20T09:54:41'

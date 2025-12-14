@@ -1,0 +1,40 @@
+id: grants-extech-ru-2017-04-14-29d5b7b4
+name: grants.extech.ru (2017-04-14)
+domain: grants.extech.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/grants.extech.ru-2017-04-14-29d5b7b4/dupes_db/data.mdb
+  size: 122880
+  modified: '2017-04-14T08:07:39'
+  type: ''
+  extension: .mdb
+- name: grants.extech.ru-2017-04-14-29d5b7b4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/grants.extech.ru-2017-04-14-29d5b7b4/grants.extech.ru-2017-04-14-29d5b7b4.cdx
+  size: 158040
+  modified: '2017-04-14T08:07:39'
+  type: CDX
+  extension: .cdx
+- name: grants.extech.ru-2017-04-14-29d5b7b4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/grants.extech.ru-2017-04-14-29d5b7b4/grants.extech.ru-2017-04-14-29d5b7b4-00000.warc.gz
+  size: 34990173
+  modified: '2017-04-14T08:07:39'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/grants.extech.ru-2017-04-14-29d5b7b4/wpull.db
+  size: 158720
+  modified: '2017-04-14T08:07:39'
+  type: wpull database
+  extension: .db
+- name: grants.extech.ru-2017-04-14-29d5b7b4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/grants.extech.ru-2017-04-14-29d5b7b4/grants.extech.ru-2017-04-14-29d5b7b4-meta.warc.gz
+  size: 18363
+  modified: '2017-04-14T08:07:39'
+  type: WARC
+  extension: .warc.gz
+url: https://grants.extech.ru
+created: '2017-04-14'

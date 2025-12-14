@@ -1,0 +1,28 @@
+id: sbank-ru
+name: sbank.ru (2013-12-19)
+domain: sbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.sbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sbank.ru/www.sbank.ru.log.xz
+  size: 136416
+  modified: '2013-12-19T12:36:56'
+  type: wpull log
+  extension: .xz
+- name: www.sbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sbank.ru/www.sbank.ru.warc.xz
+  size: 382020464
+  modified: '2013-12-19T12:35:54'
+  type: WARC
+  extension: .xz
+- name: www.sbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sbank.ru/www.sbank.ru.cdx.xz
+  size: 192524
+  modified: '2013-12-19T12:36:59'
+  type: CDX
+  extension: .xz
+url: https://sbank.ru
+created: '2013-12-19T12:35:54'

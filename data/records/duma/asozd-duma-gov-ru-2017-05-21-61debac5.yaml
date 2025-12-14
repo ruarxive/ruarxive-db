@@ -1,0 +1,45 @@
+id: asozd-duma-gov-ru-2017-05-21-61debac5
+name: asozd.duma.gov.ru (2017-05-21)
+domain: asozd.duma.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: www.asozd.duma.gov.ru-2017-05-21-61debac5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.asozd.duma.gov.ru-2017-05-21-61debac5/www.asozd.duma.gov.ru-2017-05-21-61debac5-00000.warc.gz
+  size: 847582074
+  modified: '2017-05-26T15:42:51'
+  type: WARC
+  extension: .warc.gz
+- name: www.asozd.duma.gov.ru-2017-05-21-61debac5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.asozd.duma.gov.ru-2017-05-21-61debac5/www.asozd.duma.gov.ru-2017-05-21-61debac5.cdx
+  size: 5790068
+  modified: '2017-05-26T15:32:45'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.asozd.duma.gov.ru-2017-05-21-61debac5/dupes_db/data.mdb
+  size: 2904064
+  modified: '2017-05-26T15:43:04'
+  type: ''
+  extension: .mdb
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.asozd.duma.gov.ru-2017-05-21-61debac5/stop
+  size: 0
+  modified: '2017-05-26T15:32:44'
+  type: ''
+- name: www.asozd.duma.gov.ru-2017-05-21-61debac5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.asozd.duma.gov.ru-2017-05-21-61debac5/www.asozd.duma.gov.ru-2017-05-21-61debac5-meta.warc.gz
+  size: 754753
+  modified: '2017-05-26T15:32:43'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.asozd.duma.gov.ru-2017-05-21-61debac5/wpull.db
+  size: 28484608
+  modified: '2017-05-26T15:32:45'
+  type: wpull database
+  extension: .db
+url: https://asozd.duma.gov.ru
+created: '2017-05-21'

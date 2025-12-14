@@ -1,0 +1,40 @@
+id: fferisman-ru-2017-05-14-0ce2623e
+name: fferisman.ru (2017-05-14)
+domain: fferisman.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fferisman.ru-2017-05-14-0ce2623e/wpull.db
+  size: 382976
+  modified: '2017-05-14T14:18:06'
+  type: wpull database
+  extension: .db
+- name: www.fferisman.ru-2017-05-14-0ce2623e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fferisman.ru-2017-05-14-0ce2623e/www.fferisman.ru-2017-05-14-0ce2623e-meta.warc.gz
+  size: 41036
+  modified: '2017-05-14T14:18:06'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fferisman.ru-2017-05-14-0ce2623e/dupes_db/data.mdb
+  size: 180224
+  modified: '2017-05-14T14:18:04'
+  type: ''
+  extension: .mdb
+- name: www.fferisman.ru-2017-05-14-0ce2623e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fferisman.ru-2017-05-14-0ce2623e/www.fferisman.ru-2017-05-14-0ce2623e-00000.warc.gz
+  size: 74103308
+  modified: '2017-05-14T14:18:04'
+  type: WARC
+  extension: .warc.gz
+- name: www.fferisman.ru-2017-05-14-0ce2623e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fferisman.ru-2017-05-14-0ce2623e/www.fferisman.ru-2017-05-14-0ce2623e.cdx
+  size: 321257
+  modified: '2017-05-14T14:18:04'
+  type: CDX
+  extension: .cdx
+url: https://fferisman.ru
+created: '2017-05-14'

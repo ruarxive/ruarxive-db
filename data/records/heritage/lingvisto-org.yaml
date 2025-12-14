@@ -1,0 +1,28 @@
+id: lingvisto-org
+name: lingvisto.org (2013-12-17)
+domain: lingvisto.org
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: www.lingvisto.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.lingvisto.org/www.lingvisto.org.warc.xz
+  size: 3113908
+  modified: '2013-12-17T13:28:06'
+  type: WARC
+  extension: .xz
+- name: www.lingvisto.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.lingvisto.org/www.lingvisto.org.cdx.xz
+  size: 55328
+  modified: '2013-12-17T13:28:07'
+  type: CDX
+  extension: .xz
+- name: www.lingvisto.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.lingvisto.org/www.lingvisto.org.log.xz
+  size: 29480
+  modified: '2013-12-17T13:28:08'
+  type: wpull log
+  extension: .xz
+url: https://lingvisto.org
+created: '2013-12-17T13:28:06'

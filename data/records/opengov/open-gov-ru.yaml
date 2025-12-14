@@ -1,0 +1,64 @@
+id: open-gov-ru
+name: open.gov.ru (2015-09-25)
+domain: open.gov.ru
+collection:
+  id: opengov
+  slug: opengov
+  name: Открытое правительство РФ
+resources:
+- name: open.gov.ru.tar.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/open.gov.ru.tar.xz
+  size: 2697045600
+  modified: '2015-12-07T14:44:36'
+  type: ''
+  extension: .xz
+- name: open.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/open.gov.ru.log.xz
+  size: 2485008
+  modified: '2015-09-25T16:50:11'
+  type: wpull log
+  extension: .xz
+- name: goszakupki.open.gov.ru.tar.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/goszakupki.open.gov.ru.tar.xz
+  size: 52369520
+  modified: '2015-12-07T14:27:09'
+  type: ''
+  extension: .xz
+- name: open.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/open.gov.ru.cdx.xz
+  size: 4405432
+  modified: '2015-09-25T16:50:09'
+  type: CDX
+  extension: .xz
+- name: open.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/open.gov.ru.warc.xz
+  size: 3507182960
+  modified: '2015-09-25T16:50:11'
+  type: WARC
+  extension: .xz
+- name: budget.open.gov.ru.tar.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/budget.open.gov.ru.tar.xz
+  size: 187465856
+  modified: '2015-12-07T14:25:37'
+  type: ''
+  extension: .xz
+- name: gosinvest.open.gov.ru.tar.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/gosinvest.open.gov.ru.tar.xz
+  size: 464837644
+  modified: '2015-12-07T14:26:38'
+  type: ''
+  extension: .xz
+- name: www.open.gov.ru.tar.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/www.open.gov.ru.tar.xz
+  size: 760596
+  modified: '2015-12-07T14:49:28'
+  type: ''
+  extension: .xz
+- name: opendata.open.gov.ru.tar.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/open.gov.ru/opendata.open.gov.ru.tar.xz
+  size: 122319876
+  modified: '2015-12-07T14:49:19'
+  type: ''
+  extension: .xz
+url: https://open.gov.ru
+created: '2015-09-25T16:50:11'

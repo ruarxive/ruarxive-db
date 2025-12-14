@@ -1,0 +1,40 @@
+id: xn--90aga7a7b-xn--b1aew-xn--p1ai-2017-07-04-184ed6f4
+name: xn--90aga7a7b.xn--b1aew.xn--p1ai (2017-07-04)
+domain: xn--90aga7a7b.xn--b1aew.xn--p1ai
+collection:
+  id: mvd
+  slug: mvd
+  name: МВД
+resources:
+- name: xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4/xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4-00000.warc.gz
+  size: 2606531544
+  modified: '2017-07-04T18:50:05'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4/wpull.db
+  size: 2180096
+  modified: '2017-07-04T18:50:05'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4/dupes_db/data.mdb
+  size: 634880
+  modified: '2017-07-04T18:50:05'
+  type: ''
+  extension: .mdb
+- name: xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4/xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4-meta.warc.gz
+  size: 156267
+  modified: '2017-07-04T18:50:06'
+  type: WARC
+  extension: .warc.gz
+- name: xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4/xn--90aga7a7b.xn--b1aew.xn--p1ai-2017-07-04-184ed6f4.cdx
+  size: 1317060
+  modified: '2017-07-04T18:50:05'
+  type: CDX
+  extension: .cdx
+url: https://xn--90aga7a7b.xn--b1aew.xn--p1ai
+created: '2017-07-04'

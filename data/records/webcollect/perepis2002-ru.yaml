@@ -1,0 +1,16 @@
+id: perepis2002-ru
+name: perepis2002.ru.7z (2013-08-17)
+domain: perepis2002.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: perepis2002.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/perepis2002.ru.7z
+  size: 122670148
+  modified: '2013-08-17T13:53:17'
+  type: httrack archive
+  extension: .7z
+url: https://perepis2002.ru.7z
+created: '2013-08-17T13:53:17'

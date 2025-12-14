@@ -1,0 +1,28 @@
+id: 9may-ru
+name: 9may.ru (2013-12-10)
+domain: 9may.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: www.9may.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.9may.ru/www.9may.ru.cdx.xz
+  size: 573488
+  modified: '2013-12-10T16:52:56'
+  type: CDX
+  extension: .xz
+- name: www.9may.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.9may.ru/www.9may.ru.log.xz
+  size: 334588
+  modified: '2013-12-10T16:53:33'
+  type: wpull log
+  extension: .xz
+- name: www.9may.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.9may.ru/www.9may.ru.warc.xz
+  size: 90547800
+  modified: '2013-12-10T16:52:59'
+  type: WARC
+  extension: .xz
+url: https://9may.ru
+created: '2013-12-10T16:52:59'

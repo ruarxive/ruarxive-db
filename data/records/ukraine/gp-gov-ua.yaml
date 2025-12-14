@@ -1,0 +1,28 @@
+id: gp-gov-ua
+name: gp.gov.ua (2014-02-21)
+domain: gp.gov.ua
+collection:
+  id: ukraine
+  slug: ukraine
+  name: Украина
+resources:
+- name: www.gp.gov.ua.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ukraine/www.gp.gov.ua/www.gp.gov.ua.warc.xz
+  size: 1076945936
+  modified: '2014-02-21T16:23:30'
+  type: WARC
+  extension: .xz
+- name: www.gp.gov.ua.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ukraine/www.gp.gov.ua/www.gp.gov.ua.log.xz
+  size: 1055860
+  modified: '2014-02-21T16:23:30'
+  type: wpull log
+  extension: .xz
+- name: www.gp.gov.ua.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ukraine/www.gp.gov.ua/www.gp.gov.ua.cdx.xz
+  size: 2083356
+  modified: '2014-02-21T16:23:29'
+  type: CDX
+  extension: .xz
+url: https://gp.gov.ua
+created: '2014-02-21T16:23:30'

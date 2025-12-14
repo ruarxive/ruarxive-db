@@ -1,0 +1,40 @@
+id: prokuratura39-ru-2017-04-03-0f5f5bff
+name: prokuratura39.ru (2017-04-03)
+domain: prokuratura39.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.prokuratura39.ru-2017-04-03-0f5f5bff.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura39.ru-2017-04-03-0f5f5bff/www.prokuratura39.ru-2017-04-03-0f5f5bff.cdx
+  size: 36290
+  modified: '2017-04-03T18:18:38'
+  type: CDX
+  extension: .cdx
+- name: www.prokuratura39.ru-2017-04-03-0f5f5bff-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura39.ru-2017-04-03-0f5f5bff/www.prokuratura39.ru-2017-04-03-0f5f5bff-00000.warc.gz
+  size: 3318555
+  modified: '2017-04-03T18:18:38'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura39.ru-2017-04-03-0f5f5bff/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-04-03T18:18:37'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura39.ru-2017-04-03-0f5f5bff/wpull.db
+  size: 53248
+  modified: '2017-04-03T18:18:38'
+  type: wpull database
+  extension: .db
+- name: www.prokuratura39.ru-2017-04-03-0f5f5bff-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura39.ru-2017-04-03-0f5f5bff/www.prokuratura39.ru-2017-04-03-0f5f5bff-meta.warc.gz
+  size: 8458
+  modified: '2017-04-03T18:18:38'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuratura39.ru
+created: '2017-04-03'

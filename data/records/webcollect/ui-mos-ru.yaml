@@ -1,0 +1,16 @@
+id: ui-mos-ru
+name: ui.mos.ru.7z (2012-10-22)
+domain: ui.mos.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: ui.mos.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/ui.mos.ru.7z
+  size: 34458124
+  modified: '2012-10-22T10:09:04'
+  type: httrack archive
+  extension: .7z
+url: https://ui.mos.ru.7z
+created: '2012-10-22T10:09:04'

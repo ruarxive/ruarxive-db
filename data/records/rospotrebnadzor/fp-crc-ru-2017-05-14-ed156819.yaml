@@ -1,0 +1,40 @@
+id: fp-crc-ru-2017-05-14-ed156819
+name: fp.crc.ru (2017-05-14)
+domain: fp.crc.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: fp.crc.ru-2017-05-14-ed156819-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fp.crc.ru-2017-05-14-ed156819/fp.crc.ru-2017-05-14-ed156819-00000.warc.gz
+  size: 94625964
+  modified: '2017-05-14T22:28:45'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fp.crc.ru-2017-05-14-ed156819/wpull.db
+  size: 2846720
+  modified: '2017-05-14T22:28:45'
+  type: wpull database
+  extension: .db
+- name: fp.crc.ru-2017-05-14-ed156819-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fp.crc.ru-2017-05-14-ed156819/fp.crc.ru-2017-05-14-ed156819-meta.warc.gz
+  size: 277284
+  modified: '2017-05-14T22:28:45'
+  type: WARC
+  extension: .warc.gz
+- name: fp.crc.ru-2017-05-14-ed156819.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fp.crc.ru-2017-05-14-ed156819/fp.crc.ru-2017-05-14-ed156819.cdx
+  size: 2608625
+  modified: '2017-05-14T22:28:45'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fp.crc.ru-2017-05-14-ed156819/dupes_db/data.mdb
+  size: 1630208
+  modified: '2017-05-14T22:28:45'
+  type: ''
+  extension: .mdb
+url: https://fp.crc.ru
+created: '2017-05-14'

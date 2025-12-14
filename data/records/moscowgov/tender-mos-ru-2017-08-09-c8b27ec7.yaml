@@ -1,0 +1,76 @@
+id: tender-mos-ru-2017-08-09-c8b27ec7
+name: tender.mos.ru (2017-08-09)
+domain: tender.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/wpull.db
+  size: 41381888
+  modified: '2017-08-14T18:35:56'
+  type: wpull database
+  extension: .db
+- name: tender.mos.ru-2017-08-09-c8b27ec7-00005.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7-00005.warc.gz
+  size: 5368733505
+  modified: '2017-08-14T16:44:44'
+  type: WARC
+  extension: .warc.gz
+- name: tender.mos.ru-2017-08-09-c8b27ec7-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7-00001.warc.gz
+  size: 5368765441
+  modified: '2017-08-10T13:33:55'
+  type: WARC
+  extension: .warc.gz
+- name: tender.mos.ru-2017-08-09-c8b27ec7-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7-00004.warc.gz
+  size: 5368860342
+  modified: '2017-08-14T02:53:43'
+  type: WARC
+  extension: .warc.gz
+- name: tender.mos.ru-2017-08-09-c8b27ec7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7-00000.warc.gz
+  size: 6320526579
+  modified: '2017-08-10T00:50:52'
+  type: WARC
+  extension: .warc.gz
+- name: tender.mos.ru-2017-08-09-c8b27ec7-00006.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7-00006.warc.gz
+  size: 5304766565
+  modified: '2017-08-14T18:35:56'
+  type: WARC
+  extension: .warc.gz
+- name: tender.mos.ru-2017-08-09-c8b27ec7-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7-00002.warc.gz
+  size: 6703891209
+  modified: '2017-08-12T08:58:49'
+  type: WARC
+  extension: .warc.gz
+- name: tender.mos.ru-2017-08-09-c8b27ec7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7.cdx
+  size: 23725698
+  modified: '2017-08-14T18:35:56'
+  type: CDX
+  extension: .cdx
+- name: tender.mos.ru-2017-08-09-c8b27ec7-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7-00003.warc.gz
+  size: 5378613657
+  modified: '2017-08-12T23:36:25'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/dupes_db/data.mdb
+  size: 14295040
+  modified: '2017-08-14T18:35:53'
+  type: ''
+  extension: .mdb
+- name: tender.mos.ru-2017-08-09-c8b27ec7-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/tender.mos.ru-2017-08-09-c8b27ec7/tender.mos.ru-2017-08-09-c8b27ec7-meta.warc.gz
+  size: 2883207
+  modified: '2017-08-14T18:35:59'
+  type: WARC
+  extension: .warc.gz
+url: https://tender.mos.ru
+created: '2017-08-09'

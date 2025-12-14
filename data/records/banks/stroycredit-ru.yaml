@@ -1,0 +1,34 @@
+id: stroycredit-ru
+name: stroycredit.ru (2014-05-08)
+domain: stroycredit.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.stroycredit.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.stroycredit.ru/www.stroycredit.ru.7z
+  size: 9519
+  modified: '2014-08-20T01:06:52'
+  type: ''
+  extension: .7z
+- name: www.stroycredit.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.stroycredit.ru/www.stroycredit.ru.cdx.xz
+  size: 872
+  modified: '2014-05-08T18:37:53'
+  type: CDX
+  extension: .xz
+- name: www.stroycredit.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.stroycredit.ru/www.stroycredit.ru.warc.xz
+  size: 12864
+  modified: '2014-05-08T18:37:53'
+  type: WARC
+  extension: .xz
+- name: www.stroycredit.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.stroycredit.ru/www.stroycredit.ru.log.xz
+  size: 852
+  modified: '2014-05-08T18:37:53'
+  type: wpull log
+  extension: .xz
+url: https://stroycredit.ru
+created: '2014-05-08T18:37:53'

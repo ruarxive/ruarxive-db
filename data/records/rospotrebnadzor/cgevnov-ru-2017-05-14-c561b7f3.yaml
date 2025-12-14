@@ -1,0 +1,40 @@
+id: cgevnov-ru-2017-05-14-c561b7f3
+name: cgevnov.ru (2017-05-14)
+domain: cgevnov.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgevnov.ru-2017-05-14-c561b7f3/dupes_db/data.mdb
+  size: 114688
+  modified: '2017-05-14T16:23:52'
+  type: ''
+  extension: .mdb
+- name: www.cgevnov.ru-2017-05-14-c561b7f3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgevnov.ru-2017-05-14-c561b7f3/www.cgevnov.ru-2017-05-14-c561b7f3-00000.warc.gz
+  size: 29333961
+  modified: '2017-05-14T16:23:52'
+  type: WARC
+  extension: .warc.gz
+- name: www.cgevnov.ru-2017-05-14-c561b7f3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgevnov.ru-2017-05-14-c561b7f3/www.cgevnov.ru-2017-05-14-c561b7f3-meta.warc.gz
+  size: 21552
+  modified: '2017-05-14T16:23:53'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgevnov.ru-2017-05-14-c561b7f3/wpull.db
+  size: 146432
+  modified: '2017-05-14T16:23:52'
+  type: wpull database
+  extension: .db
+- name: www.cgevnov.ru-2017-05-14-c561b7f3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cgevnov.ru-2017-05-14-c561b7f3/www.cgevnov.ru-2017-05-14-c561b7f3.cdx
+  size: 126128
+  modified: '2017-05-14T16:23:52'
+  type: CDX
+  extension: .cdx
+url: https://cgevnov.ru
+created: '2017-05-14'

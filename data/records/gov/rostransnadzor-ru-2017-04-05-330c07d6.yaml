@@ -1,0 +1,46 @@
+id: rostransnadzor-ru-2017-04-05-330c07d6
+name: rostransnadzor.ru (2017-04-05)
+domain: rostransnadzor.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: rostransnadzor.ru-2017-04-05-330c07d6-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rostransnadzor.ru-2017-04-05-330c07d6/rostransnadzor.ru-2017-04-05-330c07d6-00001.warc.gz
+  size: 2245
+  modified: '2017-04-05T16:12:13'
+  type: WARC
+  extension: .warc.gz
+- name: rostransnadzor.ru-2017-04-05-330c07d6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rostransnadzor.ru-2017-04-05-330c07d6/rostransnadzor.ru-2017-04-05-330c07d6-00000.warc.gz
+  size: 5528546749
+  modified: '2017-04-05T16:12:13'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rostransnadzor.ru-2017-04-05-330c07d6/dupes_db/data.mdb
+  size: 2691072
+  modified: '2017-04-05T16:10:27'
+  type: ''
+  extension: .mdb
+- name: rostransnadzor.ru-2017-04-05-330c07d6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rostransnadzor.ru-2017-04-05-330c07d6/rostransnadzor.ru-2017-04-05-330c07d6.cdx
+  size: 8160349
+  modified: '2017-04-05T16:12:13'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rostransnadzor.ru-2017-04-05-330c07d6/wpull.db
+  size: 7414784
+  modified: '2017-04-05T16:12:15'
+  type: wpull database
+  extension: .db
+- name: rostransnadzor.ru-2017-04-05-330c07d6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rostransnadzor.ru-2017-04-05-330c07d6/rostransnadzor.ru-2017-04-05-330c07d6-meta.warc.gz
+  size: 687268
+  modified: '2017-04-05T16:12:15'
+  type: WARC
+  extension: .warc.gz
+url: https://rostransnadzor.ru
+created: '2017-04-05'

@@ -1,0 +1,40 @@
+id: ruraldevelopment-ru-2017-05-07-819a5fe6
+name: ruraldevelopment.ru (2017-05-07)
+domain: ruraldevelopment.ru
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/ruraldevelopment.ru-2017-05-07-819a5fe6/dupes_db/data.mdb
+  size: 81920
+  modified: '2017-05-07T10:17:10'
+  type: ''
+  extension: .mdb
+- name: ruraldevelopment.ru-2017-05-07-819a5fe6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/ruraldevelopment.ru-2017-05-07-819a5fe6/ruraldevelopment.ru-2017-05-07-819a5fe6.cdx
+  size: 94472
+  modified: '2017-05-07T10:17:11'
+  type: CDX
+  extension: .cdx
+- name: ruraldevelopment.ru-2017-05-07-819a5fe6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/ruraldevelopment.ru-2017-05-07-819a5fe6/ruraldevelopment.ru-2017-05-07-819a5fe6-00000.warc.gz
+  size: 190013059
+  modified: '2017-05-07T10:17:11'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/ruraldevelopment.ru-2017-05-07-819a5fe6/wpull.db
+  size: 105472
+  modified: '2017-05-07T10:17:11'
+  type: wpull database
+  extension: .db
+- name: ruraldevelopment.ru-2017-05-07-819a5fe6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/ruraldevelopment.ru-2017-05-07-819a5fe6/ruraldevelopment.ru-2017-05-07-819a5fe6-meta.warc.gz
+  size: 16844
+  modified: '2017-05-07T10:17:11'
+  type: WARC
+  extension: .warc.gz
+url: https://ruraldevelopment.ru
+created: '2017-05-07'

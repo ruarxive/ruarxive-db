@@ -1,0 +1,40 @@
+id: kaliningrad-arbitr-ru
+name: kaliningrad.arbitr.ru (2014-08-04)
+domain: kaliningrad.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: m.kaliningrad.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kaliningrad.arbitr.ru/m.kaliningrad.arbitr.ru.7z
+  size: 6587719
+  modified: '2014-08-19T09:46:41'
+  type: ''
+  extension: .7z
+- name: kaliningrad.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kaliningrad.arbitr.ru/kaliningrad.arbitr.ru.cdx.xz
+  size: 3785328
+  modified: '2014-08-04T07:59:44'
+  type: CDX
+  extension: .xz
+- name: kaliningrad.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kaliningrad.arbitr.ru/kaliningrad.arbitr.ru.7z
+  size: 41494052
+  modified: '2014-08-19T09:41:04'
+  type: ''
+  extension: .7z
+- name: kaliningrad.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kaliningrad.arbitr.ru/kaliningrad.arbitr.ru.warc.xz
+  size: 92163496
+  modified: '2014-08-04T07:59:45'
+  type: WARC
+  extension: .xz
+- name: kaliningrad.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kaliningrad.arbitr.ru/kaliningrad.arbitr.ru.log.xz
+  size: 1725224
+  modified: '2014-08-04T07:59:44'
+  type: wpull log
+  extension: .xz
+url: https://kaliningrad.arbitr.ru
+created: '2014-08-04T07:59:45'

@@ -1,0 +1,28 @@
+id: veterangp-ru
+name: veterangp.ru (2014-01-21)
+domain: veterangp.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: veterangp.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/veterangp.ru/veterangp.ru.cdx.xz
+  size: 34236
+  modified: '2014-01-21T19:52:04'
+  type: CDX
+  extension: .xz
+- name: veterangp.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/veterangp.ru/veterangp.ru.warc.xz
+  size: 3529792
+  modified: '2014-01-21T19:52:04'
+  type: WARC
+  extension: .xz
+- name: veterangp.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/veterangp.ru/veterangp.ru.log.xz
+  size: 17516
+  modified: '2014-01-21T19:52:06'
+  type: wpull log
+  extension: .xz
+url: https://veterangp.ru
+created: '2014-01-21T19:52:04'

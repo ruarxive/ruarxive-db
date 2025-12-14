@@ -1,0 +1,28 @@
+id: mosproc-ru
+name: mosproc.ru (2014-01-22)
+domain: mosproc.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: www.mosproc.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.mosproc.ru/www.mosproc.ru.cdx.xz
+  size: 830596
+  modified: '2014-01-22T11:36:26'
+  type: CDX
+  extension: .xz
+- name: www.mosproc.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.mosproc.ru/www.mosproc.ru.warc.xz
+  size: 1794085072
+  modified: '2014-01-22T11:30:31'
+  type: WARC
+  extension: .xz
+- name: www.mosproc.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.mosproc.ru/www.mosproc.ru.log.xz
+  size: 547376
+  modified: '2014-01-22T11:36:28'
+  type: wpull log
+  extension: .xz
+url: https://mosproc.ru
+created: '2014-01-22T11:30:31'

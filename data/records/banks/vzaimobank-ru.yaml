@@ -1,0 +1,34 @@
+id: vzaimobank-ru
+name: vzaimobank.ru (2014-05-15)
+domain: vzaimobank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.vzaimobank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.vzaimobank.ru/www.vzaimobank.ru.7z
+  size: 40165985
+  modified: '2014-08-20T07:10:59'
+  type: ''
+  extension: .7z
+- name: www.vzaimobank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.vzaimobank.ru/www.vzaimobank.ru.cdx.xz
+  size: 67496
+  modified: '2014-05-15T16:43:26'
+  type: CDX
+  extension: .xz
+- name: www.vzaimobank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.vzaimobank.ru/www.vzaimobank.ru.log.xz
+  size: 43836
+  modified: '2014-05-15T16:43:26'
+  type: wpull log
+  extension: .xz
+- name: www.vzaimobank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.vzaimobank.ru/www.vzaimobank.ru.warc.xz
+  size: 40233304
+  modified: '2014-05-15T16:43:26'
+  type: WARC
+  extension: .xz
+url: https://vzaimobank.ru
+created: '2014-05-15T16:43:26'

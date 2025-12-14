@@ -1,0 +1,19 @@
+id: goszakaz
+slug: goszakaz
+name: Государственные закупки
+num_records: 2
+records:
+- id: adm-orel-ru
+  name: adm.orel.ru (2013-11-06)
+  url: https://adm.orel.ru
+  created: '2013-11-06T19:34:30'
+  domain: adm.orel.ru
+- id: reestrgk-roskazna-ru
+  name: reestrgk.roskazna.ru (2014-08-20)
+  url: https://reestrgk.roskazna.ru
+  created: '2014-08-20T11:51:58'
+  domain: reestrgk.roskazna.ru
+files:
+  total_count: 10
+  total_size: 3269458093
+  directories: []

@@ -1,0 +1,34 @@
+id: r76-rosfinnadzor-ru
+name: r76.rosfinnadzor.ru (2016-05-05)
+domain: r76.rosfinnadzor.ru
+collection:
+  id: rosfinnadzor
+  slug: rosfinnadzor
+  name: Росфиннадзор
+resources:
+- name: r76.rosfinnadzor.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r76.rosfinnadzor.ru/r76.rosfinnadzor.ru.log
+  size: 693454
+  modified: '2016-05-05T18:32:48'
+  type: ''
+  extension: .log
+- name: r76.rosfinnadzor.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r76.rosfinnadzor.ru/r76.rosfinnadzor.ru.warc.gz
+  size: 215083712
+  modified: '2016-05-05T18:32:48'
+  type: WARC
+  extension: .warc.gz
+- name: r76.rosfinnadzor.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r76.rosfinnadzor.ru/r76.rosfinnadzor.ru.cdx
+  size: 183241
+  modified: '2016-05-05T18:32:48'
+  type: CDX
+  extension: .cdx
+- name: r76.rosfinnadzor.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r76.rosfinnadzor.ru/r76.rosfinnadzor.ru.7z
+  size: 198763480
+  modified: '2016-05-06T20:10:19'
+  type: ''
+  extension: .7z
+url: https://r76.rosfinnadzor.ru
+created: '2016-05-05T18:32:48'

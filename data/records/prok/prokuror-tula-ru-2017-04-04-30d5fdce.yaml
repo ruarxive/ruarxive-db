@@ -1,0 +1,40 @@
+id: prokuror-tula-ru-2017-04-04-30d5fdce
+name: prokuror-tula.ru (2017-04-04)
+domain: prokuror-tula.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.prokuror-tula.ru-2017-04-04-30d5fdce-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-tula.ru-2017-04-04-30d5fdce/www.prokuror-tula.ru-2017-04-04-30d5fdce-00000.warc.gz
+  size: 52353190
+  modified: '2017-04-04T06:23:37'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-tula.ru-2017-04-04-30d5fdce/wpull.db
+  size: 145408
+  modified: '2017-04-04T06:23:38'
+  type: wpull database
+  extension: .db
+- name: www.prokuror-tula.ru-2017-04-04-30d5fdce.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-tula.ru-2017-04-04-30d5fdce/www.prokuror-tula.ru-2017-04-04-30d5fdce.cdx
+  size: 261626
+  modified: '2017-04-04T06:23:37'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-tula.ru-2017-04-04-30d5fdce/dupes_db/data.mdb
+  size: 81920
+  modified: '2017-04-04T06:21:20'
+  type: ''
+  extension: .mdb
+- name: www.prokuror-tula.ru-2017-04-04-30d5fdce-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuror-tula.ru-2017-04-04-30d5fdce/www.prokuror-tula.ru-2017-04-04-30d5fdce-meta.warc.gz
+  size: 28883
+  modified: '2017-04-04T06:23:38'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuror-tula.ru
+created: '2017-04-04'

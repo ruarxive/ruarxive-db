@@ -1,0 +1,16 @@
+id: old-agrodv-ru
+name: old.agrodv.ru.7z (2012-10-22)
+domain: old.agrodv.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: www.old.agrodv.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/www.old.agrodv.ru.7z
+  size: 137690593
+  modified: '2012-10-22T10:11:28'
+  type: httrack archive
+  extension: .7z
+url: https://old.agrodv.ru.7z
+created: '2012-10-22T10:11:28'

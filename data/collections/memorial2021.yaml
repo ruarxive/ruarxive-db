@@ -1,0 +1,326 @@
+id: memorial2021
+slug: memorial2021
+name: Мемориал 2021
+created: '2021-11-22T08:25:09.000Z'
+description: Архив Мемориала
+collection_type: единовременная
+collection_date: '2021-11-22'
+reason: Требование Генпрокуратуры РФ ликвидировать Международный Мемориал
+reason_url: https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/626
+num_records: 45
+records:
+- id: 1937-memo-ru
+  name: 1937-год к 70 летию большошо террора
+  url: https://1937.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:47.000Z'
+  domain: 1937.memo.ru
+- id: 1968-memo-ru
+  name: 1968-год прав человека
+  url: https://1968.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: 1968.memo.ru
+- id: 1989-memo-ru
+  name: 1989-год
+  url: https://1989.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: 1989.memo.ru
+- id: 30marta-memo-ru
+  name: Чтения памяти Арсения Рогинского
+  url: https://30marta.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: 30marta.memo.ru
+- id: archive-memohrc-org
+  name: Инструкция ПЦ Мемориал
+  url: https://archive.memohrc.org
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: archive.memohrc.org
+- id: backhome-memo-ru
+  name: Право вернуться домой
+  url: https://backhome.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: backhome.memo.ru
+- id: base-memo-ru
+  name: База Мемориала
+  url: https://base.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: base.memo.ru
+- id: bulletin-memo-ru
+  name: Мемориал. Информационный бюллетень
+  url: https://bulletin.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: bulletin.memo.ru
+- id: dissident-memo-ru
+  name: Диссиденты
+  url: https://dissident.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: dissident.memo.ru
+- id: donate-memo-ru
+  name: Поддержать Мемориал
+  url: https://donate.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: donate.memo.ru
+- id: echr-memohrc-org
+  name: Дела правозащитного центра Мемориал
+  url: https://echr.memohrc.org
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: echr.memohrc.org
+- id: fond21-memo-ru
+  name: Фонд 21
+  url: https://fond21.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: fond21.memo.ru
+- id: foto-memorial-org
+  name: Фотоархив Мемориала
+  url: https://foto-memorial.org
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: foto-memorial.org
+- id: histor-ipt-kt-memo-ru
+  name: Из истории гонений Истинно-Православной (Катакомбной) Церкви
+  url: https://histor-ipt-kt.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: histor-ipt-kt.memo.ru
+- id: hr2-memo-ru
+  name: Хроники текущих событий
+  url: https://hr2.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: hr2.memo.ru
+- id: hts-memo-ru
+  name: Хроника текущих событий
+  url: https://hts.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: hts.memo.ru
+- id: kavkaz-memo-ru
+  name: Кавказский узел
+  url: https://kavkaz.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: kavkaz.memo.ru
+- id: konkurs-memo-ru
+  name: Конкурс Мемориала
+  url: https://konkurs.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: konkurs.memo.ru
+- id: legal-memohrc-org
+  name: Нарушения при профилактическом учете
+  url: https://legal.memohrc.org
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: legal.memohrc.org
+- id: martyrs-pstbi-ru
+  name: Пострадавшие за Христа
+  url: https://martyrs.pstbi.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: martyrs.pstbi.ru
+- id: memohrc-org
+  name: Официальный сайт Правозащитного центра Мемориал
+  url: https://www.memohrc.org
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: memohrc.org
+- id: memoirs-memo-ru
+  name: Каталог мемуаров архива общества Мемориал
+  url: https://memoirs.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: memoirs.memo.ru
+- id: memorial-krsk-ru
+  name: Красноярский Мемориал
+  url: https://memorial.krsk.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-23T13:30:00.000Z'
+  domain: memorial.krsk.ru
+- id: memorial-yaroslavl-ru
+  name: Проект "Не придать забвению"
+  url: https://www.memorial.yaroslavl.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: memorial.yaroslavl.ru
+- id: museum-memo-ru
+  name: Музей Международного Мемориала
+  url: https://museum.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: museum.memo.ru
+- id: newlists-memo-ru
+  name: '-'
+  url: https://newlists.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: newlists.memo.ru
+- id: nkvd-memo-ru
+  name: Кадровый состав органов государственной безопасности СССР. 1935−1939
+  url: https://nkvd.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: nkvd.memo.ru
+- id: orlova100-memo-ru
+  name: К 100-летию Раисы Орловой
+  url: https://orlova100.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: orlova100.memo.ru
+- id: oskolki-memo-ru
+  name: Осколки
+  url: https://oskolki.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: oskolki.memo.ru
+- id: ost-west-memo-ru
+  name: Списки угнанных
+  url: https://ost-west.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: ost-west.memo.ru
+- id: perestroika-memo-ru
+  name: Перестройка
+  url: https://perestroika.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: perestroika.memo.ru
+- id: periodics-memo-ru
+  name: Каталог периодики Самиздата
+  url: https://periodics.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: periodics.memo.ru
+- id: poslednyadres-ru
+  name: Последний адрес
+  url: https://poslednyadres.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: poslednyadres.ru
+- id: prequel-memo-ru
+  name: Мемориал. Эпизод I
+  url: https://prequel.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: prequel.memo.ru
+- id: prichina-memo-ru
+  name: Причина расстрела
+  url: https://prichina.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: prichina.memo.ru
+- id: project-memo-ru
+  name: Память в проекте
+  url: https://project.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: project.memo.ru
+- id: project-memohrc-org
+  name: Проекты Правозащитного центра Мемориал
+  url: https://project.memohrc.org
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: project.memohrc.org
+- id: refugeez-memo-ru
+  name: '-'
+  url: https://refugeez.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: refugeez.memo.ru
+- id: report-memohrc-org
+  name: Отчет ПЦ Мемориал
+  url: https://report.memohrc.org
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: report.memohrc.org
+- id: sandormokh-memo-ru
+  name: Сандармох. Чтение имен
+  url: https://sandormokh.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: sandormokh.memo.ru
+- id: soc-memo-ru
+  name: Российские социалисты и анархисты после октября 1917 года
+  url: https://soc.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: soc.memo.ru
+- id: socialist2-memo-ru
+  name: Российские социалисты и анархисты после октября 1917 года
+  url: https://socialist2.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: socialist2.memo.ru
+- id: spartak-memo-ru
+  name: Дело Спартака
+  url: https://spartak.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: spartak.memo.ru
+- id: titiev-info
+  name: Дело Оюба Титиева
+  url: https://titiev.info
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: titiev.info
+- id: webdoc-memo-ru
+  name: Время Пересматривать
+  url: https://webdoc.memo.ru
+  status: собран
+  status_id: collected
+  created: '2021-11-22T14:19:53.000Z'
+  domain: webdoc.memo.ru

@@ -1,0 +1,16 @@
+id: domains-txt
+name: domains.txt (2017-04-04)
+domain: domains.txt
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: domains.txt
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/domains.txt
+  size: 1480
+  modified: '2017-04-04T07:24:53'
+  type: ''
+  extension: .txt
+url: https://domains.txt
+created: '2017-04-04T07:24:53'

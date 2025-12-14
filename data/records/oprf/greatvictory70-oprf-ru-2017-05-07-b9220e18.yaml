@@ -1,0 +1,40 @@
+id: greatvictory70-oprf-ru-2017-05-07-b9220e18
+name: greatvictory70.oprf.ru (2017-05-07)
+domain: greatvictory70.oprf.ru
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/greatvictory70.oprf.ru-2017-05-07-b9220e18/wpull.db
+  size: 29696
+  modified: '2017-05-07T10:15:12'
+  type: wpull database
+  extension: .db
+- name: greatvictory70.oprf.ru-2017-05-07-b9220e18-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/greatvictory70.oprf.ru-2017-05-07-b9220e18/greatvictory70.oprf.ru-2017-05-07-b9220e18-meta.warc.gz
+  size: 5441
+  modified: '2017-05-07T10:15:12'
+  type: WARC
+  extension: .warc.gz
+- name: greatvictory70.oprf.ru-2017-05-07-b9220e18.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/greatvictory70.oprf.ru-2017-05-07-b9220e18/greatvictory70.oprf.ru-2017-05-07-b9220e18.cdx
+  size: 22358
+  modified: '2017-05-07T10:15:12'
+  type: CDX
+  extension: .cdx
+- name: greatvictory70.oprf.ru-2017-05-07-b9220e18-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/greatvictory70.oprf.ru-2017-05-07-b9220e18/greatvictory70.oprf.ru-2017-05-07-b9220e18-00000.warc.gz
+  size: 6004254
+  modified: '2017-05-07T10:15:12'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/greatvictory70.oprf.ru-2017-05-07-b9220e18/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-05-07T10:15:11'
+  type: ''
+  extension: .mdb
+url: https://greatvictory70.oprf.ru
+created: '2017-05-07'

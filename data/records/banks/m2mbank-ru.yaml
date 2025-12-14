@@ -1,0 +1,34 @@
+id: m2mbank-ru
+name: m2mbank.ru (2014-05-25)
+domain: m2mbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.m2mbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.m2mbank.ru/www.m2mbank.ru.log.xz
+  size: 18908140
+  modified: '2014-05-25T14:41:28'
+  type: wpull log
+  extension: .xz
+- name: www.m2mbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.m2mbank.ru/www.m2mbank.ru.7z
+  size: 27579459
+  modified: '2014-08-20T09:25:02'
+  type: ''
+  extension: .7z
+- name: www.m2mbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.m2mbank.ru/www.m2mbank.ru.warc.xz
+  size: 133434140
+  modified: '2014-05-25T14:41:28'
+  type: WARC
+  extension: .xz
+- name: www.m2mbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.m2mbank.ru/www.m2mbank.ru.cdx.xz
+  size: 29329068
+  modified: '2014-05-25T14:41:28'
+  type: CDX
+  extension: .xz
+url: https://m2mbank.ru
+created: '2014-05-25T14:41:28'

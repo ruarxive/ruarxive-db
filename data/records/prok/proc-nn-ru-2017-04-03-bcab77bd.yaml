@@ -1,0 +1,40 @@
+id: proc-nn-ru-2017-04-03-bcab77bd
+name: proc-nn.ru (2017-04-03)
+domain: proc-nn.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.proc-nn.ru-2017-04-03-bcab77bd-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proc-nn.ru-2017-04-03-bcab77bd/www.proc-nn.ru-2017-04-03-bcab77bd-meta.warc.gz
+  size: 5253
+  modified: '2017-04-03T17:37:34'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proc-nn.ru-2017-04-03-bcab77bd/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-04-03T17:37:34'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proc-nn.ru-2017-04-03-bcab77bd/wpull.db
+  size: 23552
+  modified: '2017-04-03T17:37:34'
+  type: wpull database
+  extension: .db
+- name: www.proc-nn.ru-2017-04-03-bcab77bd-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proc-nn.ru-2017-04-03-bcab77bd/www.proc-nn.ru-2017-04-03-bcab77bd-00000.warc.gz
+  size: 407777
+  modified: '2017-04-03T17:37:34'
+  type: WARC
+  extension: .warc.gz
+- name: www.proc-nn.ru-2017-04-03-bcab77bd.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proc-nn.ru-2017-04-03-bcab77bd/www.proc-nn.ru-2017-04-03-bcab77bd.cdx
+  size: 17330
+  modified: '2017-04-03T17:37:34'
+  type: CDX
+  extension: .cdx
+url: https://proc-nn.ru
+created: '2017-04-03'

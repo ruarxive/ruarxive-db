@@ -1,0 +1,17 @@
+id: data-gov-ru-20220202
+name: data.gov.ru (2022-02-02)
+domain: data.gov.ru
+url: https://data.gov.ru
+created: '2022-02-02'
+date: '2022-02-02'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: datagovru_20220202.zip
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2022-02-02/datagovru_20220202.zip
+  size: 14961710267
+  modified: '2022-02-02T14:31:13'
+  type: ''
+  extension: .zip

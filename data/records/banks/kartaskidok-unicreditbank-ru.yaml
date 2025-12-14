@@ -1,0 +1,34 @@
+id: kartaskidok-unicreditbank-ru
+name: kartaskidok.unicreditbank.ru (2014-05-08)
+domain: kartaskidok.unicreditbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: kartaskidok.unicreditbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kartaskidok.unicreditbank.ru/kartaskidok.unicreditbank.ru.log.xz
+  size: 98472
+  modified: '2014-05-08T19:33:39'
+  type: wpull log
+  extension: .xz
+- name: kartaskidok.unicreditbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kartaskidok.unicreditbank.ru/kartaskidok.unicreditbank.ru.7z
+  size: 19453717
+  modified: '2014-08-19T10:12:45'
+  type: ''
+  extension: .7z
+- name: kartaskidok.unicreditbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kartaskidok.unicreditbank.ru/kartaskidok.unicreditbank.ru.warc.xz
+  size: 19989076
+  modified: '2014-05-08T19:33:39'
+  type: WARC
+  extension: .xz
+- name: kartaskidok.unicreditbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kartaskidok.unicreditbank.ru/kartaskidok.unicreditbank.ru.cdx.xz
+  size: 159432
+  modified: '2014-05-08T19:33:39'
+  type: CDX
+  extension: .xz
+url: https://kartaskidok.unicreditbank.ru
+created: '2014-05-08T19:33:39'

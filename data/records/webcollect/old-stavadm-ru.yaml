@@ -1,0 +1,16 @@
+id: old-stavadm-ru
+name: old.stavadm.ru.7z (2012-10-22)
+domain: old.stavadm.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.stavadm.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.stavadm.ru.7z
+  size: 818721253
+  modified: '2012-10-22T10:01:44'
+  type: httrack archive
+  extension: .7z
+url: https://old.stavadm.ru.7z
+created: '2012-10-22T10:01:44'

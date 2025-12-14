@@ -1,0 +1,57 @@
+id: rfbr-ru-2017-06-28-25289044
+name: rfbr.ru (2017-06-28)
+domain: rfbr.ru
+collection:
+  id: goventerprises
+  slug: goventerprises
+  name: Государственные предприятия
+resources:
+- name: www.rfbr.ru-2017-06-28-25289044.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/www.rfbr.ru-2017-06-28-25289044/www.rfbr.ru-2017-06-28-25289044.cdx
+  size: 149110860
+  modified: '2017-07-10T19:00:00'
+  type: CDX
+  extension: .cdx
+- name: www.rfbr.ru-2017-06-28-25289044-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/www.rfbr.ru-2017-06-28-25289044/www.rfbr.ru-2017-06-28-25289044-meta.warc.gz
+  size: 12104621
+  modified: '2017-07-10T19:00:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/www.rfbr.ru-2017-06-28-25289044/wpull.db
+  size: 175998976
+  modified: '2017-07-10T19:00:01'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/www.rfbr.ru-2017-06-28-25289044/dupes_db/data.mdb
+  size: 69963776
+  modified: '2017-07-10T19:00:00'
+  type: ''
+  extension: .mdb
+- name: www.rfbr.ru-2017-06-28-25289044-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/www.rfbr.ru-2017-06-28-25289044/www.rfbr.ru-2017-06-28-25289044-00000.warc.gz
+  size: 5368715878
+  modified: '2017-07-03T13:43:10'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/www.rfbr.ru-2017-06-28-25289044/stop
+  size: 0
+  modified: '2017-07-10T18:59:59'
+  type: ''
+- name: www.rfbr.ru-2017-06-28-25289044-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/www.rfbr.ru-2017-06-28-25289044/www.rfbr.ru-2017-06-28-25289044-00001.warc.gz
+  size: 5337099180
+  modified: '2017-07-10T19:00:00'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-pt3kxa.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/goventerprises/www.rfbr.ru-2017-06-28-25289044/temp/tmp-wpull-resp_cb-pt3kxa.tmp
+  size: 120025
+  modified: '2017-07-10T19:00:00'
+  type: ''
+  extension: .tmp
+url: https://rfbr.ru
+created: '2017-06-28'

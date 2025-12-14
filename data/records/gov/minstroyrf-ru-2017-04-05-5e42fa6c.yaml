@@ -1,0 +1,52 @@
+id: minstroyrf-ru-2017-04-05-5e42fa6c
+name: minstroyrf.ru (2017-04-05)
+domain: minstroyrf.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.minstroyrf.ru-2017-04-05-5e42fa6c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.minstroyrf.ru-2017-04-05-5e42fa6c/www.minstroyrf.ru-2017-04-05-5e42fa6c-00000.warc.gz
+  size: 5377636645
+  modified: '2017-04-05T08:03:54'
+  type: WARC
+  extension: .warc.gz
+- name: warc-extractor.py
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.minstroyrf.ru-2017-04-05-5e42fa6c/warc-extractor.py
+  size: 26779
+  modified: '2017-04-08T19:19:02'
+  type: ''
+  extension: .py
+- name: www.minstroyrf.ru-2017-04-05-5e42fa6c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.minstroyrf.ru-2017-04-05-5e42fa6c/www.minstroyrf.ru-2017-04-05-5e42fa6c-meta.warc.gz
+  size: 625099
+  modified: '2017-04-05T09:38:05'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.minstroyrf.ru-2017-04-05-5e42fa6c/dupes_db/data.mdb
+  size: 2502656
+  modified: '2017-04-05T09:38:04'
+  type: ''
+  extension: .mdb
+- name: www.minstroyrf.ru-2017-04-05-5e42fa6c-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.minstroyrf.ru-2017-04-05-5e42fa6c/www.minstroyrf.ru-2017-04-05-5e42fa6c-00001.warc.gz
+  size: 4003280330
+  modified: '2017-04-05T09:38:04'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.minstroyrf.ru-2017-04-05-5e42fa6c/wpull.db
+  size: 4910080
+  modified: '2017-04-05T09:38:06'
+  type: wpull database
+  extension: .db
+- name: www.minstroyrf.ru-2017-04-05-5e42fa6c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.minstroyrf.ru-2017-04-05-5e42fa6c/www.minstroyrf.ru-2017-04-05-5e42fa6c.cdx
+  size: 4523917
+  modified: '2017-04-05T09:38:04'
+  type: CDX
+  extension: .cdx
+url: https://minstroyrf.ru
+created: '2017-04-05'

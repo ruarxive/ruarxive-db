@@ -1,0 +1,40 @@
+id: bogorodskoe2017-ru-2017-09-07-5935bd49
+name: bogorodskoe2017.ru (2017-09-07)
+domain: bogorodskoe2017.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: www.bogorodskoe2017.ru-2017-09-07-5935bd49.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.bogorodskoe2017.ru-2017-09-07-5935bd49/www.bogorodskoe2017.ru-2017-09-07-5935bd49.cdx
+  size: 79648
+  modified: '2017-09-07T22:03:25'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.bogorodskoe2017.ru-2017-09-07-5935bd49/wpull.db
+  size: 84992
+  modified: '2017-09-07T22:03:25'
+  type: wpull database
+  extension: .db
+- name: www.bogorodskoe2017.ru-2017-09-07-5935bd49-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.bogorodskoe2017.ru-2017-09-07-5935bd49/www.bogorodskoe2017.ru-2017-09-07-5935bd49-meta.warc.gz
+  size: 11823
+  modified: '2017-09-07T22:03:26'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.bogorodskoe2017.ru-2017-09-07-5935bd49/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-09-07T22:02:47'
+  type: ''
+  extension: .mdb
+- name: www.bogorodskoe2017.ru-2017-09-07-5935bd49-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.bogorodskoe2017.ru-2017-09-07-5935bd49/www.bogorodskoe2017.ru-2017-09-07-5935bd49-00000.warc.gz
+  size: 35322993
+  modified: '2017-09-07T22:03:25'
+  type: WARC
+  extension: .warc.gz
+url: https://bogorodskoe2017.ru
+created: '2017-09-07'

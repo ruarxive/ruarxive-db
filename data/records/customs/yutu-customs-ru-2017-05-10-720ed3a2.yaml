@@ -1,0 +1,40 @@
+id: yutu-customs-ru-2017-05-10-720ed3a2
+name: yutu.customs.ru (2017-05-10)
+domain: yutu.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/yutu.customs.ru-2017-05-10-720ed3a2/wpull.db
+  size: 38202368
+  modified: '2017-05-11T01:40:04'
+  type: wpull database
+  extension: .db
+- name: yutu.customs.ru-2017-05-10-720ed3a2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/yutu.customs.ru-2017-05-10-720ed3a2/yutu.customs.ru-2017-05-10-720ed3a2-00000.warc.gz
+  size: 5169931902
+  modified: '2017-05-11T01:40:04'
+  type: WARC
+  extension: .warc.gz
+- name: yutu.customs.ru-2017-05-10-720ed3a2-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/yutu.customs.ru-2017-05-10-720ed3a2/yutu.customs.ru-2017-05-10-720ed3a2-meta.warc.gz
+  size: 2096408
+  modified: '2017-05-11T01:40:06'
+  type: WARC
+  extension: .warc.gz
+- name: yutu.customs.ru-2017-05-10-720ed3a2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/yutu.customs.ru-2017-05-10-720ed3a2/yutu.customs.ru-2017-05-10-720ed3a2.cdx
+  size: 19517369
+  modified: '2017-05-11T01:40:04'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/yutu.customs.ru-2017-05-10-720ed3a2/dupes_db/data.mdb
+  size: 13234176
+  modified: '2017-05-11T01:39:33'
+  type: ''
+  extension: .mdb
+url: https://yutu.customs.ru
+created: '2017-05-10'

@@ -1,0 +1,40 @@
+id: sanepid-khakasia-ru-2017-05-14-ad2ff909
+name: sanepid.khakasia.ru (2017-05-14)
+domain: sanepid.khakasia.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sanepid.khakasia.ru-2017-05-14-ad2ff909/wpull.db
+  size: 713728
+  modified: '2017-05-14T16:46:40'
+  type: wpull database
+  extension: .db
+- name: sanepid.khakasia.ru-2017-05-14-ad2ff909.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sanepid.khakasia.ru-2017-05-14-ad2ff909/sanepid.khakasia.ru-2017-05-14-ad2ff909.cdx
+  size: 461167
+  modified: '2017-05-14T16:46:39'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sanepid.khakasia.ru-2017-05-14-ad2ff909/dupes_db/data.mdb
+  size: 184320
+  modified: '2017-05-14T16:46:39'
+  type: ''
+  extension: .mdb
+- name: sanepid.khakasia.ru-2017-05-14-ad2ff909-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sanepid.khakasia.ru-2017-05-14-ad2ff909/sanepid.khakasia.ru-2017-05-14-ad2ff909-00000.warc.gz
+  size: 68224399
+  modified: '2017-05-14T16:46:39'
+  type: WARC
+  extension: .warc.gz
+- name: sanepid.khakasia.ru-2017-05-14-ad2ff909-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sanepid.khakasia.ru-2017-05-14-ad2ff909/sanepid.khakasia.ru-2017-05-14-ad2ff909-meta.warc.gz
+  size: 58529
+  modified: '2017-05-14T16:46:41'
+  type: WARC
+  extension: .warc.gz
+url: https://sanepid.khakasia.ru
+created: '2017-05-14'

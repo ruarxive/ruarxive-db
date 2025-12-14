@@ -1,0 +1,28 @@
+id: openbudget-karelia-ru
+name: openbudget.karelia.ru (2013-11-08)
+domain: openbudget.karelia.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: openbudget.karelia.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/openbudget.karelia.ru/openbudget.karelia.ru.warc.xz
+  size: 663778416
+  modified: '2013-11-08T18:50:43'
+  type: WARC
+  extension: .xz
+- name: openbudget.karelia.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/openbudget.karelia.ru/openbudget.karelia.ru.log.xz
+  size: 1458520
+  modified: '2013-11-08T18:53:07'
+  type: wpull log
+  extension: .xz
+- name: openbudget.karelia.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/openbudget.karelia.ru/openbudget.karelia.ru.cdx.xz
+  size: 2640780
+  modified: '2013-11-08T18:53:13'
+  type: CDX
+  extension: .xz
+url: https://openbudget.karelia.ru
+created: '2013-11-08T18:50:43'

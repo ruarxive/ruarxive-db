@@ -1,0 +1,46 @@
+id: ochakovo-mos-ru-2017-09-15-b91bf93b
+name: ochakovo.mos.ru (2017-09-15)
+domain: ochakovo.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ochakovo.mos.ru-2017-09-15-b91bf93b/dupes_db/data.mdb
+  size: 6844416
+  modified: '2017-09-17T22:01:58'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ochakovo.mos.ru-2017-09-15-b91bf93b/wpull.db
+  size: 21974016
+  modified: '2017-09-17T22:01:58'
+  type: wpull database
+  extension: .db
+- name: ochakovo.mos.ru-2017-09-15-b91bf93b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ochakovo.mos.ru-2017-09-15-b91bf93b/ochakovo.mos.ru-2017-09-15-b91bf93b.cdx
+  size: 17597960
+  modified: '2017-09-17T22:01:58'
+  type: CDX
+  extension: .cdx
+- name: ochakovo.mos.ru-2017-09-15-b91bf93b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ochakovo.mos.ru-2017-09-15-b91bf93b/ochakovo.mos.ru-2017-09-15-b91bf93b-00000.warc.gz
+  size: 5369710880
+  modified: '2017-09-16T19:56:56'
+  type: WARC
+  extension: .warc.gz
+- name: ochakovo.mos.ru-2017-09-15-b91bf93b-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ochakovo.mos.ru-2017-09-15-b91bf93b/ochakovo.mos.ru-2017-09-15-b91bf93b-00001.warc.gz
+  size: 4121896201
+  modified: '2017-09-17T22:01:58'
+  type: WARC
+  extension: .warc.gz
+- name: ochakovo.mos.ru-2017-09-15-b91bf93b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ochakovo.mos.ru-2017-09-15-b91bf93b/ochakovo.mos.ru-2017-09-15-b91bf93b-meta.warc.gz
+  size: 2436744
+  modified: '2017-09-17T22:02:00'
+  type: WARC
+  extension: .warc.gz
+url: https://ochakovo.mos.ru
+created: '2017-09-15'

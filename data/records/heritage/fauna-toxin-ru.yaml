@@ -1,0 +1,28 @@
+id: fauna-toxin-ru
+name: fauna-toxin.ru (2013-12-17)
+domain: fauna-toxin.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: fauna-toxin.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/fauna-toxin.ru/fauna-toxin.ru.log.xz
+  size: 4540
+  modified: '2013-12-17T13:31:12'
+  type: wpull log
+  extension: .xz
+- name: fauna-toxin.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/fauna-toxin.ru/fauna-toxin.ru.cdx.xz
+  size: 8192
+  modified: '2013-12-17T13:31:12'
+  type: CDX
+  extension: .xz
+- name: fauna-toxin.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/fauna-toxin.ru/fauna-toxin.ru.warc.xz
+  size: 1275764
+  modified: '2013-12-17T13:31:14'
+  type: WARC
+  extension: .xz
+url: https://fauna-toxin.ru
+created: '2013-12-17T13:31:14'

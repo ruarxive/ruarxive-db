@@ -1,0 +1,19 @@
+id: antiscience
+slug: antiscience
+name: Антинаука
+num_records: 2
+records:
+- id: grigori-grabovoi-ru
+  name: grigori-grabovoi.ru (2013-12-14)
+  url: https://grigori-grabovoi.ru
+  created: '2013-12-14T07:35:44'
+  domain: grigori-grabovoi.ru
+- id: shipov-com
+  name: shipov.com (2013-12-14)
+  url: https://shipov.com
+  created: '2013-12-14T07:40:06'
+  domain: shipov.com
+files:
+  total_count: 8
+  total_size: 688249584
+  directories: []

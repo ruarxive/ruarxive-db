@@ -1,0 +1,25 @@
+id: worldofhedonia-wixsite-com
+name: World of hedonia
+url: https://worldofhedonia.wixsite.com/exhibition/
+domain: worldofhedonia.wixsite.com
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-06-27T09:36:00.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Онлайн-выставка Ники Сандлер. Внешний запрос
+reason_id: exhibition-request
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: низкий

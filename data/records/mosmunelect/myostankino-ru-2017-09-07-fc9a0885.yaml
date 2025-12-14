@@ -1,0 +1,40 @@
+id: myostankino-ru-2017-09-07-fc9a0885
+name: myostankino.ru (2017-09-07)
+domain: myostankino.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: myostankino.ru-2017-09-07-fc9a0885.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/myostankino.ru-2017-09-07-fc9a0885/myostankino.ru-2017-09-07-fc9a0885.cdx
+  size: 265150
+  modified: '2017-09-07T22:23:53'
+  type: CDX
+  extension: .cdx
+- name: myostankino.ru-2017-09-07-fc9a0885-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/myostankino.ru-2017-09-07-fc9a0885/myostankino.ru-2017-09-07-fc9a0885-meta.warc.gz
+  size: 39696
+  modified: '2017-09-07T22:23:53'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/myostankino.ru-2017-09-07-fc9a0885/wpull.db
+  size: 299008
+  modified: '2017-09-07T22:23:53'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/myostankino.ru-2017-09-07-fc9a0885/dupes_db/data.mdb
+  size: 200704
+  modified: '2017-09-07T22:23:53'
+  type: ''
+  extension: .mdb
+- name: myostankino.ru-2017-09-07-fc9a0885-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/myostankino.ru-2017-09-07-fc9a0885/myostankino.ru-2017-09-07-fc9a0885-00000.warc.gz
+  size: 52393406
+  modified: '2017-09-07T22:23:53'
+  type: WARC
+  extension: .warc.gz
+url: https://myostankino.ru
+created: '2017-09-07'

@@ -1,0 +1,40 @@
+id: prokuratura-omsk-ru-2017-04-03-9d4f8cd0
+name: prokuratura.omsk.ru (2017-04-03)
+domain: prokuratura.omsk.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.omsk.ru-2017-04-03-9d4f8cd0/dupes_db/data.mdb
+  size: 8286208
+  modified: '2017-04-03T19:13:22'
+  type: ''
+  extension: .mdb
+- name: prokuratura.omsk.ru-2017-04-03-9d4f8cd0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.omsk.ru-2017-04-03-9d4f8cd0/prokuratura.omsk.ru-2017-04-03-9d4f8cd0.cdx
+  size: 12835872
+  modified: '2017-04-03T19:13:22'
+  type: CDX
+  extension: .cdx
+- name: prokuratura.omsk.ru-2017-04-03-9d4f8cd0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.omsk.ru-2017-04-03-9d4f8cd0/prokuratura.omsk.ru-2017-04-03-9d4f8cd0-meta.warc.gz
+  size: 960380
+  modified: '2017-04-03T19:22:25'
+  type: WARC
+  extension: .warc.gz
+- name: prokuratura.omsk.ru-2017-04-03-9d4f8cd0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.omsk.ru-2017-04-03-9d4f8cd0/prokuratura.omsk.ru-2017-04-03-9d4f8cd0-00000.warc.gz
+  size: 1013439330
+  modified: '2017-04-03T19:13:22'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.omsk.ru-2017-04-03-9d4f8cd0/wpull.db
+  size: 29399040
+  modified: '2017-04-03T19:22:26'
+  type: wpull database
+  extension: .db
+url: https://prokuratura.omsk.ru
+created: '2017-04-03'

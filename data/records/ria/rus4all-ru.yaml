@@ -1,0 +1,28 @@
+id: rus4all-ru
+name: rus4all.ru (2013-12-10)
+domain: rus4all.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: rus4all.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/rus4all.ru/rus4all.ru.log.xz
+  size: 2256
+  modified: '2013-12-10T08:20:27'
+  type: wpull log
+  extension: .xz
+- name: rus4all.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/rus4all.ru/rus4all.ru.cdx.xz
+  size: 2260
+  modified: '2013-12-10T08:20:29'
+  type: CDX
+  extension: .xz
+- name: rus4all.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/rus4all.ru/rus4all.ru.warc.xz
+  size: 2126448
+  modified: '2013-12-10T08:20:28'
+  type: WARC
+  extension: .xz
+url: https://rus4all.ru
+created: '2013-12-10T08:20:28'

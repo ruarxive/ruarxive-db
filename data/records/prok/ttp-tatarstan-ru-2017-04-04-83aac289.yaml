@@ -1,0 +1,40 @@
+id: ttp-tatarstan-ru-2017-04-04-83aac289
+name: ttp.tatarstan.ru (2017-04-04)
+domain: ttp.tatarstan.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ttp.tatarstan.ru-2017-04-04-83aac289/dupes_db/data.mdb
+  size: 827392
+  modified: '2017-04-04T09:29:51'
+  type: ''
+  extension: .mdb
+- name: ttp.tatarstan.ru-2017-04-04-83aac289.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ttp.tatarstan.ru-2017-04-04-83aac289/ttp.tatarstan.ru-2017-04-04-83aac289.cdx
+  size: 1373755
+  modified: '2017-04-04T09:29:51'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ttp.tatarstan.ru-2017-04-04-83aac289/wpull.db
+  size: 1352704
+  modified: '2017-04-04T09:29:52'
+  type: wpull database
+  extension: .db
+- name: ttp.tatarstan.ru-2017-04-04-83aac289-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ttp.tatarstan.ru-2017-04-04-83aac289/ttp.tatarstan.ru-2017-04-04-83aac289-meta.warc.gz
+  size: 100611
+  modified: '2017-04-04T09:29:52'
+  type: WARC
+  extension: .warc.gz
+- name: ttp.tatarstan.ru-2017-04-04-83aac289-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/ttp.tatarstan.ru-2017-04-04-83aac289/ttp.tatarstan.ru-2017-04-04-83aac289-00000.warc.gz
+  size: 64165092
+  modified: '2017-04-04T09:29:51'
+  type: WARC
+  extension: .warc.gz
+url: https://ttp.tatarstan.ru
+created: '2017-04-04'

@@ -1,0 +1,28 @@
+id: mosfund-ru
+name: mosfund.ru (2013-09-28)
+domain: mosfund.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.mosfund.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.mosfund.ru/www.mosfund.ru.log.xz
+  size: 11956
+  modified: '2013-09-28T09:34:52'
+  type: wpull log
+  extension: .xz
+- name: www.mosfund.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.mosfund.ru/www.mosfund.ru.cdx.xz
+  size: 22980
+  modified: '2013-09-28T09:34:53'
+  type: CDX
+  extension: .xz
+- name: www.mosfund.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.mosfund.ru/www.mosfund.ru.warc.xz
+  size: 3451480
+  modified: '2013-09-28T09:34:53'
+  type: WARC
+  extension: .xz
+url: https://mosfund.ru
+created: '2013-09-28T09:34:53'

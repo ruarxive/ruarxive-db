@@ -1,0 +1,28 @@
+id: fsfrufo-ru
+name: fsfrufo.ru (2013-09-28)
+domain: fsfrufo.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fsfrufo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fsfrufo.ru/www.fsfrufo.ru.log.xz
+  size: 51776
+  modified: '2013-09-28T09:45:02'
+  type: wpull log
+  extension: .xz
+- name: www.fsfrufo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fsfrufo.ru/www.fsfrufo.ru.warc.xz
+  size: 74397916
+  modified: '2013-09-28T09:43:29'
+  type: WARC
+  extension: .xz
+- name: www.fsfrufo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fsfrufo.ru/www.fsfrufo.ru.cdx.xz
+  size: 98040
+  modified: '2013-09-28T09:45:03'
+  type: CDX
+  extension: .xz
+url: https://fsfrufo.ru
+created: '2013-09-28T09:43:29'

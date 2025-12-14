@@ -1,0 +1,40 @@
+id: lagerkolyma-narod-ru-2017-06-06-6935c274
+name: lagerkolyma.narod.ru (2017-06-06)
+domain: lagerkolyma.narod.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.lagerkolyma.narod.ru-2017-06-06-6935c274/wpull.db
+  size: 450560
+  modified: '2017-06-08T19:12:08'
+  type: wpull database
+  extension: .db
+- name: www.lagerkolyma.narod.ru-2017-06-06-6935c274-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.lagerkolyma.narod.ru-2017-06-06-6935c274/www.lagerkolyma.narod.ru-2017-06-06-6935c274-00000.warc.gz
+  size: 9491941
+  modified: '2017-06-08T19:12:08'
+  type: WARC
+  extension: .warc.gz
+- name: www.lagerkolyma.narod.ru-2017-06-06-6935c274.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.lagerkolyma.narod.ru-2017-06-06-6935c274/www.lagerkolyma.narod.ru-2017-06-06-6935c274.cdx
+  size: 212329
+  modified: '2017-06-08T19:12:08'
+  type: CDX
+  extension: .cdx
+- name: www.lagerkolyma.narod.ru-2017-06-06-6935c274-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.lagerkolyma.narod.ru-2017-06-06-6935c274/www.lagerkolyma.narod.ru-2017-06-06-6935c274-meta.warc.gz
+  size: 51163
+  modified: '2017-06-08T19:12:08'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.lagerkolyma.narod.ru-2017-06-06-6935c274/dupes_db/data.mdb
+  size: 126976
+  modified: '2017-06-08T19:09:34'
+  type: ''
+  extension: .mdb
+url: https://lagerkolyma.narod.ru
+created: '2017-06-06'

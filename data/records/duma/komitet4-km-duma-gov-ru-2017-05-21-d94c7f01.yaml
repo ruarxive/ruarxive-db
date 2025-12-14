@@ -1,0 +1,40 @@
+id: komitet4-km-duma-gov-ru-2017-05-21-d94c7f01
+name: komitet4.km.duma.gov.ru (2017-05-21)
+domain: komitet4.km.duma.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01/www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01.cdx
+  size: 3951651
+  modified: '2017-05-26T15:46:54'
+  type: CDX
+  extension: .cdx
+- name: www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01/www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01-meta.warc.gz
+  size: 329189
+  modified: '2017-05-26T15:46:54'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01/dupes_db/data.mdb
+  size: 2674688
+  modified: '2017-05-26T15:47:14'
+  type: ''
+  extension: .mdb
+- name: www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01/www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01-00000.warc.gz
+  size: 815538657
+  modified: '2017-05-26T15:47:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet4.km.duma.gov.ru-2017-05-21-d94c7f01/wpull.db
+  size: 5825536
+  modified: '2017-05-26T15:46:54'
+  type: wpull database
+  extension: .db
+url: https://komitet4.km.duma.gov.ru
+created: '2017-05-21'

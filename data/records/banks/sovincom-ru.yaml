@@ -1,0 +1,28 @@
+id: sovincom-ru
+name: sovincom.ru (2014-03-26)
+domain: sovincom.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.sovincom.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sovincom.ru/www.sovincom.ru.warc.xz
+  size: 636604
+  modified: '2014-03-26T10:17:16'
+  type: WARC
+  extension: .xz
+- name: www.sovincom.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sovincom.ru/www.sovincom.ru.log.xz
+  size: 4228
+  modified: '2014-03-26T10:17:16'
+  type: wpull log
+  extension: .xz
+- name: www.sovincom.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sovincom.ru/www.sovincom.ru.cdx.xz
+  size: 5940
+  modified: '2014-03-26T10:17:16'
+  type: CDX
+  extension: .xz
+url: https://sovincom.ru
+created: '2014-03-26T10:17:16'

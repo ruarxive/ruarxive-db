@@ -1,0 +1,16 @@
+id: niisp-ru
+name: niisp.ru.7z (2013-09-16)
+domain: niisp.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: niisp.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/niisp.ru.7z
+  size: 131530412
+  modified: '2013-09-16T20:01:47'
+  type: httrack archive
+  extension: .7z
+url: https://niisp.ru.7z
+created: '2013-09-16T20:01:47'

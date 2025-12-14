@@ -1,0 +1,46 @@
+id: oldvak-ed-gov-ru-2017-05-27-d80d9167
+name: oldvak.ed.gov.ru (2017-05-27)
+domain: oldvak.ed.gov.ru
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: oldvak.ed.gov.ru-2017-05-27-d80d9167-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/oldvak.ed.gov.ru-2017-05-27-d80d9167/oldvak.ed.gov.ru-2017-05-27-d80d9167-00001.warc.gz
+  size: 2925623295
+  modified: '2017-05-31T18:19:58'
+  type: WARC
+  extension: .warc.gz
+- name: oldvak.ed.gov.ru-2017-05-27-d80d9167-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/oldvak.ed.gov.ru-2017-05-27-d80d9167/oldvak.ed.gov.ru-2017-05-27-d80d9167-00000.warc.gz
+  size: 5383754057
+  modified: '2017-05-31T18:23:46'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/oldvak.ed.gov.ru-2017-05-27-d80d9167/dupes_db/data.mdb
+  size: 2940928
+  modified: '2017-05-31T18:23:59'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/oldvak.ed.gov.ru-2017-05-27-d80d9167/wpull.db
+  size: 4911104
+  modified: '2017-05-31T18:20:42'
+  type: wpull database
+  extension: .db
+- name: oldvak.ed.gov.ru-2017-05-27-d80d9167.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/oldvak.ed.gov.ru-2017-05-27-d80d9167/oldvak.ed.gov.ru-2017-05-27-d80d9167.cdx
+  size: 4143424
+  modified: '2017-05-31T18:23:48'
+  type: CDX
+  extension: .cdx
+- name: oldvak.ed.gov.ru-2017-05-27-d80d9167-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/oldvak.ed.gov.ru-2017-05-27-d80d9167/oldvak.ed.gov.ru-2017-05-27-d80d9167-meta.warc.gz
+  size: 461426
+  modified: '2017-05-31T18:23:47'
+  type: WARC
+  extension: .warc.gz
+url: https://oldvak.ed.gov.ru
+created: '2017-05-27'

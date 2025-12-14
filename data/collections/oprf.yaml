@@ -1,0 +1,95 @@
+id: oprf
+slug: oprf
+name: Общественная палата РФ
+num_records: 17
+records:
+- id: 2014-oprf-ru-2017-05-07-ece16bc4
+  name: 2014.oprf.ru (2017-05-07)
+  url: https://2014.oprf.ru
+  created: '2017-05-07'
+  domain: 2014.oprf.ru
+- id: 2017-oprf-ru-2017-05-07-05c85c2d
+  name: 2017.oprf.ru (2017-05-07)
+  url: https://2017.oprf.ru
+  created: '2017-05-07'
+  domain: 2017.oprf.ru
+- id: aeis-oprf-ru-2017-05-07-8ed00d8f
+  name: aeis.oprf.ru (2017-05-07)
+  url: https://aeis.oprf.ru
+  created: '2017-05-07'
+  domain: aeis.oprf.ru
+- id: artmir-info-2017-05-07-7fbf4659
+  name: artmir.info (2017-05-07)
+  url: https://artmir.info
+  created: '2017-05-07'
+  domain: artmir.info
+- id: baltartek-ru-2017-05-07-943f8904
+  name: baltartek.ru (2017-05-07)
+  url: https://baltartek.ru
+  created: '2017-05-07'
+  domain: baltartek.ru
+- id: eis-oprf-ru-2017-05-07-07211122
+  name: eis.oprf.ru (2017-05-07)
+  url: https://eis.oprf.ru
+  created: '2017-05-07'
+  domain: eis.oprf.ru
+- id: expo-oprf-ru-2017-05-07-333e2784
+  name: expo.oprf.ru (2017-05-07)
+  url: https://expo.oprf.ru
+  created: '2017-05-07'
+  domain: expo.oprf.ru
+- id: greatvictory70-oprf-ru-2017-05-07-b9220e18
+  name: greatvictory70.oprf.ru (2017-05-07)
+  url: https://greatvictory70.oprf.ru
+  created: '2017-05-07'
+  domain: greatvictory70.oprf.ru
+- id: oprf-ru-2017-05-07-32c6f0b9
+  name: oprf.ru (2017-05-07)
+  url: https://oprf.ru
+  created: '2017-05-07'
+  domain: oprf.ru
+- id: perspektiva-oprf-ru-2017-05-07-6ad8d6b0
+  name: perspektiva.oprf.ru (2017-05-07)
+  url: https://perspektiva.oprf.ru
+  created: '2017-05-07'
+  domain: perspektiva.oprf.ru
+- id: plasma-oprf-ru-2017-05-07-ad818683
+  name: plasma.oprf.ru (2017-05-07)
+  url: https://plasma.oprf.ru
+  created: '2017-05-07'
+  domain: plasma.oprf.ru
+- id: ruraldevelopment-ru-2017-05-07-819a5fe6
+  name: ruraldevelopment.ru (2017-05-07)
+  url: https://ruraldevelopment.ru
+  created: '2017-05-07'
+  domain: ruraldevelopment.ru
+- id: xn--80aafitvnqdrjj-xn--p1ai-2017-05-07-f43b5da3
+  name: xn--80aafitvnqdrjj.xn--p1ai (2017-05-07)
+  url: https://xn--80aafitvnqdrjj.xn--p1ai
+  created: '2017-05-07'
+  domain: xn--80aafitvnqdrjj.xn--p1ai
+- id: xn--80abibf0brbr-xn--p1ai-2017-05-07-73ab1612
+  name: xn--80abibf0brbr.xn--p1ai (2017-05-07)
+  url: https://xn--80abibf0brbr.xn--p1ai
+  created: '2017-05-07'
+  domain: xn--80abibf0brbr.xn--p1ai
+- id: xn--90aci0ajbadllemfl7f-xn--p1ai-2017-05-07-aeaaea99
+  name: xn--90aci0ajbadllemfl7f.xn--p1ai (2017-05-07)
+  url: https://xn--90aci0ajbadllemfl7f.xn--p1ai
+  created: '2017-05-07'
+  domain: xn--90aci0ajbadllemfl7f.xn--p1ai
+- id: xn--b1afjapfmdmacnbee3mrc-xn--p1ai-2017-05-07-b142e1df
+  name: xn--b1afjapfmdmacnbee3mrc.xn--p1ai (2017-05-07)
+  url: https://xn--b1afjapfmdmacnbee3mrc.xn--p1ai
+  created: '2017-05-07'
+  domain: xn--b1afjapfmdmacnbee3mrc.xn--p1ai
+- id: xn--c1aeinblbfxw-xn--p1ai-2017-05-07-613f41b2
+  name: xn--c1aeinblbfxw.xn--p1ai (2017-05-07)
+  url: https://xn--c1aeinblbfxw.xn--p1ai
+  created: '2017-05-07'
+  domain: xn--c1aeinblbfxw.xn--p1ai
+files:
+  total_count: 366
+  total_size: 37570609230
+  directories:
+  - webcollect2017

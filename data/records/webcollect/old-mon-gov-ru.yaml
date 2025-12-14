@@ -1,0 +1,16 @@
+id: old-mon-gov-ru
+name: old.mon.gov.ru.7z (2012-10-22)
+domain: old.mon.gov.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.mon.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.mon.gov.ru.7z
+  size: 1142662653
+  modified: '2012-10-22T09:55:37'
+  type: httrack archive
+  extension: .7z
+url: https://old.mon.gov.ru.7z
+created: '2012-10-22T09:55:37'

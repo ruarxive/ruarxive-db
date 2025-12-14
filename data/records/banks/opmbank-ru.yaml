@@ -1,0 +1,28 @@
+id: opmbank-ru
+name: opmbank.ru (2013-12-18)
+domain: opmbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.opmbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.opmbank.ru/www.opmbank.ru.cdx.xz
+  size: 120732
+  modified: '2013-12-18T18:52:54'
+  type: CDX
+  extension: .xz
+- name: www.opmbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.opmbank.ru/www.opmbank.ru.log.xz
+  size: 56356
+  modified: '2013-12-18T18:52:53'
+  type: wpull log
+  extension: .xz
+- name: www.opmbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.opmbank.ru/www.opmbank.ru.warc.xz
+  size: 12245940
+  modified: '2013-12-18T18:52:49'
+  type: WARC
+  extension: .xz
+url: https://opmbank.ru
+created: '2013-12-18T18:52:49'

@@ -1,0 +1,40 @@
+id: procnov-ru-2017-04-03-3ec0cbf2
+name: procnov.ru (2017-04-03)
+domain: procnov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procnov.ru-2017-04-03-3ec0cbf2/wpull.db
+  size: 40960
+  modified: '2017-04-03T18:20:08'
+  type: wpull database
+  extension: .db
+- name: www.procnov.ru-2017-04-03-3ec0cbf2-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procnov.ru-2017-04-03-3ec0cbf2/www.procnov.ru-2017-04-03-3ec0cbf2-meta.warc.gz
+  size: 7859
+  modified: '2017-04-03T18:20:08'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procnov.ru-2017-04-03-3ec0cbf2/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-04-03T18:20:08'
+  type: ''
+  extension: .mdb
+- name: www.procnov.ru-2017-04-03-3ec0cbf2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procnov.ru-2017-04-03-3ec0cbf2/www.procnov.ru-2017-04-03-3ec0cbf2-00000.warc.gz
+  size: 3164207
+  modified: '2017-04-03T18:20:08'
+  type: WARC
+  extension: .warc.gz
+- name: www.procnov.ru-2017-04-03-3ec0cbf2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procnov.ru-2017-04-03-3ec0cbf2/www.procnov.ru-2017-04-03-3ec0cbf2.cdx
+  size: 33489
+  modified: '2017-04-03T18:20:08'
+  type: CDX
+  extension: .cdx
+url: https://procnov.ru
+created: '2017-04-03'

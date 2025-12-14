@@ -1,0 +1,58 @@
+id: kubank-ru
+name: kubank.ru (2014-05-08)
+domain: kubank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.kubank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kubank.ru/www.kubank.ru.cdx.xz
+  size: 518132
+  modified: '2014-05-08T22:30:35'
+  type: CDX
+  extension: .xz
+- name: www.kubank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kubank.ru/www.kubank.ru.7z
+  size: 195502429
+  modified: '2014-08-20T10:38:10'
+  type: ''
+  extension: .7z
+- name: www.kubank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kubank.ru/www.kubank.ru.warc.xz
+  size: 203914264
+  modified: '2014-05-08T22:30:35'
+  type: WARC
+  extension: .xz
+- name: www.kubank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kubank.ru/www.kubank.ru.log.xz
+  size: 314764
+  modified: '2014-05-08T22:30:35'
+  type: wpull log
+  extension: .xz
+- name: kubank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kubank.ru/kubank.ru.log.xz
+  size: 324464
+  modified: '2014-05-08T22:45:15'
+  type: wpull log
+  extension: .xz
+- name: kubank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kubank.ru/kubank.ru.7z
+  size: 195802235
+  modified: '2014-08-19T10:15:15'
+  type: ''
+  extension: .7z
+- name: kubank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kubank.ru/kubank.ru.warc.xz
+  size: 204232456
+  modified: '2014-05-08T22:45:15'
+  type: WARC
+  extension: .xz
+- name: kubank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kubank.ru/kubank.ru.cdx.xz
+  size: 527732
+  modified: '2014-05-08T22:45:15'
+  type: CDX
+  extension: .xz
+url: https://kubank.ru
+created: '2014-05-08T22:30:35'

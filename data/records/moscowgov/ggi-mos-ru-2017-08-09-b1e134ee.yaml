@@ -1,0 +1,57 @@
+id: ggi-mos-ru-2017-08-09-b1e134ee
+name: ggi.mos.ru (2017-08-09)
+domain: ggi.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: ggi.mos.ru-2017-08-09-b1e134ee.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ggi.mos.ru-2017-08-09-b1e134ee/ggi.mos.ru-2017-08-09-b1e134ee.cdx
+  size: 192980339
+  modified: '2017-08-15T19:30:04'
+  type: CDX
+  extension: .cdx
+- name: ggi.mos.ru-2017-08-09-b1e134ee-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ggi.mos.ru-2017-08-09-b1e134ee/ggi.mos.ru-2017-08-09-b1e134ee-00001.warc.gz
+  size: 2169364175
+  modified: '2017-08-15T19:30:04'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ggi.mos.ru-2017-08-09-b1e134ee/stop
+  size: 0
+  modified: '2017-08-15T19:30:04'
+  type: ''
+- name: tmp-wpull-resp_cb-y6duzz.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ggi.mos.ru-2017-08-09-b1e134ee/temp/tmp-wpull-resp_cb-y6duzz.tmp
+  size: 81801
+  modified: '2017-08-15T19:30:04'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ggi.mos.ru-2017-08-09-b1e134ee/wpull.db
+  size: 595683328
+  modified: '2017-08-15T19:30:04'
+  type: wpull database
+  extension: .db
+- name: ggi.mos.ru-2017-08-09-b1e134ee-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ggi.mos.ru-2017-08-09-b1e134ee/ggi.mos.ru-2017-08-09-b1e134ee-00000.warc.gz
+  size: 5368720400
+  modified: '2017-08-13T01:40:15'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ggi.mos.ru-2017-08-09-b1e134ee/dupes_db/data.mdb
+  size: 245260288
+  modified: '2017-08-15T19:30:04'
+  type: ''
+  extension: .mdb
+- name: ggi.mos.ru-2017-08-09-b1e134ee-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ggi.mos.ru-2017-08-09-b1e134ee/ggi.mos.ru-2017-08-09-b1e134ee-meta.warc.gz
+  size: 7420347
+  modified: '2017-08-15T19:30:18'
+  type: WARC
+  extension: .warc.gz
+url: https://ggi.mos.ru
+created: '2017-08-09'

@@ -1,0 +1,40 @@
+id: mobileapi-sputnik-ru-2018-02-05-8c798d77
+name: mobileapi.sputnik.ru (2018-02-05)
+domain: mobileapi.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: mobileapi.sputnik.ru-2018-02-05-8c798d77-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/mobileapi.sputnik.ru-2018-02-05-8c798d77/mobileapi.sputnik.ru-2018-02-05-8c798d77-meta.warc.gz
+  size: 2894
+  modified: '2018-02-05T17:07:24'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/mobileapi.sputnik.ru-2018-02-05-8c798d77/dupes_db/data.mdb
+  size: 8192
+  modified: '2018-02-05T17:07:21'
+  type: ''
+  extension: .mdb
+- name: mobileapi.sputnik.ru-2018-02-05-8c798d77-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/mobileapi.sputnik.ru-2018-02-05-8c798d77/mobileapi.sputnik.ru-2018-02-05-8c798d77-00000.warc.gz
+  size: 6033
+  modified: '2018-02-05T17:07:23'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/mobileapi.sputnik.ru-2018-02-05-8c798d77/wpull.db
+  size: 10240
+  modified: '2018-02-05T17:07:23'
+  type: wpull database
+  extension: .db
+- name: mobileapi.sputnik.ru-2018-02-05-8c798d77.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/mobileapi.sputnik.ru-2018-02-05-8c798d77/mobileapi.sputnik.ru-2018-02-05-8c798d77.cdx
+  size: 611
+  modified: '2018-02-05T17:07:23'
+  type: CDX
+  extension: .cdx
+url: https://mobileapi.sputnik.ru
+created: '2018-02-05'

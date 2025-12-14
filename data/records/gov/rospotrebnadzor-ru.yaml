@@ -1,0 +1,34 @@
+id: rospotrebnadzor-ru
+name: rospotrebnadzor.ru (2015-12-28)
+domain: rospotrebnadzor.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.rospotrebnadzor.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rospotrebnadzor.ru/www.rospotrebnadzor.ru.warc.gz
+  size: 886517843
+  modified: '2015-12-28T00:19:53'
+  type: WARC
+  extension: .warc.gz
+- name: www.rospotrebnadzor.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rospotrebnadzor.ru/www.rospotrebnadzor.ru.cdx
+  size: 33336874
+  modified: '2015-12-28T00:19:52'
+  type: CDX
+  extension: .cdx
+- name: www.rospotrebnadzor.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rospotrebnadzor.ru/www.rospotrebnadzor.ru.7z
+  size: 536082846
+  modified: '2016-05-02T21:59:47'
+  type: ''
+  extension: .7z
+- name: www.rospotrebnadzor.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rospotrebnadzor.ru/www.rospotrebnadzor.ru.log
+  size: 51334821
+  modified: '2015-12-28T00:19:53'
+  type: ''
+  extension: .log
+url: https://rospotrebnadzor.ru
+created: '2015-12-28T00:19:53'

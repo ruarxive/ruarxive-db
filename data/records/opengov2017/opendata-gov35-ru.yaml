@@ -1,0 +1,34 @@
+id: opendata-gov35-ru
+name: opendata.gov35.ru (2017-02-18)
+domain: opendata.gov35.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: opendata.gov35.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.gov35.ru/opendata.gov35.ru.log
+  size: 939061
+  modified: '2017-02-18T15:58:47'
+  type: ''
+  extension: .log
+- name: opendata.gov35.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.gov35.ru/opendata.gov35.ru.7z
+  size: 63545141
+  modified: '2017-02-27T11:22:18'
+  type: ''
+  extension: .7z
+- name: opendata.gov35.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.gov35.ru/opendata.gov35.ru.warc.gz
+  size: 134591524
+  modified: '2017-02-18T15:58:47'
+  type: WARC
+  extension: .warc.gz
+- name: opendata.gov35.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.gov35.ru/opendata.gov35.ru.cdx
+  size: 413196
+  modified: '2017-02-18T15:58:47'
+  type: CDX
+  extension: .cdx
+url: https://opendata.gov35.ru
+created: '2017-02-18T15:58:47'

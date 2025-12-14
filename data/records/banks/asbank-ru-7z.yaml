@@ -1,0 +1,16 @@
+id: asbank-ru-7z
+name: asbank.ru.7z (2014-08-19)
+domain: asbank.ru.7z
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.asbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.asbank.ru.7z
+  size: 110442034
+  modified: '2014-08-19T00:25:20'
+  type: ''
+  extension: .7z
+url: https://asbank.ru.7z
+created: '2014-08-19T00:25:20'

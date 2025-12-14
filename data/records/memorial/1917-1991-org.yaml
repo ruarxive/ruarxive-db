@@ -1,0 +1,34 @@
+id: 1917-1991-org
+name: 1917-1991.org (2014-08-03)
+domain: 1917-1991.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: www.1917-1991.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.1917-1991.org/www.1917-1991.org.warc.xz
+  size: 5252912
+  modified: '2014-08-03T03:06:03'
+  type: WARC
+  extension: .xz
+- name: www.1917-1991.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.1917-1991.org/www.1917-1991.org.cdx.xz
+  size: 37916
+  modified: '2014-08-03T03:06:03'
+  type: CDX
+  extension: .xz
+- name: www.1917-1991.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.1917-1991.org/www.1917-1991.org.log.xz
+  size: 18048
+  modified: '2014-08-03T03:06:03'
+  type: wpull log
+  extension: .xz
+- name: www.1917-1991.org.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.1917-1991.org/www.1917-1991.org.7z
+  size: 5104394
+  modified: '2014-08-09T17:29:50'
+  type: ''
+  extension: .7z
+url: https://1917-1991.org
+created: '2014-08-03T03:06:03'

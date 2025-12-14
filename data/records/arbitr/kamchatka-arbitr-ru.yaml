@@ -1,0 +1,34 @@
+id: kamchatka-arbitr-ru
+name: kamchatka.arbitr.ru (2014-08-04)
+domain: kamchatka.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: kamchatka.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kamchatka.arbitr.ru/kamchatka.arbitr.ru.cdx.xz
+  size: 4507656
+  modified: '2014-08-04T21:56:09'
+  type: CDX
+  extension: .xz
+- name: kamchatka.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kamchatka.arbitr.ru/kamchatka.arbitr.ru.warc.xz
+  size: 897963516
+  modified: '2014-08-04T21:56:10'
+  type: WARC
+  extension: .xz
+- name: kamchatka.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kamchatka.arbitr.ru/kamchatka.arbitr.ru.log.xz
+  size: 2502616
+  modified: '2014-08-04T21:56:10'
+  type: wpull log
+  extension: .xz
+- name: kamchatka.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kamchatka.arbitr.ru/kamchatka.arbitr.ru.7z
+  size: 835919222
+  modified: '2014-08-09T11:21:28'
+  type: ''
+  extension: .7z
+url: https://kamchatka.arbitr.ru
+created: '2014-08-04T21:56:10'

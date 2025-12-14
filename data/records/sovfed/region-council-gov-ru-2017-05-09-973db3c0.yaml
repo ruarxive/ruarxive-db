@@ -1,0 +1,40 @@
+id: region-council-gov-ru-2017-05-09-973db3c0
+name: region.council.gov.ru (2017-05-09)
+domain: region.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: region.council.gov.ru-2017-05-09-973db3c0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/region.council.gov.ru-2017-05-09-973db3c0/region.council.gov.ru-2017-05-09-973db3c0-meta.warc.gz
+  size: 14141
+  modified: '2017-05-09T20:23:28'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/region.council.gov.ru-2017-05-09-973db3c0/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-05-09T20:23:28'
+  type: ''
+  extension: .mdb
+- name: region.council.gov.ru-2017-05-09-973db3c0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/region.council.gov.ru-2017-05-09-973db3c0/region.council.gov.ru-2017-05-09-973db3c0-00000.warc.gz
+  size: 3831884
+  modified: '2017-05-09T20:23:28'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/region.council.gov.ru-2017-05-09-973db3c0/wpull.db
+  size: 82944
+  modified: '2017-05-09T20:23:28'
+  type: wpull database
+  extension: .db
+- name: region.council.gov.ru-2017-05-09-973db3c0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/region.council.gov.ru-2017-05-09-973db3c0/region.council.gov.ru-2017-05-09-973db3c0.cdx
+  size: 65969
+  modified: '2017-05-09T20:23:28'
+  type: CDX
+  extension: .cdx
+url: https://region.council.gov.ru
+created: '2017-05-09'

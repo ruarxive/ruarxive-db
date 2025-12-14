@@ -1,0 +1,40 @@
+id: bar-parliament-gov-ru-2017-04-20-d046762d
+name: bar.parliament.gov.ru (2017-04-20)
+domain: bar.parliament.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/bar.parliament.gov.ru-2017-04-20-d046762d/dupes_db/data.mdb
+  size: 1015808
+  modified: '2017-04-20T18:11:11'
+  type: ''
+  extension: .mdb
+- name: bar.parliament.gov.ru-2017-04-20-d046762d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/bar.parliament.gov.ru-2017-04-20-d046762d/bar.parliament.gov.ru-2017-04-20-d046762d-00000.warc.gz
+  size: 3263358894
+  modified: '2017-04-20T18:11:11'
+  type: WARC
+  extension: .warc.gz
+- name: bar.parliament.gov.ru-2017-04-20-d046762d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/bar.parliament.gov.ru-2017-04-20-d046762d/bar.parliament.gov.ru-2017-04-20-d046762d-meta.warc.gz
+  size: 160436
+  modified: '2017-04-20T18:11:11'
+  type: WARC
+  extension: .warc.gz
+- name: bar.parliament.gov.ru-2017-04-20-d046762d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/bar.parliament.gov.ru-2017-04-20-d046762d/bar.parliament.gov.ru-2017-04-20-d046762d.cdx
+  size: 1788974
+  modified: '2017-04-20T18:11:11'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/bar.parliament.gov.ru-2017-04-20-d046762d/wpull.db
+  size: 2183168
+  modified: '2017-04-20T18:11:11'
+  type: wpull database
+  extension: .db
+url: https://bar.parliament.gov.ru
+created: '2017-04-20'

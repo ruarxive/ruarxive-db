@@ -1,0 +1,34 @@
+id: energomashbank-ru
+name: energomashbank.ru (2014-05-08)
+domain: energomashbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.energomashbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energomashbank.ru/www.energomashbank.ru.cdx.xz
+  size: 297604
+  modified: '2014-05-08T23:40:45'
+  type: CDX
+  extension: .xz
+- name: www.energomashbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energomashbank.ru/www.energomashbank.ru.warc.xz
+  size: 751695688
+  modified: '2014-05-08T23:40:45'
+  type: WARC
+  extension: .xz
+- name: www.energomashbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energomashbank.ru/www.energomashbank.ru.7z
+  size: 755951687
+  modified: '2014-08-20T01:00:02'
+  type: ''
+  extension: .7z
+- name: www.energomashbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energomashbank.ru/www.energomashbank.ru.log.xz
+  size: 288648
+  modified: '2014-05-08T23:40:45'
+  type: wpull log
+  extension: .xz
+url: https://energomashbank.ru
+created: '2014-05-08T23:40:45'

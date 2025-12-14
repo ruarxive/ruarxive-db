@@ -1,0 +1,34 @@
+id: sledturmnkvd-info
+name: sledturmnkvd.info (2014-08-03)
+domain: sledturmnkvd.info
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: sledturmnkvd.info.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/sledturmnkvd.info/sledturmnkvd.info.7z
+  size: 864463
+  modified: '2014-08-09T17:30:33'
+  type: ''
+  extension: .7z
+- name: sledturmnkvd.info.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/sledturmnkvd.info/sledturmnkvd.info.log.xz
+  size: 17232
+  modified: '2014-08-03T03:11:35'
+  type: wpull log
+  extension: .xz
+- name: sledturmnkvd.info.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/sledturmnkvd.info/sledturmnkvd.info.cdx.xz
+  size: 31912
+  modified: '2014-08-03T03:11:35'
+  type: CDX
+  extension: .xz
+- name: sledturmnkvd.info.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/sledturmnkvd.info/sledturmnkvd.info.warc.xz
+  size: 960820
+  modified: '2014-08-03T03:11:35'
+  type: WARC
+  extension: .xz
+url: https://sledturmnkvd.info
+created: '2014-08-03T03:11:35'

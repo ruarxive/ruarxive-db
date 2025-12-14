@@ -1,0 +1,40 @@
+id: pshbank-ru
+name: pshbank.ru (2013-12-19)
+domain: pshbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.pshbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pshbank.ru/www.pshbank.ru.7z
+  size: 206407020
+  modified: '2014-08-19T07:33:56'
+  type: ''
+  extension: .7z
+- name: www.pshbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pshbank.ru/www.pshbank.ru.log.xz
+  size: 32684
+  modified: '2014-05-10T23:36:33'
+  type: wpull log
+  extension: .xz
+- name: www.pshbank.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pshbank.ru/www.pshbank.ru.warc
+  size: 246155481
+  modified: '2013-12-19T16:04:27'
+  type: WARC
+  extension: .warc
+- name: www.pshbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pshbank.ru/www.pshbank.ru.cdx.xz
+  size: 22680
+  modified: '2014-05-10T23:36:33'
+  type: CDX
+  extension: .xz
+- name: www.pshbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pshbank.ru/www.pshbank.ru.warc.xz
+  size: 203340768
+  modified: '2014-05-10T23:36:33'
+  type: WARC
+  extension: .xz
+url: https://pshbank.ru
+created: '2013-12-19T16:04:27'

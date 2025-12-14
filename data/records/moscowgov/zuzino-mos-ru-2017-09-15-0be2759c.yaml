@@ -1,0 +1,40 @@
+id: zuzino-mos-ru-2017-09-15-0be2759c
+name: zuzino.mos.ru (2017-09-15)
+domain: zuzino.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: zuzino.mos.ru-2017-09-15-0be2759c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zuzino.mos.ru-2017-09-15-0be2759c/zuzino.mos.ru-2017-09-15-0be2759c-00000.warc.gz
+  size: 2632209951
+  modified: '2017-09-17T09:28:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zuzino.mos.ru-2017-09-15-0be2759c/wpull.db
+  size: 11909120
+  modified: '2017-09-17T09:28:41'
+  type: wpull database
+  extension: .db
+- name: zuzino.mos.ru-2017-09-15-0be2759c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zuzino.mos.ru-2017-09-15-0be2759c/zuzino.mos.ru-2017-09-15-0be2759c-meta.warc.gz
+  size: 1473318
+  modified: '2017-09-17T09:28:49'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zuzino.mos.ru-2017-09-15-0be2759c/dupes_db/data.mdb
+  size: 5877760
+  modified: '2017-09-17T09:28:41'
+  type: ''
+  extension: .mdb
+- name: zuzino.mos.ru-2017-09-15-0be2759c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zuzino.mos.ru-2017-09-15-0be2759c/zuzino.mos.ru-2017-09-15-0be2759c.cdx
+  size: 9970369
+  modified: '2017-09-17T09:28:41'
+  type: CDX
+  extension: .cdx
+url: https://zuzino.mos.ru
+created: '2017-09-15'

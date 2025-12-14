@@ -1,0 +1,58 @@
+id: unicreditbank-ru
+name: unicreditbank.ru (2014-05-09)
+domain: unicreditbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.unicreditbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unicreditbank.ru/www.unicreditbank.ru.cdx.xz
+  size: 2407948
+  modified: '2014-05-09T09:35:48'
+  type: CDX
+  extension: .xz
+- name: www.unicreditbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unicreditbank.ru/www.unicreditbank.ru.warc.xz
+  size: 688773220
+  modified: '2014-05-09T09:35:48'
+  type: WARC
+  extension: .xz
+- name: www.unicreditbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unicreditbank.ru/www.unicreditbank.ru.7z
+  size: 684791106
+  modified: '2014-08-20T11:23:42'
+  type: ''
+  extension: .7z
+- name: www.unicreditbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unicreditbank.ru/www.unicreditbank.ru.log.xz
+  size: 1320696
+  modified: '2014-05-09T09:35:48'
+  type: wpull log
+  extension: .xz
+- name: unicreditbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/unicreditbank.ru/unicreditbank.ru.7z
+  size: 833390960
+  modified: '2014-08-19T13:41:42'
+  type: ''
+  extension: .7z
+- name: unicreditbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/unicreditbank.ru/unicreditbank.ru.warc.xz
+  size: 1927790216
+  modified: '2014-05-10T04:25:14'
+  type: WARC
+  extension: .xz
+- name: unicreditbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/unicreditbank.ru/unicreditbank.ru.log.xz
+  size: 3012228
+  modified: '2014-05-10T04:25:14'
+  type: wpull log
+  extension: .xz
+- name: unicreditbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/unicreditbank.ru/unicreditbank.ru.cdx.xz
+  size: 4691740
+  modified: '2014-05-10T04:25:14'
+  type: CDX
+  extension: .xz
+url: https://unicreditbank.ru
+created: '2014-05-09T09:35:48'

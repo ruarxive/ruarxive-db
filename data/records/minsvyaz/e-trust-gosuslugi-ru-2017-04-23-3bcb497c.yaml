@@ -1,0 +1,40 @@
+id: e-trust-gosuslugi-ru-2017-04-23-3bcb497c
+name: e-trust.gosuslugi.ru (2017-04-23)
+domain: e-trust.gosuslugi.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: e-trust.gosuslugi.ru-2017-04-23-3bcb497c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/e-trust.gosuslugi.ru-2017-04-23-3bcb497c/e-trust.gosuslugi.ru-2017-04-23-3bcb497c.cdx
+  size: 3123996
+  modified: '2017-04-23T09:33:53'
+  type: CDX
+  extension: .cdx
+- name: e-trust.gosuslugi.ru-2017-04-23-3bcb497c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/e-trust.gosuslugi.ru-2017-04-23-3bcb497c/e-trust.gosuslugi.ru-2017-04-23-3bcb497c-00000.warc.gz
+  size: 68632504
+  modified: '2017-04-23T09:50:06'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/e-trust.gosuslugi.ru-2017-04-23-3bcb497c/wpull.db
+  size: 3805184
+  modified: '2017-04-23T10:06:22'
+  type: wpull database
+  extension: .db
+- name: e-trust.gosuslugi.ru-2017-04-23-3bcb497c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/e-trust.gosuslugi.ru-2017-04-23-3bcb497c/e-trust.gosuslugi.ru-2017-04-23-3bcb497c-meta.warc.gz
+  size: 353123
+  modified: '2017-04-23T10:06:22'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/e-trust.gosuslugi.ru-2017-04-23-3bcb497c/dupes_db/data.mdb
+  size: 2306048
+  modified: '2017-04-23T09:33:53'
+  type: ''
+  extension: .mdb
+url: https://e-trust.gosuslugi.ru
+created: '2017-04-23'

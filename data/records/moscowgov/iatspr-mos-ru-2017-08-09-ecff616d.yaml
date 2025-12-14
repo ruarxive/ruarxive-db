@@ -1,0 +1,40 @@
+id: iatspr-mos-ru-2017-08-09-ecff616d
+name: iatspr.mos.ru (2017-08-09)
+domain: iatspr.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/iatspr.mos.ru-2017-08-09-ecff616d/dupes_db/data.mdb
+  size: 376832
+  modified: '2017-08-09T17:10:52'
+  type: ''
+  extension: .mdb
+- name: iatspr.mos.ru-2017-08-09-ecff616d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/iatspr.mos.ru-2017-08-09-ecff616d/iatspr.mos.ru-2017-08-09-ecff616d-00000.warc.gz
+  size: 120675748
+  modified: '2017-08-09T17:12:03'
+  type: WARC
+  extension: .warc.gz
+- name: iatspr.mos.ru-2017-08-09-ecff616d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/iatspr.mos.ru-2017-08-09-ecff616d/iatspr.mos.ru-2017-08-09-ecff616d.cdx
+  size: 784531
+  modified: '2017-08-09T17:12:03'
+  type: CDX
+  extension: .cdx
+- name: iatspr.mos.ru-2017-08-09-ecff616d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/iatspr.mos.ru-2017-08-09-ecff616d/iatspr.mos.ru-2017-08-09-ecff616d-meta.warc.gz
+  size: 103123
+  modified: '2017-08-09T17:12:04'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/iatspr.mos.ru-2017-08-09-ecff616d/wpull.db
+  size: 869376
+  modified: '2017-08-09T17:12:03'
+  type: wpull database
+  extension: .db
+url: https://iatspr.mos.ru
+created: '2017-08-09'

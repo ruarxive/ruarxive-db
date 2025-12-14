@@ -1,0 +1,40 @@
+id: fc-kgd2018-ru-2017-04-04-24680f2f
+name: fc.kgd2018.ru (2017-04-04)
+domain: fc.kgd2018.ru
+collection:
+  id: fifa2018
+  slug: fifa2018
+  name: FIFA 2018
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/fc.kgd2018.ru-2017-04-04-24680f2f/dupes_db/data.mdb
+  size: 221184
+  modified: '2017-04-04T12:42:07'
+  type: ''
+  extension: .mdb
+- name: fc.kgd2018.ru-2017-04-04-24680f2f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/fc.kgd2018.ru-2017-04-04-24680f2f/fc.kgd2018.ru-2017-04-04-24680f2f-meta.warc.gz
+  size: 45438
+  modified: '2017-04-04T12:42:08'
+  type: WARC
+  extension: .warc.gz
+- name: fc.kgd2018.ru-2017-04-04-24680f2f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/fc.kgd2018.ru-2017-04-04-24680f2f/fc.kgd2018.ru-2017-04-04-24680f2f.cdx
+  size: 355532
+  modified: '2017-04-04T12:42:08'
+  type: CDX
+  extension: .cdx
+- name: fc.kgd2018.ru-2017-04-04-24680f2f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/fc.kgd2018.ru-2017-04-04-24680f2f/fc.kgd2018.ru-2017-04-04-24680f2f-00000.warc.gz
+  size: 98039086
+  modified: '2017-04-04T12:42:08'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/fc.kgd2018.ru-2017-04-04-24680f2f/wpull.db
+  size: 396288
+  modified: '2017-04-04T12:42:08'
+  type: wpull database
+  extension: .db
+url: https://fc.kgd2018.ru
+created: '2017-04-04'

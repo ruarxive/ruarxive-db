@@ -1,0 +1,40 @@
+id: veterangp-ru-2017-04-04-c5343054
+name: veterangp.ru (2017-04-04)
+domain: veterangp.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/veterangp.ru-2017-04-04-c5343054/wpull.db
+  size: 116736
+  modified: '2017-04-04T21:06:32'
+  type: wpull database
+  extension: .db
+- name: veterangp.ru-2017-04-04-c5343054.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/veterangp.ru-2017-04-04-c5343054/veterangp.ru-2017-04-04-c5343054.cdx
+  size: 99464
+  modified: '2017-04-04T21:06:32'
+  type: CDX
+  extension: .cdx
+- name: veterangp.ru-2017-04-04-c5343054-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/veterangp.ru-2017-04-04-c5343054/veterangp.ru-2017-04-04-c5343054-meta.warc.gz
+  size: 14672
+  modified: '2017-04-04T21:06:32'
+  type: WARC
+  extension: .warc.gz
+- name: veterangp.ru-2017-04-04-c5343054-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/veterangp.ru-2017-04-04-c5343054/veterangp.ru-2017-04-04-c5343054-00000.warc.gz
+  size: 7471839
+  modified: '2017-04-04T21:06:32'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/veterangp.ru-2017-04-04-c5343054/dupes_db/data.mdb
+  size: 90112
+  modified: '2017-04-04T21:06:32'
+  type: ''
+  extension: .mdb
+url: https://veterangp.ru
+created: '2017-04-04'

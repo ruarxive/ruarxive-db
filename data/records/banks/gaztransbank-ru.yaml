@@ -1,0 +1,34 @@
+id: gaztransbank-ru
+name: gaztransbank.ru (2014-05-12)
+domain: gaztransbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.gaztransbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gaztransbank.ru/www.gaztransbank.ru.warc.xz
+  size: 20593796
+  modified: '2014-05-12T22:55:43'
+  type: WARC
+  extension: .xz
+- name: www.gaztransbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gaztransbank.ru/www.gaztransbank.ru.log.xz
+  size: 14016
+  modified: '2014-05-12T22:55:43'
+  type: wpull log
+  extension: .xz
+- name: www.gaztransbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gaztransbank.ru/www.gaztransbank.ru.7z
+  size: 20524091
+  modified: '2014-08-19T22:19:54'
+  type: ''
+  extension: .7z
+- name: www.gaztransbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gaztransbank.ru/www.gaztransbank.ru.cdx.xz
+  size: 21788
+  modified: '2014-05-12T22:55:42'
+  type: CDX
+  extension: .xz
+url: https://gaztransbank.ru
+created: '2014-05-12T22:55:43'

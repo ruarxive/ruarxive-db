@@ -1,0 +1,40 @@
+id: gvp-gov-ru-2017-04-04-114e29f3
+name: gvp.gov.ru (2017-04-04)
+domain: gvp.gov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gvp.gov.ru-2017-04-04-114e29f3/dupes_db/data.mdb
+  size: 921600
+  modified: '2017-04-04T07:00:38'
+  type: ''
+  extension: .mdb
+- name: gvp.gov.ru-2017-04-04-114e29f3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gvp.gov.ru-2017-04-04-114e29f3/gvp.gov.ru-2017-04-04-114e29f3.cdx
+  size: 5003324
+  modified: '2017-04-04T07:00:38'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gvp.gov.ru-2017-04-04-114e29f3/wpull.db
+  size: 5585920
+  modified: '2017-04-04T07:00:38'
+  type: wpull database
+  extension: .db
+- name: gvp.gov.ru-2017-04-04-114e29f3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gvp.gov.ru-2017-04-04-114e29f3/gvp.gov.ru-2017-04-04-114e29f3-00000.warc.gz
+  size: 1215290136
+  modified: '2017-04-04T07:00:38'
+  type: WARC
+  extension: .warc.gz
+- name: gvp.gov.ru-2017-04-04-114e29f3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gvp.gov.ru-2017-04-04-114e29f3/gvp.gov.ru-2017-04-04-114e29f3-meta.warc.gz
+  size: 358149
+  modified: '2017-04-04T07:00:38'
+  type: WARC
+  extension: .warc.gz
+url: https://gvp.gov.ru
+created: '2017-04-04'

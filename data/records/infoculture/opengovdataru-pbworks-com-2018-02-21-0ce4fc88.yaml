@@ -1,0 +1,40 @@
+id: opengovdataru-pbworks-com-2018-02-21-0ce4fc88
+name: opengovdataru.pbworks.com (2018-02-21)
+domain: opengovdataru.pbworks.com
+collection:
+  id: infoculture
+  slug: infoculture
+  name: Инфокультура
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdataru.pbworks.com-2018-02-21-0ce4fc88/wpull.db
+  size: 266240
+  modified: '2018-02-21T14:46:13'
+  type: wpull database
+  extension: .db
+- name: opengovdataru.pbworks.com-2018-02-21-0ce4fc88-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdataru.pbworks.com-2018-02-21-0ce4fc88/opengovdataru.pbworks.com-2018-02-21-0ce4fc88-00000.warc.gz
+  size: 6009549
+  modified: '2018-02-21T14:46:13'
+  type: WARC
+  extension: .warc.gz
+- name: opengovdataru.pbworks.com-2018-02-21-0ce4fc88.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdataru.pbworks.com-2018-02-21-0ce4fc88/opengovdataru.pbworks.com-2018-02-21-0ce4fc88.cdx
+  size: 232458
+  modified: '2018-02-21T14:46:13'
+  type: CDX
+  extension: .cdx
+- name: opengovdataru.pbworks.com-2018-02-21-0ce4fc88-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdataru.pbworks.com-2018-02-21-0ce4fc88/opengovdataru.pbworks.com-2018-02-21-0ce4fc88-meta.warc.gz
+  size: 25482
+  modified: '2018-02-21T14:46:13'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/opengovdataru.pbworks.com-2018-02-21-0ce4fc88/dupes_db/data.mdb
+  size: 147456
+  modified: '2018-02-21T14:46:13'
+  type: ''
+  extension: .mdb
+url: https://opengovdataru.pbworks.com
+created: '2018-02-21'

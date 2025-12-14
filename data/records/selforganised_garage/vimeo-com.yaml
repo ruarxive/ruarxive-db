@@ -1,0 +1,19 @@
+id: vimeo-com
+name: “Художественная платформа “Феминистская кухня”, ВНИМАНИЕ, есть ВИДЕО, размещенные
+  на платформе Vimeo
+url: https://vimeo.com/user17518957
+domain: vimeo.com
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: видеоархив
+resource_type_id: video-archive
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: selforganised_garage
+  name: Самоиздат
+  slug: selforganised_garage
+source:
+  id: garage-museum
+  name: Garage Museum

@@ -1,0 +1,34 @@
+id: opendatacontest-ru
+name: opendatacontest.ru (2015-12-06)
+domain: opendatacontest.ru
+collection:
+  id: opengov
+  slug: opengov
+  name: Открытое правительство РФ
+resources:
+- name: opendatacontest.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/opendatacontest.ru/opendatacontest.ru.warc.xz
+  size: 5682712
+  modified: '2015-12-06T16:09:17'
+  type: WARC
+  extension: .xz
+- name: opendatacontest.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/opendatacontest.ru/opendatacontest.ru.cdx
+  size: 175292
+  modified: '2015-12-06T16:09:17'
+  type: CDX
+  extension: .cdx
+- name: opendatacontest.ru.tar.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/opendatacontest.ru/opendatacontest.ru.tar.xz
+  size: 5588860
+  modified: '2015-12-07T09:23:51'
+  type: ''
+  extension: .xz
+- name: opendatacontest.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/opendatacontest.ru/opendatacontest.ru.log
+  size: 311911
+  modified: '2015-12-06T16:09:17'
+  type: ''
+  extension: .log
+url: https://opendatacontest.ru
+created: '2015-12-06T16:09:17'

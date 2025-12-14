@@ -1,0 +1,52 @@
+id: viking-spb-ru
+name: viking.spb.ru (2014-05-09)
+domain: viking.spb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: viking.spb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/viking.spb.ru/viking.spb.ru.cdx.xz
+  size: 769792
+  modified: '2014-05-09T02:13:37'
+  type: CDX
+  extension: .xz
+- name: www.viking.spb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/viking.spb.ru/www.viking.spb.ru.7z
+  size: 186880378
+  modified: '2014-08-19T22:36:32'
+  type: ''
+  extension: .7z
+- name: viking.spb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/viking.spb.ru/viking.spb.ru.7z
+  size: 242445419
+  modified: '2014-08-19T22:34:43'
+  type: ''
+  extension: .7z
+- name: viking.spb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/viking.spb.ru/viking.spb.ru.warc.xz
+  size: 1139289780
+  modified: '2014-05-09T02:13:37'
+  type: WARC
+  extension: .xz
+- name: viking.spb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/viking.spb.ru/viking.spb.ru.log.xz
+  size: 582072
+  modified: '2014-05-09T02:13:37'
+  type: wpull log
+  extension: .xz
+- name: ibank.viking.spb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/viking.spb.ru/ibank.viking.spb.ru.7z
+  size: 10946549
+  modified: '2014-08-19T22:34:47'
+  type: ''
+  extension: .7z
+- name: info.viking.spb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/viking.spb.ru/info.viking.spb.ru.7z
+  size: 63511321
+  modified: '2014-08-19T22:37:05'
+  type: ''
+  extension: .7z
+url: https://viking.spb.ru
+created: '2014-05-09T02:13:37'

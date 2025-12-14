@@ -1,0 +1,40 @@
+id: yan-vkks-ru-2017-05-29-d4088b15
+name: yan.vkks.ru (2017-05-29)
+domain: yan.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: yan.vkks.ru-2017-05-29-d4088b15-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/yan.vkks.ru-2017-05-29-d4088b15/yan.vkks.ru-2017-05-29-d4088b15-00000.warc.gz
+  size: 21084301
+  modified: '2017-06-03T08:50:16'
+  type: WARC
+  extension: .warc.gz
+- name: yan.vkks.ru-2017-05-29-d4088b15-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/yan.vkks.ru-2017-05-29-d4088b15/yan.vkks.ru-2017-05-29-d4088b15-meta.warc.gz
+  size: 58931
+  modified: '2017-06-03T08:50:17'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/yan.vkks.ru-2017-05-29-d4088b15/wpull.db
+  size: 419840
+  modified: '2017-06-03T08:50:16'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/yan.vkks.ru-2017-05-29-d4088b15/dupes_db/data.mdb
+  size: 106496
+  modified: '2017-06-03T08:50:19'
+  type: ''
+  extension: .mdb
+- name: yan.vkks.ru-2017-05-29-d4088b15.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/yan.vkks.ru-2017-05-29-d4088b15/yan.vkks.ru-2017-05-29-d4088b15.cdx
+  size: 570078
+  modified: '2017-06-03T08:50:18'
+  type: CDX
+  extension: .cdx
+url: https://yan.vkks.ru
+created: '2017-05-29'

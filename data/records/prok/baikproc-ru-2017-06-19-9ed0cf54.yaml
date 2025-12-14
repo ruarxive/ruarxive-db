@@ -1,0 +1,40 @@
+id: baikproc-ru-2017-06-19-9ed0cf54
+name: baikproc.ru (2017-06-19)
+domain: baikproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.baikproc.ru-2017-06-19-9ed0cf54.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.baikproc.ru-2017-06-19-9ed0cf54/www.baikproc.ru-2017-06-19-9ed0cf54.cdx
+  size: 164209
+  modified: '2017-06-25T17:13:05'
+  type: CDX
+  extension: .cdx
+- name: www.baikproc.ru-2017-06-19-9ed0cf54-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.baikproc.ru-2017-06-19-9ed0cf54/www.baikproc.ru-2017-06-19-9ed0cf54-meta.warc.gz
+  size: 16424
+  modified: '2017-06-25T17:13:05'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.baikproc.ru-2017-06-19-9ed0cf54/wpull.db
+  size: 173056
+  modified: '2017-06-25T17:13:05'
+  type: wpull database
+  extension: .db
+- name: www.baikproc.ru-2017-06-19-9ed0cf54-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.baikproc.ru-2017-06-19-9ed0cf54/www.baikproc.ru-2017-06-19-9ed0cf54-00000.warc.gz
+  size: 24024854
+  modified: '2017-06-25T17:13:06'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.baikproc.ru-2017-06-19-9ed0cf54/dupes_db/data.mdb
+  size: 131072
+  modified: '2017-06-25T17:13:06'
+  type: ''
+  extension: .mdb
+url: https://baikproc.ru
+created: '2017-06-19'

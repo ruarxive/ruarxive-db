@@ -1,0 +1,40 @@
+id: ymrc-ru-2017-05-14-428b6d58
+name: ymrc.ru (2017-05-14)
+domain: ymrc.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.ymrc.ru-2017-05-14-428b6d58.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.ymrc.ru-2017-05-14-428b6d58/www.ymrc.ru-2017-05-14-428b6d58.cdx
+  size: 413979
+  modified: '2017-05-14T14:30:07'
+  type: CDX
+  extension: .cdx
+- name: www.ymrc.ru-2017-05-14-428b6d58-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.ymrc.ru-2017-05-14-428b6d58/www.ymrc.ru-2017-05-14-428b6d58-00000.warc.gz
+  size: 814366157
+  modified: '2017-05-14T14:30:07'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.ymrc.ru-2017-05-14-428b6d58/wpull.db
+  size: 453632
+  modified: '2017-05-14T14:30:07'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.ymrc.ru-2017-05-14-428b6d58/dupes_db/data.mdb
+  size: 155648
+  modified: '2017-05-14T14:30:04'
+  type: ''
+  extension: .mdb
+- name: www.ymrc.ru-2017-05-14-428b6d58-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.ymrc.ru-2017-05-14-428b6d58/www.ymrc.ru-2017-05-14-428b6d58-meta.warc.gz
+  size: 72199
+  modified: '2017-05-14T14:30:07'
+  type: WARC
+  extension: .warc.gz
+url: https://ymrc.ru
+created: '2017-05-14'

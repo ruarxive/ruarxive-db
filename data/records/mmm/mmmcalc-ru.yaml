@@ -1,0 +1,28 @@
+id: mmmcalc-ru
+name: mmmcalc.ru (2013-10-27)
+domain: mmmcalc.ru
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmmcalc.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmcalc.ru/mmmcalc.ru.cdx.xz
+  size: 84
+  modified: '2013-10-27T17:30:33'
+  type: CDX
+  extension: .xz
+- name: mmmcalc.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmcalc.ru/mmmcalc.ru.log.xz
+  size: 428
+  modified: '2013-10-27T17:30:33'
+  type: wpull log
+  extension: .xz
+- name: mmmcalc.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmcalc.ru/mmmcalc.ru.warc.xz
+  size: 1124
+  modified: '2013-10-27T17:30:32'
+  type: WARC
+  extension: .xz
+url: https://mmmcalc.ru
+created: '2013-10-27T17:30:32'

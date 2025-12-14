@@ -1,0 +1,63 @@
+id: dgp-mos-ru-2017-08-09-f9c4ffde
+name: dgp.mos.ru (2017-08-09)
+domain: dgp.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/wpull.db
+  size: 273108992
+  modified: '2017-08-15T19:29:31'
+  type: wpull database
+  extension: .db
+- name: dgp.mos.ru-2017-08-09-f9c4ffde-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/dgp.mos.ru-2017-08-09-f9c4ffde-meta.warc.gz
+  size: 5502161
+  modified: '2017-08-15T19:29:39'
+  type: WARC
+  extension: .warc.gz
+- name: dgp.mos.ru-2017-08-09-f9c4ffde-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/dgp.mos.ru-2017-08-09-f9c4ffde-00000.warc.gz
+  size: 5369080852
+  modified: '2017-08-12T23:48:02'
+  type: WARC
+  extension: .warc.gz
+- name: dgp.mos.ru-2017-08-09-f9c4ffde-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/dgp.mos.ru-2017-08-09-f9c4ffde-00001.warc.gz
+  size: 5368722949
+  modified: '2017-08-15T11:21:01'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/stop
+  size: 0
+  modified: '2017-08-15T19:29:29'
+  type: ''
+- name: tmp-wpull-resp_cb-rqu3rd.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/temp/tmp-wpull-resp_cb-rqu3rd.tmp
+  size: 83156
+  modified: '2017-08-15T19:29:30'
+  type: ''
+  extension: .tmp
+- name: dgp.mos.ru-2017-08-09-f9c4ffde-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/dgp.mos.ru-2017-08-09-f9c4ffde-00002.warc.gz
+  size: 277077040
+  modified: '2017-08-15T19:29:30'
+  type: WARC
+  extension: .warc.gz
+- name: dgp.mos.ru-2017-08-09-f9c4ffde.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/dgp.mos.ru-2017-08-09-f9c4ffde.cdx
+  size: 115211365
+  modified: '2017-08-15T19:29:30'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dgp.mos.ru-2017-08-09-f9c4ffde/dupes_db/data.mdb
+  size: 141299712
+  modified: '2017-08-15T19:29:30'
+  type: ''
+  extension: .mdb
+url: https://dgp.mos.ru
+created: '2017-08-09'

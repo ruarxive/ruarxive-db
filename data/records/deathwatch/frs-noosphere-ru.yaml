@@ -1,0 +1,29 @@
+id: frs-noosphere-ru
+name: ФРС (Федеральная резервная система) проекта Ноосфера
+url: https://frs.noosphere.ru
+domain: frs.noosphere.ru
+created: '2022-11-14T14:55:40.000Z'
+date: '2022-07-19T14:56:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Недоступность проекта в июле 2022 г.
+reason_id: project-unavailable
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: deathwatch
+  slug: deathwatch
+  name: Мониторинг закрытия сайтов
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: frs.noosphere.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/deathwatch/frs.noosphere.ru/frs.noosphere.ru.warc.gz

@@ -1,0 +1,34 @@
+id: necklace-ru
+name: necklace.ru (2014-05-15)
+domain: necklace.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.necklace.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.necklace.ru/www.necklace.ru.7z
+  size: 139777789
+  modified: '2014-08-20T07:04:04'
+  type: ''
+  extension: .7z
+- name: www.necklace.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.necklace.ru/www.necklace.ru.warc.xz
+  size: 138741920
+  modified: '2014-05-15T15:30:52'
+  type: WARC
+  extension: .xz
+- name: www.necklace.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.necklace.ru/www.necklace.ru.log.xz
+  size: 30000
+  modified: '2014-05-15T15:30:52'
+  type: wpull log
+  extension: .xz
+- name: www.necklace.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.necklace.ru/www.necklace.ru.cdx.xz
+  size: 27400
+  modified: '2014-05-15T15:30:51'
+  type: CDX
+  extension: .xz
+url: https://necklace.ru
+created: '2014-05-15T15:30:52'

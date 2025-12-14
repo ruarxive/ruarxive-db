@@ -1,0 +1,40 @@
+id: genprok-szfo-ru-2017-06-20-c41af89e
+name: genprok-szfo.ru (2017-06-20)
+domain: genprok-szfo.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/genprok-szfo.ru-2017-06-20-c41af89e/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-06-25T17:11:55'
+  type: ''
+  extension: .mdb
+- name: genprok-szfo.ru-2017-06-20-c41af89e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/genprok-szfo.ru-2017-06-20-c41af89e/genprok-szfo.ru-2017-06-20-c41af89e-00000.warc.gz
+  size: 6348
+  modified: '2017-06-25T17:11:53'
+  type: WARC
+  extension: .warc.gz
+- name: genprok-szfo.ru-2017-06-20-c41af89e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/genprok-szfo.ru-2017-06-20-c41af89e/genprok-szfo.ru-2017-06-20-c41af89e-meta.warc.gz
+  size: 2984
+  modified: '2017-06-25T17:11:53'
+  type: WARC
+  extension: .warc.gz
+- name: genprok-szfo.ru-2017-06-20-c41af89e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/genprok-szfo.ru-2017-06-20-c41af89e/genprok-szfo.ru-2017-06-20-c41af89e.cdx
+  size: 402
+  modified: '2017-06-25T17:11:54'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/genprok-szfo.ru-2017-06-20-c41af89e/wpull.db
+  size: 10240
+  modified: '2017-06-25T17:11:51'
+  type: wpull database
+  extension: .db
+url: https://genprok-szfo.ru
+created: '2017-06-20'

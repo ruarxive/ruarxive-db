@@ -1,0 +1,34 @@
+id: belsocbank-ru
+name: belsocbank.ru (2014-05-13)
+domain: belsocbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.belsocbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.belsocbank.ru/www.belsocbank.ru.7z
+  size: 4038
+  modified: '2014-08-20T10:07:16'
+  type: ''
+  extension: .7z
+- name: www.belsocbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.belsocbank.ru/www.belsocbank.ru.log.xz
+  size: 500
+  modified: '2014-05-13T09:42:29'
+  type: wpull log
+  extension: .xz
+- name: www.belsocbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.belsocbank.ru/www.belsocbank.ru.warc.xz
+  size: 5564
+  modified: '2014-05-13T09:42:29'
+  type: WARC
+  extension: .xz
+- name: www.belsocbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.belsocbank.ru/www.belsocbank.ru.cdx.xz
+  size: 240
+  modified: '2014-05-13T09:42:29'
+  type: CDX
+  extension: .xz
+url: https://belsocbank.ru
+created: '2014-05-13T09:42:29'

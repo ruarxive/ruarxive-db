@@ -1,0 +1,40 @@
+id: monitoring-corpmsp-ru-2017-05-15-83d5fff1
+name: monitoring.corpmsp.ru (2017-05-15)
+domain: monitoring.corpmsp.ru
+collection:
+  id: corpmsp
+  slug: corpmsp
+  name: Корпорация "МСП"
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/monitoring.corpmsp.ru-2017-05-15-83d5fff1/wpull.db
+  size: 147456
+  modified: '2017-05-15T09:17:22'
+  type: wpull database
+  extension: .db
+- name: monitoring.corpmsp.ru-2017-05-15-83d5fff1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/monitoring.corpmsp.ru-2017-05-15-83d5fff1/monitoring.corpmsp.ru-2017-05-15-83d5fff1-00000.warc.gz
+  size: 236087820
+  modified: '2017-05-15T09:17:22'
+  type: WARC
+  extension: .warc.gz
+- name: monitoring.corpmsp.ru-2017-05-15-83d5fff1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/monitoring.corpmsp.ru-2017-05-15-83d5fff1/monitoring.corpmsp.ru-2017-05-15-83d5fff1.cdx
+  size: 136368
+  modified: '2017-05-15T09:17:22'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/monitoring.corpmsp.ru-2017-05-15-83d5fff1/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-05-15T09:17:18'
+  type: ''
+  extension: .mdb
+- name: monitoring.corpmsp.ru-2017-05-15-83d5fff1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/monitoring.corpmsp.ru-2017-05-15-83d5fff1/monitoring.corpmsp.ru-2017-05-15-83d5fff1-meta.warc.gz
+  size: 18740
+  modified: '2017-05-15T09:17:22'
+  type: WARC
+  extension: .warc.gz
+url: https://monitoring.corpmsp.ru
+created: '2017-05-15'

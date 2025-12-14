@@ -1,0 +1,34 @@
+id: mak-ru
+name: mak.ru (2015-01-08)
+domain: mak.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.mak.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.mak.ru/www.mak.ru.log.xz
+  size: 340868
+  modified: '2015-01-08T01:31:25'
+  type: wpull log
+  extension: .xz
+- name: www.mak.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.mak.ru/www.mak.ru.7z
+  size: 4449879053
+  modified: '2015-01-09T01:31:35'
+  type: ''
+  extension: .7z
+- name: www.mak.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.mak.ru/www.mak.ru.warc.xz
+  size: 4534932148
+  modified: '2015-01-08T01:31:25'
+  type: WARC
+  extension: .xz
+- name: www.mak.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.mak.ru/www.mak.ru.cdx.xz
+  size: 71112
+  modified: '2015-01-08T01:31:25'
+  type: CDX
+  extension: .xz
+url: https://mak.ru
+created: '2015-01-08T01:31:25'

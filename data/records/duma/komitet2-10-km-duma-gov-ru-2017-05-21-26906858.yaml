@@ -1,0 +1,40 @@
+id: komitet2-10-km-duma-gov-ru-2017-05-21-26906858
+name: komitet2-10.km.duma.gov.ru (2017-05-21)
+domain: komitet2-10.km.duma.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858/www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858-meta.warc.gz
+  size: 215913
+  modified: '2017-05-26T15:45:22'
+  type: WARC
+  extension: .warc.gz
+- name: www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858/www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858.cdx
+  size: 2759241
+  modified: '2017-05-26T15:45:22'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858/wpull.db
+  size: 3368960
+  modified: '2017-05-26T15:45:22'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858/dupes_db/data.mdb
+  size: 1810432
+  modified: '2017-05-26T15:34:34'
+  type: ''
+  extension: .mdb
+- name: www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858/www.komitet2-10.km.duma.gov.ru-2017-05-21-26906858-00000.warc.gz
+  size: 201422927
+  modified: '2017-05-26T15:45:27'
+  type: WARC
+  extension: .warc.gz
+url: https://komitet2-10.km.duma.gov.ru
+created: '2017-05-21'

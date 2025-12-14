@@ -1,0 +1,40 @@
+id: mff-minfin-ru-2017-07-06-687bf8f0
+name: mff.minfin.ru (2017-07-06)
+domain: mff.minfin.ru
+collection:
+  id: minfin
+  slug: minfin
+  name: Министерство финансов РФ
+resources:
+- name: www.mff.minfin.ru-2017-07-06-687bf8f0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/www.mff.minfin.ru-2017-07-06-687bf8f0/www.mff.minfin.ru-2017-07-06-687bf8f0.cdx
+  size: 110725
+  modified: '2017-07-06T21:28:28'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/www.mff.minfin.ru-2017-07-06-687bf8f0/wpull.db
+  size: 149504
+  modified: '2017-07-06T21:28:28'
+  type: wpull database
+  extension: .db
+- name: www.mff.minfin.ru-2017-07-06-687bf8f0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/www.mff.minfin.ru-2017-07-06-687bf8f0/www.mff.minfin.ru-2017-07-06-687bf8f0-meta.warc.gz
+  size: 19607
+  modified: '2017-07-06T21:28:28'
+  type: WARC
+  extension: .warc.gz
+- name: www.mff.minfin.ru-2017-07-06-687bf8f0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/www.mff.minfin.ru-2017-07-06-687bf8f0/www.mff.minfin.ru-2017-07-06-687bf8f0-00000.warc.gz
+  size: 313965326
+  modified: '2017-07-06T21:28:28'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/www.mff.minfin.ru-2017-07-06-687bf8f0/dupes_db/data.mdb
+  size: 106496
+  modified: '2017-07-06T21:28:27'
+  type: ''
+  extension: .mdb
+url: https://mff.minfin.ru
+created: '2017-07-06'

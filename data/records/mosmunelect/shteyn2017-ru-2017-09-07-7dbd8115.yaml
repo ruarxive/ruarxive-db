@@ -1,0 +1,40 @@
+id: shteyn2017-ru-2017-09-07-7dbd8115
+name: shteyn2017.ru (2017-09-07)
+domain: shteyn2017.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: shteyn2017.ru-2017-09-07-7dbd8115-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/shteyn2017.ru-2017-09-07-7dbd8115/shteyn2017.ru-2017-09-07-7dbd8115-00000.warc.gz
+  size: 5574750
+  modified: '2017-09-07T21:59:41'
+  type: WARC
+  extension: .warc.gz
+- name: shteyn2017.ru-2017-09-07-7dbd8115-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/shteyn2017.ru-2017-09-07-7dbd8115/shteyn2017.ru-2017-09-07-7dbd8115-meta.warc.gz
+  size: 4270
+  modified: '2017-09-07T21:59:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/shteyn2017.ru-2017-09-07-7dbd8115/wpull.db
+  size: 16384
+  modified: '2017-09-07T21:59:41'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/shteyn2017.ru-2017-09-07-7dbd8115/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-09-07T21:59:41'
+  type: ''
+  extension: .mdb
+- name: shteyn2017.ru-2017-09-07-7dbd8115.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/shteyn2017.ru-2017-09-07-7dbd8115/shteyn2017.ru-2017-09-07-7dbd8115.cdx
+  size: 8544
+  modified: '2017-09-07T21:59:41'
+  type: CDX
+  extension: .cdx
+url: https://shteyn2017.ru
+created: '2017-09-07'

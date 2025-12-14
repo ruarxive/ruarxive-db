@@ -1,0 +1,34 @@
+id: civicbrics-ru
+name: civicbrics.ru (2016-05-08)
+domain: civicbrics.ru
+collection:
+  id: events
+  slug: events
+  name: События
+resources:
+- name: www.civicbrics.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.civicbrics.ru/www.civicbrics.ru.7z
+  size: 101837957
+  modified: '2016-05-20T15:37:02'
+  type: ''
+  extension: .7z
+- name: www.civicbrics.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.civicbrics.ru/www.civicbrics.ru.log.xz
+  size: 58912
+  modified: '2016-05-08T10:32:21'
+  type: wpull log
+  extension: .xz
+- name: www.civicbrics.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.civicbrics.ru/www.civicbrics.ru.warc.xz
+  size: 97168688
+  modified: '2016-05-08T10:32:21'
+  type: WARC
+  extension: .xz
+- name: www.civicbrics.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.civicbrics.ru/www.civicbrics.ru.cdx.xz
+  size: 94648
+  modified: '2016-05-08T10:32:21'
+  type: CDX
+  extension: .xz
+url: https://civicbrics.ru
+created: '2016-05-08T10:32:21'

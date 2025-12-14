@@ -1,0 +1,46 @@
+id: crimestat-ru
+name: crimestat.ru (2015-04-23)
+domain: crimestat.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: crimestat.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/crimestat.ru/crimestat.ru.log.xz
+  size: 3716
+  modified: '2014-01-21T07:16:35'
+  type: wpull log
+  extension: .xz
+- name: crimestat.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/crimestat.ru/crimestat.ru.cdx
+  size: 17996
+  modified: '2015-04-23T17:10:10'
+  type: CDX
+  extension: .cdx
+- name: crimestat.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/crimestat.ru/crimestat.ru.warc.xz
+  size: 539524
+  modified: '2015-04-23T17:10:10'
+  type: WARC
+  extension: .xz
+- name: crimestat.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/crimestat.ru/crimestat.ru.log
+  size: 36338
+  modified: '2015-04-23T17:10:10'
+  type: ''
+  extension: .log
+- name: crimestat.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/crimestat.ru/crimestat.ru.7z
+  size: 526916
+  modified: '2015-05-17T15:13:31'
+  type: ''
+  extension: .7z
+- name: crimestat.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/crimestat.ru/crimestat.ru.cdx.xz
+  size: 5144
+  modified: '2014-01-21T07:16:37'
+  type: CDX
+  extension: .xz
+url: https://crimestat.ru
+created: '2015-04-23T17:10:10'

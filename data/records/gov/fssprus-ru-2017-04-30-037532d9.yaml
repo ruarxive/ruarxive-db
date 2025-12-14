@@ -1,0 +1,40 @@
+id: fssprus-ru-2017-04-30-037532d9
+name: fssprus.ru (2017-04-30)
+domain: fssprus.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fssprus.ru-2017-04-30-037532d9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fssprus.ru-2017-04-30-037532d9/www.fssprus.ru-2017-04-30-037532d9-meta.warc.gz
+  size: 9069
+  modified: '2017-04-30T07:44:18'
+  type: WARC
+  extension: .warc.gz
+- name: www.fssprus.ru-2017-04-30-037532d9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fssprus.ru-2017-04-30-037532d9/www.fssprus.ru-2017-04-30-037532d9-00000.warc.gz
+  size: 3615050
+  modified: '2017-04-30T07:44:18'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fssprus.ru-2017-04-30-037532d9/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-04-30T07:44:18'
+  type: ''
+  extension: .mdb
+- name: www.fssprus.ru-2017-04-30-037532d9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fssprus.ru-2017-04-30-037532d9/www.fssprus.ru-2017-04-30-037532d9.cdx
+  size: 43212
+  modified: '2017-04-30T07:44:18'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fssprus.ru-2017-04-30-037532d9/wpull.db
+  size: 54272
+  modified: '2017-04-30T07:44:18'
+  type: wpull database
+  extension: .db
+url: https://fssprus.ru
+created: '2017-04-30'

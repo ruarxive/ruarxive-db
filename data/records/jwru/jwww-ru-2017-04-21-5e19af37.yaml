@@ -1,0 +1,40 @@
+id: jwww-ru-2017-04-21-5e19af37
+name: jwww.ru (2017-04-21)
+domain: jwww.ru
+collection:
+  id: jwru
+  slug: jwru
+  name: Свидетели Иеговы
+resources:
+- name: jwww.ru-2017-04-21-5e19af37-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jwww.ru-2017-04-21-5e19af37/jwww.ru-2017-04-21-5e19af37-00000.warc.gz
+  size: 103256298
+  modified: '2017-04-21T12:51:04'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jwww.ru-2017-04-21-5e19af37/dupes_db/data.mdb
+  size: 249856
+  modified: '2017-04-21T12:35:13'
+  type: ''
+  extension: .mdb
+- name: jwww.ru-2017-04-21-5e19af37-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jwww.ru-2017-04-21-5e19af37/jwww.ru-2017-04-21-5e19af37-meta.warc.gz
+  size: 761605
+  modified: '2017-04-21T12:51:05'
+  type: WARC
+  extension: .warc.gz
+- name: jwww.ru-2017-04-21-5e19af37.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jwww.ru-2017-04-21-5e19af37/jwww.ru-2017-04-21-5e19af37.cdx
+  size: 5481320
+  modified: '2017-04-21T12:51:04'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jwww.ru-2017-04-21-5e19af37/wpull.db
+  size: 3829760
+  modified: '2017-04-21T12:51:05'
+  type: wpull database
+  extension: .db
+url: https://jwww.ru
+created: '2017-04-21'

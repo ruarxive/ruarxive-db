@@ -1,0 +1,40 @@
+id: sviblovo-mos-ru-2017-09-15-2497f152
+name: sviblovo.mos.ru (2017-09-15)
+domain: sviblovo.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sviblovo.mos.ru-2017-09-15-2497f152/dupes_db/data.mdb
+  size: 4591616
+  modified: '2017-09-17T10:31:00'
+  type: ''
+  extension: .mdb
+- name: sviblovo.mos.ru-2017-09-15-2497f152-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sviblovo.mos.ru-2017-09-15-2497f152/sviblovo.mos.ru-2017-09-15-2497f152-meta.warc.gz
+  size: 1589215
+  modified: '2017-09-17T11:17:01'
+  type: WARC
+  extension: .warc.gz
+- name: sviblovo.mos.ru-2017-09-15-2497f152-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sviblovo.mos.ru-2017-09-15-2497f152/sviblovo.mos.ru-2017-09-15-2497f152-00000.warc.gz
+  size: 2575980863
+  modified: '2017-09-17T11:16:53'
+  type: WARC
+  extension: .warc.gz
+- name: sviblovo.mos.ru-2017-09-15-2497f152.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sviblovo.mos.ru-2017-09-15-2497f152/sviblovo.mos.ru-2017-09-15-2497f152.cdx
+  size: 11116967
+  modified: '2017-09-17T11:16:53'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sviblovo.mos.ru-2017-09-15-2497f152/wpull.db
+  size: 13944832
+  modified: '2017-09-17T11:16:54'
+  type: wpull database
+  extension: .db
+url: https://sviblovo.mos.ru
+created: '2017-09-15'

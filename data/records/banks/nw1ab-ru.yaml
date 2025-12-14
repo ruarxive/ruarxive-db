@@ -1,0 +1,34 @@
+id: nw1ab-ru
+name: nw1ab.ru (2014-05-13)
+domain: nw1ab.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.nw1ab.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nw1ab.ru/www.nw1ab.ru.cdx.xz
+  size: 24320
+  modified: '2014-05-13T09:56:02'
+  type: CDX
+  extension: .xz
+- name: www.nw1ab.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nw1ab.ru/www.nw1ab.ru.warc.xz
+  size: 50679620
+  modified: '2014-05-13T09:56:02'
+  type: WARC
+  extension: .xz
+- name: www.nw1ab.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nw1ab.ru/www.nw1ab.ru.7z
+  size: 50739946
+  modified: '2014-08-19T07:24:54'
+  type: ''
+  extension: .7z
+- name: www.nw1ab.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nw1ab.ru/www.nw1ab.ru.log.xz
+  size: 20460
+  modified: '2014-05-13T09:56:02'
+  type: wpull log
+  extension: .xz
+url: https://nw1ab.ru
+created: '2014-05-13T09:56:02'

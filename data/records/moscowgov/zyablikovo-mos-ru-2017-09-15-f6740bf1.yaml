@@ -1,0 +1,40 @@
+id: zyablikovo-mos-ru-2017-09-15-f6740bf1
+name: zyablikovo.mos.ru (2017-09-15)
+domain: zyablikovo.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zyablikovo.mos.ru-2017-09-15-f6740bf1/dupes_db/data.mdb
+  size: 5873664
+  modified: '2017-09-17T11:26:42'
+  type: ''
+  extension: .mdb
+- name: zyablikovo.mos.ru-2017-09-15-f6740bf1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zyablikovo.mos.ru-2017-09-15-f6740bf1/zyablikovo.mos.ru-2017-09-15-f6740bf1.cdx
+  size: 10851025
+  modified: '2017-09-17T11:26:42'
+  type: CDX
+  extension: .cdx
+- name: zyablikovo.mos.ru-2017-09-15-f6740bf1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zyablikovo.mos.ru-2017-09-15-f6740bf1/zyablikovo.mos.ru-2017-09-15-f6740bf1-meta.warc.gz
+  size: 1550896
+  modified: '2017-09-17T11:26:53'
+  type: WARC
+  extension: .warc.gz
+- name: zyablikovo.mos.ru-2017-09-15-f6740bf1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zyablikovo.mos.ru-2017-09-15-f6740bf1/zyablikovo.mos.ru-2017-09-15-f6740bf1-00000.warc.gz
+  size: 2879440177
+  modified: '2017-09-17T11:26:42'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zyablikovo.mos.ru-2017-09-15-f6740bf1/wpull.db
+  size: 13777920
+  modified: '2017-09-17T11:26:46'
+  type: wpull database
+  extension: .db
+url: https://zyablikovo.mos.ru
+created: '2017-09-15'

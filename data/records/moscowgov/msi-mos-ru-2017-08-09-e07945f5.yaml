@@ -1,0 +1,52 @@
+id: msi-mos-ru-2017-08-09-e07945f5
+name: msi.mos.ru (2017-08-09)
+domain: msi.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: msi.mos.ru-2017-08-09-e07945f5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msi.mos.ru-2017-08-09-e07945f5/msi.mos.ru-2017-08-09-e07945f5-00000.warc.gz
+  size: 5442747215
+  modified: '2017-08-11T04:01:22'
+  type: WARC
+  extension: .warc.gz
+- name: msi.mos.ru-2017-08-09-e07945f5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msi.mos.ru-2017-08-09-e07945f5/msi.mos.ru-2017-08-09-e07945f5-meta.warc.gz
+  size: 1015367
+  modified: '2017-08-12T20:18:10'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msi.mos.ru-2017-08-09-e07945f5/wpull.db
+  size: 10331136
+  modified: '2017-08-12T20:18:09'
+  type: wpull database
+  extension: .db
+- name: msi.mos.ru-2017-08-09-e07945f5-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msi.mos.ru-2017-08-09-e07945f5/msi.mos.ru-2017-08-09-e07945f5-00001.warc.gz
+  size: 5369225126
+  modified: '2017-08-12T08:37:01'
+  type: WARC
+  extension: .warc.gz
+- name: msi.mos.ru-2017-08-09-e07945f5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msi.mos.ru-2017-08-09-e07945f5/msi.mos.ru-2017-08-09-e07945f5.cdx
+  size: 8470383
+  modified: '2017-08-12T20:18:08'
+  type: CDX
+  extension: .cdx
+- name: msi.mos.ru-2017-08-09-e07945f5-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msi.mos.ru-2017-08-09-e07945f5/msi.mos.ru-2017-08-09-e07945f5-00002.warc.gz
+  size: 652022904
+  modified: '2017-08-12T20:18:08'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/msi.mos.ru-2017-08-09-e07945f5/dupes_db/data.mdb
+  size: 4538368
+  modified: '2017-08-12T20:18:07'
+  type: ''
+  extension: .mdb
+url: https://msi.mos.ru
+created: '2017-08-09'

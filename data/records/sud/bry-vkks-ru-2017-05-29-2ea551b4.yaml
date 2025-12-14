@@ -1,0 +1,40 @@
+id: bry-vkks-ru-2017-05-29-2ea551b4
+name: bry.vkks.ru (2017-05-29)
+domain: bry.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: bry.vkks.ru-2017-05-29-2ea551b4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/bry.vkks.ru-2017-05-29-2ea551b4/bry.vkks.ru-2017-05-29-2ea551b4-meta.warc.gz
+  size: 77094
+  modified: '2017-06-03T08:50:50'
+  type: WARC
+  extension: .warc.gz
+- name: bry.vkks.ru-2017-05-29-2ea551b4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/bry.vkks.ru-2017-05-29-2ea551b4/bry.vkks.ru-2017-05-29-2ea551b4.cdx
+  size: 765690
+  modified: '2017-06-03T08:50:50'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/bry.vkks.ru-2017-05-29-2ea551b4/wpull.db
+  size: 555008
+  modified: '2017-06-03T08:50:50'
+  type: wpull database
+  extension: .db
+- name: bry.vkks.ru-2017-05-29-2ea551b4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/bry.vkks.ru-2017-05-29-2ea551b4/bry.vkks.ru-2017-05-29-2ea551b4-00000.warc.gz
+  size: 26222891
+  modified: '2017-06-03T08:50:50'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/bry.vkks.ru-2017-05-29-2ea551b4/dupes_db/data.mdb
+  size: 172032
+  modified: '2017-06-03T08:50:50'
+  type: ''
+  extension: .mdb
+url: https://bry.vkks.ru
+created: '2017-05-29'

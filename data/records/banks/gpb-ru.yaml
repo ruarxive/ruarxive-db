@@ -1,0 +1,34 @@
+id: gpb-ru
+name: gpb.ru (2014-05-10)
+domain: gpb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.gpb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gpb.ru/www.gpb.ru.log.xz
+  size: 620
+  modified: '2014-05-10T20:02:58'
+  type: wpull log
+  extension: .xz
+- name: www.gpb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gpb.ru/www.gpb.ru.7z
+  size: 10097
+  modified: '2014-08-19T22:20:46'
+  type: ''
+  extension: .7z
+- name: www.gpb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gpb.ru/www.gpb.ru.cdx.xz
+  size: 328
+  modified: '2014-05-10T20:02:58'
+  type: CDX
+  extension: .xz
+- name: www.gpb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gpb.ru/www.gpb.ru.warc.xz
+  size: 11924
+  modified: '2014-05-10T20:02:58'
+  type: WARC
+  extension: .xz
+url: https://gpb.ru
+created: '2014-05-10T20:02:58'

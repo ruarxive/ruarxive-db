@@ -1,0 +1,34 @@
+id: nskbl-ru
+name: nskbl.ru (2014-05-14)
+domain: nskbl.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.nskbl.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nskbl.ru/www.nskbl.ru.warc.xz
+  size: 563385936
+  modified: '2014-05-14T19:09:57'
+  type: WARC
+  extension: .xz
+- name: www.nskbl.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nskbl.ru/www.nskbl.ru.log.xz
+  size: 167848
+  modified: '2014-05-14T19:09:57'
+  type: wpull log
+  extension: .xz
+- name: www.nskbl.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nskbl.ru/www.nskbl.ru.cdx.xz
+  size: 176560
+  modified: '2014-05-14T19:09:57'
+  type: CDX
+  extension: .xz
+- name: www.nskbl.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nskbl.ru/www.nskbl.ru.7z
+  size: 568354978
+  modified: '2014-08-20T11:14:07'
+  type: ''
+  extension: .7z
+url: https://nskbl.ru
+created: '2014-05-14T19:09:57'

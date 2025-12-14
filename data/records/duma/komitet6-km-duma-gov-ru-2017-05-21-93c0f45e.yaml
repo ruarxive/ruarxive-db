@@ -1,0 +1,40 @@
+id: komitet6-km-duma-gov-ru-2017-05-21-93c0f45e
+name: komitet6.km.duma.gov.ru (2017-05-21)
+domain: komitet6.km.duma.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e/dupes_db/data.mdb
+  size: 1953792
+  modified: '2017-05-26T15:47:36'
+  type: ''
+  extension: .mdb
+- name: www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e/www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e-00000.warc.gz
+  size: 764115096
+  modified: '2017-05-26T15:47:36'
+  type: WARC
+  extension: .warc.gz
+- name: www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e/www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e-meta.warc.gz
+  size: 231239
+  modified: '2017-05-26T15:47:36'
+  type: WARC
+  extension: .warc.gz
+- name: www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e/www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e.cdx
+  size: 2994173
+  modified: '2017-05-26T15:47:36'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/www.komitet6.km.duma.gov.ru-2017-05-21-93c0f45e/wpull.db
+  size: 3649536
+  modified: '2017-05-26T15:39:26'
+  type: wpull database
+  extension: .db
+url: https://komitet6.km.duma.gov.ru
+created: '2017-05-21'

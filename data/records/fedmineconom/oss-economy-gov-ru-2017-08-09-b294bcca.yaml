@@ -1,0 +1,40 @@
+id: oss-economy-gov-ru-2017-08-09-b294bcca
+name: oss.economy.gov.ru (2017-08-09)
+domain: oss.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/oss.economy.gov.ru-2017-08-09-b294bcca/dupes_db/data.mdb
+  size: 622592
+  modified: '2017-08-10T01:49:44'
+  type: ''
+  extension: .mdb
+- name: oss.economy.gov.ru-2017-08-09-b294bcca.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/oss.economy.gov.ru-2017-08-09-b294bcca/oss.economy.gov.ru-2017-08-09-b294bcca.cdx
+  size: 1002630
+  modified: '2017-08-10T01:49:44'
+  type: CDX
+  extension: .cdx
+- name: oss.economy.gov.ru-2017-08-09-b294bcca-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/oss.economy.gov.ru-2017-08-09-b294bcca/oss.economy.gov.ru-2017-08-09-b294bcca-00000.warc.gz
+  size: 30631433
+  modified: '2017-08-10T01:49:44'
+  type: WARC
+  extension: .warc.gz
+- name: oss.economy.gov.ru-2017-08-09-b294bcca-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/oss.economy.gov.ru-2017-08-09-b294bcca/oss.economy.gov.ru-2017-08-09-b294bcca-meta.warc.gz
+  size: 95977
+  modified: '2017-08-10T01:49:46'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/oss.economy.gov.ru-2017-08-09-b294bcca/wpull.db
+  size: 1082368
+  modified: '2017-08-10T01:49:45'
+  type: wpull database
+  extension: .db
+url: https://oss.economy.gov.ru
+created: '2017-08-09'

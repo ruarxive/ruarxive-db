@@ -1,0 +1,40 @@
+id: otradnoe-mos-ru-2017-09-15-2c8b2dec
+name: otradnoe.mos.ru (2017-09-15)
+domain: otradnoe.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/otradnoe.mos.ru-2017-09-15-2c8b2dec/dupes_db/data.mdb
+  size: 5992448
+  modified: '2017-09-17T00:48:06'
+  type: ''
+  extension: .mdb
+- name: otradnoe.mos.ru-2017-09-15-2c8b2dec-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/otradnoe.mos.ru-2017-09-15-2c8b2dec/otradnoe.mos.ru-2017-09-15-2c8b2dec-00000.warc.gz
+  size: 3402263213
+  modified: '2017-09-17T00:48:06'
+  type: WARC
+  extension: .warc.gz
+- name: otradnoe.mos.ru-2017-09-15-2c8b2dec.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/otradnoe.mos.ru-2017-09-15-2c8b2dec/otradnoe.mos.ru-2017-09-15-2c8b2dec.cdx
+  size: 9466877
+  modified: '2017-09-17T00:48:06'
+  type: CDX
+  extension: .cdx
+- name: otradnoe.mos.ru-2017-09-15-2c8b2dec-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/otradnoe.mos.ru-2017-09-15-2c8b2dec/otradnoe.mos.ru-2017-09-15-2c8b2dec-meta.warc.gz
+  size: 1294466
+  modified: '2017-09-17T00:48:26'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/otradnoe.mos.ru-2017-09-15-2c8b2dec/wpull.db
+  size: 12029952
+  modified: '2017-09-17T00:48:14'
+  type: wpull database
+  extension: .db
+url: https://otradnoe.mos.ru
+created: '2017-09-15'

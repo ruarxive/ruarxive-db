@@ -1,0 +1,225 @@
+id: duma
+slug: duma
+name: Государственная Дума
+num_records: 43
+records:
+- id: api-duma-gov-ru-2017-04-20-d57e726f
+  name: api.duma.gov.ru (2017-04-20)
+  url: https://api.duma.gov.ru
+  created: '2017-04-20'
+  domain: api.duma.gov.ru
+- id: asozd-duma-gov-ru-2017-05-21-61debac5
+  name: asozd.duma.gov.ru (2017-05-21)
+  url: https://asozd.duma.gov.ru
+  created: '2017-05-21'
+  domain: asozd.duma.gov.ru
+- id: bar-parliament-gov-ru-2017-04-20-d046762d
+  name: bar.parliament.gov.ru (2017-04-20)
+  url: https://bar.parliament.gov.ru
+  created: '2017-04-20'
+  domain: bar.parliament.gov.ru
+- id: duma-gov-ru-2017-04-20-43ec483d
+  name: duma.gov.ru (2017-04-20)
+  url: https://duma.gov.ru
+  created: '2017-04-20'
+  domain: duma.gov.ru
+- id: forum-km-duma-gov-ru-2017-05-21-5e0e49af
+  name: forum.km.duma.gov.ru (2017-05-21)
+  url: https://forum.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: forum.km.duma.gov.ru
+- id: forum4-km-duma-gov-ru-2017-05-21-2fa3e6c8
+  name: forum4.km.duma.gov.ru (2017-05-21)
+  url: https://forum4.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: forum4.km.duma.gov.ru
+- id: iam-duma-gov-ru-2017-04-20-5d10c840
+  name: iam.duma.gov.ru (2017-04-20)
+  url: https://iam.duma.gov.ru
+  created: '2017-04-20'
+  domain: iam.duma.gov.ru
+- id: komitet-bn-km-duma-gov-ru-2017-05-21-6fc2b140
+  name: komitet-bn.km.duma.gov.ru (2017-05-21)
+  url: https://komitet-bn.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet-bn.km.duma.gov.ru
+- id: komitet1-km-duma-gov-ru-2017-05-21-b1101684
+  name: komitet1.km.duma.gov.ru (2017-05-21)
+  url: https://komitet1.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet1.km.duma.gov.ru
+- id: komitet2-1-km-duma-gov-ru-2017-05-21-62d7a512
+  name: komitet2-1.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-1.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-1.km.duma.gov.ru
+- id: komitet2-10-km-duma-gov-ru-2017-05-21-26906858
+  name: komitet2-10.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-10.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-10.km.duma.gov.ru
+- id: komitet2-12-km-duma-gov-ru-2017-05-21-66137bdd
+  name: komitet2-12.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-12.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-12.km.duma.gov.ru
+- id: komitet2-13-km-duma-gov-ru-2017-05-21-51ec3dea
+  name: komitet2-13.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-13.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-13.km.duma.gov.ru
+- id: komitet2-14-km-duma-gov-ru-2017-05-21-077c9553
+  name: komitet2-14.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-14.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-14.km.duma.gov.ru
+- id: komitet2-15-km-duma-gov-ru-2017-05-21-0fcfbc1d
+  name: komitet2-15.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-15.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-15.km.duma.gov.ru
+- id: komitet2-16-km-duma-gov-ru-2017-05-21-632976e3
+  name: komitet2-16.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-16.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-16.km.duma.gov.ru
+- id: komitet2-17-km-duma-gov-ru-2017-05-21-01cc4b86
+  name: komitet2-17.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-17.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-17.km.duma.gov.ru
+- id: komitet2-19-km-duma-gov-ru-2017-05-21-19e5be3d
+  name: komitet2-19.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-19.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-19.km.duma.gov.ru
+- id: komitet2-2-km-duma-gov-ru-2017-05-21-95c4a854
+  name: komitet2-2.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-2.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-2.km.duma.gov.ru
+- id: komitet2-20-km-duma-gov-ru-2017-05-21-3375bab2
+  name: komitet2-20.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-20.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-20.km.duma.gov.ru
+- id: komitet2-21-km-duma-gov-ru-2017-05-21-54ce6309
+  name: komitet2-21.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-21.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-21.km.duma.gov.ru
+- id: komitet2-22-km-duma-gov-ru-2017-05-21-14c6b4dd
+  name: komitet2-22.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-22.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-22.km.duma.gov.ru
+- id: komitet2-24-km-duma-gov-ru-2017-05-21-cea2652f
+  name: komitet2-24.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-24.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-24.km.duma.gov.ru
+- id: komitet2-3-km-duma-gov-ru-2017-05-21-8bd0958a
+  name: komitet2-3.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-3.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-3.km.duma.gov.ru
+- id: komitet2-4-km-duma-gov-ru-2017-05-21-aa4bef2b
+  name: komitet2-4.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-4.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-4.km.duma.gov.ru
+- id: komitet2-6-km-duma-gov-ru-2017-05-21-d751b85c
+  name: komitet2-6.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-6.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-6.km.duma.gov.ru
+- id: komitet2-7-km-duma-gov-ru-2017-05-21-7bed51c1
+  name: komitet2-7.km.duma.gov.ru (2017-05-21)
+  url: https://komitet2-7.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet2-7.km.duma.gov.ru
+- id: komitet3-1-km-duma-gov-ru-2017-05-21-8f0f5600
+  name: komitet3-1.km.duma.gov.ru (2017-05-21)
+  url: https://komitet3-1.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet3-1.km.duma.gov.ru
+- id: komitet3-km-duma-gov-ru-2017-05-21-843ad95e
+  name: komitet3.km.duma.gov.ru (2017-05-21)
+  url: https://komitet3.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet3.km.duma.gov.ru
+- id: komitet4-km-duma-gov-ru-2017-05-21-d94c7f01
+  name: komitet4.km.duma.gov.ru (2017-05-21)
+  url: https://komitet4.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet4.km.duma.gov.ru
+- id: komitet5-km-duma-gov-ru-2017-05-21-3f5ddfd5
+  name: komitet5.km.duma.gov.ru (2017-05-21)
+  url: https://komitet5.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet5.km.duma.gov.ru
+- id: komitet6-km-duma-gov-ru-2017-05-21-93c0f45e
+  name: komitet6.km.duma.gov.ru (2017-05-21)
+  url: https://komitet6.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet6.km.duma.gov.ru
+- id: komitet8-km-duma-gov-ru-2017-05-21-187d2146
+  name: komitet8.km.duma.gov.ru (2017-05-21)
+  url: https://komitet8.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet8.km.duma.gov.ru
+- id: komitet9-km-duma-gov-ru-2017-05-21-b11725e2
+  name: komitet9.km.duma.gov.ru (2017-05-21)
+  url: https://komitet9.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: komitet9.km.duma.gov.ru
+- id: newparlament-ru-2017-05-21-942118ea
+  name: newparlament.ru (2017-05-21)
+  url: https://newparlament.ru
+  created: '2017-05-21'
+  domain: newparlament.ru
+- id: pnp-ru-2017-05-21-a4384671
+  name: pnp.ru (2017-05-21)
+  url: https://pnp.ru
+  created: '2017-05-21'
+  domain: pnp.ru
+- id: portal-parliament-gov-ru-2017-05-21-7010059a
+  name: portal.parliament.gov.ru (2017-05-21)
+  url: https://portal.parliament.gov.ru
+  created: '2017-05-21'
+  domain: portal.parliament.gov.ru
+- id: priemnaya-parliament-gov-ru-2017-05-21-f76f5b0c
+  name: priemnaya.parliament.gov.ru (2017-05-21)
+  url: https://priemnaya.parliament.gov.ru
+  created: '2017-05-21'
+  domain: priemnaya.parliament.gov.ru
+- id: sovety-duma-gov-ru-2017-04-20-ded02859
+  name: sovety.duma.gov.ru (2017-04-20)
+  url: https://sovety.duma.gov.ru
+  created: '2017-04-20'
+  domain: sovety.duma.gov.ru
+- id: szrf-km-duma-gov-ru-2017-05-21-7d8da7cb
+  name: szrf.km.duma.gov.ru (2017-05-21)
+  url: https://szrf.km.duma.gov.ru
+  created: '2017-05-21'
+  domain: szrf.km.duma.gov.ru
+- id: t-duma-gov-ru-2017-05-21-a966fe64
+  name: t.duma.gov.ru (2017-05-21)
+  url: https://t.duma.gov.ru
+  created: '2017-05-21'
+  domain: t.duma.gov.ru
+- id: transcript-duma-gov-ru-2017-04-20-a71f7877
+  name: transcript.duma.gov.ru (2017-04-20)
+  url: https://transcript.duma.gov.ru
+  created: '2017-04-20'
+  domain: transcript.duma.gov.ru
+- id: vote-duma-gov-ru-2017-04-20-ea45ce6f
+  name: vote.duma.gov.ru (2017-04-20)
+  url: https://vote.duma.gov.ru
+  created: '2017-04-20'
+  domain: vote.duma.gov.ru
+files:
+  total_count: 942
+  total_size: 263327416305
+  directories:
+  - webcollect2017

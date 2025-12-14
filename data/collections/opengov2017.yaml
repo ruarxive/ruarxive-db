@@ -1,0 +1,169 @@
+id: opengov2017
+slug: opengov2017
+name: Открытое правительство РФ 2017
+num_records: 32
+records:
+- id: budgetapps-ru
+  name: budgetapps.ru (2017-02-17)
+  url: https://budgetapps.ru
+  created: '2017-02-17T09:04:16'
+  domain: budgetapps.ru
+- id: data-admhmao-ru
+  name: data.admhmao.ru (2017-02-18)
+  url: https://data.admhmao.ru
+  created: '2017-02-18T16:35:29'
+  domain: data.admhmao.ru
+- id: data-ekburg-ru
+  name: data.ekburg.ru (2017-02-18)
+  url: https://data.ekburg.ru
+  created: '2017-02-18T15:36:08'
+  domain: data.ekburg.ru
+- id: data-kzn-ru
+  name: data.kzn.ru (2017-02-18)
+  url: https://data.kzn.ru
+  created: '2017-02-18T14:11:49'
+  domain: data.kzn.ru
+- id: data-mos-ru
+  name: data.mos.ru (2017-02-21)
+  url: https://data.mos.ru
+  created: '2017-02-21T10:15:48'
+  domain: data.mos.ru
+- id: data-mosreg-ru
+  name: data.mosreg.ru (2017-02-21)
+  url: https://data.mosreg.ru
+  created: '2017-02-21T02:45:20'
+  domain: data.mosreg.ru
+- id: data-socialdatahub-com
+  name: data.socialdatahub.com (2017-02-06)
+  url: https://data.socialdatahub.com
+  created: '2017-02-06T18:26:08'
+  domain: data.socialdatahub.com
+- id: data-ulgov-ru
+  name: data.ulgov.ru (2017-02-19)
+  url: https://data.ulgov.ru
+  created: '2017-02-19T03:28:11'
+  domain: data.ulgov.ru
+- id: open-gov-ru
+  name: open.gov.ru (2017-02-19)
+  url: https://open.gov.ru
+  created: '2017-02-19T04:03:29'
+  domain: open.gov.ru
+- id: opendata-49gov-ru
+  name: opendata.49gov.ru (2017-02-18)
+  url: https://opendata.49gov.ru
+  created: '2017-02-18T14:36:24'
+  domain: opendata.49gov.ru
+- id: opendata-admmegion-ru
+  name: opendata.admmegion.ru (2017-02-18)
+  url: https://opendata.admmegion.ru
+  created: '2017-02-18T14:25:48'
+  domain: opendata.admmegion.ru
+- id: opendata-cheladmin-ru
+  name: opendata.cheladmin.ru (2017-02-18)
+  url: https://opendata.cheladmin.ru
+  created: '2017-02-18T14:40:43'
+  domain: opendata.cheladmin.ru
+- id: opendata-crimealib-ru
+  name: opendata.crimealib.ru (2017-02-18)
+  url: https://opendata.crimealib.ru
+  created: '2017-02-18T15:34:59'
+  domain: opendata.crimealib.ru
+- id: opendata-dvinaland-ru
+  name: opendata.dvinaland.ru (2017-02-18)
+  url: https://opendata.dvinaland.ru
+  created: '2017-02-18T14:40:18'
+  domain: opendata.dvinaland.ru
+- id: opendata-fssprus-ru
+  name: opendata.fssprus.ru (2017-02-18)
+  url: https://opendata.fssprus.ru
+  created: '2017-02-18T22:24:48'
+  domain: opendata.fssprus.ru
+- id: opendata-gov35-ru
+  name: opendata.gov35.ru (2017-02-18)
+  url: https://opendata.gov35.ru
+  created: '2017-02-18T15:58:47'
+  domain: opendata.gov35.ru
+- id: opendata-govvrn-ru
+  name: opendata.govvrn.ru (2017-02-18)
+  url: https://opendata.govvrn.ru
+  created: '2017-02-18T15:34:59'
+  domain: opendata.govvrn.ru
+- id: opendata-krd-ru
+  name: opendata.krd.ru (2017-02-18)
+  url: https://opendata.krd.ru
+  created: '2017-02-18T17:09:59'
+  domain: opendata.krd.ru
+- id: opendata-mkrf-ru
+  name: opendata.mkrf.ru (2017-02-18)
+  url: https://opendata.mkrf.ru
+  created: '2017-02-18T15:31:23'
+  domain: opendata.mkrf.ru
+- id: opendata-mon-gov-ru
+  name: opendata.mon.gov.ru (2017-02-21)
+  url: https://opendata.mon.gov.ru
+  created: '2017-02-21T15:53:06'
+  domain: opendata.mon.gov.ru
+- id: opendata-morflot-ru
+  name: opendata.morflot.ru (2017-02-18)
+  url: https://opendata.morflot.ru
+  created: '2017-02-18T14:33:56'
+  domain: opendata.morflot.ru
+- id: opendata-nso-ru
+  name: opendata.nso.ru (2017-02-18)
+  url: https://opendata.nso.ru
+  created: '2017-02-18T15:34:46'
+  domain: opendata.nso.ru
+- id: opendata-perm-ru
+  name: opendata.perm.ru (2017-02-18)
+  url: https://opendata.perm.ru
+  created: '2017-02-18T14:37:11'
+  domain: opendata.perm.ru
+- id: opendata-permkrai-ru
+  name: opendata.permkrai.ru (2017-02-18)
+  url: https://opendata.permkrai.ru
+  created: '2017-02-18T14:24:52'
+  domain: opendata.permkrai.ru
+- id: opendata-rkomi-ru
+  name: opendata.rkomi.ru (2017-02-18)
+  url: https://opendata.rkomi.ru
+  created: '2017-02-18T15:57:05'
+  domain: opendata.rkomi.ru
+- id: opendata-rospotrebnadzor-ru
+  name: opendata.rospotrebnadzor.ru (2017-02-18)
+  url: https://opendata.rospotrebnadzor.ru
+  created: '2017-02-18T15:46:18'
+  domain: opendata.rospotrebnadzor.ru
+- id: opendata-smolinvest-ru
+  name: opendata.smolinvest.ru (2017-02-18)
+  url: https://opendata.smolinvest.ru
+  created: '2017-02-18T17:26:40'
+  domain: opendata.smolinvest.ru
+- id: opendata-volganet-ru
+  name: opendata.volganet.ru (2017-02-18)
+  url: https://opendata.volganet.ru
+  created: '2017-02-18T15:32:37'
+  domain: opendata.volganet.ru
+- id: opendata-yarregion-ru
+  name: opendata.yarregion.ru (2017-02-21)
+  url: https://opendata.yarregion.ru
+  created: '2017-02-21T15:52:52'
+  domain: opendata.yarregion.ru
+- id: opendatacontest-ru
+  name: opendatacontest.ru (2017-02-17)
+  url: https://opendatacontest.ru
+  created: '2017-02-17T09:07:06'
+  domain: opendatacontest.ru
+- id: opendatasummit-ru
+  name: opendatasummit.ru (2017-02-17)
+  url: https://opendatasummit.ru
+  created: '2017-02-17T08:52:34'
+  domain: opendatasummit.ru
+- id: openstandard-ru
+  name: openstandard.ru (2017-02-17)
+  url: https://openstandard.ru
+  created: '2017-02-17T08:49:45'
+  domain: openstandard.ru
+files:
+  total_count: 156
+  total_size: 29913295939
+  directories: []

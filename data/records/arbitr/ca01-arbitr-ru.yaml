@@ -1,0 +1,34 @@
+id: ca01-arbitr-ru
+name: ca01.arbitr.ru (2014-08-01)
+domain: ca01.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: ca01.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ca01.arbitr.ru/ca01.arbitr.ru.cdx.xz
+  size: 337980
+  modified: '2014-08-01T19:47:03'
+  type: CDX
+  extension: .xz
+- name: ca01.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ca01.arbitr.ru/ca01.arbitr.ru.log.xz
+  size: 168104
+  modified: '2014-08-01T19:47:03'
+  type: wpull log
+  extension: .xz
+- name: ca01.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ca01.arbitr.ru/ca01.arbitr.ru.warc.xz
+  size: 1790176
+  modified: '2014-08-01T19:47:03'
+  type: WARC
+  extension: .xz
+- name: ca01.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/ca01.arbitr.ru/ca01.arbitr.ru.7z
+  size: 547926
+  modified: '2014-08-07T12:02:28'
+  type: ''
+  extension: .7z
+url: https://ca01.arbitr.ru
+created: '2014-08-01T19:47:03'

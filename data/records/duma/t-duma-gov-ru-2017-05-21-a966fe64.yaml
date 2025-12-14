@@ -1,0 +1,40 @@
+id: t-duma-gov-ru-2017-05-21-a966fe64
+name: t.duma.gov.ru (2017-05-21)
+domain: t.duma.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/t.duma.gov.ru-2017-05-21-a966fe64/wpull.db
+  size: 1708032
+  modified: '2017-05-26T15:42:25'
+  type: wpull database
+  extension: .db
+- name: t.duma.gov.ru-2017-05-21-a966fe64-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/t.duma.gov.ru-2017-05-21-a966fe64/t.duma.gov.ru-2017-05-21-a966fe64-meta.warc.gz
+  size: 70903
+  modified: '2017-05-26T15:32:42'
+  type: WARC
+  extension: .warc.gz
+- name: t.duma.gov.ru-2017-05-21-a966fe64.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/t.duma.gov.ru-2017-05-21-a966fe64/t.duma.gov.ru-2017-05-21-a966fe64.cdx
+  size: 922583
+  modified: '2017-05-26T15:42:27'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/t.duma.gov.ru-2017-05-21-a966fe64/dupes_db/data.mdb
+  size: 237568
+  modified: '2017-05-26T15:32:43'
+  type: ''
+  extension: .mdb
+- name: t.duma.gov.ru-2017-05-21-a966fe64-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/t.duma.gov.ru-2017-05-21-a966fe64/t.duma.gov.ru-2017-05-21-a966fe64-00000.warc.gz
+  size: 13779422
+  modified: '2017-05-26T15:42:28'
+  type: WARC
+  extension: .warc.gz
+url: https://t.duma.gov.ru
+created: '2017-05-21'

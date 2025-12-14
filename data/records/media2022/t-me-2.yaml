@@ -1,0 +1,29 @@
+id: t-me-2
+name: Телеграм канал DOXA Journal
+domain: t.me
+created: '2022-03-05T09:35:31.000Z'
+date: '2022-03-05T09:36:00.000Z'
+status: собран
+status_id: collected
+resource_type: телеграм канал
+resource_type_id: telegram
+reason: Высокая вероятность блокировки в России и иных мер после предупреждения Роскомнадзора
+  в начале марта 2022 года.
+reason_id: high-blocking-risk-1
+strategy: архивация Telegram канала
+tools:
+- telegram desktop
+format: zip
+format_id: zip
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: средний
+resources:
+- type: storage
+  name: doxajournal_telegram_2022-03-05.zip
+  url: https://cdn.ruarxive.org/public/webcollect2022/media2022/doxajournal.ru_telegram/doxajournal_telegram_2022-03-05.zip

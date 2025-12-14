@@ -1,0 +1,28 @@
+id: gasu-gov-ru
+name: gasu.gov.ru (2015-12-07)
+domain: gasu.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: gasu.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gasu.gov.ru/gasu.gov.ru.log.xz
+  size: 698772
+  modified: '2015-12-07T08:43:40'
+  type: wpull log
+  extension: .xz
+- name: gasu.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gasu.gov.ru/gasu.gov.ru.7z
+  size: 71749065
+  modified: '2015-12-07T23:18:12'
+  type: ''
+  extension: .7z
+- name: gasu.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/gasu.gov.ru/gasu.gov.ru.cdx.xz
+  size: 2545528
+  modified: '2015-12-07T08:43:40'
+  type: CDX
+  extension: .xz
+url: https://gasu.gov.ru
+created: '2015-12-07T08:43:40'

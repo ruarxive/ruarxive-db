@@ -1,0 +1,28 @@
+id: mavrotenge-com
+name: mavrotenge.com (2013-11-04)
+domain: mavrotenge.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: www.mavrotenge.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/www.mavrotenge.com/www.mavrotenge.com.cdx.xz
+  size: 596848
+  modified: '2013-11-04T16:45:28'
+  type: CDX
+  extension: .xz
+- name: www.mavrotenge.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/www.mavrotenge.com/www.mavrotenge.com.warc.xz
+  size: 3936508
+  modified: '2013-11-04T16:44:37'
+  type: WARC
+  extension: .xz
+- name: www.mavrotenge.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/www.mavrotenge.com/www.mavrotenge.com.log.xz
+  size: 355260
+  modified: '2013-11-04T16:44:30'
+  type: wpull log
+  extension: .xz
+url: https://mavrotenge.com
+created: '2013-11-04T16:44:37'

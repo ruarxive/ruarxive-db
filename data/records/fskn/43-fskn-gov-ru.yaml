@@ -1,0 +1,28 @@
+id: 43-fskn-gov-ru
+name: 43.fskn.gov.ru (2016-06-07)
+domain: 43.fskn.gov.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: www.43.fskn.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.43.fskn.gov.ru/www.43.fskn.gov.ru.log
+  size: 3650
+  modified: '2016-06-07T10:20:55'
+  type: ''
+  extension: .log
+- name: www.43.fskn.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.43.fskn.gov.ru/www.43.fskn.gov.ru.cdx
+  size: 27
+  modified: '2016-06-07T09:36:05'
+  type: CDX
+  extension: .cdx
+- name: www.43.fskn.gov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.43.fskn.gov.ru/www.43.fskn.gov.ru.warc.gz
+  size: 2186
+  modified: '2016-06-07T10:20:55'
+  type: WARC
+  extension: .warc.gz
+url: https://43.fskn.gov.ru
+created: '2016-06-07T10:20:55'

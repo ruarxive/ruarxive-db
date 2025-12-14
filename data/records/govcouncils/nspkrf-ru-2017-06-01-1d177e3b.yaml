@@ -1,0 +1,40 @@
+id: nspkrf-ru-2017-06-01-1d177e3b
+name: nspkrf.ru (2017-06-01)
+domain: nspkrf.ru
+collection:
+  id: govcouncils
+  slug: govcouncils
+  name: Государственные советы
+resources:
+- name: nspkrf.ru-2017-06-01-1d177e3b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/nspkrf.ru-2017-06-01-1d177e3b/nspkrf.ru-2017-06-01-1d177e3b.cdx
+  size: 839616
+  modified: '2017-06-02T09:50:56'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/nspkrf.ru-2017-06-01-1d177e3b/wpull.db
+  size: 1570816
+  modified: '2017-06-02T09:50:55'
+  type: wpull database
+  extension: .db
+- name: nspkrf.ru-2017-06-01-1d177e3b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/nspkrf.ru-2017-06-01-1d177e3b/nspkrf.ru-2017-06-01-1d177e3b-00000.warc.gz
+  size: 589712424
+  modified: '2017-06-02T09:51:53'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/nspkrf.ru-2017-06-01-1d177e3b/dupes_db/data.mdb
+  size: 798720
+  modified: '2017-06-02T09:51:54'
+  type: ''
+  extension: .mdb
+- name: nspkrf.ru-2017-06-01-1d177e3b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govcouncils/nspkrf.ru-2017-06-01-1d177e3b/nspkrf.ru-2017-06-01-1d177e3b-meta.warc.gz
+  size: 103791
+  modified: '2017-06-02T09:50:56'
+  type: WARC
+  extension: .warc.gz
+url: https://nspkrf.ru
+created: '2017-06-01'

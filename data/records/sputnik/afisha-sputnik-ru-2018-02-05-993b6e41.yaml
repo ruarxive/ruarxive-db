@@ -1,0 +1,40 @@
+id: afisha-sputnik-ru-2018-02-05-993b6e41
+name: afisha.sputnik.ru (2018-02-05)
+domain: afisha.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/afisha.sputnik.ru-2018-02-05-993b6e41/dupes_db/data.mdb
+  size: 42795008
+  modified: '2018-02-09T19:08:45'
+  type: ''
+  extension: .mdb
+- name: afisha.sputnik.ru-2018-02-05-993b6e41.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/afisha.sputnik.ru-2018-02-05-993b6e41/afisha.sputnik.ru-2018-02-05-993b6e41.cdx
+  size: 102993818
+  modified: '2018-02-09T19:08:45'
+  type: CDX
+  extension: .cdx
+- name: tmp-wpull-warc-xlsbkp.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/afisha.sputnik.ru-2018-02-05-993b6e41/temp/tmp-wpull-warc-xlsbkp.log.gz
+  size: 21703471
+  modified: '2018-02-09T19:08:45'
+  type: wpull log
+  extension: .gz
+- name: afisha.sputnik.ru-2018-02-05-993b6e41-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/afisha.sputnik.ru-2018-02-05-993b6e41/afisha.sputnik.ru-2018-02-05-993b6e41-00000.warc.gz
+  size: 3879277820
+  modified: '2018-02-09T19:08:45'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/afisha.sputnik.ru-2018-02-05-993b6e41/wpull.db
+  size: 210269184
+  modified: '2018-02-09T19:08:45'
+  type: wpull database
+  extension: .db
+url: https://afisha.sputnik.ru
+created: '2018-02-05'

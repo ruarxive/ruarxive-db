@@ -1,0 +1,35 @@
+id: opendata-ulgov-ru-20220414
+name: opendata.ulgov.ru (2022-04-14)
+domain: opendata.ulgov.ru
+url: https://opendata.ulgov.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.ulgov.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.ulgov.ru/2022-04-14/opendata.ulgov.ru.cdx
+  size: 2650751
+  modified: '2022-04-14T10:20:56'
+  type: CDX
+  extension: .cdx
+- name: opendata.ulgov.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.ulgov.ru/2022-04-14/opendata.ulgov.ru.log
+  size: 34647478
+  modified: '2022-04-14T14:32:17'
+  type: wpull log
+  extension: .log
+- name: opendata.ulgov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.ulgov.ru/2022-04-14/opendata.ulgov.ru.warc.gz
+  size: 65665987
+  modified: '2022-04-14T12:22:32'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.ulgov.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.ulgov.ru/2022-04-14/sitearchive-opendata.ulgov.ru.db
+  size: 6955008
+  modified: '2022-04-14T14:32:17'
+  type: ''
+  extension: .db

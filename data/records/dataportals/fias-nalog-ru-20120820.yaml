@@ -1,0 +1,41 @@
+id: fias-nalog-ru-20120820
+name: fias.nalog.ru (2012-08-20)
+domain: fias.nalog.ru
+url: https://fias.nalog.ru
+created: '2012-08-20'
+date: '2012-08-20'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: dbfreader.py
+  url: https://cdn.ruarxive.org/public/datacollect/fias.nalog.ru/20120820/dbfreader.py
+  size: 5007
+  modified: '2013-09-14T06:06:12'
+  type: ''
+  extension: .py
+- name: fias_xml.rar
+  url: https://cdn.ruarxive.org/public/datacollect/fias.nalog.ru/20120820/fias_xml.rar
+  size: 1503021213
+  modified: '2013-09-14T06:06:41'
+  type: ''
+  extension: .rar
+- name: actstat.csv
+  url: https://cdn.ruarxive.org/public/datacollect/fias.nalog.ru/20120820/actstat.csv
+  size: 230
+  modified: '2013-09-14T06:00:42'
+  type: ''
+  extension: .csv
+- name: fias_dbf.rar
+  url: https://cdn.ruarxive.org/public/datacollect/fias.nalog.ru/20120820/fias_dbf.rar
+  size: 1140479407
+  modified: '2013-09-14T06:02:14'
+  type: ''
+  extension: .rar
+- name: pip-delete-this-directory.txt
+  url: https://cdn.ruarxive.org/public/datacollect/fias.nalog.ru/20120820/build/pip-delete-this-directory.txt
+  size: 185
+  modified: '2013-09-14T06:01:48'
+  type: ''
+  extension: .txt

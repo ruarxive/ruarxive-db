@@ -1,0 +1,40 @@
+id: tours-kremlin-ru-2017-05-02-db9a3f5e
+name: tours.kremlin.ru (2017-05-02)
+domain: tours.kremlin.ru
+collection:
+  id: kremlin
+  slug: kremlin
+  name: Администрация Президента РФ
+resources:
+- name: tours.kremlin.ru-2017-05-02-db9a3f5e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/tours.kremlin.ru-2017-05-02-db9a3f5e/tours.kremlin.ru-2017-05-02-db9a3f5e-00000.warc.gz
+  size: 11839679
+  modified: '2017-05-02T21:53:25'
+  type: WARC
+  extension: .warc.gz
+- name: tours.kremlin.ru-2017-05-02-db9a3f5e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/tours.kremlin.ru-2017-05-02-db9a3f5e/tours.kremlin.ru-2017-05-02-db9a3f5e.cdx
+  size: 263472
+  modified: '2017-05-02T21:53:25'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/tours.kremlin.ru-2017-05-02-db9a3f5e/dupes_db/data.mdb
+  size: 163840
+  modified: '2017-05-02T21:53:25'
+  type: ''
+  extension: .mdb
+- name: tours.kremlin.ru-2017-05-02-db9a3f5e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/tours.kremlin.ru-2017-05-02-db9a3f5e/tours.kremlin.ru-2017-05-02-db9a3f5e-meta.warc.gz
+  size: 38387
+  modified: '2017-05-02T21:53:26'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/tours.kremlin.ru-2017-05-02-db9a3f5e/wpull.db
+  size: 275456
+  modified: '2017-05-02T21:53:25'
+  type: wpull database
+  extension: .db
+url: https://tours.kremlin.ru
+created: '2017-05-02'

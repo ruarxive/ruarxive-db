@@ -1,0 +1,13 @@
+id: history
+slug: history
+name: История
+created: '2022-05-17T14:14:51.000Z'
+num_records: 1
+records:
+- id: rusteam-permian-ru
+  name: Сборная России по футболу
+  url: http://www.rusteam.permian.ru
+  status: запланирован
+  status_id: planned
+  created: '2022-05-17T14:14:09.000Z'
+  domain: rusteam.permian.ru

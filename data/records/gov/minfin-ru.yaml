@@ -1,0 +1,82 @@
+id: minfin-ru
+name: minfin.ru (2015-01-13)
+domain: minfin.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: nohup.out.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/nohup.out.xz
+  size: 934168
+  modified: '2015-01-23T10:33:18'
+  type: ''
+  extension: .xz
+- name: minfin.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin.ru.cdx.xz
+  size: 39296692
+  modified: '2015-01-13T17:30:55'
+  type: CDX
+  extension: .xz
+- name: minfin_xml.txt
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin_xml.txt
+  size: 27576
+  modified: '2016-10-23T15:06:15'
+  type: ''
+  extension: .txt
+- name: minfin_xlsx.txt
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin_xlsx.txt
+  size: 119382
+  modified: '2016-10-23T12:30:19'
+  type: ''
+  extension: .txt
+- name: minfin.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin.ru.7z
+  size: 20816306421
+  modified: '2015-01-23T10:33:18'
+  type: ''
+  extension: .7z
+- name: minfin_txml.txt
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin_txml.txt
+  size: 14977
+  modified: '2016-10-23T15:10:23'
+  type: ''
+  extension: .txt
+- name: minfin_rss.txt
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin_rss.txt
+  size: 4266
+  modified: '2016-10-23T15:05:26'
+  type: ''
+  extension: .txt
+- name: minfin_xls.txt
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin_xls.txt
+  size: 2715454
+  modified: '2016-10-23T12:29:39'
+  type: ''
+  extension: .txt
+- name: minfin.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin.ru.warc.xz
+  size: 40436102688
+  modified: '2015-01-13T17:30:56'
+  type: WARC
+  extension: .xz
+- name: cdxreader.py
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/cdxreader.py
+  size: 4438
+  modified: '2016-10-23T13:55:48'
+  type: ''
+  extension: .py
+- name: minfin.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin.ru.cdx
+  size: 227796724
+  modified: '2015-01-13T17:30:55'
+  type: CDX
+  extension: .cdx
+- name: minfin.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/minfin.ru/minfin.ru.log.xz
+  size: 24588888
+  modified: '2015-01-13T17:30:55'
+  type: wpull log
+  extension: .xz
+url: https://minfin.ru
+created: '2015-01-13T17:30:56'

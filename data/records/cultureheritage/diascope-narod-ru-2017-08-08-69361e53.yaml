@@ -1,0 +1,40 @@
+id: diascope-narod-ru-2017-08-08-69361e53
+name: diascope.narod.ru (2017-08-08)
+domain: diascope.narod.ru
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: diascope.narod.ru-2017-08-08-69361e53-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diascope.narod.ru-2017-08-08-69361e53/diascope.narod.ru-2017-08-08-69361e53-meta.warc.gz
+  size: 480673
+  modified: '2017-08-08T13:42:09'
+  type: WARC
+  extension: .warc.gz
+- name: diascope.narod.ru-2017-08-08-69361e53.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diascope.narod.ru-2017-08-08-69361e53/diascope.narod.ru-2017-08-08-69361e53.cdx
+  size: 2088108
+  modified: '2017-08-08T13:42:09'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diascope.narod.ru-2017-08-08-69361e53/wpull.db
+  size: 4403200
+  modified: '2017-08-08T13:42:09'
+  type: wpull database
+  extension: .db
+- name: diascope.narod.ru-2017-08-08-69361e53-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diascope.narod.ru-2017-08-08-69361e53/diascope.narod.ru-2017-08-08-69361e53-00000.warc.gz
+  size: 255469602
+  modified: '2017-08-08T13:42:09'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diascope.narod.ru-2017-08-08-69361e53/dupes_db/data.mdb
+  size: 266240
+  modified: '2017-08-08T13:42:09'
+  type: ''
+  extension: .mdb
+url: https://diascope.narod.ru
+created: '2017-08-08'

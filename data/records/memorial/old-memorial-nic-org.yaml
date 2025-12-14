@@ -1,0 +1,28 @@
+id: old-memorial-nic-org
+name: old.memorial-nic.org (2013-10-27)
+domain: old.memorial-nic.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: old.memorial-nic.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/old.memorial-nic.org/old.memorial-nic.org.warc.xz
+  size: 7865196
+  modified: '2013-10-27T17:28:07'
+  type: WARC
+  extension: .xz
+- name: old.memorial-nic.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/old.memorial-nic.org/old.memorial-nic.org.cdx.xz
+  size: 16472
+  modified: '2013-10-27T17:28:05'
+  type: CDX
+  extension: .xz
+- name: old.memorial-nic.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/old.memorial-nic.org/old.memorial-nic.org.log.xz
+  size: 11000
+  modified: '2013-10-27T17:28:10'
+  type: wpull log
+  extension: .xz
+url: https://old.memorial-nic.org
+created: '2013-10-27T17:28:07'

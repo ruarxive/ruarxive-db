@@ -1,0 +1,40 @@
+id: priemnaya-parliament-gov-ru-2017-05-21-f76f5b0c
+name: priemnaya.parliament.gov.ru (2017-05-21)
+domain: priemnaya.parliament.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c/dupes_db/data.mdb
+  size: 159744
+  modified: '2017-05-26T15:32:15'
+  type: ''
+  extension: .mdb
+- name: priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c/priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c-meta.warc.gz
+  size: 34278
+  modified: '2017-05-26T15:32:28'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c/wpull.db
+  size: 265216
+  modified: '2017-05-26T15:32:27'
+  type: wpull database
+  extension: .db
+- name: priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c/priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c-00000.warc.gz
+  size: 15113112
+  modified: '2017-05-26T15:32:27'
+  type: WARC
+  extension: .warc.gz
+- name: priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c/priemnaya.parliament.gov.ru-2017-05-21-f76f5b0c.cdx
+  size: 290537
+  modified: '2017-05-26T15:32:28'
+  type: CDX
+  extension: .cdx
+url: https://priemnaya.parliament.gov.ru
+created: '2017-05-21'

@@ -1,0 +1,40 @@
+id: git40-rostrud-ru-2017-06-07-8b3ba59d
+name: git40.rostrud.ru (2017-06-07)
+domain: git40.rostrud.ru
+collection:
+  id: rostrud
+  slug: rostrud
+  name: Роструд
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/git40.rostrud.ru-2017-06-07-8b3ba59d/wpull.db
+  size: 2994176
+  modified: '2017-06-18T21:56:06'
+  type: wpull database
+  extension: .db
+- name: git40.rostrud.ru-2017-06-07-8b3ba59d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/git40.rostrud.ru-2017-06-07-8b3ba59d/git40.rostrud.ru-2017-06-07-8b3ba59d.cdx
+  size: 1300501
+  modified: '2017-06-18T21:56:06'
+  type: CDX
+  extension: .cdx
+- name: git40.rostrud.ru-2017-06-07-8b3ba59d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/git40.rostrud.ru-2017-06-07-8b3ba59d/git40.rostrud.ru-2017-06-07-8b3ba59d-00000.warc.gz
+  size: 61823786
+  modified: '2017-06-18T21:56:09'
+  type: WARC
+  extension: .warc.gz
+- name: git40.rostrud.ru-2017-06-07-8b3ba59d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/git40.rostrud.ru-2017-06-07-8b3ba59d/git40.rostrud.ru-2017-06-07-8b3ba59d-meta.warc.gz
+  size: 133111
+  modified: '2017-06-18T21:56:07'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/git40.rostrud.ru-2017-06-07-8b3ba59d/dupes_db/data.mdb
+  size: 847872
+  modified: '2017-06-18T21:56:17'
+  type: ''
+  extension: .mdb
+url: https://git40.rostrud.ru
+created: '2017-06-07'

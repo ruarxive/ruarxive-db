@@ -1,0 +1,46 @@
+id: dkn-mos-ru-2017-08-20-4ed2f7ae
+name: dkn.mos.ru (2017-08-20)
+domain: dkn.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dkn.mos.ru-2017-08-20-4ed2f7ae/dupes_db/data.mdb
+  size: 4882432
+  modified: '2017-08-22T10:19:44'
+  type: ''
+  extension: .mdb
+- name: dkn.mos.ru-2017-08-20-4ed2f7ae-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dkn.mos.ru-2017-08-20-4ed2f7ae/dkn.mos.ru-2017-08-20-4ed2f7ae-00000.warc.gz
+  size: 5385570598
+  modified: '2017-08-22T02:37:54'
+  type: WARC
+  extension: .warc.gz
+- name: dkn.mos.ru-2017-08-20-4ed2f7ae-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dkn.mos.ru-2017-08-20-4ed2f7ae/dkn.mos.ru-2017-08-20-4ed2f7ae-00001.warc.gz
+  size: 4960604456
+  modified: '2017-08-22T10:19:49'
+  type: WARC
+  extension: .warc.gz
+- name: dkn.mos.ru-2017-08-20-4ed2f7ae.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dkn.mos.ru-2017-08-20-4ed2f7ae/dkn.mos.ru-2017-08-20-4ed2f7ae.cdx
+  size: 11233868
+  modified: '2017-08-22T10:19:49'
+  type: CDX
+  extension: .cdx
+- name: dkn.mos.ru-2017-08-20-4ed2f7ae-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dkn.mos.ru-2017-08-20-4ed2f7ae/dkn.mos.ru-2017-08-20-4ed2f7ae-meta.warc.gz
+  size: 1438424
+  modified: '2017-08-22T10:19:51'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dkn.mos.ru-2017-08-20-4ed2f7ae/wpull.db
+  size: 14691328
+  modified: '2017-08-22T10:19:49'
+  type: wpull database
+  extension: .db
+url: https://dkn.mos.ru
+created: '2017-08-20'

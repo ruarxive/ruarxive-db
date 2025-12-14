@@ -1,0 +1,28 @@
+id: krasplat-ru
+name: krasplat.ru (2013-12-17)
+domain: krasplat.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.krasplat.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.krasplat.ru/www.krasplat.ru.warc.xz
+  size: 13389064
+  modified: '2013-12-17T17:22:48'
+  type: WARC
+  extension: .xz
+- name: www.krasplat.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.krasplat.ru/www.krasplat.ru.cdx.xz
+  size: 201032
+  modified: '2013-12-17T17:22:54'
+  type: CDX
+  extension: .xz
+- name: www.krasplat.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.krasplat.ru/www.krasplat.ru.log.xz
+  size: 99664
+  modified: '2013-12-17T17:22:45'
+  type: wpull log
+  extension: .xz
+url: https://krasplat.ru
+created: '2013-12-17T17:22:48'

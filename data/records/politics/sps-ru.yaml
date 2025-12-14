@@ -1,0 +1,28 @@
+id: sps-ru
+name: sps.ru (2013-12-12)
+domain: sps.ru
+collection:
+  id: politics
+  slug: politics
+  name: Политика
+resources:
+- name: www.sps.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/politics/www.sps.ru/www.sps.ru.cdx.xz
+  size: 1295672
+  modified: '2013-12-12T09:50:52'
+  type: CDX
+  extension: .xz
+- name: www.sps.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/politics/www.sps.ru/www.sps.ru.log.xz
+  size: 599832
+  modified: '2013-12-12T09:50:50'
+  type: wpull log
+  extension: .xz
+- name: www.sps.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/politics/www.sps.ru/www.sps.ru.warc.xz
+  size: 255340120
+  modified: '2013-12-12T09:49:37'
+  type: WARC
+  extension: .xz
+url: https://sps.ru
+created: '2013-12-12T09:49:37'

@@ -1,0 +1,29 @@
+id: psychologies-ru
+name: Psychologies.ru
+url: https://www.psychologies.ru/
+domain: psychologies.ru
+created: '2022-10-10T15:05:30.000Z'
+date: '2022-10-10T15:06:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт
+resource_type_id: site
+reason: Сохранение контента
+reason_id: content-preservation
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: psychology
+  name: Психология
+  slug: psychology
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: psychologies.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/deathwatch/psychologies.ru/psychologies.ru.warc.gz

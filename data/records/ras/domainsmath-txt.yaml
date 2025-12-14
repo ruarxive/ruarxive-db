@@ -1,0 +1,16 @@
+id: domainsmath-txt
+name: domainsmath.txt (2017-06-28)
+domain: domainsmath.txt
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: domainsmath.txt
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/domainsmath.txt
+  size: 428
+  modified: '2017-06-28T19:28:45'
+  type: ''
+  extension: .txt
+url: https://domainsmath.txt
+created: '2017-06-28T19:28:45'

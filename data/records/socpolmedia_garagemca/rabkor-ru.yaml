@@ -1,0 +1,20 @@
+id: rabkor-ru
+name: Журнал Рабкор
+url: https://rabkor.ru/
+domain: rabkor.ru
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Высокая вероятность блокировки в России и иных мер после предупреждения Роскомнадзора
+  в начале марта 2022 года
+reason_id: high-blocking-risk-1
+collection:
+  id: socpolmedia_garagemca
+  name: Социальные и политические СМИ
+  slug: socpolmedia_garagemca
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: средний

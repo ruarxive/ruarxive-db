@@ -1,0 +1,58 @@
+id: gnk86-ru
+name: gnk86.ru (2016-06-01)
+domain: gnk86.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: www.gnk86.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.gnk86.ru/www.gnk86.ru.7z
+  size: 274489151
+  modified: '2016-09-28T09:08:08'
+  type: ''
+  extension: .7z
+- name: www.gnk86.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.gnk86.ru/www.gnk86.ru.log
+  size: 3498616
+  modified: '2016-06-07T19:13:27'
+  type: ''
+  extension: .log
+- name: www.gnk86.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.gnk86.ru/www.gnk86.ru.warc.gz
+  size: 334619015
+  modified: '2016-06-07T19:13:27'
+  type: WARC
+  extension: .warc.gz
+- name: www.gnk86.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.gnk86.ru/www.gnk86.ru.cdx
+  size: 1719382
+  modified: '2016-06-07T19:13:26'
+  type: CDX
+  extension: .cdx
+- name: gnk86.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/gnk86.ru/gnk86.ru.7z
+  size: 296712601
+  modified: '2016-09-27T20:43:16'
+  type: ''
+  extension: .7z
+- name: gnk86.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/gnk86.ru/gnk86.ru.log
+  size: 3789760
+  modified: '2016-06-01T13:27:22'
+  type: ''
+  extension: .log
+- name: gnk86.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/gnk86.ru/gnk86.ru.cdx
+  size: 1840403
+  modified: '2016-06-01T13:27:22'
+  type: CDX
+  extension: .cdx
+- name: gnk86.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/gnk86.ru/gnk86.ru.warc.gz
+  size: 360494385
+  modified: '2016-06-01T13:27:22'
+  type: WARC
+  extension: .warc.gz
+url: https://gnk86.ru
+created: '2016-06-01T13:27:22'

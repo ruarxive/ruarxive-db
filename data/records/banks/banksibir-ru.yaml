@@ -1,0 +1,34 @@
+id: banksibir-ru
+name: banksibir.ru (2014-05-09)
+domain: banksibir.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.banksibir.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.banksibir.ru/www.banksibir.ru.cdx.xz
+  size: 13892
+  modified: '2014-05-09T15:08:27'
+  type: CDX
+  extension: .xz
+- name: www.banksibir.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.banksibir.ru/www.banksibir.ru.warc.xz
+  size: 37285500
+  modified: '2014-05-09T15:08:27'
+  type: WARC
+  extension: .xz
+- name: www.banksibir.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.banksibir.ru/www.banksibir.ru.7z
+  size: 37573778
+  modified: '2014-08-20T09:46:23'
+  type: ''
+  extension: .7z
+- name: www.banksibir.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.banksibir.ru/www.banksibir.ru.log.xz
+  size: 11148
+  modified: '2014-05-09T15:08:27'
+  type: wpull log
+  extension: .xz
+url: https://banksibir.ru
+created: '2014-05-09T15:08:27'

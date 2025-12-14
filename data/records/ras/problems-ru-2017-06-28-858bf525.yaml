@@ -1,0 +1,45 @@
+id: problems-ru-2017-06-28-858bf525
+name: problems.ru (2017-06-28)
+domain: problems.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.problems.ru-2017-06-28-858bf525/dupes_db/data.mdb
+  size: 7286784
+  modified: '2017-07-02T12:31:17'
+  type: ''
+  extension: .mdb
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.problems.ru-2017-06-28-858bf525/stop
+  size: 0
+  modified: '2017-07-02T20:03:53'
+  type: ''
+- name: www.problems.ru-2017-06-28-858bf525.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.problems.ru-2017-06-28-858bf525/www.problems.ru-2017-06-28-858bf525.cdx
+  size: 26692358
+  modified: '2017-07-02T12:31:16'
+  type: CDX
+  extension: .cdx
+- name: www.problems.ru-2017-06-28-858bf525-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.problems.ru-2017-06-28-858bf525/www.problems.ru-2017-06-28-858bf525-00000.warc.gz
+  size: 4841626402
+  modified: '2017-07-02T12:31:16'
+  type: WARC
+  extension: .warc.gz
+- name: www.problems.ru-2017-06-28-858bf525-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.problems.ru-2017-06-28-858bf525/www.problems.ru-2017-06-28-858bf525-meta.warc.gz
+  size: 2145298
+  modified: '2017-07-02T20:04:00'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.problems.ru-2017-06-28-858bf525/wpull.db
+  size: 126565376
+  modified: '2017-07-02T20:03:49'
+  type: wpull database
+  extension: .db
+url: https://problems.ru
+created: '2017-06-28'

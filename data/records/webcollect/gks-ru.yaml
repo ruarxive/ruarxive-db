@@ -1,0 +1,16 @@
+id: gks-ru
+name: gks.ru.7z (2013-12-21)
+domain: gks.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: gks.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/gks.ru.7z
+  size: 2548959062
+  modified: '2013-12-21T09:39:31'
+  type: httrack archive
+  extension: .7z
+url: https://gks.ru.7z
+created: '2013-12-21T09:39:31'

@@ -1,0 +1,34 @@
+id: histor-ipt-kt-org
+name: histor-ipt-kt.org (2014-08-03)
+domain: histor-ipt-kt.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: www.histor-ipt-kt.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.histor-ipt-kt.org/www.histor-ipt-kt.org.cdx.xz
+  size: 96588
+  modified: '2014-08-03T03:23:48'
+  type: CDX
+  extension: .xz
+- name: www.histor-ipt-kt.org.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.histor-ipt-kt.org/www.histor-ipt-kt.org.7z
+  size: 185621037
+  modified: '2014-08-09T17:29:12'
+  type: ''
+  extension: .7z
+- name: www.histor-ipt-kt.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.histor-ipt-kt.org/www.histor-ipt-kt.org.warc.xz
+  size: 185627492
+  modified: '2014-08-03T03:23:48'
+  type: WARC
+  extension: .xz
+- name: www.histor-ipt-kt.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.histor-ipt-kt.org/www.histor-ipt-kt.org.log.xz
+  size: 75284
+  modified: '2014-08-03T03:23:48'
+  type: wpull log
+  extension: .xz
+url: https://histor-ipt-kt.org
+created: '2014-08-03T03:23:48'

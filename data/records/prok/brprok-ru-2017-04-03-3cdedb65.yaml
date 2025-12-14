@@ -1,0 +1,40 @@
+id: brprok-ru-2017-04-03-3cdedb65
+name: brprok.ru (2017-04-03)
+domain: brprok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.brprok.ru-2017-04-03-3cdedb65/wpull.db
+  size: 37126144
+  modified: '2017-04-04T05:51:58'
+  type: wpull database
+  extension: .db
+- name: www.brprok.ru-2017-04-03-3cdedb65-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.brprok.ru-2017-04-03-3cdedb65/www.brprok.ru-2017-04-03-3cdedb65-meta.warc.gz
+  size: 2526924
+  modified: '2017-04-04T05:51:58'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.brprok.ru-2017-04-03-3cdedb65/dupes_db/data.mdb
+  size: 13582336
+  modified: '2017-04-04T05:51:53'
+  type: ''
+  extension: .mdb
+- name: www.brprok.ru-2017-04-03-3cdedb65.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.brprok.ru-2017-04-03-3cdedb65/www.brprok.ru-2017-04-03-3cdedb65.cdx
+  size: 31719738
+  modified: '2017-04-04T05:51:56'
+  type: CDX
+  extension: .cdx
+- name: www.brprok.ru-2017-04-03-3cdedb65-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.brprok.ru-2017-04-03-3cdedb65/www.brprok.ru-2017-04-03-3cdedb65-00000.warc.gz
+  size: 2918055991
+  modified: '2017-04-04T05:51:56'
+  type: WARC
+  extension: .warc.gz
+url: https://brprok.ru
+created: '2017-04-03'

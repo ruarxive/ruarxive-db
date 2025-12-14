@@ -1,0 +1,51 @@
+id: 51-rospotrebnadzor-ru-2017-05-11-dbde0e06
+name: 51.rospotrebnadzor.ru (2017-05-11)
+domain: 51.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/51.rospotrebnadzor.ru-2017-05-11-dbde0e06/wpull.db
+  size: 30573568
+  modified: '2017-05-13T04:54:32'
+  type: wpull database
+  extension: .db
+- name: 51.rospotrebnadzor.ru-2017-05-11-dbde0e06-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/51.rospotrebnadzor.ru-2017-05-11-dbde0e06/51.rospotrebnadzor.ru-2017-05-11-dbde0e06-00000.warc.gz
+  size: 815563906
+  modified: '2017-05-13T04:54:16'
+  type: WARC
+  extension: .warc.gz
+- name: 51.rospotrebnadzor.ru-2017-05-11-dbde0e06.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/51.rospotrebnadzor.ru-2017-05-11-dbde0e06/51.rospotrebnadzor.ru-2017-05-11-dbde0e06.cdx
+  size: 9816851
+  modified: '2017-05-13T04:54:16'
+  type: CDX
+  extension: .cdx
+- name: tmp-wpull-resp_cb-9c3acf.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/51.rospotrebnadzor.ru-2017-05-11-dbde0e06/temp/tmp-wpull-resp_cb-9c3acf.tmp
+  size: 901670
+  modified: '2017-05-13T04:54:15'
+  type: ''
+  extension: .tmp
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/51.rospotrebnadzor.ru-2017-05-11-dbde0e06/stop
+  size: 0
+  modified: '2017-05-13T04:54:28'
+  type: ''
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/51.rospotrebnadzor.ru-2017-05-11-dbde0e06/dupes_db/data.mdb
+  size: 9490432
+  modified: '2017-05-13T04:54:17'
+  type: ''
+  extension: .mdb
+- name: 51.rospotrebnadzor.ru-2017-05-11-dbde0e06-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/51.rospotrebnadzor.ru-2017-05-11-dbde0e06/51.rospotrebnadzor.ru-2017-05-11-dbde0e06-meta.warc.gz
+  size: 691124
+  modified: '2017-05-13T04:54:37'
+  type: WARC
+  extension: .warc.gz
+url: https://51.rospotrebnadzor.ru
+created: '2017-05-11'

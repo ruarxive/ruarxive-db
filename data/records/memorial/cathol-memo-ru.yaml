@@ -1,0 +1,34 @@
+id: cathol-memo-ru
+name: cathol.memo.ru (2016-11-25)
+domain: cathol.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: cathol.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/cathol.memo.ru/cathol.memo.ru.warc.xz
+  size: 28269964
+  modified: '2016-11-25T18:54:50'
+  type: WARC
+  extension: .xz
+- name: cathol.memo.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/cathol.memo.ru/cathol.memo.ru.7z
+  size: 28888901
+  modified: '2016-12-11T09:21:04'
+  type: ''
+  extension: .7z
+- name: cathol.memo.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/cathol.memo.ru/cathol.memo.ru.cdx
+  size: 203785
+  modified: '2016-11-25T18:54:50'
+  type: CDX
+  extension: .cdx
+- name: cathol.memo.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/cathol.memo.ru/cathol.memo.ru.log
+  size: 411467
+  modified: '2016-11-25T18:54:50'
+  type: ''
+  extension: .log
+url: https://cathol.memo.ru
+created: '2016-11-25T18:54:50'

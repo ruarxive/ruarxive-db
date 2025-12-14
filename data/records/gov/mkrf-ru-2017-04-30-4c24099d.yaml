@@ -1,0 +1,70 @@
+id: mkrf-ru-2017-04-30-4c24099d
+name: mkrf.ru (2017-04-30)
+domain: mkrf.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: mkrf.ru-2017-04-30-4c24099d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/mkrf.ru-2017-04-30-4c24099d.cdx
+  size: 17818740
+  modified: '2017-04-30T20:26:31'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/wpull.db
+  size: 58293248
+  modified: '2017-04-30T20:26:31'
+  type: wpull database
+  extension: .db
+- name: warc-extractor.py
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/warc-extractor.py
+  size: 26779
+  modified: '2017-04-08T19:19:02'
+  type: ''
+  extension: .py
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/dupes_db/data.mdb
+  size: 10571776
+  modified: '2017-04-30T20:26:31'
+  type: ''
+  extension: .mdb
+- name: mkrf.ru-2017-04-30-4c24099d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/mkrf.ru-2017-04-30-4c24099d-00000.warc.gz
+  size: 5377241182
+  modified: '2017-04-30T14:37:31'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-warc-f5imd9.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/temp/tmp-wpull-warc-f5imd9.log.gz
+  size: 4517875
+  modified: '2017-04-30T20:26:31'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesreq-659_wp.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/temp/tmp-wpull-warcsesreq-659_wp.tmp
+  size: 387
+  modified: '2017-04-30T20:26:31'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-r6gng2.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/temp/tmp-wpull-warcsesrsp-r6gng2.tmp
+  size: 12568
+  modified: '2017-04-30T20:26:31'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-0rnrnu.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/temp/tmp-wpull-resp_cb-0rnrnu.tmp
+  size: 12288
+  modified: '2017-04-30T20:26:31'
+  type: ''
+  extension: .tmp
+- name: mkrf.ru-2017-04-30-4c24099d-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/mkrf.ru-2017-04-30-4c24099d/mkrf.ru-2017-04-30-4c24099d-00001.warc.gz
+  size: 4929557243
+  modified: '2017-04-30T20:26:31'
+  type: WARC
+  extension: .warc.gz
+url: https://mkrf.ru
+created: '2017-04-30'

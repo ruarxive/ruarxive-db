@@ -1,0 +1,28 @@
+id: mpcb-ru
+name: mpcb.ru (2013-12-19)
+domain: mpcb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.mpcb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mpcb.ru/www.mpcb.ru.cdx.xz
+  size: 28096
+  modified: '2013-12-19T11:27:27'
+  type: CDX
+  extension: .xz
+- name: www.mpcb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mpcb.ru/www.mpcb.ru.warc.xz
+  size: 29619300
+  modified: '2013-12-19T11:27:20'
+  type: WARC
+  extension: .xz
+- name: www.mpcb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mpcb.ru/www.mpcb.ru.log.xz
+  size: 20772
+  modified: '2013-12-19T11:27:19'
+  type: wpull log
+  extension: .xz
+url: https://mpcb.ru
+created: '2013-12-19T11:27:20'

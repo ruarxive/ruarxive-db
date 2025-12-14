@@ -1,0 +1,40 @@
+id: cbr-ru
+name: cbr.ru (2014-01-07)
+domain: cbr.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.cbr.ru.warc.gz.7z.001
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.cbr.ru/www.cbr.ru.warc.gz.7z.001
+  size: 3221225472
+  modified: '2014-01-07T06:24:59'
+  type: ''
+  extension: '.001'
+- name: www.cbr.ru.warc.gz.7z.002
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.cbr.ru/www.cbr.ru.warc.gz.7z.002
+  size: 3221225472
+  modified: '2014-01-07T06:14:21'
+  type: ''
+  extension: '.002'
+- name: www.cbr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.cbr.ru/www.cbr.ru.cdx.xz
+  size: 2176716
+  modified: '2014-01-07T06:34:38'
+  type: CDX
+  extension: .xz
+- name: www.cbr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.cbr.ru/www.cbr.ru.log.xz
+  size: 1639460
+  modified: '2014-01-07T05:47:33'
+  type: wpull log
+  extension: .xz
+- name: www.cbr.ru.warc.gz.7z.003
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.cbr.ru/www.cbr.ru.warc.gz.7z.003
+  size: 276386193
+  modified: '2014-01-07T05:46:49'
+  type: ''
+  extension: '.003'
+url: https://cbr.ru
+created: '2014-01-07T05:46:49'

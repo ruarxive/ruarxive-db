@@ -1,0 +1,16 @@
+id: sport-fcp-ru
+name: sport-fcp.ru.7z (2013-08-29)
+domain: sport-fcp.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: sport-fcp.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/sport-fcp.ru.7z
+  size: 92951456
+  modified: '2013-08-29T11:59:16'
+  type: httrack archive
+  extension: .7z
+url: https://sport-fcp.ru.7z
+created: '2013-08-29T11:59:16'

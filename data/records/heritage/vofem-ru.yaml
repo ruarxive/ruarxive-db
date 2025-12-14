@@ -1,0 +1,28 @@
+id: vofem-ru
+name: vofem.ru (2014-08-23)
+domain: vofem.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: www.vofem.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.vofem.ru/www.vofem.ru.cdx.xz
+  size: 1249744
+  modified: '2014-08-23T11:33:29'
+  type: CDX
+  extension: .xz
+- name: www.vofem.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.vofem.ru/www.vofem.ru.warc.xz
+  size: 44876948440
+  modified: '2014-08-23T11:33:30'
+  type: WARC
+  extension: .xz
+- name: www.vofem.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.vofem.ru/www.vofem.ru.log.xz
+  size: 2406940
+  modified: '2014-08-23T11:33:30'
+  type: wpull log
+  extension: .xz
+url: https://vofem.ru
+created: '2014-08-23T11:33:30'

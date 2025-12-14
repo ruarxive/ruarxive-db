@@ -1,0 +1,24 @@
+id: kultpro-ru
+name: КультПросвет
+url: http://www.kultpro.ru/
+domain: kultpro.ru
+created: '2022-03-29T16:16:48.000Z'
+date: '2022-03-22T16:27:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сайт остановил работу
+reason_id: site-stopped
+collection:
+  id: artculturemedia_garage
+  name: Искусство и культура
+  slug: artculturemedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: высокий
+resources:
+- type: storage
+  name: kultpro.ru
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/kultpro.ru/

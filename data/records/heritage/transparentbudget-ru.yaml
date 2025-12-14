@@ -1,0 +1,28 @@
+id: transparentbudget-ru
+name: transparentbudget.ru (2013-12-13)
+domain: transparentbudget.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: www.transparentbudget.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.transparentbudget.ru/www.transparentbudget.ru.log.xz
+  size: 2116
+  modified: '2013-12-13T02:04:45'
+  type: wpull log
+  extension: .xz
+- name: www.transparentbudget.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.transparentbudget.ru/www.transparentbudget.ru.warc.xz
+  size: 103804
+  modified: '2013-12-13T02:04:45'
+  type: WARC
+  extension: .xz
+- name: www.transparentbudget.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.transparentbudget.ru/www.transparentbudget.ru.cdx.xz
+  size: 3604
+  modified: '2013-12-13T02:04:46'
+  type: CDX
+  extension: .xz
+url: https://transparentbudget.ru
+created: '2013-12-13T02:04:45'

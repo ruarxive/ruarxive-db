@@ -1,0 +1,100 @@
+id: fsrar
+slug: fsrar
+name: ФСРАР
+num_records: 18
+records:
+- id: askp-fsrar-ru-2017-05-31-6d1366fc
+  name: askp.fsrar.ru (2017-05-31)
+  url: https://askp.fsrar.ru
+  created: '2017-05-31'
+  domain: askp.fsrar.ru
+- id: ca-fsrar-ru-2017-05-31-ca8c5ed5
+  name: ca.fsrar.ru (2017-05-31)
+  url: https://ca.fsrar.ru
+  created: '2017-05-31'
+  domain: ca.fsrar.ru
+- id: cfo-fsrar-ru-2017-05-31-c4097655
+  name: cfo.fsrar.ru (2017-05-31)
+  url: https://cfo.fsrar.ru
+  created: '2017-05-31'
+  domain: cfo.fsrar.ru
+- id: check1-fsrar-ru-2017-05-31-c0ea570a
+  name: check1.fsrar.ru (2017-05-31)
+  url: https://check1.fsrar.ru
+  created: '2017-05-31'
+  domain: check1.fsrar.ru
+- id: dfo-fsrar-ru-2017-05-31-f982e23b
+  name: dfo.fsrar.ru (2017-05-31)
+  url: https://dfo.fsrar.ru
+  created: '2017-05-31'
+  domain: dfo.fsrar.ru
+- id: egais-ru-2017-05-31-5b7136e2
+  name: egais.ru (2017-05-31)
+  url: https://egais.ru
+  created: '2017-05-31'
+  domain: egais.ru
+- id: forum-fsrar-ru-2017-05-31-06d14aea
+  name: forum.fsrar.ru (2017-05-31)
+  url: https://forum.fsrar.ru
+  created: '2017-05-31'
+  domain: forum.fsrar.ru
+- id: frap-fsrar-ru-2017-05-31-9e25f72e
+  name: frap.fsrar.ru (2017-05-31)
+  url: https://frap.fsrar.ru
+  created: '2017-05-31'
+  domain: frap.fsrar.ru
+- id: gibdd-fsrar-ru-2017-05-31-e02753c9
+  name: gibdd.fsrar.ru (2017-05-31)
+  url: https://gibdd.fsrar.ru
+  created: '2017-05-31'
+  domain: gibdd.fsrar.ru
+- id: pfo-fsrar-ru-2017-05-31-ba650e9e
+  name: pfo.fsrar.ru (2017-05-31)
+  url: https://pfo.fsrar.ru
+  created: '2017-05-31'
+  domain: pfo.fsrar.ru
+- id: pivot-fsrar-ru-2017-05-31-ac4be636
+  name: pivot.fsrar.ru (2017-05-31)
+  url: https://pivot.fsrar.ru
+  created: '2017-05-31'
+  domain: pivot.fsrar.ru
+- id: public-fsrar-ru-2017-05-31-cb000238
+  name: public.fsrar.ru (2017-05-31)
+  url: https://public.fsrar.ru
+  created: '2017-05-31'
+  domain: public.fsrar.ru
+- id: service-fsrar-ru-2017-05-31-c0c44e4b
+  name: service.fsrar.ru (2017-05-31)
+  url: https://service.fsrar.ru
+  created: '2017-05-31'
+  domain: service.fsrar.ru
+- id: sfo-fsrar-ru-2017-05-31-2fd690d3
+  name: sfo.fsrar.ru (2017-05-31)
+  url: https://sfo.fsrar.ru
+  created: '2017-05-31'
+  domain: sfo.fsrar.ru
+- id: skfo-fsrar-ru-2017-05-31-394c79bb
+  name: skfo.fsrar.ru (2017-05-31)
+  url: https://skfo.fsrar.ru
+  created: '2017-05-31'
+  domain: skfo.fsrar.ru
+- id: szfo-fsrar-ru-2017-05-31-94a53e0e
+  name: szfo.fsrar.ru (2017-05-31)
+  url: https://szfo.fsrar.ru
+  created: '2017-05-31'
+  domain: szfo.fsrar.ru
+- id: ufo-fsrar-ru-2017-05-31-c117c7ad
+  name: ufo.fsrar.ru (2017-05-31)
+  url: https://ufo.fsrar.ru
+  created: '2017-05-31'
+  domain: ufo.fsrar.ru
+- id: urfo-fsrar-ru-2017-05-31-44566efa
+  name: urfo.fsrar.ru (2017-05-31)
+  url: https://urfo.fsrar.ru
+  created: '2017-05-31'
+  domain: urfo.fsrar.ru
+files:
+  total_count: 378
+  total_size: 25237043915
+  directories:
+  - webcollect2017

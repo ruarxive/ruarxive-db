@@ -1,0 +1,40 @@
+id: eis-ahml-ru-2017-05-10-7e8674c9
+name: eis.ahml.ru (2017-05-10)
+domain: eis.ahml.ru
+collection:
+  id: aizhk
+  slug: aizhk
+  name: АИЖК
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/eis.ahml.ru-2017-05-10-7e8674c9/wpull.db
+  size: 10240
+  modified: '2017-05-10T08:35:33'
+  type: wpull database
+  extension: .db
+- name: eis.ahml.ru-2017-05-10-7e8674c9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/eis.ahml.ru-2017-05-10-7e8674c9/eis.ahml.ru-2017-05-10-7e8674c9.cdx
+  size: 743
+  modified: '2017-05-10T08:35:31'
+  type: CDX
+  extension: .cdx
+- name: eis.ahml.ru-2017-05-10-7e8674c9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/eis.ahml.ru-2017-05-10-7e8674c9/eis.ahml.ru-2017-05-10-7e8674c9-00000.warc.gz
+  size: 12802
+  modified: '2017-05-10T08:35:31'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/eis.ahml.ru-2017-05-10-7e8674c9/dupes_db/data.mdb
+  size: 20480
+  modified: '2017-05-10T08:35:31'
+  type: ''
+  extension: .mdb
+- name: eis.ahml.ru-2017-05-10-7e8674c9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/eis.ahml.ru-2017-05-10-7e8674c9/eis.ahml.ru-2017-05-10-7e8674c9-meta.warc.gz
+  size: 3028
+  modified: '2017-05-10T08:35:33'
+  type: WARC
+  extension: .warc.gz
+url: https://eis.ahml.ru
+created: '2017-05-10'

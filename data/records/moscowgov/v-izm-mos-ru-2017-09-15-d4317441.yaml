@@ -1,0 +1,40 @@
+id: v-izm-mos-ru-2017-09-15-d4317441
+name: v-izm.mos.ru (2017-09-15)
+domain: v-izm.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: v-izm.mos.ru-2017-09-15-d4317441-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/v-izm.mos.ru-2017-09-15-d4317441/v-izm.mos.ru-2017-09-15-d4317441-meta.warc.gz
+  size: 1247218
+  modified: '2017-09-17T06:47:08'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/v-izm.mos.ru-2017-09-15-d4317441/wpull.db
+  size: 14342144
+  modified: '2017-09-17T06:46:58'
+  type: wpull database
+  extension: .db
+- name: v-izm.mos.ru-2017-09-15-d4317441.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/v-izm.mos.ru-2017-09-15-d4317441/v-izm.mos.ru-2017-09-15-d4317441.cdx
+  size: 9788433
+  modified: '2017-09-17T06:46:58'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/v-izm.mos.ru-2017-09-15-d4317441/dupes_db/data.mdb
+  size: 7274496
+  modified: '2017-09-17T06:46:53'
+  type: ''
+  extension: .mdb
+- name: v-izm.mos.ru-2017-09-15-d4317441-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/v-izm.mos.ru-2017-09-15-d4317441/v-izm.mos.ru-2017-09-15-d4317441-00000.warc.gz
+  size: 2683468125
+  modified: '2017-09-17T06:46:58'
+  type: WARC
+  extension: .warc.gz
+url: https://v-izm.mos.ru
+created: '2017-09-15'

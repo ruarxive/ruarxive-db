@@ -1,0 +1,18 @@
+id: vk-com-9
+name: (архив)
+domain: vk.com
+created: '2022-03-29T15:43:19.000Z'
+status: не собран
+status_id: not-collected
+resource_type: публичная страница Вконтакте
+resource_type_id: vk-page
+reason: Паблик с портретами улиц и пейзажами людей. Внешний запрос.
+reason_id: external-request-14
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: низкий

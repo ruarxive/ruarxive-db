@@ -1,0 +1,18 @@
+id: vk-com-10
+name: Ментальная помойка
+domain: vk.com
+created: '2022-03-29T15:43:19.000Z'
+status: не собран
+status_id: not-collected
+resource_type: публичная страница Вконтакте
+resource_type_id: vk-page
+reason: Лоу-фай интернет арт - художественные фотографии действительности
+reason_id: lou-fay-internet-art
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: низкий

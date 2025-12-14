@@ -1,0 +1,40 @@
+id: memorial-nic-org-2017-06-06-b5e1a01b
+name: memorial-nic.org (2017-06-06)
+domain: memorial-nic.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: memorial-nic.org-2017-06-06-b5e1a01b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorial-nic.org-2017-06-06-b5e1a01b/memorial-nic.org-2017-06-06-b5e1a01b.cdx
+  size: 85411
+  modified: '2017-06-08T19:11:07'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorial-nic.org-2017-06-06-b5e1a01b/wpull.db
+  size: 101376
+  modified: '2017-06-08T19:08:03'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorial-nic.org-2017-06-06-b5e1a01b/dupes_db/data.mdb
+  size: 77824
+  modified: '2017-06-08T19:11:07'
+  type: ''
+  extension: .mdb
+- name: memorial-nic.org-2017-06-06-b5e1a01b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorial-nic.org-2017-06-06-b5e1a01b/memorial-nic.org-2017-06-06-b5e1a01b-00000.warc.gz
+  size: 243448225
+  modified: '2017-06-08T19:08:10'
+  type: WARC
+  extension: .warc.gz
+- name: memorial-nic.org-2017-06-06-b5e1a01b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/memorial-nic.org-2017-06-06-b5e1a01b/memorial-nic.org-2017-06-06-b5e1a01b-meta.warc.gz
+  size: 14902
+  modified: '2017-06-08T19:11:07'
+  type: WARC
+  extension: .warc.gz
+url: https://memorial-nic.org
+created: '2017-06-06'

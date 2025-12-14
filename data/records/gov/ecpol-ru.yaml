@@ -1,0 +1,28 @@
+id: ecpol-ru
+name: ecpol.ru (2013-12-13)
+domain: ecpol.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: ecpol.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ecpol.ru/ecpol.ru.warc.xz
+  size: 537869380
+  modified: '2013-12-13T08:15:37'
+  type: WARC
+  extension: .xz
+- name: ecpol.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ecpol.ru/ecpol.ru.cdx.xz
+  size: 1084836
+  modified: '2013-12-13T08:15:09'
+  type: CDX
+  extension: .xz
+- name: ecpol.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ecpol.ru/ecpol.ru.log.xz
+  size: 710616
+  modified: '2013-12-13T08:15:07'
+  type: wpull log
+  extension: .xz
+url: https://ecpol.ru
+created: '2013-12-13T08:15:37'

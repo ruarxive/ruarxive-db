@@ -1,0 +1,40 @@
+id: govcouncils
+slug: govcouncils
+name: Государственные советы
+num_records: 6
+records:
+- id: i-russia-ru-2017-06-01-888b7afc
+  name: i-russia.ru (2017-06-01)
+  url: https://i-russia.ru
+  created: '2017-06-01'
+  domain: i-russia.ru
+- id: nok-nark-ru-2017-06-01-cd61722b
+  name: nok-nark.ru (2017-06-01)
+  url: https://nok-nark.ru
+  created: '2017-06-01'
+  domain: nok-nark.ru
+- id: nspkrf-ru-2017-06-01-1d177e3b
+  name: nspkrf.ru (2017-06-01)
+  url: https://nspkrf.ru
+  created: '2017-06-01'
+  domain: nspkrf.ru
+- id: president-sovet-ru-2017-06-01-d2c6454d
+  name: president-sovet.ru (2017-06-01)
+  url: https://president-sovet.ru
+  created: '2017-06-01'
+  domain: president-sovet.ru
+- id: science-gov-ru-2017-06-01-f0a6724f
+  name: science.gov.ru (2017-06-01)
+  url: https://science.gov.ru
+  created: '2017-06-01'
+  domain: science.gov.ru
+- id: youngscience-gov-ru-2017-06-01-28ace755
+  name: youngscience.gov.ru (2017-06-01)
+  url: https://youngscience.gov.ru
+  created: '2017-06-01'
+  domain: youngscience.gov.ru
+files:
+  total_count: 136
+  total_size: 33193133104
+  directories:
+  - webcollect2017

@@ -1,0 +1,34 @@
+id: data-ekburg-ru
+name: data.ekburg.ru (2017-02-18)
+domain: data.ekburg.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: data.ekburg.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.ekburg.ru/data.ekburg.ru.cdx
+  size: 15524
+  modified: '2017-02-18T15:36:08'
+  type: CDX
+  extension: .cdx
+- name: data.ekburg.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.ekburg.ru/data.ekburg.ru.warc.gz
+  size: 4951186
+  modified: '2017-02-18T15:36:08'
+  type: WARC
+  extension: .warc.gz
+- name: data.ekburg.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.ekburg.ru/data.ekburg.ru.7z
+  size: 2207329
+  modified: '2017-02-22T06:54:15'
+  type: ''
+  extension: .7z
+- name: data.ekburg.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.ekburg.ru/data.ekburg.ru.log
+  size: 95345
+  modified: '2017-02-18T15:36:08'
+  type: ''
+  extension: .log
+url: https://data.ekburg.ru
+created: '2017-02-18T15:36:08'

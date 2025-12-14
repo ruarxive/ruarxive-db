@@ -1,0 +1,28 @@
+id: riarating-ru
+name: riarating.ru (2013-12-11)
+domain: riarating.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: www.riarating.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.riarating.ru/www.riarating.ru.log.xz
+  size: 74224
+  modified: '2013-12-11T10:39:31'
+  type: wpull log
+  extension: .xz
+- name: www.riarating.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.riarating.ru/www.riarating.ru.warc.xz
+  size: 52583324
+  modified: '2013-12-11T10:39:33'
+  type: WARC
+  extension: .xz
+- name: www.riarating.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.riarating.ru/www.riarating.ru.cdx.xz
+  size: 130612
+  modified: '2013-12-11T10:40:22'
+  type: CDX
+  extension: .xz
+url: https://riarating.ru
+created: '2013-12-11T10:39:33'

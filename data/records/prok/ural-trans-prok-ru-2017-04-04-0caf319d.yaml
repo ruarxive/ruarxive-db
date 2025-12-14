@@ -1,0 +1,40 @@
+id: ural-trans-prok-ru-2017-04-04-0caf319d
+name: ural-trans-prok.ru (2017-04-04)
+domain: ural-trans-prok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.ural-trans-prok.ru-2017-04-04-0caf319d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ural-trans-prok.ru-2017-04-04-0caf319d/www.ural-trans-prok.ru-2017-04-04-0caf319d-00000.warc.gz
+  size: 56982452
+  modified: '2017-04-04T08:35:42'
+  type: WARC
+  extension: .warc.gz
+- name: www.ural-trans-prok.ru-2017-04-04-0caf319d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ural-trans-prok.ru-2017-04-04-0caf319d/www.ural-trans-prok.ru-2017-04-04-0caf319d-meta.warc.gz
+  size: 24063
+  modified: '2017-04-04T08:35:42'
+  type: WARC
+  extension: .warc.gz
+- name: www.ural-trans-prok.ru-2017-04-04-0caf319d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ural-trans-prok.ru-2017-04-04-0caf319d/www.ural-trans-prok.ru-2017-04-04-0caf319d.cdx
+  size: 174189
+  modified: '2017-04-04T08:35:42'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ural-trans-prok.ru-2017-04-04-0caf319d/dupes_db/data.mdb
+  size: 131072
+  modified: '2017-04-04T08:35:42'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ural-trans-prok.ru-2017-04-04-0caf319d/wpull.db
+  size: 193536
+  modified: '2017-04-04T08:35:42'
+  type: wpull database
+  extension: .db
+url: https://ural-trans-prok.ru
+created: '2017-04-04'

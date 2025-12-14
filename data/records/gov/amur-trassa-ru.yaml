@@ -1,0 +1,28 @@
+id: amur-trassa-ru
+name: amur-trassa.ru (2013-09-20)
+domain: amur-trassa.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: amur-trassa.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/amur-trassa.ru/amur-trassa.ru.log.xz
+  size: 21968
+  modified: '2013-09-20T07:52:04'
+  type: wpull log
+  extension: .xz
+- name: amur-trassa.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/amur-trassa.ru/amur-trassa.ru.cdx.xz
+  size: 37660
+  modified: '2013-09-20T07:52:04'
+  type: CDX
+  extension: .xz
+- name: amur-trassa.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/amur-trassa.ru/amur-trassa.ru.warc.xz
+  size: 19878756
+  modified: '2013-09-20T07:53:05'
+  type: WARC
+  extension: .xz
+url: https://amur-trassa.ru
+created: '2013-09-20T07:53:05'

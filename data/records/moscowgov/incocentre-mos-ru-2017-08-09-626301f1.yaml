@@ -1,0 +1,40 @@
+id: incocentre-mos-ru-2017-08-09-626301f1
+name: incocentre.mos.ru (2017-08-09)
+domain: incocentre.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/incocentre.mos.ru-2017-08-09-626301f1/wpull.db
+  size: 1008640
+  modified: '2017-08-09T16:39:11'
+  type: wpull database
+  extension: .db
+- name: incocentre.mos.ru-2017-08-09-626301f1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/incocentre.mos.ru-2017-08-09-626301f1/incocentre.mos.ru-2017-08-09-626301f1.cdx
+  size: 910581
+  modified: '2017-08-09T16:39:10'
+  type: CDX
+  extension: .cdx
+- name: incocentre.mos.ru-2017-08-09-626301f1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/incocentre.mos.ru-2017-08-09-626301f1/incocentre.mos.ru-2017-08-09-626301f1-meta.warc.gz
+  size: 123228
+  modified: '2017-08-09T16:39:11'
+  type: WARC
+  extension: .warc.gz
+- name: incocentre.mos.ru-2017-08-09-626301f1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/incocentre.mos.ru-2017-08-09-626301f1/incocentre.mos.ru-2017-08-09-626301f1-00000.warc.gz
+  size: 87622936
+  modified: '2017-08-09T16:39:10'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/incocentre.mos.ru-2017-08-09-626301f1/dupes_db/data.mdb
+  size: 401408
+  modified: '2017-08-09T16:38:50'
+  type: ''
+  extension: .mdb
+url: https://incocentre.mos.ru
+created: '2017-08-09'

@@ -1,0 +1,40 @@
+id: 59fbuz-ru-2017-05-14-4d124c7d
+name: 59fbuz.ru (2017-05-14)
+domain: 59fbuz.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/59fbuz.ru-2017-05-14-4d124c7d/dupes_db/data.mdb
+  size: 212992
+  modified: '2017-05-14T14:33:14'
+  type: ''
+  extension: .mdb
+- name: 59fbuz.ru-2017-05-14-4d124c7d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/59fbuz.ru-2017-05-14-4d124c7d/59fbuz.ru-2017-05-14-4d124c7d.cdx
+  size: 395811
+  modified: '2017-05-14T14:33:22'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/59fbuz.ru-2017-05-14-4d124c7d/wpull.db
+  size: 371712
+  modified: '2017-05-14T14:33:22'
+  type: wpull database
+  extension: .db
+- name: 59fbuz.ru-2017-05-14-4d124c7d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/59fbuz.ru-2017-05-14-4d124c7d/59fbuz.ru-2017-05-14-4d124c7d-00000.warc.gz
+  size: 433460450
+  modified: '2017-05-14T14:33:22'
+  type: WARC
+  extension: .warc.gz
+- name: 59fbuz.ru-2017-05-14-4d124c7d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/59fbuz.ru-2017-05-14-4d124c7d/59fbuz.ru-2017-05-14-4d124c7d-meta.warc.gz
+  size: 50447
+  modified: '2017-05-14T14:33:22'
+  type: WARC
+  extension: .warc.gz
+url: https://59fbuz.ru
+created: '2017-05-14'

@@ -1,0 +1,81 @@
+id: edugalaxy-intel-ru-2017-07-03-cdb56b1e
+name: edugalaxy.intel.ru (2017-07-03)
+domain: edugalaxy.intel.ru
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: edugalaxy.intel.ru-2017-07-03-cdb56b1e-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/edugalaxy.intel.ru-2017-07-03-cdb56b1e-00001.warc.gz
+  size: 5368857478
+  modified: '2017-07-09T02:40:47'
+  type: WARC
+  extension: .warc.gz
+- name: edugalaxy.intel.ru-2017-07-03-cdb56b1e-00005.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/edugalaxy.intel.ru-2017-07-03-cdb56b1e-00005.warc.gz
+  size: 2335421339
+  modified: '2017-07-23T02:04:42'
+  type: WARC
+  extension: .warc.gz
+- name: edugalaxy.intel.ru-2017-07-03-cdb56b1e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/edugalaxy.intel.ru-2017-07-03-cdb56b1e-meta.warc.gz
+  size: 39023163
+  modified: '2017-07-23T02:05:17'
+  type: WARC
+  extension: .warc.gz
+- name: edugalaxy.intel.ru-2017-07-03-cdb56b1e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/edugalaxy.intel.ru-2017-07-03-cdb56b1e-00000.warc.gz
+  size: 5368716632
+  modified: '2017-07-06T06:01:06'
+  type: WARC
+  extension: .warc.gz
+- name: edugalaxy.intel.ru-2017-07-03-cdb56b1e-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/edugalaxy.intel.ru-2017-07-03-cdb56b1e-00004.warc.gz
+  size: 5368709604
+  modified: '2017-07-20T10:43:58'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-a7y6lt.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/temp/tmp-wpull-resp_cb-a7y6lt.tmp
+  size: 141984
+  modified: '2017-07-23T02:04:42'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/wpull.db
+  size: 693285888
+  modified: '2017-07-23T02:04:42'
+  type: wpull database
+  extension: .db
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/stop
+  size: 0
+  modified: '2017-07-23T02:04:41'
+  type: ''
+- name: edugalaxy.intel.ru-2017-07-03-cdb56b1e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/edugalaxy.intel.ru-2017-07-03-cdb56b1e.cdx
+  size: 443468342
+  modified: '2017-07-23T02:04:42'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/dupes_db/data.mdb
+  size: 97685504
+  modified: '2017-07-23T02:04:39'
+  type: ''
+  extension: .mdb
+- name: edugalaxy.intel.ru-2017-07-03-cdb56b1e-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/edugalaxy.intel.ru-2017-07-03-cdb56b1e-00002.warc.gz
+  size: 5368709927
+  modified: '2017-07-12T07:33:54'
+  type: WARC
+  extension: .warc.gz
+- name: edugalaxy.intel.ru-2017-07-03-cdb56b1e-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/edugalaxy.intel.ru-2017-07-03-cdb56b1e/edugalaxy.intel.ru-2017-07-03-cdb56b1e-00003.warc.gz
+  size: 5368717172
+  modified: '2017-07-15T21:06:39'
+  type: WARC
+  extension: .warc.gz
+url: https://edugalaxy.intel.ru
+created: '2017-07-03'

@@ -1,0 +1,28 @@
+id: olymp2008-rian-ru
+name: olymp2008.rian.ru (2013-12-10)
+domain: olymp2008.rian.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: olymp2008.rian.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/olymp2008.rian.ru/olymp2008.rian.ru.log.xz
+  size: 568704
+  modified: '2013-12-10T21:10:26'
+  type: wpull log
+  extension: .xz
+- name: olymp2008.rian.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/olymp2008.rian.ru/olymp2008.rian.ru.cdx.xz
+  size: 1202424
+  modified: '2013-12-10T21:10:24'
+  type: CDX
+  extension: .xz
+- name: olymp2008.rian.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/olymp2008.rian.ru/olymp2008.rian.ru.warc.xz
+  size: 65236228
+  modified: '2013-12-10T21:09:48'
+  type: WARC
+  extension: .xz
+url: https://olymp2008.rian.ru
+created: '2013-12-10T21:09:48'

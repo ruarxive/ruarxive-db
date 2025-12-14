@@ -1,0 +1,266 @@
+id: artculturemedia_sygma
+slug: artculturemedia_sygma
+name: Искусство и культура
+created: '2022-12-28T11:24:15.000Z'
+num_records: 40
+records:
+- id: 48-hours-nsk-com
+  name: фестиваль 48 часов новосибирск
+  url: https://48-hours-nsk.com
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: 48-hours-nsk.com
+- id: aroundart-org
+  name: Aroundart
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+- id: assembly-ru
+  name: Ассамблея
+  url: https://assembly.ru/
+  status: невозможно собрать
+  status_id: impossible
+  created: '2022-03-29T15:43:19.000Z'
+  domain: assembly.ru
+- id: ayarkut-com
+  name: Фонд поддержки современного искусства AyarKut
+  url: http://ayarkut.com/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:19.000Z'
+  domain: ayarkut.com
+- id: belyprize-ru
+  name: 'Премия Андрея Белого '
+  url: http://belyprize.ru/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:19.000Z'
+  domain: belyprize.ru
+- id: cc19-org
+  name: ЦК19
+  url: https://cc19.org
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:19.000Z'
+  domain: cc19.org
+- id: cineminers-com
+  name: Cineminers
+  url: https://www.cineminers.com
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: cineminers.com
+- id: conceptualism-letov-ru
+  name: Архив московского концептуализма
+  url: https://conceptualism.letov.ru/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:19.000Z'
+  domain: conceptualism.letov.ru
+- id: contemporary-work
+  name: Выставка Spring of Dream or Nightmare
+  url: http://contemporary.work/spring-of-dream-or-nightmare.html
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: contemporary.work
+- id: easteast-world
+  name: EastEast
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:19.000Z'
+  domain: easteast.world
+- id: ekaterinavasilyeva-ru
+  name: Екатерина Васильева
+  url: https://ekaterinavasilyeva.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: ekaterinavasilyeva.ru
+- id: ekb-spread-name
+  name: Что там с ОКН
+  url: https://ekb.spread.name/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: ekb.spread.name
+- id: facebook-com-1
+  name: Ирина Кулик
+  url: https://www.facebook.com/irina.kulik.14
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: facebook.com
+- id: flagi-media
+  name: Журнал Флаги
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+- id: greza-space
+  name: Греза
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:19.000Z'
+- id: groundingwith-space
+  name: Проект «Заземление»
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: groundingwith.space
+- id: julia-abz-com
+  name: Юлия Абзальтдинова
+  url: http://www.julia-abz.com
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: julia-abz.com
+- id: kkbbd-com
+  name: кимкибабадук
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:19.000Z'
+- id: ludanik-com
+  name: Татьяна Луданик
+  url: https://www.ludanik.com
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: ludanik.com
+- id: nastyakuzmina-com
+  name: Анастасия Кузьмина
+  url: https://www.nastyakuzmina.com/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: nastyakuzmina.com
+- id: oknekb2020-ru
+  name: ОКН - объекты культурного наследия
+  url: https://oknekb2020.ru/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: oknekb2020.ru
+- id: openleft-ru
+  name: Открытая левая (openleft)
+  url: http://openleft.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-03-29T15:43:19.000Z'
+  domain: openleft.ru
+- id: podelniki-com
+  name: Совесткий модернизм Свердловска
+  url: http://podelniki.com/sovmod
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: podelniki.com
+- id: pole-telesnosti-tilda-ws
+  name: Поле Телесности
+  url: http://pole.telesnosti.tilda.ws/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: pole.telesnosti.tilda.ws
+- id: redmuseum-church
+  name: блог Центра Экспериментальной Музеологии
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+- id: researcharts-ru
+  name: Department of Research Arts
+  url: https://researcharts.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: researcharts.ru
+- id: samizdat-wiki
+  name: Архив журнала Часы
+  url: https://samizdat.wiki/
+  status: собирается
+  status_id: collecting
+  created: '2022-03-29T15:43:19.000Z'
+  domain: samizdat.wiki
+- id: siberian-archive-ru
+  name: Сибирский архив современного искусства
+  url: https://siberian-archive.ru/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:19.000Z'
+  domain: siberian-archive.ru
+- id: sites-google-com
+  name: Nika Sandler
+  url: https://sites.google.com/view/nikasandler
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: sites.google.com
+- id: surealia-com
+  name: Sui Yumzhana
+  url: https://surealia.com/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: surealia.com
+- id: taruts-events
+  name: Алексей Таруц
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T15:43:03.000Z'
+- id: vk-com-1
+  name: Сhacun son cinema
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: vk.com
+- id: vk-com-10
+  name: Ментальная помойка
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: vk.com
+- id: vk-com-11
+  name: Стойя и московские ивенты
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: vk.com
+- id: vk-com-3
+  name: киноклуб opia
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: vk.com
+- id: vk-com-9
+  name: (архив)
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: vk.com
+- id: vk-com
+  name: Улица доктора гааза
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: vk.com
+- id: wall-online-ru
+  name: Wall-online
+  url: https://wall-online.ru/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: wall-online.ru
+- id: worldofhedonia-wixsite-com
+  name: World of hedonia
+  url: https://worldofhedonia.wixsite.com/exhibition/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: worldofhedonia.wixsite.com
+- id: zalieva-ru
+  name: Елизавета Залиева
+  url: https://zalieva.ru/
+  status: собран
+  status_id: collected
+  created: '2022-03-29T15:43:19.000Z'
+  domain: zalieva.ru

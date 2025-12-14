@@ -1,0 +1,29 @@
+id: news-doxajournal-ru
+name: DOXA
+url: https://news.doxajournal.ru
+domain: news.doxajournal.ru
+created: '2022-03-14T08:53:31.000Z'
+date: '2022-03-14T07:19:00.000Z'
+status: собран
+status_id: collected
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Блокировка издания в России
+reason_id: publication-blocking
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: news.doxajournal.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/media2022/news.doxajournal.ru/news.doxajournal.ru.warc.gz

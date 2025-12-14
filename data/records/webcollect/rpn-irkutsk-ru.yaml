@@ -1,0 +1,16 @@
+id: rpn-irkutsk-ru
+name: rpn.irkutsk.ru.7z (2013-08-17)
+domain: rpn.irkutsk.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: rpn.irkutsk.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/rpn.irkutsk.ru.7z
+  size: 3011001
+  modified: '2013-08-17T13:33:57'
+  type: httrack archive
+  extension: .7z
+url: https://rpn.irkutsk.ru.7z
+created: '2013-08-17T13:33:57'

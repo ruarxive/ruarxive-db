@@ -1,0 +1,40 @@
+id: fish-gov-ru-2017-04-06-3fc0c200
+name: fish.gov.ru (2017-04-06)
+domain: fish.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: fish.gov.ru-2017-04-06-3fc0c200.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fish.gov.ru-2017-04-06-3fc0c200/fish.gov.ru-2017-04-06-3fc0c200.cdx
+  size: 13162186
+  modified: '2017-04-06T12:39:07'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fish.gov.ru-2017-04-06-3fc0c200/wpull.db
+  size: 17549312
+  modified: '2017-04-06T12:39:08'
+  type: wpull database
+  extension: .db
+- name: fish.gov.ru-2017-04-06-3fc0c200-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fish.gov.ru-2017-04-06-3fc0c200/fish.gov.ru-2017-04-06-3fc0c200-00000.warc.gz
+  size: 4905532127
+  modified: '2017-04-06T12:39:07'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fish.gov.ru-2017-04-06-3fc0c200/dupes_db/data.mdb
+  size: 9560064
+  modified: '2017-04-06T12:23:26'
+  type: ''
+  extension: .mdb
+- name: fish.gov.ru-2017-04-06-3fc0c200-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/fish.gov.ru-2017-04-06-3fc0c200/fish.gov.ru-2017-04-06-3fc0c200-meta.warc.gz
+  size: 1919854
+  modified: '2017-04-06T12:39:08'
+  type: WARC
+  extension: .warc.gz
+url: https://fish.gov.ru
+created: '2017-04-06'

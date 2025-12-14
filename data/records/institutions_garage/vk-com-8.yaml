@@ -1,0 +1,17 @@
+id: vk-com-8
+name: Студия 4.413 (Это здесь) (vk)
+domain: vk.com
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: Аккаунт в социальной сети
+resource_type_id: social-account
+reason: Блокировка / небезопасность платформы
+reason_id: platform-unsafe
+collection:
+  id: institutions_garage
+  name: Институты
+  slug: institutions_garage
+source:
+  id: garage-museum
+  name: Garage Museum

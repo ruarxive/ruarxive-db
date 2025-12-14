@@ -1,0 +1,29 @@
+id: elections
+slug: elections
+name: Выборы
+num_records: 4
+records:
+- id: cikrf-ru
+  name: cikrf.ru (2015-12-24)
+  url: https://cikrf.ru
+  created: '2015-12-24T20:23:29'
+  domain: cikrf.ru
+- id: gd2003-cikrf-ru
+  name: gd2003.cikrf.ru (2016-05-24)
+  url: https://gd2003.cikrf.ru
+  created: '2016-05-24T19:46:56'
+  domain: gd2003.cikrf.ru
+- id: moscow-city-izbirkom-ru
+  name: moscow-city.izbirkom.ru (2015-12-25)
+  url: https://moscow-city.izbirkom.ru
+  created: '2015-12-25T05:52:49'
+  domain: moscow-city.izbirkom.ru
+- id: pr2004-cikrf-ru
+  name: pr2004.cikrf.ru (2016-05-24)
+  url: https://pr2004.cikrf.ru
+  created: '2016-05-24T18:54:30'
+  domain: pr2004.cikrf.ru
+files:
+  total_count: 31
+  total_size: 32923222308
+  directories: []

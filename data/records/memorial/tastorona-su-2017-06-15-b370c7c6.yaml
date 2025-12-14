@@ -1,0 +1,40 @@
+id: tastorona-su-2017-06-15-b370c7c6
+name: tastorona.su (2017-06-15)
+domain: tastorona.su
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: tastorona.su-2017-06-15-b370c7c6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/tastorona.su-2017-06-15-b370c7c6/tastorona.su-2017-06-15-b370c7c6-00000.warc.gz
+  size: 59387765
+  modified: '2017-06-15T13:40:45'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/tastorona.su-2017-06-15-b370c7c6/wpull.db
+  size: 102400
+  modified: '2017-06-15T13:40:45'
+  type: wpull database
+  extension: .db
+- name: tastorona.su-2017-06-15-b370c7c6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/tastorona.su-2017-06-15-b370c7c6/tastorona.su-2017-06-15-b370c7c6.cdx
+  size: 90423
+  modified: '2017-06-15T13:40:45'
+  type: CDX
+  extension: .cdx
+- name: tastorona.su-2017-06-15-b370c7c6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/tastorona.su-2017-06-15-b370c7c6/tastorona.su-2017-06-15-b370c7c6-meta.warc.gz
+  size: 16806
+  modified: '2017-06-15T13:40:45'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/tastorona.su-2017-06-15-b370c7c6/dupes_db/data.mdb
+  size: 86016
+  modified: '2017-06-15T13:40:33'
+  type: ''
+  extension: .mdb
+url: https://tastorona.su
+created: '2017-06-15'

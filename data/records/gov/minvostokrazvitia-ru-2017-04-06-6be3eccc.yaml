@@ -1,0 +1,40 @@
+id: minvostokrazvitia-ru-2017-04-06-6be3eccc
+name: minvostokrazvitia.ru (2017-04-06)
+domain: minvostokrazvitia.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minvostokrazvitia.ru-2017-04-06-6be3eccc/dupes_db/data.mdb
+  size: 102400
+  modified: '2017-04-06T09:05:02'
+  type: ''
+  extension: .mdb
+- name: minvostokrazvitia.ru-2017-04-06-6be3eccc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minvostokrazvitia.ru-2017-04-06-6be3eccc/minvostokrazvitia.ru-2017-04-06-6be3eccc-00000.warc.gz
+  size: 54039342
+  modified: '2017-04-06T09:05:03'
+  type: WARC
+  extension: .warc.gz
+- name: minvostokrazvitia.ru-2017-04-06-6be3eccc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minvostokrazvitia.ru-2017-04-06-6be3eccc/minvostokrazvitia.ru-2017-04-06-6be3eccc-meta.warc.gz
+  size: 21042
+  modified: '2017-04-06T09:05:03'
+  type: WARC
+  extension: .warc.gz
+- name: minvostokrazvitia.ru-2017-04-06-6be3eccc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minvostokrazvitia.ru-2017-04-06-6be3eccc/minvostokrazvitia.ru-2017-04-06-6be3eccc.cdx
+  size: 147380
+  modified: '2017-04-06T09:05:03'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minvostokrazvitia.ru-2017-04-06-6be3eccc/wpull.db
+  size: 153600
+  modified: '2017-04-06T09:05:03'
+  type: wpull database
+  extension: .db
+url: https://minvostokrazvitia.ru
+created: '2017-04-06'

@@ -1,0 +1,40 @@
+id: dirsao-dogm-mos-ru-2017-08-09-4ea66ebf
+name: dirsao.dogm.mos.ru (2017-08-09)
+domain: dirsao.dogm.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dirsao.dogm.mos.ru-2017-08-09-4ea66ebf/dupes_db/data.mdb
+  size: 69632
+  modified: '2017-08-09T15:25:22'
+  type: ''
+  extension: .mdb
+- name: dirsao.dogm.mos.ru-2017-08-09-4ea66ebf.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dirsao.dogm.mos.ru-2017-08-09-4ea66ebf/dirsao.dogm.mos.ru-2017-08-09-4ea66ebf.cdx
+  size: 60762
+  modified: '2017-08-09T15:25:52'
+  type: CDX
+  extension: .cdx
+- name: dirsao.dogm.mos.ru-2017-08-09-4ea66ebf-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dirsao.dogm.mos.ru-2017-08-09-4ea66ebf/dirsao.dogm.mos.ru-2017-08-09-4ea66ebf-00000.warc.gz
+  size: 3978933
+  modified: '2017-08-09T15:25:52'
+  type: WARC
+  extension: .warc.gz
+- name: dirsao.dogm.mos.ru-2017-08-09-4ea66ebf-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dirsao.dogm.mos.ru-2017-08-09-4ea66ebf/dirsao.dogm.mos.ru-2017-08-09-4ea66ebf-meta.warc.gz
+  size: 11696
+  modified: '2017-08-09T15:26:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dirsao.dogm.mos.ru-2017-08-09-4ea66ebf/wpull.db
+  size: 74752
+  modified: '2017-08-09T15:26:13'
+  type: wpull database
+  extension: .db
+url: https://dirsao.dogm.mos.ru
+created: '2017-08-09'

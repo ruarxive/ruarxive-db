@@ -1,0 +1,27 @@
+id: redmuseum-church
+name: блог Центра Экспериментальной Музеологии
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-03-30T12:07:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: архив 5 лет работы ЦЭМ - центра инновативных проектов
+reason_id: arhiv-let-raboty-tsem
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: средний
+resources:
+- type: WARC
+  name: redmuseum.church.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/redmuseum.church/redmuseum.church.warc.gz

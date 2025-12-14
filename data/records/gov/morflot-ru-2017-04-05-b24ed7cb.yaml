@@ -1,0 +1,46 @@
+id: morflot-ru-2017-04-05-b24ed7cb
+name: morflot.ru (2017-04-05)
+domain: morflot.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.morflot.ru-2017-04-05-b24ed7cb/wpull.db
+  size: 6185984
+  modified: '2017-04-05T08:16:08'
+  type: wpull database
+  extension: .db
+- name: warc-extractor.py
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.morflot.ru-2017-04-05-b24ed7cb/warc-extractor.py
+  size: 26779
+  modified: '2017-04-08T19:19:02'
+  type: ''
+  extension: .py
+- name: www.morflot.ru-2017-04-05-b24ed7cb-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.morflot.ru-2017-04-05-b24ed7cb/www.morflot.ru-2017-04-05-b24ed7cb-meta.warc.gz
+  size: 567776
+  modified: '2017-04-05T08:16:07'
+  type: WARC
+  extension: .warc.gz
+- name: www.morflot.ru-2017-04-05-b24ed7cb-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.morflot.ru-2017-04-05-b24ed7cb/www.morflot.ru-2017-04-05-b24ed7cb-00000.warc.gz
+  size: 4531681324
+  modified: '2017-04-05T08:16:06'
+  type: WARC
+  extension: .warc.gz
+- name: www.morflot.ru-2017-04-05-b24ed7cb.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.morflot.ru-2017-04-05-b24ed7cb/www.morflot.ru-2017-04-05-b24ed7cb.cdx
+  size: 5638125
+  modified: '2017-04-05T08:16:06'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.morflot.ru-2017-04-05-b24ed7cb/dupes_db/data.mdb
+  size: 3219456
+  modified: '2017-04-05T08:16:06'
+  type: ''
+  extension: .mdb
+url: https://morflot.ru
+created: '2017-04-05'

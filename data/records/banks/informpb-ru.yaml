@@ -1,0 +1,28 @@
+id: informpb-ru
+name: informpb.ru (2013-12-18)
+domain: informpb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.informpb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.informpb.ru/www.informpb.ru.log.xz
+  size: 2116
+  modified: '2013-12-18T15:30:16'
+  type: wpull log
+  extension: .xz
+- name: www.informpb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.informpb.ru/www.informpb.ru.warc.xz
+  size: 336436
+  modified: '2013-12-18T15:30:15'
+  type: WARC
+  extension: .xz
+- name: www.informpb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.informpb.ru/www.informpb.ru.cdx.xz
+  size: 3196
+  modified: '2013-12-18T15:30:16'
+  type: CDX
+  extension: .xz
+url: https://informpb.ru
+created: '2013-12-18T15:30:15'

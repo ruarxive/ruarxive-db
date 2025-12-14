@@ -1,0 +1,82 @@
+id: economy-gov-ru
+name: economy.gov.ru (2015-01-13)
+domain: economy.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: economy.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/economy.gov.ru.log.xz
+  size: 9671600
+  modified: '2015-01-13T17:30:50'
+  type: wpull log
+  extension: .xz
+- name: ocean.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/ocean.economy.gov.ru.7z
+  size: 35327425
+  modified: '2015-01-22T18:43:23'
+  type: ''
+  extension: .7z
+- name: economy.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/economy.gov.ru.warc.xz
+  size: 28234744592
+  modified: '2015-01-13T17:30:50'
+  type: WARC
+  extension: .xz
+- name: infrfaip.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/infrfaip.economy.gov.ru.7z
+  size: 511
+  modified: '2015-01-22T01:00:24'
+  type: ''
+  extension: .7z
+- name: nko.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/nko.economy.gov.ru.7z
+  size: 1623265761
+  modified: '2015-01-22T18:14:13'
+  type: ''
+  extension: .7z
+- name: aisup.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/aisup.economy.gov.ru.7z
+  size: 22929418047
+  modified: '2015-01-23T00:36:54'
+  type: ''
+  extension: .7z
+- name: fcp.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/fcp.economy.gov.ru.7z
+  size: 299139563
+  modified: '2015-01-22T00:51:41'
+  type: ''
+  extension: .7z
+- name: faip.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/faip.economy.gov.ru.7z
+  size: 594439416
+  modified: '2015-01-21T23:56:44'
+  type: ''
+  extension: .7z
+- name: formodernization.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/formodernization.economy.gov.ru.7z
+  size: 1464701
+  modified: '2015-01-22T01:00:13'
+  type: ''
+  extension: .7z
+- name: economy.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/economy.gov.ru.cdx.xz
+  size: 14313568
+  modified: '2015-01-13T17:30:50'
+  type: CDX
+  extension: .xz
+- name: economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/economy.gov.ru.7z
+  size: 4498529604
+  modified: '2015-01-22T23:17:44'
+  type: ''
+  extension: .7z
+- name: os.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/economy.gov.ru/os.economy.gov.ru.7z
+  size: 624698
+  modified: '2015-01-22T18:42:57'
+  type: ''
+  extension: .7z
+url: https://economy.gov.ru
+created: '2015-01-13T17:30:50'

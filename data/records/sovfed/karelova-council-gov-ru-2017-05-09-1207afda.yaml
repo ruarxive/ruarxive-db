@@ -1,0 +1,40 @@
+id: karelova-council-gov-ru-2017-05-09-1207afda
+name: karelova.council.gov.ru (2017-05-09)
+domain: karelova.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: karelova.council.gov.ru-2017-05-09-1207afda-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/karelova.council.gov.ru-2017-05-09-1207afda/karelova.council.gov.ru-2017-05-09-1207afda-meta.warc.gz
+  size: 30546
+  modified: '2017-05-09T20:22:57'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/karelova.council.gov.ru-2017-05-09-1207afda/dupes_db/data.mdb
+  size: 126976
+  modified: '2017-05-09T20:22:57'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/karelova.council.gov.ru-2017-05-09-1207afda/wpull.db
+  size: 182272
+  modified: '2017-05-09T20:22:57'
+  type: wpull database
+  extension: .db
+- name: karelova.council.gov.ru-2017-05-09-1207afda-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/karelova.council.gov.ru-2017-05-09-1207afda/karelova.council.gov.ru-2017-05-09-1207afda-00000.warc.gz
+  size: 85721769
+  modified: '2017-05-09T20:22:57'
+  type: WARC
+  extension: .warc.gz
+- name: karelova.council.gov.ru-2017-05-09-1207afda.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/karelova.council.gov.ru-2017-05-09-1207afda/karelova.council.gov.ru-2017-05-09-1207afda.cdx
+  size: 159590
+  modified: '2017-05-09T20:22:57'
+  type: CDX
+  extension: .cdx
+url: https://karelova.council.gov.ru
+created: '2017-05-09'

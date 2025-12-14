@@ -1,0 +1,40 @@
+id: inop-ru-2017-04-14-3c93d1f8
+name: inop.ru (2017-04-14)
+domain: inop.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: inop.ru-2017-04-14-3c93d1f8-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inop.ru-2017-04-14-3c93d1f8/inop.ru-2017-04-14-3c93d1f8-00000.warc.gz
+  size: 346995
+  modified: '2017-04-14T08:14:11'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inop.ru-2017-04-14-3c93d1f8/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-04-14T08:14:11'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inop.ru-2017-04-14-3c93d1f8/wpull.db
+  size: 16384
+  modified: '2017-04-14T08:14:11'
+  type: wpull database
+  extension: .db
+- name: inop.ru-2017-04-14-3c93d1f8-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inop.ru-2017-04-14-3c93d1f8/inop.ru-2017-04-14-3c93d1f8-meta.warc.gz
+  size: 3941
+  modified: '2017-04-14T08:14:11'
+  type: WARC
+  extension: .warc.gz
+- name: inop.ru-2017-04-14-3c93d1f8.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/inop.ru-2017-04-14-3c93d1f8/inop.ru-2017-04-14-3c93d1f8.cdx
+  size: 7831
+  modified: '2017-04-14T08:14:11'
+  type: CDX
+  extension: .cdx
+url: https://inop.ru
+created: '2017-04-14'

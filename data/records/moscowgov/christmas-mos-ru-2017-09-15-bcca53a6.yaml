@@ -1,0 +1,40 @@
+id: christmas-mos-ru-2017-09-15-bcca53a6
+name: christmas.mos.ru (2017-09-15)
+domain: christmas.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/christmas.mos.ru-2017-09-15-bcca53a6/wpull.db
+  size: 10240
+  modified: '2017-09-15T12:49:16'
+  type: wpull database
+  extension: .db
+- name: christmas.mos.ru-2017-09-15-bcca53a6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/christmas.mos.ru-2017-09-15-bcca53a6/christmas.mos.ru-2017-09-15-bcca53a6-meta.warc.gz
+  size: 2898
+  modified: '2017-09-15T12:49:17'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/christmas.mos.ru-2017-09-15-bcca53a6/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-09-15T12:49:15'
+  type: ''
+  extension: .mdb
+- name: christmas.mos.ru-2017-09-15-bcca53a6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/christmas.mos.ru-2017-09-15-bcca53a6/christmas.mos.ru-2017-09-15-bcca53a6-00000.warc.gz
+  size: 6064
+  modified: '2017-09-15T12:49:16'
+  type: WARC
+  extension: .warc.gz
+- name: christmas.mos.ru-2017-09-15-bcca53a6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/christmas.mos.ru-2017-09-15-bcca53a6/christmas.mos.ru-2017-09-15-bcca53a6.cdx
+  size: 587
+  modified: '2017-09-15T12:49:16'
+  type: CDX
+  extension: .cdx
+url: https://christmas.mos.ru
+created: '2017-09-15'

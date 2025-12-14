@@ -1,0 +1,40 @@
+id: dvtu-customs-ru-2017-05-10-35e5b947
+name: dvtu.customs.ru (2017-05-10)
+domain: dvtu.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: dvtu.customs.ru-2017-05-10-35e5b947.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/dvtu.customs.ru-2017-05-10-35e5b947/dvtu.customs.ru-2017-05-10-35e5b947.cdx
+  size: 939
+  modified: '2017-05-10T09:20:38'
+  type: CDX
+  extension: .cdx
+- name: dvtu.customs.ru-2017-05-10-35e5b947-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/dvtu.customs.ru-2017-05-10-35e5b947/dvtu.customs.ru-2017-05-10-35e5b947-00000.warc.gz
+  size: 9103
+  modified: '2017-05-10T09:20:38'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/dvtu.customs.ru-2017-05-10-35e5b947/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-05-10T09:20:36'
+  type: ''
+  extension: .mdb
+- name: dvtu.customs.ru-2017-05-10-35e5b947-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/dvtu.customs.ru-2017-05-10-35e5b947/dvtu.customs.ru-2017-05-10-35e5b947-meta.warc.gz
+  size: 2962
+  modified: '2017-05-10T09:20:38'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/dvtu.customs.ru-2017-05-10-35e5b947/wpull.db
+  size: 10240
+  modified: '2017-05-10T09:20:38'
+  type: wpull database
+  extension: .db
+url: https://dvtu.customs.ru
+created: '2017-05-10'

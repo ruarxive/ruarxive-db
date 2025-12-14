@@ -1,0 +1,40 @@
+id: 1-sputnik-ru-2018-02-05-0a41681c
+name: 1.sputnik.ru (2018-02-05)
+domain: 1.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: 1.sputnik.ru-2018-02-05-0a41681c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/1.sputnik.ru-2018-02-05-0a41681c/1.sputnik.ru-2018-02-05-0a41681c-00000.warc.gz
+  size: 690899
+  modified: '2018-02-05T17:08:00'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/1.sputnik.ru-2018-02-05-0a41681c/wpull.db
+  size: 22528
+  modified: '2018-02-05T17:08:00'
+  type: wpull database
+  extension: .db
+- name: 1.sputnik.ru-2018-02-05-0a41681c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/1.sputnik.ru-2018-02-05-0a41681c/1.sputnik.ru-2018-02-05-0a41681c.cdx
+  size: 12363
+  modified: '2018-02-05T17:08:00'
+  type: CDX
+  extension: .cdx
+- name: 1.sputnik.ru-2018-02-05-0a41681c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/1.sputnik.ru-2018-02-05-0a41681c/1.sputnik.ru-2018-02-05-0a41681c-meta.warc.gz
+  size: 5523
+  modified: '2018-02-05T17:08:01'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/1.sputnik.ru-2018-02-05-0a41681c/dupes_db/data.mdb
+  size: 49152
+  modified: '2018-02-05T17:07:59'
+  type: ''
+  extension: .mdb
+url: https://1.sputnik.ru
+created: '2018-02-05'

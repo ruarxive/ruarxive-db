@@ -1,0 +1,40 @@
+id: med-sao-mos-ru-2017-08-09-13471543
+name: med.sao.mos.ru (2017-08-09)
+domain: med.sao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: med.sao.mos.ru-2017-08-09-13471543-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.sao.mos.ru-2017-08-09-13471543/med.sao.mos.ru-2017-08-09-13471543-meta.warc.gz
+  size: 2910
+  modified: '2017-08-09T15:22:07'
+  type: WARC
+  extension: .warc.gz
+- name: med.sao.mos.ru-2017-08-09-13471543-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.sao.mos.ru-2017-08-09-13471543/med.sao.mos.ru-2017-08-09-13471543-00000.warc.gz
+  size: 2226
+  modified: '2017-08-09T15:22:03'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.sao.mos.ru-2017-08-09-13471543/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-08-09T15:22:03'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.sao.mos.ru-2017-08-09-13471543/wpull.db
+  size: 10240
+  modified: '2017-08-09T15:22:06'
+  type: wpull database
+  extension: .db
+- name: med.sao.mos.ru-2017-08-09-13471543.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.sao.mos.ru-2017-08-09-13471543/med.sao.mos.ru-2017-08-09-13471543.cdx
+  size: 23
+  modified: '2017-08-09T15:22:03'
+  type: CDX
+  extension: .cdx
+url: https://med.sao.mos.ru
+created: '2017-08-09'

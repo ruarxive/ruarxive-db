@@ -1,0 +1,40 @@
+id: wmpp-ru-2017-04-04-b8e6eb05
+name: wmpp.ru (2017-04-04)
+domain: wmpp.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/wmpp.ru-2017-04-04-b8e6eb05/dupes_db/data.mdb
+  size: 2011136
+  modified: '2017-04-04T07:27:58'
+  type: ''
+  extension: .mdb
+- name: wmpp.ru-2017-04-04-b8e6eb05.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/wmpp.ru-2017-04-04-b8e6eb05/wmpp.ru-2017-04-04-b8e6eb05.cdx
+  size: 4766351
+  modified: '2017-04-04T07:27:58'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/wmpp.ru-2017-04-04-b8e6eb05/wpull.db
+  size: 6772736
+  modified: '2017-04-04T07:27:59'
+  type: wpull database
+  extension: .db
+- name: wmpp.ru-2017-04-04-b8e6eb05-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/wmpp.ru-2017-04-04-b8e6eb05/wmpp.ru-2017-04-04-b8e6eb05-00000.warc.gz
+  size: 1100750007
+  modified: '2017-04-04T07:27:58'
+  type: WARC
+  extension: .warc.gz
+- name: wmpp.ru-2017-04-04-b8e6eb05-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/wmpp.ru-2017-04-04-b8e6eb05/wmpp.ru-2017-04-04-b8e6eb05-meta.warc.gz
+  size: 616822
+  modified: '2017-04-04T07:27:59'
+  type: WARC
+  extension: .warc.gz
+url: https://wmpp.ru
+created: '2017-04-04'

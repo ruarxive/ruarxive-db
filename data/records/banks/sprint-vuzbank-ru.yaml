@@ -1,0 +1,34 @@
+id: sprint-vuzbank-ru
+name: sprint.vuzbank.ru (2014-05-15)
+domain: sprint.vuzbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: sprint.vuzbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/sprint.vuzbank.ru/sprint.vuzbank.ru.cdx.xz
+  size: 7100
+  modified: '2014-05-15T07:14:33'
+  type: CDX
+  extension: .xz
+- name: sprint.vuzbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/sprint.vuzbank.ru/sprint.vuzbank.ru.warc.xz
+  size: 985284
+  modified: '2014-05-15T07:15:01'
+  type: WARC
+  extension: .xz
+- name: sprint.vuzbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/sprint.vuzbank.ru/sprint.vuzbank.ru.7z
+  size: 971393
+  modified: '2014-08-19T13:17:25'
+  type: ''
+  extension: .7z
+- name: sprint.vuzbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/sprint.vuzbank.ru/sprint.vuzbank.ru.log.xz
+  size: 5376
+  modified: '2014-05-15T07:15:01'
+  type: wpull log
+  extension: .xz
+url: https://sprint.vuzbank.ru
+created: '2014-05-15T07:15:01'

@@ -1,0 +1,57 @@
+id: mitino-mos-ru-2017-09-15-6ac773b6
+name: mitino.mos.ru (2017-09-15)
+domain: mitino.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: mitino.mos.ru-2017-09-15-6ac773b6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mitino.mos.ru-2017-09-15-6ac773b6/mitino.mos.ru-2017-09-15-6ac773b6-meta.warc.gz
+  size: 3489122
+  modified: '2017-09-19T12:59:33'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mitino.mos.ru-2017-09-15-6ac773b6/dupes_db/data.mdb
+  size: 112590848
+  modified: '2017-09-19T12:59:25'
+  type: ''
+  extension: .mdb
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mitino.mos.ru-2017-09-15-6ac773b6/stop
+  size: 0
+  modified: '2017-09-19T12:59:25'
+  type: ''
+- name: mitino.mos.ru-2017-09-15-6ac773b6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mitino.mos.ru-2017-09-15-6ac773b6/mitino.mos.ru-2017-09-15-6ac773b6-00000.warc.gz
+  size: 5368719574
+  modified: '2017-09-19T08:23:51'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-f82c8s.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mitino.mos.ru-2017-09-15-6ac773b6/temp/tmp-wpull-resp_cb-f82c8s.tmp
+  size: 180809
+  modified: '2017-09-19T12:59:25'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mitino.mos.ru-2017-09-15-6ac773b6/wpull.db
+  size: 172630016
+  modified: '2017-09-19T12:59:27'
+  type: wpull database
+  extension: .db
+- name: mitino.mos.ru-2017-09-15-6ac773b6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mitino.mos.ru-2017-09-15-6ac773b6/mitino.mos.ru-2017-09-15-6ac773b6.cdx
+  size: 81273159
+  modified: '2017-09-19T12:59:25'
+  type: CDX
+  extension: .cdx
+- name: mitino.mos.ru-2017-09-15-6ac773b6-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mitino.mos.ru-2017-09-15-6ac773b6/mitino.mos.ru-2017-09-15-6ac773b6-00001.warc.gz
+  size: 155425128
+  modified: '2017-09-19T12:59:25'
+  type: WARC
+  extension: .warc.gz
+url: https://mitino.mos.ru
+created: '2017-09-15'

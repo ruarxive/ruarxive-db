@@ -1,0 +1,40 @@
+id: ramenki2017-ru-2017-09-07-e419efdc
+name: ramenki2017.ru (2017-09-07)
+domain: ramenki2017.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.ramenki2017.ru-2017-09-07-e419efdc/dupes_db/data.mdb
+  size: 77824
+  modified: '2017-09-07T22:02:48'
+  type: ''
+  extension: .mdb
+- name: www.ramenki2017.ru-2017-09-07-e419efdc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.ramenki2017.ru-2017-09-07-e419efdc/www.ramenki2017.ru-2017-09-07-e419efdc.cdx
+  size: 71612
+  modified: '2017-09-07T22:02:48'
+  type: CDX
+  extension: .cdx
+- name: www.ramenki2017.ru-2017-09-07-e419efdc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.ramenki2017.ru-2017-09-07-e419efdc/www.ramenki2017.ru-2017-09-07-e419efdc-00000.warc.gz
+  size: 28030590
+  modified: '2017-09-07T22:02:48'
+  type: WARC
+  extension: .warc.gz
+- name: www.ramenki2017.ru-2017-09-07-e419efdc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.ramenki2017.ru-2017-09-07-e419efdc/www.ramenki2017.ru-2017-09-07-e419efdc-meta.warc.gz
+  size: 13735
+  modified: '2017-09-07T22:02:48'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.ramenki2017.ru-2017-09-07-e419efdc/wpull.db
+  size: 84992
+  modified: '2017-09-07T22:02:48'
+  type: wpull database
+  extension: .db
+url: https://ramenki2017.ru
+created: '2017-09-07'

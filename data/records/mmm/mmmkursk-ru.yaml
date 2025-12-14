@@ -1,0 +1,28 @@
+id: mmmkursk-ru
+name: mmmkursk.ru (2013-10-27)
+domain: mmmkursk.ru
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmmkursk.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmkursk.ru/mmmkursk.ru.cdx.xz
+  size: 31040
+  modified: '2013-10-27T17:28:57'
+  type: CDX
+  extension: .xz
+- name: mmmkursk.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmkursk.ru/mmmkursk.ru.warc.xz
+  size: 1060092
+  modified: '2013-10-27T17:28:56'
+  type: WARC
+  extension: .xz
+- name: mmmkursk.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmmkursk.ru/mmmkursk.ru.log.xz
+  size: 15636
+  modified: '2013-10-27T17:28:58'
+  type: wpull log
+  extension: .xz
+url: https://mmmkursk.ru
+created: '2013-10-27T17:28:56'

@@ -1,0 +1,52 @@
+id: xn--80adja5bqm-xn--b1aew-xn--p1ai-2017-07-04-ea4fc5e3
+name: xn--80adja5bqm.xn--b1aew.xn--p1ai (2017-07-04)
+domain: xn--80adja5bqm.xn--b1aew.xn--p1ai
+collection:
+  id: mvd
+  slug: mvd
+  name: МВД
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3/dupes_db/data.mdb
+  size: 7495680
+  modified: '2017-07-05T20:48:56'
+  type: ''
+  extension: .mdb
+- name: xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3.cdx
+  size: 13929229
+  modified: '2017-07-05T20:48:56'
+  type: CDX
+  extension: .cdx
+- name: xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3-meta.warc.gz
+  size: 1352616
+  modified: '2017-07-05T20:48:59'
+  type: WARC
+  extension: .warc.gz
+- name: xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3-00002.warc.gz
+  size: 5154182007
+  modified: '2017-07-05T20:48:56'
+  type: WARC
+  extension: .warc.gz
+- name: xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3-00000.warc.gz
+  size: 5412992710
+  modified: '2017-07-04T22:07:33'
+  type: WARC
+  extension: .warc.gz
+- name: xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3-00001.warc.gz
+  size: 5434378687
+  modified: '2017-07-05T01:47:09'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mvd/xn--80adja5bqm.xn--b1aew.xn--p1ai-2017-07-04-ea4fc5e3/wpull.db
+  size: 27040768
+  modified: '2017-07-05T20:48:56'
+  type: wpull database
+  extension: .db
+url: https://xn--80adja5bqm.xn--b1aew.xn--p1ai
+created: '2017-07-04'

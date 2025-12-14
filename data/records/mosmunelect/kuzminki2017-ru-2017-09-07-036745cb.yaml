@@ -1,0 +1,40 @@
+id: kuzminki2017-ru-2017-09-07-036745cb
+name: kuzminki2017.ru (2017-09-07)
+domain: kuzminki2017.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.kuzminki2017.ru-2017-09-07-036745cb/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-09-07T21:59:41'
+  type: ''
+  extension: .mdb
+- name: www.kuzminki2017.ru-2017-09-07-036745cb-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.kuzminki2017.ru-2017-09-07-036745cb/www.kuzminki2017.ru-2017-09-07-036745cb-00000.warc.gz
+  size: 2112797
+  modified: '2017-09-07T21:59:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.kuzminki2017.ru-2017-09-07-036745cb.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.kuzminki2017.ru-2017-09-07-036745cb/www.kuzminki2017.ru-2017-09-07-036745cb.cdx
+  size: 10250
+  modified: '2017-09-07T21:59:41'
+  type: CDX
+  extension: .cdx
+- name: www.kuzminki2017.ru-2017-09-07-036745cb-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.kuzminki2017.ru-2017-09-07-036745cb/www.kuzminki2017.ru-2017-09-07-036745cb-meta.warc.gz
+  size: 4555
+  modified: '2017-09-07T21:59:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.kuzminki2017.ru-2017-09-07-036745cb/wpull.db
+  size: 18432
+  modified: '2017-09-07T21:59:41'
+  type: wpull database
+  extension: .db
+url: https://kuzminki2017.ru
+created: '2017-09-07'

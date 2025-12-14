@@ -1,0 +1,40 @@
+id: rniimp-ru-2017-05-14-afeb7e96
+name: rniimp.ru (2017-05-14)
+domain: rniimp.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/rniimp.ru-2017-05-14-afeb7e96/wpull.db
+  size: 816128
+  modified: '2017-05-14T17:43:32'
+  type: wpull database
+  extension: .db
+- name: rniimp.ru-2017-05-14-afeb7e96.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/rniimp.ru-2017-05-14-afeb7e96/rniimp.ru-2017-05-14-afeb7e96.cdx
+  size: 737410
+  modified: '2017-05-14T17:43:32'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/rniimp.ru-2017-05-14-afeb7e96/dupes_db/data.mdb
+  size: 208896
+  modified: '2017-05-14T17:43:05'
+  type: ''
+  extension: .mdb
+- name: rniimp.ru-2017-05-14-afeb7e96-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/rniimp.ru-2017-05-14-afeb7e96/rniimp.ru-2017-05-14-afeb7e96-meta.warc.gz
+  size: 86774
+  modified: '2017-05-14T17:43:33'
+  type: WARC
+  extension: .warc.gz
+- name: rniimp.ru-2017-05-14-afeb7e96-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/rniimp.ru-2017-05-14-afeb7e96/rniimp.ru-2017-05-14-afeb7e96-00000.warc.gz
+  size: 667112547
+  modified: '2017-05-14T17:43:32'
+  type: WARC
+  extension: .warc.gz
+url: https://rniimp.ru
+created: '2017-05-14'

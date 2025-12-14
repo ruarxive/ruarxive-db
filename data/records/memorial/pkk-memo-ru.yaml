@@ -1,0 +1,28 @@
+id: pkk-memo-ru
+name: pkk.memo.ru (2013-10-27)
+domain: pkk.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: pkk.memo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/pkk.memo.ru/pkk.memo.ru.log.xz
+  size: 79848
+  modified: '2013-10-27T17:28:23'
+  type: wpull log
+  extension: .xz
+- name: pkk.memo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/pkk.memo.ru/pkk.memo.ru.cdx.xz
+  size: 145816
+  modified: '2013-10-27T17:28:35'
+  type: CDX
+  extension: .xz
+- name: pkk.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/pkk.memo.ru/pkk.memo.ru.warc.xz
+  size: 49904756
+  modified: '2013-10-27T17:28:25'
+  type: WARC
+  extension: .xz
+url: https://pkk.memo.ru
+created: '2013-10-27T17:28:25'

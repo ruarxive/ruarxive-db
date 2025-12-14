@@ -1,0 +1,23 @@
+id: trv-science-ru
+name: Троицкий вариант
+url: http://trv-science.ru
+domain: trv-science.ru
+created: '2022-03-25T07:18:31.000Z'
+date: '2022-03-25T07:18:00.000Z'
+status: собирается
+status_id: collecting
+reason: Внесение организации в реестр иностранных агентов
+reason_id: foreign-agent-designation
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий

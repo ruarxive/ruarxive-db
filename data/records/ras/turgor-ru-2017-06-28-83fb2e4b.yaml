@@ -1,0 +1,40 @@
+id: turgor-ru-2017-06-28-83fb2e4b
+name: turgor.ru (2017-06-28)
+domain: turgor.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.turgor.ru-2017-06-28-83fb2e4b/dupes_db/data.mdb
+  size: 221184
+  modified: '2017-06-28T20:00:40'
+  type: ''
+  extension: .mdb
+- name: www.turgor.ru-2017-06-28-83fb2e4b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.turgor.ru-2017-06-28-83fb2e4b/www.turgor.ru-2017-06-28-83fb2e4b.cdx
+  size: 432418
+  modified: '2017-06-28T20:00:41'
+  type: CDX
+  extension: .cdx
+- name: www.turgor.ru-2017-06-28-83fb2e4b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.turgor.ru-2017-06-28-83fb2e4b/www.turgor.ru-2017-06-28-83fb2e4b-meta.warc.gz
+  size: 54204
+  modified: '2017-06-28T20:00:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.turgor.ru-2017-06-28-83fb2e4b/wpull.db
+  size: 393216
+  modified: '2017-06-28T20:00:41'
+  type: wpull database
+  extension: .db
+- name: www.turgor.ru-2017-06-28-83fb2e4b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.turgor.ru-2017-06-28-83fb2e4b/www.turgor.ru-2017-06-28-83fb2e4b-00000.warc.gz
+  size: 393701908
+  modified: '2017-06-28T20:00:41'
+  type: WARC
+  extension: .warc.gz
+url: https://turgor.ru
+created: '2017-06-28'

@@ -1,0 +1,28 @@
+id: premia-mn-ru
+name: premia.mn.ru (2013-12-11)
+domain: premia.mn.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: premia.mn.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/premia.mn.ru/premia.mn.ru.cdx.xz
+  size: 2318352
+  modified: '2013-12-11T08:06:11'
+  type: CDX
+  extension: .xz
+- name: premia.mn.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/premia.mn.ru/premia.mn.ru.warc.xz
+  size: 393457396
+  modified: '2013-12-11T08:03:46'
+  type: WARC
+  extension: .xz
+- name: premia.mn.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/premia.mn.ru/premia.mn.ru.log.xz
+  size: 1281940
+  modified: '2013-12-11T08:06:04'
+  type: wpull log
+  extension: .xz
+url: https://premia.mn.ru
+created: '2013-12-11T08:03:46'

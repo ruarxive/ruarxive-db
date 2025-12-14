@@ -1,0 +1,52 @@
+id: rpn-gov-ru-2017-04-30-17ed52c8
+name: rpn.gov.ru (2017-04-30)
+domain: rpn.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: rpn.gov.ru-2017-04-30-17ed52c8-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rpn.gov.ru-2017-04-30-17ed52c8/rpn.gov.ru-2017-04-30-17ed52c8-00000.warc.gz
+  size: 979839407
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rpn.gov.ru-2017-04-30-17ed52c8/wpull.db
+  size: 5874688
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+- name: rpn.gov.ru-2017-04-30-17ed52c8.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rpn.gov.ru-2017-04-30-17ed52c8/rpn.gov.ru-2017-04-30-17ed52c8.cdx
+  size: 681583
+  modified: '2017-04-30T08:45:43'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rpn.gov.ru-2017-04-30-17ed52c8/dupes_db/data.mdb
+  size: 344064
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .mdb
+- name: tmp-wpull-warc-_dte6f.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rpn.gov.ru-2017-04-30-17ed52c8/temp/tmp-wpull-warc-_dte6f.log.gz
+  size: 144172
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesreq-zptron.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rpn.gov.ru-2017-04-30-17ed52c8/temp/tmp-wpull-warcsesreq-zptron.tmp
+  size: 285
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-xuoh16.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rpn.gov.ru-2017-04-30-17ed52c8/temp/tmp-wpull-warcsesrsp-xuoh16.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+url: https://rpn.gov.ru
+created: '2017-04-30'

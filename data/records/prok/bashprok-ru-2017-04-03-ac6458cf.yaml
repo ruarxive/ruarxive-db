@@ -1,0 +1,40 @@
+id: bashprok-ru-2017-04-03-ac6458cf
+name: bashprok.ru (2017-04-03)
+domain: bashprok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.bashprok.ru-2017-04-03-ac6458cf.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.bashprok.ru-2017-04-03-ac6458cf/www.bashprok.ru-2017-04-03-ac6458cf.cdx
+  size: 46615
+  modified: '2017-04-03T17:34:13'
+  type: CDX
+  extension: .cdx
+- name: www.bashprok.ru-2017-04-03-ac6458cf-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.bashprok.ru-2017-04-03-ac6458cf/www.bashprok.ru-2017-04-03-ac6458cf-meta.warc.gz
+  size: 9764
+  modified: '2017-04-03T17:34:13'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.bashprok.ru-2017-04-03-ac6458cf/dupes_db/data.mdb
+  size: 69632
+  modified: '2017-04-03T17:34:13'
+  type: ''
+  extension: .mdb
+- name: www.bashprok.ru-2017-04-03-ac6458cf-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.bashprok.ru-2017-04-03-ac6458cf/www.bashprok.ru-2017-04-03-ac6458cf-00000.warc.gz
+  size: 3301804
+  modified: '2017-04-03T17:34:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.bashprok.ru-2017-04-03-ac6458cf/wpull.db
+  size: 62464
+  modified: '2017-04-03T17:34:13'
+  type: wpull database
+  extension: .db
+url: https://bashprok.ru
+created: '2017-04-03'

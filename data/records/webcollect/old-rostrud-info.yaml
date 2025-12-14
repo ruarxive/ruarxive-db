@@ -1,0 +1,16 @@
+id: old-rostrud-info
+name: old.rostrud.info.7z (2012-10-22)
+domain: old.rostrud.info.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.rostrud.info.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.rostrud.info.7z
+  size: 98427865
+  modified: '2012-10-22T09:59:58'
+  type: httrack archive
+  extension: .7z
+url: https://old.rostrud.info.7z
+created: '2012-10-22T09:59:58'

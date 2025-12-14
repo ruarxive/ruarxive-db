@@ -1,0 +1,40 @@
+id: omsk-memorial-ru-2017-06-06-62d3032b
+name: omsk-memorial.ru (2017-06-06)
+domain: omsk-memorial.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/omsk-memorial.ru-2017-06-06-62d3032b/wpull.db
+  size: 48128
+  modified: '2017-06-08T19:12:04'
+  type: wpull database
+  extension: .db
+- name: omsk-memorial.ru-2017-06-06-62d3032b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/omsk-memorial.ru-2017-06-06-62d3032b/omsk-memorial.ru-2017-06-06-62d3032b.cdx
+  size: 39354
+  modified: '2017-06-08T19:12:04'
+  type: CDX
+  extension: .cdx
+- name: omsk-memorial.ru-2017-06-06-62d3032b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/omsk-memorial.ru-2017-06-06-62d3032b/omsk-memorial.ru-2017-06-06-62d3032b-meta.warc.gz
+  size: 8147
+  modified: '2017-06-08T19:12:04'
+  type: WARC
+  extension: .warc.gz
+- name: omsk-memorial.ru-2017-06-06-62d3032b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/omsk-memorial.ru-2017-06-06-62d3032b/omsk-memorial.ru-2017-06-06-62d3032b-00000.warc.gz
+  size: 2602491
+  modified: '2017-06-08T19:12:04'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/omsk-memorial.ru-2017-06-06-62d3032b/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-06-08T19:12:04'
+  type: ''
+  extension: .mdb
+url: https://omsk-memorial.ru
+created: '2017-06-06'

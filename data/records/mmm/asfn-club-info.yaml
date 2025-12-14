@@ -1,0 +1,28 @@
+id: asfn-club-info
+name: asfn-club.info (2013-11-04)
+domain: asfn-club.info
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: www.asfn-club.info.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/www.asfn-club.info/www.asfn-club.info.warc.xz
+  size: 202508
+  modified: '2013-11-04T16:07:32'
+  type: WARC
+  extension: .xz
+- name: www.asfn-club.info.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/www.asfn-club.info/www.asfn-club.info.cdx.xz
+  size: 23460
+  modified: '2013-11-04T16:07:33'
+  type: CDX
+  extension: .xz
+- name: www.asfn-club.info.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/www.asfn-club.info/www.asfn-club.info.log.xz
+  size: 11024
+  modified: '2013-11-04T16:08:05'
+  type: wpull log
+  extension: .xz
+url: https://asfn-club.info
+created: '2013-11-04T16:07:32'

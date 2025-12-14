@@ -1,0 +1,40 @@
+id: s-znc-ru-2017-05-14-4653dcea
+name: s-znc.ru (2017-05-14)
+domain: s-znc.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: s-znc.ru-2017-05-14-4653dcea-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/s-znc.ru-2017-05-14-4653dcea/s-znc.ru-2017-05-14-4653dcea-00000.warc.gz
+  size: 6602
+  modified: '2017-05-14T15:28:59'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/s-znc.ru-2017-05-14-4653dcea/wpull.db
+  size: 10240
+  modified: '2017-05-14T15:44:00'
+  type: wpull database
+  extension: .db
+- name: s-znc.ru-2017-05-14-4653dcea.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/s-znc.ru-2017-05-14-4653dcea/s-znc.ru-2017-05-14-4653dcea.cdx
+  size: 198
+  modified: '2017-05-14T14:13:57'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/s-znc.ru-2017-05-14-4653dcea/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-05-14T14:13:57'
+  type: ''
+  extension: .mdb
+- name: s-znc.ru-2017-05-14-4653dcea-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/s-znc.ru-2017-05-14-4653dcea/s-znc.ru-2017-05-14-4653dcea-meta.warc.gz
+  size: 2977
+  modified: '2017-05-14T15:44:00'
+  type: WARC
+  extension: .warc.gz
+url: https://s-znc.ru
+created: '2017-05-14'

@@ -1,0 +1,40 @@
+id: udmfguz-ru-2017-05-14-866a3baf
+name: udmfguz.ru (2017-05-14)
+domain: udmfguz.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.udmfguz.ru-2017-05-14-866a3baf/wpull.db
+  size: 163840
+  modified: '2017-05-14T14:10:53'
+  type: wpull database
+  extension: .db
+- name: www.udmfguz.ru-2017-05-14-866a3baf-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.udmfguz.ru-2017-05-14-866a3baf/www.udmfguz.ru-2017-05-14-866a3baf-meta.warc.gz
+  size: 20877
+  modified: '2017-05-14T14:10:53'
+  type: WARC
+  extension: .warc.gz
+- name: www.udmfguz.ru-2017-05-14-866a3baf.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.udmfguz.ru-2017-05-14-866a3baf/www.udmfguz.ru-2017-05-14-866a3baf.cdx
+  size: 142371
+  modified: '2017-05-14T14:10:53'
+  type: CDX
+  extension: .cdx
+- name: www.udmfguz.ru-2017-05-14-866a3baf-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.udmfguz.ru-2017-05-14-866a3baf/www.udmfguz.ru-2017-05-14-866a3baf-00000.warc.gz
+  size: 58978939
+  modified: '2017-05-14T14:10:53'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.udmfguz.ru-2017-05-14-866a3baf/dupes_db/data.mdb
+  size: 106496
+  modified: '2017-05-14T14:10:45'
+  type: ''
+  extension: .mdb
+url: https://udmfguz.ru
+created: '2017-05-14'

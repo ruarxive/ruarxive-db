@@ -1,0 +1,28 @@
+id: queue-snbank-ru
+name: queue.snbank.ru (2015-04-12)
+domain: queue.snbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: queue.snbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/queue.snbank.ru/queue.snbank.ru.warc.xz
+  size: 163186556
+  modified: '2015-04-12T09:20:25'
+  type: WARC
+  extension: .xz
+- name: queue.snbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/queue.snbank.ru/queue.snbank.ru.log.xz
+  size: 376732
+  modified: '2014-05-14T23:59:34'
+  type: wpull log
+  extension: .xz
+- name: queue.snbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/queue.snbank.ru/queue.snbank.ru.cdx.xz
+  size: 624148
+  modified: '2014-05-14T23:59:34'
+  type: CDX
+  extension: .xz
+url: https://queue.snbank.ru
+created: '2015-04-12T09:20:25'

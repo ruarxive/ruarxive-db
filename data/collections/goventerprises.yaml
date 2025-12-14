@@ -1,0 +1,30 @@
+id: goventerprises
+slug: goventerprises
+name: Государственные предприятия
+num_records: 4
+records:
+- id: fpi-gov-ru-2017-06-28-39b49495
+  name: fpi.gov.ru (2017-06-28)
+  url: https://fpi.gov.ru
+  created: '2017-06-28'
+  domain: fpi.gov.ru
+- id: frprf-ru-2017-06-28-b7e07cb1
+  name: frprf.ru (2017-06-28)
+  url: https://frprf.ru
+  created: '2017-06-28'
+  domain: frprf.ru
+- id: rfbr-ru-2017-06-28-25289044
+  name: rfbr.ru (2017-06-28)
+  url: https://rfbr.ru
+  created: '2017-06-28'
+  domain: rfbr.ru
+- id: xn--m1afn-xn--p1ai-2017-06-28-26607f99
+  name: xn--m1afn.xn--p1ai (2017-06-28)
+  url: https://xn--m1afn.xn--p1ai
+  created: '2017-06-28'
+  domain: xn--m1afn.xn--p1ai
+files:
+  total_count: 89
+  total_size: 20217415691
+  directories:
+  - webcollect2017

@@ -1,0 +1,40 @@
+id: prokuror-hbr-ru-2017-04-03-9bf0ed50
+name: prokuror.hbr.ru (2017-04-03)
+domain: prokuror.hbr.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.hbr.ru-2017-04-03-9bf0ed50/dupes_db/data.mdb
+  size: 5804032
+  modified: '2017-04-03T11:31:52'
+  type: ''
+  extension: .mdb
+- name: prokuror.hbr.ru-2017-04-03-9bf0ed50.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.hbr.ru-2017-04-03-9bf0ed50/prokuror.hbr.ru-2017-04-03-9bf0ed50.cdx
+  size: 5130077
+  modified: '2017-04-03T11:31:52'
+  type: CDX
+  extension: .cdx
+- name: prokuror.hbr.ru-2017-04-03-9bf0ed50-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.hbr.ru-2017-04-03-9bf0ed50/prokuror.hbr.ru-2017-04-03-9bf0ed50-00000.warc.gz
+  size: 179720269
+  modified: '2017-04-03T11:31:52'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.hbr.ru-2017-04-03-9bf0ed50/wpull.db
+  size: 10382336
+  modified: '2017-04-03T11:31:53'
+  type: wpull database
+  extension: .db
+- name: prokuror.hbr.ru-2017-04-03-9bf0ed50-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.hbr.ru-2017-04-03-9bf0ed50/prokuror.hbr.ru-2017-04-03-9bf0ed50-meta.warc.gz
+  size: 530204
+  modified: '2017-04-03T11:31:53'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuror.hbr.ru
+created: '2017-04-03'

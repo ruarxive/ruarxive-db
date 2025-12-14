@@ -1,0 +1,28 @@
+id: dmvn-mexmat-net
+name: dmvn.mexmat.net (2013-12-17)
+domain: dmvn.mexmat.net
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: dmvn.mexmat.net.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/dmvn.mexmat.net/dmvn.mexmat.net.warc.xz
+  size: 391300016
+  modified: '2013-12-17T13:40:20'
+  type: WARC
+  extension: .xz
+- name: dmvn.mexmat.net.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/dmvn.mexmat.net/dmvn.mexmat.net.cdx.xz
+  size: 108380
+  modified: '2013-12-17T13:41:32'
+  type: CDX
+  extension: .xz
+- name: dmvn.mexmat.net.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/dmvn.mexmat.net/dmvn.mexmat.net.log.xz
+  size: 95980
+  modified: '2013-12-17T13:41:31'
+  type: wpull log
+  extension: .xz
+url: https://dmvn.mexmat.net
+created: '2013-12-17T13:40:20'

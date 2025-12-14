@@ -1,0 +1,28 @@
+id: forum-arbitr-ru
+name: forum.arbitr.ru (2013-12-20)
+domain: forum.arbitr.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: forum.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/forum.arbitr.ru/forum.arbitr.ru.warc.xz
+  size: 1234122476
+  modified: '2013-12-20T11:11:43'
+  type: WARC
+  extension: .xz
+- name: forum.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/forum.arbitr.ru/forum.arbitr.ru.log.xz
+  size: 107504
+  modified: '2013-12-20T11:11:08'
+  type: wpull log
+  extension: .xz
+- name: forum.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/forum.arbitr.ru/forum.arbitr.ru.cdx.xz
+  size: 73520
+  modified: '2013-12-20T11:11:10'
+  type: CDX
+  extension: .xz
+url: https://forum.arbitr.ru
+created: '2013-12-20T11:11:43'

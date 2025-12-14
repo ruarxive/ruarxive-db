@@ -1,0 +1,28 @@
+id: sverhdohod-com
+name: sverhdohod.com (2013-10-28)
+domain: sverhdohod.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: sverhdohod.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/sverhdohod.com/sverhdohod.com.cdx.xz
+  size: 1482132
+  modified: '2013-10-28T18:01:33'
+  type: CDX
+  extension: .xz
+- name: sverhdohod.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/sverhdohod.com/sverhdohod.com.log.xz
+  size: 447100
+  modified: '2013-10-28T18:01:28'
+  type: wpull log
+  extension: .xz
+- name: sverhdohod.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/sverhdohod.com/sverhdohod.com.warc.xz
+  size: 16279132
+  modified: '2013-10-28T18:00:53'
+  type: WARC
+  extension: .xz
+url: https://sverhdohod.com
+created: '2013-10-28T18:00:53'

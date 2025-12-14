@@ -1,0 +1,40 @@
+id: ingridapresnya-ru-2017-09-07-95644e17
+name: ingridapresnya.ru (2017-09-07)
+domain: ingridapresnya.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: ingridapresnya.ru-2017-09-07-95644e17-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/ingridapresnya.ru-2017-09-07-95644e17/ingridapresnya.ru-2017-09-07-95644e17-00000.warc.gz
+  size: 11827553
+  modified: '2017-09-07T22:05:25'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/ingridapresnya.ru-2017-09-07-95644e17/wpull.db
+  size: 286720
+  modified: '2017-09-07T22:05:25'
+  type: wpull database
+  extension: .db
+- name: ingridapresnya.ru-2017-09-07-95644e17-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/ingridapresnya.ru-2017-09-07-95644e17/ingridapresnya.ru-2017-09-07-95644e17-meta.warc.gz
+  size: 21344
+  modified: '2017-09-07T22:05:25'
+  type: WARC
+  extension: .warc.gz
+- name: ingridapresnya.ru-2017-09-07-95644e17.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/ingridapresnya.ru-2017-09-07-95644e17/ingridapresnya.ru-2017-09-07-95644e17.cdx
+  size: 152697
+  modified: '2017-09-07T22:05:25'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/ingridapresnya.ru-2017-09-07-95644e17/dupes_db/data.mdb
+  size: 126976
+  modified: '2017-09-07T22:05:22'
+  type: ''
+  extension: .mdb
+url: https://ingridapresnya.ru
+created: '2017-09-07'

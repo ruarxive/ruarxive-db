@@ -1,0 +1,46 @@
+id: cao-mos-ru-2017-08-20-193a598b
+name: cao.mos.ru (2017-08-20)
+domain: cao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/cao.mos.ru-2017-08-20-193a598b/dupes_db/data.mdb
+  size: 10801152
+  modified: '2017-08-23T04:13:04'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/cao.mos.ru-2017-08-20-193a598b/wpull.db
+  size: 53386240
+  modified: '2017-08-23T04:13:05'
+  type: wpull database
+  extension: .db
+- name: cao.mos.ru-2017-08-20-193a598b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/cao.mos.ru-2017-08-20-193a598b/cao.mos.ru-2017-08-20-193a598b-00000.warc.gz
+  size: 5379155941
+  modified: '2017-08-22T15:20:14'
+  type: WARC
+  extension: .warc.gz
+- name: cao.mos.ru-2017-08-20-193a598b-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/cao.mos.ru-2017-08-20-193a598b/cao.mos.ru-2017-08-20-193a598b-00001.warc.gz
+  size: 3568102513
+  modified: '2017-08-23T04:13:04'
+  type: WARC
+  extension: .warc.gz
+- name: cao.mos.ru-2017-08-20-193a598b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/cao.mos.ru-2017-08-20-193a598b/cao.mos.ru-2017-08-20-193a598b-meta.warc.gz
+  size: 2703543
+  modified: '2017-08-23T04:13:08'
+  type: WARC
+  extension: .warc.gz
+- name: cao.mos.ru-2017-08-20-193a598b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/cao.mos.ru-2017-08-20-193a598b/cao.mos.ru-2017-08-20-193a598b.cdx
+  size: 21814376
+  modified: '2017-08-23T04:13:04'
+  type: CDX
+  extension: .cdx
+url: https://cao.mos.ru
+created: '2017-08-20'

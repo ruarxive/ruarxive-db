@@ -1,0 +1,40 @@
+id: nalog-ru-2017-04-30-85181c39
+name: nalog.ru (2017-04-30)
+domain: nalog.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/nalog.ru-2017-04-30-85181c39/dupes_db/data.mdb
+  size: 65536
+  modified: '2017-04-30T07:37:06'
+  type: ''
+  extension: .mdb
+- name: nalog.ru-2017-04-30-85181c39-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/nalog.ru-2017-04-30-85181c39/nalog.ru-2017-04-30-85181c39-meta.warc.gz
+  size: 9830
+  modified: '2017-04-30T07:37:06'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/nalog.ru-2017-04-30-85181c39/wpull.db
+  size: 56320
+  modified: '2017-04-30T07:37:06'
+  type: wpull database
+  extension: .db
+- name: nalog.ru-2017-04-30-85181c39.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/nalog.ru-2017-04-30-85181c39/nalog.ru-2017-04-30-85181c39.cdx
+  size: 50335
+  modified: '2017-04-30T07:37:06'
+  type: CDX
+  extension: .cdx
+- name: nalog.ru-2017-04-30-85181c39-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/nalog.ru-2017-04-30-85181c39/nalog.ru-2017-04-30-85181c39-00000.warc.gz
+  size: 2690284
+  modified: '2017-04-30T07:37:06'
+  type: WARC
+  extension: .warc.gz
+url: https://nalog.ru
+created: '2017-04-30'

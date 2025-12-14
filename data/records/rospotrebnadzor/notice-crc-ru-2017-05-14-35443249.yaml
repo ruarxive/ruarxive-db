@@ -1,0 +1,40 @@
+id: notice-crc-ru-2017-05-14-35443249
+name: notice.crc.ru (2017-05-14)
+domain: notice.crc.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/notice.crc.ru-2017-05-14-35443249/dupes_db/data.mdb
+  size: 1294336
+  modified: '2017-05-15T04:56:05'
+  type: ''
+  extension: .mdb
+- name: notice.crc.ru-2017-05-14-35443249-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/notice.crc.ru-2017-05-14-35443249/notice.crc.ru-2017-05-14-35443249-00000.warc.gz
+  size: 129744275
+  modified: '2017-05-15T04:56:05'
+  type: WARC
+  extension: .warc.gz
+- name: notice.crc.ru-2017-05-14-35443249-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/notice.crc.ru-2017-05-14-35443249/notice.crc.ru-2017-05-14-35443249-meta.warc.gz
+  size: 304596
+  modified: '2017-05-15T04:56:06'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/notice.crc.ru-2017-05-14-35443249/wpull.db
+  size: 2223104
+  modified: '2017-05-15T04:56:05'
+  type: wpull database
+  extension: .db
+- name: notice.crc.ru-2017-05-14-35443249.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/notice.crc.ru-2017-05-14-35443249/notice.crc.ru-2017-05-14-35443249.cdx
+  size: 2791412
+  modified: '2017-05-15T04:56:05'
+  type: CDX
+  extension: .cdx
+url: https://notice.crc.ru
+created: '2017-05-14'

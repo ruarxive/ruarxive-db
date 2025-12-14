@@ -1,0 +1,28 @@
+id: e-mmm-com
+name: e-mmm.com (2013-10-31)
+domain: e-mmm.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: e-mmm.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/e-mmm.com/e-mmm.com.cdx.xz
+  size: 5771800
+  modified: '2013-10-31T05:58:24'
+  type: CDX
+  extension: .xz
+- name: e-mmm.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/e-mmm.com/e-mmm.com.log.xz
+  size: 2667124
+  modified: '2013-10-31T05:58:12'
+  type: wpull log
+  extension: .xz
+- name: e-mmm.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/e-mmm.com/e-mmm.com.warc.xz
+  size: 79994868
+  modified: '2013-10-31T05:56:26'
+  type: WARC
+  extension: .xz
+url: https://e-mmm.com
+created: '2013-10-31T05:56:26'

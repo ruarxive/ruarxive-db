@@ -1,0 +1,40 @@
+id: plasma-oprf-ru-2017-05-07-ad818683
+name: plasma.oprf.ru (2017-05-07)
+domain: plasma.oprf.ru
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/plasma.oprf.ru-2017-05-07-ad818683/dupes_db/data.mdb
+  size: 2273280
+  modified: '2017-05-07T11:09:25'
+  type: ''
+  extension: .mdb
+- name: plasma.oprf.ru-2017-05-07-ad818683-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/plasma.oprf.ru-2017-05-07-ad818683/plasma.oprf.ru-2017-05-07-ad818683-00000.warc.gz
+  size: 1361095779
+  modified: '2017-05-07T11:10:21'
+  type: WARC
+  extension: .warc.gz
+- name: plasma.oprf.ru-2017-05-07-ad818683-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/plasma.oprf.ru-2017-05-07-ad818683/plasma.oprf.ru-2017-05-07-ad818683-meta.warc.gz
+  size: 639268
+  modified: '2017-05-07T11:10:22'
+  type: WARC
+  extension: .warc.gz
+- name: plasma.oprf.ru-2017-05-07-ad818683.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/plasma.oprf.ru-2017-05-07-ad818683/plasma.oprf.ru-2017-05-07-ad818683.cdx
+  size: 5864643
+  modified: '2017-05-07T11:10:21'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/plasma.oprf.ru-2017-05-07-ad818683/wpull.db
+  size: 5437440
+  modified: '2017-05-07T11:10:21'
+  type: wpull database
+  extension: .db
+url: https://plasma.oprf.ru
+created: '2017-05-07'

@@ -1,0 +1,55 @@
+id: minfin
+slug: minfin
+name: Министерство финансов РФ
+num_records: 9
+records:
+- id: budcodex-ru-2017-05-15-f3d19334
+  name: budcodex.ru (2017-05-15)
+  url: https://budcodex.ru
+  created: '2017-05-15'
+  domain: budcodex.ru
+- id: budget-gov-ru-2017-05-15-fc312fb9
+  name: budget.gov.ru (2017-05-15)
+  url: https://budget.gov.ru
+  created: '2017-05-15'
+  domain: budget.gov.ru
+- id: buhuchet-minfin-ru-2017-05-15-f1289936
+  name: buhuchet.minfin.ru (2017-05-15)
+  url: https://buhuchet.minfin.ru
+  created: '2017-05-15'
+  domain: buhuchet.minfin.ru
+- id: elochki-minfin-ru-2017-05-15-b8b8b28b
+  name: elochki.minfin.ru (2017-05-15)
+  url: https://elochki.minfin.ru
+  created: '2017-05-15'
+  domain: elochki.minfin.ru
+- id: info-minfin-ru-2017-05-15-83c74fdf
+  name: info.minfin.ru (2017-05-15)
+  url: https://info.minfin.ru
+  created: '2017-05-15'
+  domain: info.minfin.ru
+- id: mff-minfin-ru-2017-07-06-687bf8f0
+  name: mff.minfin.ru (2017-07-06)
+  url: https://mff.minfin.ru
+  created: '2017-07-06'
+  domain: mff.minfin.ru
+- id: old-minfin-ru-2017-05-15-d5c4e2d1
+  name: old.minfin.ru (2017-05-15)
+  url: https://old.minfin.ru
+  created: '2017-05-15'
+  domain: old.minfin.ru
+- id: rro-minfin-ru-2017-05-15-fda23c83
+  name: rro.minfin.ru (2017-05-15)
+  url: https://rro.minfin.ru
+  created: '2017-05-15'
+  domain: rro.minfin.ru
+- id: services-minfin-ru-2017-05-15-14c2dd7e
+  name: services.minfin.ru (2017-05-15)
+  url: https://services.minfin.ru
+  created: '2017-05-15'
+  domain: services.minfin.ru
+files:
+  total_count: 198
+  total_size: 24970133344
+  directories:
+  - webcollect2017

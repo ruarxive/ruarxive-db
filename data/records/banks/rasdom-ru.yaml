@@ -1,0 +1,28 @@
+id: rasdom-ru
+name: rasdom.ru (2013-12-19)
+domain: rasdom.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.rasdom.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rasdom.ru/www.rasdom.ru.log.xz
+  size: 10340
+  modified: '2013-12-19T11:26:54'
+  type: wpull log
+  extension: .xz
+- name: www.rasdom.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rasdom.ru/www.rasdom.ru.warc.xz
+  size: 8501780
+  modified: '2013-12-19T11:26:54'
+  type: WARC
+  extension: .xz
+- name: www.rasdom.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.rasdom.ru/www.rasdom.ru.cdx.xz
+  size: 15904
+  modified: '2013-12-19T11:26:53'
+  type: CDX
+  extension: .xz
+url: https://rasdom.ru
+created: '2013-12-19T11:26:54'

@@ -1,0 +1,28 @@
+id: mmm2012-mavrodi-com
+name: mmm2012-mavrodi.com (2013-10-28)
+domain: mmm2012-mavrodi.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mmm2012-mavrodi.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm2012-mavrodi.com/mmm2012-mavrodi.com.warc.xz
+  size: 1573200
+  modified: '2013-10-28T06:14:03'
+  type: WARC
+  extension: .xz
+- name: mmm2012-mavrodi.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm2012-mavrodi.com/mmm2012-mavrodi.com.cdx.xz
+  size: 28044
+  modified: '2013-10-28T06:14:00'
+  type: CDX
+  extension: .xz
+- name: mmm2012-mavrodi.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mmm2012-mavrodi.com/mmm2012-mavrodi.com.log.xz
+  size: 14820
+  modified: '2013-10-28T06:14:01'
+  type: wpull log
+  extension: .xz
+url: https://mmm2012-mavrodi.com
+created: '2013-10-28T06:14:03'

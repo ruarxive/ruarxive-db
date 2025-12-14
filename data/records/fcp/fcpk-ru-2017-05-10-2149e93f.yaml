@@ -1,0 +1,40 @@
+id: fcpk-ru-2017-05-10-2149e93f
+name: fcpk.ru (2017-05-10)
+domain: fcpk.ru
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpk.ru-2017-05-10-2149e93f/dupes_db/data.mdb
+  size: 348160
+  modified: '2017-05-10T08:57:13'
+  type: ''
+  extension: .mdb
+- name: www.fcpk.ru-2017-05-10-2149e93f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpk.ru-2017-05-10-2149e93f/www.fcpk.ru-2017-05-10-2149e93f-meta.warc.gz
+  size: 59820
+  modified: '2017-05-10T08:57:13'
+  type: WARC
+  extension: .warc.gz
+- name: www.fcpk.ru-2017-05-10-2149e93f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpk.ru-2017-05-10-2149e93f/www.fcpk.ru-2017-05-10-2149e93f.cdx
+  size: 550309
+  modified: '2017-05-10T08:57:13'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpk.ru-2017-05-10-2149e93f/wpull.db
+  size: 505856
+  modified: '2017-05-10T08:57:13'
+  type: wpull database
+  extension: .db
+- name: www.fcpk.ru-2017-05-10-2149e93f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpk.ru-2017-05-10-2149e93f/www.fcpk.ru-2017-05-10-2149e93f-00000.warc.gz
+  size: 13764243
+  modified: '2017-05-10T08:57:13'
+  type: WARC
+  extension: .warc.gz
+url: https://fcpk.ru
+created: '2017-05-10'

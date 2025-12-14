@@ -1,0 +1,28 @@
+id: ruthenia-ru
+name: ruthenia.ru (2013-12-23)
+domain: ruthenia.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: ruthenia.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/ruthenia.ru/ruthenia.ru.log.xz
+  size: 1148268
+  modified: '2013-12-23T05:49:39'
+  type: wpull log
+  extension: .xz
+- name: ruthenia.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/ruthenia.ru/ruthenia.ru.warc.xz
+  size: 2650204916
+  modified: '2013-12-23T05:51:24'
+  type: WARC
+  extension: .xz
+- name: ruthenia.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/ruthenia.ru/ruthenia.ru.cdx.xz
+  size: 1488644
+  modified: '2013-12-23T05:49:37'
+  type: CDX
+  extension: .xz
+url: https://ruthenia.ru
+created: '2013-12-23T05:51:24'

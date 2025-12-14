@@ -1,0 +1,40 @@
+id: gutabank-ru
+name: gutabank.ru (2013-12-19)
+domain: gutabank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.gutabank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gutabank.ru/www.gutabank.ru.cdx.xz
+  size: 298708
+  modified: '2014-05-09T18:54:23'
+  type: CDX
+  extension: .xz
+- name: www.gutabank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gutabank.ru/www.gutabank.ru.7z
+  size: 108034178
+  modified: '2014-08-19T07:32:29'
+  type: ''
+  extension: .7z
+- name: www.gutabank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gutabank.ru/www.gutabank.ru.warc.xz
+  size: 109418428
+  modified: '2014-05-09T18:54:23'
+  type: WARC
+  extension: .xz
+- name: www.gutabank.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gutabank.ru/www.gutabank.ru.warc
+  size: 9900365
+  modified: '2013-12-19T16:26:20'
+  type: WARC
+  extension: .warc
+- name: www.gutabank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gutabank.ru/www.gutabank.ru.log.xz
+  size: 182392
+  modified: '2014-05-09T18:54:23'
+  type: wpull log
+  extension: .xz
+url: https://gutabank.ru
+created: '2013-12-19T16:26:20'

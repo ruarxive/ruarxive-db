@@ -1,0 +1,40 @@
+id: amu-vkks-ru-2017-05-29-efdf9fb5
+name: amu.vkks.ru (2017-05-29)
+domain: amu.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/amu.vkks.ru-2017-05-29-efdf9fb5/wpull.db
+  size: 453632
+  modified: '2017-06-03T08:45:45'
+  type: wpull database
+  extension: .db
+- name: amu.vkks.ru-2017-05-29-efdf9fb5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/amu.vkks.ru-2017-05-29-efdf9fb5/amu.vkks.ru-2017-05-29-efdf9fb5.cdx
+  size: 609434
+  modified: '2017-06-03T08:45:46'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/amu.vkks.ru-2017-05-29-efdf9fb5/dupes_db/data.mdb
+  size: 114688
+  modified: '2017-06-03T08:45:49'
+  type: ''
+  extension: .mdb
+- name: amu.vkks.ru-2017-05-29-efdf9fb5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/amu.vkks.ru-2017-05-29-efdf9fb5/amu.vkks.ru-2017-05-29-efdf9fb5-00000.warc.gz
+  size: 21401791
+  modified: '2017-06-03T08:45:48'
+  type: WARC
+  extension: .warc.gz
+- name: amu.vkks.ru-2017-05-29-efdf9fb5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/amu.vkks.ru-2017-05-29-efdf9fb5/amu.vkks.ru-2017-05-29-efdf9fb5-meta.warc.gz
+  size: 61485
+  modified: '2017-06-03T08:45:46'
+  type: WARC
+  extension: .warc.gz
+url: https://amu.vkks.ru
+created: '2017-05-29'

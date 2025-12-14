@@ -1,0 +1,16 @@
+id: medvedev2008-ru
+name: medvedev2008.ru.7z (2013-08-28)
+domain: medvedev2008.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: medvedev2008.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/medvedev2008.ru.7z
+  size: 519404617
+  modified: '2013-08-28T00:06:30'
+  type: httrack archive
+  extension: .7z
+url: https://medvedev2008.ru.7z
+created: '2013-08-28T00:06:30'

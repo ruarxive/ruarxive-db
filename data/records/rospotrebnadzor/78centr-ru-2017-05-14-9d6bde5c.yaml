@@ -1,0 +1,40 @@
+id: 78centr-ru-2017-05-14-9d6bde5c
+name: 78centr.ru (2017-05-14)
+domain: 78centr.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: 78centr.ru-2017-05-14-9d6bde5c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78centr.ru-2017-05-14-9d6bde5c/78centr.ru-2017-05-14-9d6bde5c-00000.warc.gz
+  size: 96678053
+  modified: '2017-05-14T16:44:31'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78centr.ru-2017-05-14-9d6bde5c/dupes_db/data.mdb
+  size: 172032
+  modified: '2017-05-14T16:44:29'
+  type: ''
+  extension: .mdb
+- name: 78centr.ru-2017-05-14-9d6bde5c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78centr.ru-2017-05-14-9d6bde5c/78centr.ru-2017-05-14-9d6bde5c.cdx
+  size: 293409
+  modified: '2017-05-14T16:44:31'
+  type: CDX
+  extension: .cdx
+- name: 78centr.ru-2017-05-14-9d6bde5c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78centr.ru-2017-05-14-9d6bde5c/78centr.ru-2017-05-14-9d6bde5c-meta.warc.gz
+  size: 41233
+  modified: '2017-05-14T16:44:32'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78centr.ru-2017-05-14-9d6bde5c/wpull.db
+  size: 278528
+  modified: '2017-05-14T16:44:31'
+  type: wpull database
+  extension: .db
+url: https://78centr.ru
+created: '2017-05-14'

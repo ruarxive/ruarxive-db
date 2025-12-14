@@ -1,0 +1,40 @@
+id: csr-ru-2017-04-05-673c6cdf
+name: csr.ru (2017-04-05)
+domain: csr.ru
+collection:
+  id: reforms
+  slug: reforms
+  name: Реформы
+resources:
+- name: csr.ru-2017-04-05-673c6cdf.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/csr.ru-2017-04-05-673c6cdf/csr.ru-2017-04-05-673c6cdf.cdx
+  size: 877058
+  modified: '2017-04-05T06:05:40'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/csr.ru-2017-04-05-673c6cdf/dupes_db/data.mdb
+  size: 548864
+  modified: '2017-04-05T06:05:40'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/csr.ru-2017-04-05-673c6cdf/wpull.db
+  size: 898048
+  modified: '2017-04-05T06:05:40'
+  type: wpull database
+  extension: .db
+- name: csr.ru-2017-04-05-673c6cdf-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/csr.ru-2017-04-05-673c6cdf/csr.ru-2017-04-05-673c6cdf-meta.warc.gz
+  size: 118271
+  modified: '2017-04-05T06:05:40'
+  type: WARC
+  extension: .warc.gz
+- name: csr.ru-2017-04-05-673c6cdf-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/csr.ru-2017-04-05-673c6cdf/csr.ru-2017-04-05-673c6cdf-00000.warc.gz
+  size: 438384801
+  modified: '2017-04-05T06:05:40'
+  type: WARC
+  extension: .warc.gz
+url: https://csr.ru
+created: '2017-04-05'

@@ -1,0 +1,52 @@
+id: um-mos-ru-2017-09-15-1b681bd0
+name: um.mos.ru (2017-09-15)
+domain: um.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/um.mos.ru-2017-09-15-1b681bd0/wpull.db
+  size: 136821760
+  modified: '2017-09-20T04:04:11'
+  type: wpull database
+  extension: .db
+- name: um.mos.ru-2017-09-15-1b681bd0-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/um.mos.ru-2017-09-15-1b681bd0/um.mos.ru-2017-09-15-1b681bd0-00002.warc.gz
+  size: 2417032761
+  modified: '2017-09-20T04:04:11'
+  type: WARC
+  extension: .warc.gz
+- name: um.mos.ru-2017-09-15-1b681bd0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/um.mos.ru-2017-09-15-1b681bd0/um.mos.ru-2017-09-15-1b681bd0.cdx
+  size: 71893592
+  modified: '2017-09-20T04:04:11'
+  type: CDX
+  extension: .cdx
+- name: um.mos.ru-2017-09-15-1b681bd0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/um.mos.ru-2017-09-15-1b681bd0/um.mos.ru-2017-09-15-1b681bd0-meta.warc.gz
+  size: 9145106
+  modified: '2017-09-20T04:04:19'
+  type: WARC
+  extension: .warc.gz
+- name: um.mos.ru-2017-09-15-1b681bd0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/um.mos.ru-2017-09-15-1b681bd0/um.mos.ru-2017-09-15-1b681bd0-00000.warc.gz
+  size: 5369892700
+  modified: '2017-09-17T06:18:18'
+  type: WARC
+  extension: .warc.gz
+- name: um.mos.ru-2017-09-15-1b681bd0-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/um.mos.ru-2017-09-15-1b681bd0/um.mos.ru-2017-09-15-1b681bd0-00001.warc.gz
+  size: 5368764429
+  modified: '2017-09-19T17:49:15'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/um.mos.ru-2017-09-15-1b681bd0/dupes_db/data.mdb
+  size: 29761536
+  modified: '2017-09-20T04:04:09'
+  type: ''
+  extension: .mdb
+url: https://um.mos.ru
+created: '2017-09-15'

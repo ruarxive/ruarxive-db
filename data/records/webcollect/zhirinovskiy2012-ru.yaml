@@ -1,0 +1,16 @@
+id: zhirinovskiy2012-ru
+name: zhirinovskiy2012.ru.7z (2012-10-22)
+domain: zhirinovskiy2012.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: zhirinovskiy2012.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/zhirinovskiy2012.ru.7z
+  size: 46360128
+  modified: '2012-10-22T10:13:37'
+  type: httrack archive
+  extension: .7z
+url: https://zhirinovskiy2012.ru.7z
+created: '2012-10-22T10:13:37'

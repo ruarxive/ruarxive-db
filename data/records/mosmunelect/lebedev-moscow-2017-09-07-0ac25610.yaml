@@ -1,0 +1,40 @@
+id: lebedev-moscow-2017-09-07-0ac25610
+name: lebedev.moscow (2017-09-07)
+domain: lebedev.moscow
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: www.lebedev.moscow-2017-09-07-0ac25610.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.lebedev.moscow-2017-09-07-0ac25610/www.lebedev.moscow-2017-09-07-0ac25610.cdx
+  size: 157465
+  modified: '2017-09-07T22:08:11'
+  type: CDX
+  extension: .cdx
+- name: www.lebedev.moscow-2017-09-07-0ac25610-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.lebedev.moscow-2017-09-07-0ac25610/www.lebedev.moscow-2017-09-07-0ac25610-meta.warc.gz
+  size: 25444
+  modified: '2017-09-07T22:08:12'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.lebedev.moscow-2017-09-07-0ac25610/dupes_db/data.mdb
+  size: 126976
+  modified: '2017-09-07T22:08:11'
+  type: ''
+  extension: .mdb
+- name: www.lebedev.moscow-2017-09-07-0ac25610-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.lebedev.moscow-2017-09-07-0ac25610/www.lebedev.moscow-2017-09-07-0ac25610-00000.warc.gz
+  size: 50149176
+  modified: '2017-09-07T22:08:11'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/www.lebedev.moscow-2017-09-07-0ac25610/wpull.db
+  size: 163840
+  modified: '2017-09-07T22:08:11'
+  type: wpull database
+  extension: .db
+url: https://lebedev.moscow
+created: '2017-09-07'

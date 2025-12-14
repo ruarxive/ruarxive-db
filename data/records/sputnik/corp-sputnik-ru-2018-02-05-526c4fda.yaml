@@ -1,0 +1,40 @@
+id: corp-sputnik-ru-2018-02-05-526c4fda
+name: corp.sputnik.ru (2018-02-05)
+domain: corp.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/corp.sputnik.ru-2018-02-05-526c4fda/dupes_db/data.mdb
+  size: 114688
+  modified: '2018-02-05T17:17:33'
+  type: ''
+  extension: .mdb
+- name: corp.sputnik.ru-2018-02-05-526c4fda-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/corp.sputnik.ru-2018-02-05-526c4fda/corp.sputnik.ru-2018-02-05-526c4fda-meta.warc.gz
+  size: 30327
+  modified: '2018-02-05T17:17:34'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/corp.sputnik.ru-2018-02-05-526c4fda/wpull.db
+  size: 166912
+  modified: '2018-02-05T17:17:33'
+  type: wpull database
+  extension: .db
+- name: corp.sputnik.ru-2018-02-05-526c4fda-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/corp.sputnik.ru-2018-02-05-526c4fda/corp.sputnik.ru-2018-02-05-526c4fda-00000.warc.gz
+  size: 46956607
+  modified: '2018-02-05T17:17:33'
+  type: WARC
+  extension: .warc.gz
+- name: corp.sputnik.ru-2018-02-05-526c4fda.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/corp.sputnik.ru-2018-02-05-526c4fda/corp.sputnik.ru-2018-02-05-526c4fda.cdx
+  size: 182644
+  modified: '2018-02-05T17:17:33'
+  type: CDX
+  extension: .cdx
+url: https://corp.sputnik.ru
+created: '2018-02-05'

@@ -1,0 +1,13 @@
+id: govinst2022
+slug: govinst2022
+name: Госаккаунты в Инстаграм
+created: '2022-03-28T13:20:52.000Z'
+num_records: 1
+records:
+- id: instagram-com-govinst
+  name: Архив инстаграм аккаунтов официальных лиц
+  url: https://instagram.com
+  status: собран
+  status_id: collected
+  created: '2022-03-28T11:23:36.000Z'
+  domain: instagram.com

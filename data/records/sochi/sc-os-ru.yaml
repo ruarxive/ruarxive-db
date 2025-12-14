@@ -1,0 +1,28 @@
+id: sc-os-ru
+name: sc-os.ru (2014-02-05)
+domain: sc-os.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: www.sc-os.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.sc-os.ru/www.sc-os.ru.cdx.xz
+  size: 2571504
+  modified: '2014-02-05T09:48:30'
+  type: CDX
+  extension: .xz
+- name: www.sc-os.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.sc-os.ru/www.sc-os.ru.warc.xz
+  size: 9319472076
+  modified: '2014-02-05T09:48:30'
+  type: WARC
+  extension: .xz
+- name: www.sc-os.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.sc-os.ru/www.sc-os.ru.log.xz
+  size: 1543252
+  modified: '2014-02-05T09:48:30'
+  type: wpull log
+  extension: .xz
+url: https://sc-os.ru
+created: '2014-02-05T09:48:30'

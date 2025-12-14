@@ -1,0 +1,40 @@
+id: xn--80abibf0brbr-xn--p1ai-2017-05-07-73ab1612
+name: xn--80abibf0brbr.xn--p1ai (2017-05-07)
+domain: xn--80abibf0brbr.xn--p1ai
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612/xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612-meta.warc.gz
+  size: 48864
+  modified: '2017-05-07T10:19:37'
+  type: WARC
+  extension: .warc.gz
+- name: xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612/xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612.cdx
+  size: 314928
+  modified: '2017-05-07T10:19:37'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612/wpull.db
+  size: 352256
+  modified: '2017-05-07T10:19:37'
+  type: wpull database
+  extension: .db
+- name: xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612/xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612-00000.warc.gz
+  size: 49716034
+  modified: '2017-05-07T10:19:37'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80abibf0brbr.xn--p1ai-2017-05-07-73ab1612/dupes_db/data.mdb
+  size: 196608
+  modified: '2017-05-07T10:19:37'
+  type: ''
+  extension: .mdb
+url: https://xn--80abibf0brbr.xn--p1ai
+created: '2017-05-07'

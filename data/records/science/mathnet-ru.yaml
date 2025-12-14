@@ -1,0 +1,28 @@
+id: mathnet-ru
+name: mathnet.ru (2014-08-09)
+domain: mathnet.ru
+collection:
+  id: science
+  slug: science
+  name: Наука
+resources:
+- name: www.mathnet.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/science/www.mathnet.ru/www.mathnet.ru.log.xz
+  size: 7767640
+  modified: '2014-08-09T10:55:47'
+  type: wpull log
+  extension: .xz
+- name: www.mathnet.ru.warc.lzo
+  url: https://cdn.ruarxive.org/public/webcollect/science/www.mathnet.ru/www.mathnet.ru.warc.lzo
+  size: 51718796708
+  modified: '2014-08-09T10:55:48'
+  type: ''
+  extension: .lzo
+- name: www.mathnet.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/science/www.mathnet.ru/www.mathnet.ru.cdx.xz
+  size: 9819280
+  modified: '2014-08-09T10:55:48'
+  type: CDX
+  extension: .xz
+url: https://mathnet.ru
+created: '2014-08-09T10:55:47'

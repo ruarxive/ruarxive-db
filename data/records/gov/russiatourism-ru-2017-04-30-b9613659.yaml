@@ -1,0 +1,52 @@
+id: russiatourism-ru-2017-04-30-b9613659
+name: russiatourism.ru (2017-04-30)
+domain: russiatourism.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.russiatourism.ru-2017-04-30-b9613659/dupes_db/data.mdb
+  size: 548864
+  modified: '2017-04-30T08:45:43'
+  type: ''
+  extension: .mdb
+- name: tmp-wpull-warcsesreq-00bhav.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.russiatourism.ru-2017-04-30-b9613659/temp/tmp-wpull-warcsesreq-00bhav.tmp
+  size: 354
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-etzuii.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.russiatourism.ru-2017-04-30-b9613659/temp/tmp-wpull-warcsesrsp-etzuii.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-qowr3c.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.russiatourism.ru-2017-04-30-b9613659/temp/tmp-wpull-warc-qowr3c.log.gz
+  size: 235977
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: www.russiatourism.ru-2017-04-30-b9613659.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.russiatourism.ru-2017-04-30-b9613659/www.russiatourism.ru-2017-04-30-b9613659.cdx
+  size: 1223436
+  modified: '2017-04-30T08:45:43'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.russiatourism.ru-2017-04-30-b9613659/wpull.db
+  size: 5866496
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+- name: www.russiatourism.ru-2017-04-30-b9613659-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.russiatourism.ru-2017-04-30-b9613659/www.russiatourism.ru-2017-04-30-b9613659-00000.warc.gz
+  size: 143282238
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+url: https://russiatourism.ru
+created: '2017-04-30'

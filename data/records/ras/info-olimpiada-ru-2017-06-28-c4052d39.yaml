@@ -1,0 +1,51 @@
+id: info-olimpiada-ru-2017-06-28-c4052d39
+name: info.olimpiada.ru (2017-06-28)
+domain: info.olimpiada.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: info.olimpiada.ru-2017-06-28-c4052d39-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/info.olimpiada.ru-2017-06-28-c4052d39/info.olimpiada.ru-2017-06-28-c4052d39-meta.warc.gz
+  size: 3708292
+  modified: '2017-07-02T20:04:34'
+  type: WARC
+  extension: .warc.gz
+- name: info.olimpiada.ru-2017-06-28-c4052d39.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/info.olimpiada.ru-2017-06-28-c4052d39/info.olimpiada.ru-2017-06-28-c4052d39.cdx
+  size: 40442714
+  modified: '2017-07-02T12:31:41'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/info.olimpiada.ru-2017-06-28-c4052d39/wpull.db
+  size: 64246784
+  modified: '2017-07-02T20:04:28'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/info.olimpiada.ru-2017-06-28-c4052d39/dupes_db/data.mdb
+  size: 17211392
+  modified: '2017-07-02T12:31:40'
+  type: ''
+  extension: .mdb
+- name: info.olimpiada.ru-2017-06-28-c4052d39-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/info.olimpiada.ru-2017-06-28-c4052d39/info.olimpiada.ru-2017-06-28-c4052d39-00000.warc.gz
+  size: 5368716816
+  modified: '2017-06-29T16:29:12'
+  type: WARC
+  extension: .warc.gz
+- name: info.olimpiada.ru-2017-06-28-c4052d39-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/info.olimpiada.ru-2017-06-28-c4052d39/info.olimpiada.ru-2017-06-28-c4052d39-00001.warc.gz
+  size: 2940892636
+  modified: '2017-07-02T12:31:42'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/info.olimpiada.ru-2017-06-28-c4052d39/stop
+  size: 0
+  modified: '2017-07-02T20:04:28'
+  type: ''
+url: https://info.olimpiada.ru
+created: '2017-06-28'

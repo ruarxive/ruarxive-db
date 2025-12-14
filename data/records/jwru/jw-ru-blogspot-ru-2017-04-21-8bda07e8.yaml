@@ -1,0 +1,40 @@
+id: jw-ru-blogspot-ru-2017-04-21-8bda07e8
+name: jw-ru.blogspot.ru (2017-04-21)
+domain: jw-ru.blogspot.ru
+collection:
+  id: jwru
+  slug: jwru
+  name: Свидетели Иеговы
+resources:
+- name: jw-ru.blogspot.ru-2017-04-21-8bda07e8.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-ru.blogspot.ru-2017-04-21-8bda07e8/jw-ru.blogspot.ru-2017-04-21-8bda07e8.cdx
+  size: 48774
+  modified: '2017-04-21T09:14:30'
+  type: CDX
+  extension: .cdx
+- name: jw-ru.blogspot.ru-2017-04-21-8bda07e8-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-ru.blogspot.ru-2017-04-21-8bda07e8/jw-ru.blogspot.ru-2017-04-21-8bda07e8-00000.warc.gz
+  size: 5264312
+  modified: '2017-04-21T09:14:30'
+  type: WARC
+  extension: .warc.gz
+- name: jw-ru.blogspot.ru-2017-04-21-8bda07e8-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-ru.blogspot.ru-2017-04-21-8bda07e8/jw-ru.blogspot.ru-2017-04-21-8bda07e8-meta.warc.gz
+  size: 11293
+  modified: '2017-04-21T09:14:30'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-ru.blogspot.ru-2017-04-21-8bda07e8/dupes_db/data.mdb
+  size: 65536
+  modified: '2017-04-21T09:14:30'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/jwru/jw-ru.blogspot.ru-2017-04-21-8bda07e8/wpull.db
+  size: 62464
+  modified: '2017-04-21T09:14:30'
+  type: wpull database
+  extension: .db
+url: https://jw-ru.blogspot.ru
+created: '2017-04-21'

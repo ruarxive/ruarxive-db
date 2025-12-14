@@ -1,0 +1,40 @@
+id: rgo-sputnik-ru-2018-02-05-c0a585e8
+name: rgo.sputnik.ru (2018-02-05)
+domain: rgo.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: rgo.sputnik.ru-2018-02-05-c0a585e8-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/rgo.sputnik.ru-2018-02-05-c0a585e8/rgo.sputnik.ru-2018-02-05-c0a585e8-meta.warc.gz
+  size: 41875
+  modified: '2018-02-05T17:25:20'
+  type: WARC
+  extension: .warc.gz
+- name: rgo.sputnik.ru-2018-02-05-c0a585e8.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/rgo.sputnik.ru-2018-02-05-c0a585e8/rgo.sputnik.ru-2018-02-05-c0a585e8.cdx
+  size: 295851
+  modified: '2018-02-05T17:25:19'
+  type: CDX
+  extension: .cdx
+- name: rgo.sputnik.ru-2018-02-05-c0a585e8-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/rgo.sputnik.ru-2018-02-05-c0a585e8/rgo.sputnik.ru-2018-02-05-c0a585e8-00000.warc.gz
+  size: 151711702
+  modified: '2018-02-05T17:25:19'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/rgo.sputnik.ru-2018-02-05-c0a585e8/wpull.db
+  size: 275456
+  modified: '2018-02-05T17:25:19'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/rgo.sputnik.ru-2018-02-05-c0a585e8/dupes_db/data.mdb
+  size: 184320
+  modified: '2018-02-05T17:25:19'
+  type: ''
+  extension: .mdb
+url: https://rgo.sputnik.ru
+created: '2018-02-05'

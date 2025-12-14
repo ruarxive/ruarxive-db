@@ -1,0 +1,34 @@
+id: vologda-arbitr-ru
+name: vologda.arbitr.ru (2014-08-04)
+domain: vologda.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: vologda.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/vologda.arbitr.ru/vologda.arbitr.ru.log.xz
+  size: 2792996
+  modified: '2014-08-04T21:56:55'
+  type: wpull log
+  extension: .xz
+- name: vologda.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/vologda.arbitr.ru/vologda.arbitr.ru.7z
+  size: 134162681
+  modified: '2014-08-08T09:30:10'
+  type: ''
+  extension: .7z
+- name: vologda.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/vologda.arbitr.ru/vologda.arbitr.ru.cdx.xz
+  size: 5548064
+  modified: '2014-08-04T21:56:55'
+  type: CDX
+  extension: .xz
+- name: vologda.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/vologda.arbitr.ru/vologda.arbitr.ru.warc.xz
+  size: 141251216
+  modified: '2014-08-04T21:56:55'
+  type: WARC
+  extension: .xz
+url: https://vologda.arbitr.ru
+created: '2014-08-04T21:56:55'

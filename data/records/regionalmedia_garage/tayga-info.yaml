@@ -1,0 +1,25 @@
+id: tayga-info
+name: 'https://tayga.info/ (Новосибирск)  '
+url: https://tayga.info/
+domain: tayga.info
+created: '2022-03-29T16:16:48.000Z'
+date: '2022-04-11T15:16:00.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Блокировка Роскомнадзора
+reason_id: roskomnadzor-blocking-1
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: regionalmedia_garage
+  name: Региональные медиа
+  slug: regionalmedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: высокий

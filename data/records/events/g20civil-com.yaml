@@ -1,0 +1,34 @@
+id: g20civil-com
+name: g20civil.com (2016-05-08)
+domain: g20civil.com
+collection:
+  id: events
+  slug: events
+  name: События
+resources:
+- name: www.g20civil.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.g20civil.com/www.g20civil.com.log.xz
+  size: 96156
+  modified: '2016-05-08T13:46:59'
+  type: wpull log
+  extension: .xz
+- name: www.g20civil.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.g20civil.com/www.g20civil.com.cdx.xz
+  size: 158084
+  modified: '2016-05-08T13:46:59'
+  type: CDX
+  extension: .xz
+- name: www.g20civil.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.g20civil.com/www.g20civil.com.7z
+  size: 106658707
+  modified: '2016-05-21T09:23:34'
+  type: ''
+  extension: .7z
+- name: www.g20civil.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.g20civil.com/www.g20civil.com.warc.xz
+  size: 106953936
+  modified: '2016-05-08T13:46:59'
+  type: WARC
+  extension: .xz
+url: https://g20civil.com
+created: '2016-05-08T13:46:59'

@@ -1,0 +1,40 @@
+id: ural2018-ru-2017-04-04-8e10630d
+name: ural2018.ru (2017-04-04)
+domain: ural2018.ru
+collection:
+  id: fifa2018
+  slug: fifa2018
+  name: FIFA 2018
+resources:
+- name: ural2018.ru-2017-04-04-8e10630d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/ural2018.ru-2017-04-04-8e10630d/ural2018.ru-2017-04-04-8e10630d.cdx
+  size: 746071
+  modified: '2017-04-04T12:48:53'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/ural2018.ru-2017-04-04-8e10630d/dupes_db/data.mdb
+  size: 438272
+  modified: '2017-04-04T12:48:52'
+  type: ''
+  extension: .mdb
+- name: ural2018.ru-2017-04-04-8e10630d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/ural2018.ru-2017-04-04-8e10630d/ural2018.ru-2017-04-04-8e10630d-00000.warc.gz
+  size: 313788439
+  modified: '2017-04-04T12:48:53'
+  type: WARC
+  extension: .warc.gz
+- name: ural2018.ru-2017-04-04-8e10630d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/ural2018.ru-2017-04-04-8e10630d/ural2018.ru-2017-04-04-8e10630d-meta.warc.gz
+  size: 100945
+  modified: '2017-04-04T12:48:53'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/ural2018.ru-2017-04-04-8e10630d/wpull.db
+  size: 845824
+  modified: '2017-04-04T12:48:53'
+  type: wpull database
+  extension: .db
+url: https://ural2018.ru
+created: '2017-04-04'

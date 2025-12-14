@@ -1,0 +1,34 @@
+id: m-vbank-ru
+name: m.vbank.ru (2014-05-14)
+domain: m.vbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: m.vbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/m.vbank.ru/m.vbank.ru.log.xz
+  size: 1416
+  modified: '2014-05-14T17:49:27'
+  type: wpull log
+  extension: .xz
+- name: m.vbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/m.vbank.ru/m.vbank.ru.warc.xz
+  size: 143300
+  modified: '2014-05-14T17:49:27'
+  type: WARC
+  extension: .xz
+- name: m.vbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/m.vbank.ru/m.vbank.ru.cdx.xz
+  size: 1516
+  modified: '2014-05-14T17:49:27'
+  type: CDX
+  extension: .xz
+- name: m.vbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/m.vbank.ru/m.vbank.ru.7z
+  size: 137426
+  modified: '2014-08-19T10:19:10'
+  type: ''
+  extension: .7z
+url: https://m.vbank.ru
+created: '2014-05-14T17:49:27'

@@ -1,0 +1,40 @@
+id: ko-vkks-ru-2017-05-29-c6e8d54e
+name: ko.vkks.ru (2017-05-29)
+domain: ko.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ko.vkks.ru-2017-05-29-c6e8d54e/wpull.db
+  size: 376832
+  modified: '2017-06-03T08:49:52'
+  type: wpull database
+  extension: .db
+- name: ko.vkks.ru-2017-05-29-c6e8d54e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ko.vkks.ru-2017-05-29-c6e8d54e/ko.vkks.ru-2017-05-29-c6e8d54e-00000.warc.gz
+  size: 19153490
+  modified: '2017-06-03T08:49:54'
+  type: WARC
+  extension: .warc.gz
+- name: ko.vkks.ru-2017-05-29-c6e8d54e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ko.vkks.ru-2017-05-29-c6e8d54e/ko.vkks.ru-2017-05-29-c6e8d54e-meta.warc.gz
+  size: 52327
+  modified: '2017-06-03T08:49:53'
+  type: WARC
+  extension: .warc.gz
+- name: ko.vkks.ru-2017-05-29-c6e8d54e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ko.vkks.ru-2017-05-29-c6e8d54e/ko.vkks.ru-2017-05-29-c6e8d54e.cdx
+  size: 489145
+  modified: '2017-06-03T08:49:53'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ko.vkks.ru-2017-05-29-c6e8d54e/dupes_db/data.mdb
+  size: 98304
+  modified: '2017-06-03T08:49:56'
+  type: ''
+  extension: .mdb
+url: https://ko.vkks.ru
+created: '2017-05-29'

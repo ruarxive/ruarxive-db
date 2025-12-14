@@ -1,0 +1,28 @@
+id: fundservice-ru
+name: fundservice.ru (2013-12-19)
+domain: fundservice.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.fundservice.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.fundservice.ru/www.fundservice.ru.log.xz
+  size: 91264
+  modified: '2013-12-19T11:30:07'
+  type: wpull log
+  extension: .xz
+- name: www.fundservice.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.fundservice.ru/www.fundservice.ru.warc.xz
+  size: 255600264
+  modified: '2013-12-19T11:28:58'
+  type: WARC
+  extension: .xz
+- name: www.fundservice.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.fundservice.ru/www.fundservice.ru.cdx.xz
+  size: 104660
+  modified: '2013-12-19T11:30:06'
+  type: CDX
+  extension: .xz
+url: https://fundservice.ru
+created: '2013-12-19T11:28:58'

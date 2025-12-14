@@ -1,0 +1,40 @@
+id: dt-mos-ru-2017-08-20-29356db3
+name: dt.mos.ru (2017-08-20)
+domain: dt.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dt.mos.ru-2017-08-20-29356db3/wpull.db
+  size: 11853824
+  modified: '2017-08-22T09:42:01'
+  type: wpull database
+  extension: .db
+- name: dt.mos.ru-2017-08-20-29356db3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dt.mos.ru-2017-08-20-29356db3/dt.mos.ru-2017-08-20-29356db3-meta.warc.gz
+  size: 1002375
+  modified: '2017-08-22T09:42:02'
+  type: WARC
+  extension: .warc.gz
+- name: dt.mos.ru-2017-08-20-29356db3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dt.mos.ru-2017-08-20-29356db3/dt.mos.ru-2017-08-20-29356db3.cdx
+  size: 8072204
+  modified: '2017-08-22T09:41:19'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dt.mos.ru-2017-08-20-29356db3/dupes_db/data.mdb
+  size: 3977216
+  modified: '2017-08-22T09:41:19'
+  type: ''
+  extension: .mdb
+- name: dt.mos.ru-2017-08-20-29356db3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dt.mos.ru-2017-08-20-29356db3/dt.mos.ru-2017-08-20-29356db3-00000.warc.gz
+  size: 4136646025
+  modified: '2017-08-22T09:41:19'
+  type: WARC
+  extension: .warc.gz
+url: https://dt.mos.ru
+created: '2017-08-20'

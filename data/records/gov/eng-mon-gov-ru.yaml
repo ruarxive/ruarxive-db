@@ -1,0 +1,28 @@
+id: eng-mon-gov-ru
+name: eng.mon.gov.ru (2013-09-23)
+domain: eng.mon.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: eng.mon.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/eng.mon.gov.ru/eng.mon.gov.ru.cdx.xz
+  size: 26172
+  modified: '2013-09-23T00:05:06'
+  type: CDX
+  extension: .xz
+- name: eng.mon.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/eng.mon.gov.ru/eng.mon.gov.ru.log.xz
+  size: 12340
+  modified: '2013-09-23T00:05:03'
+  type: wpull log
+  extension: .xz
+- name: eng.mon.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/eng.mon.gov.ru/eng.mon.gov.ru.warc.xz
+  size: 468952
+  modified: '2013-09-23T00:05:06'
+  type: WARC
+  extension: .xz
+url: https://eng.mon.gov.ru
+created: '2013-09-23T00:05:06'

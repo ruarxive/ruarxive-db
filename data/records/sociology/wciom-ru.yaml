@@ -1,0 +1,17 @@
+id: wciom-ru
+name: ВЦИОМ
+url: https://wciom.ru/
+domain: wciom.ru
+created: '2022-07-07T10:16:38.000Z'
+resource_type: сайт
+resource_type_id: site
+reason: Сохранение архивов результатов опросов общественного мнения
+reason_id: archive-preservation
+collection:
+  id: sociology
+  name: Социология
+  slug: sociology
+source:
+  id: community
+  name: Сообщество
+priority: высокий

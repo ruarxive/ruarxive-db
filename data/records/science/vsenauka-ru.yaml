@@ -1,0 +1,29 @@
+id: vsenauka-ru
+name: Всенаука
+url: https://vsenauka.ru/
+domain: vsenauka.ru
+created: '2023-03-03T10:37:52.000Z'
+date: '2022-12-23T10:38:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сайт остановил работу
+reason_id: site-stopped
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: science
+  name: Наука
+  slug: science
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: storage
+  name: vsenauka.ru
+  url: https://cdn.ruarxive.org/public/webcollect2023/science/vsenauka.ru/

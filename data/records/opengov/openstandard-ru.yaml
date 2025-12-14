@@ -1,0 +1,34 @@
+id: openstandard-ru
+name: openstandard.ru (2015-12-06)
+domain: openstandard.ru
+collection:
+  id: opengov
+  slug: opengov
+  name: Открытое правительство РФ
+resources:
+- name: openstandard.ru.tar.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/openstandard.ru/openstandard.ru.tar.xz
+  size: 10697504
+  modified: '2015-12-07T09:22:54'
+  type: ''
+  extension: .xz
+- name: openstandard.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/openstandard.ru/openstandard.ru.log
+  size: 38046
+  modified: '2015-12-06T13:08:22'
+  type: ''
+  extension: .log
+- name: openstandard.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/openstandard.ru/openstandard.ru.cdx
+  size: 11848
+  modified: '2015-12-06T13:08:22'
+  type: CDX
+  extension: .cdx
+- name: openstandard.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov/openstandard.ru/openstandard.ru.warc.xz
+  size: 10708904
+  modified: '2015-12-06T13:08:22'
+  type: WARC
+  extension: .xz
+url: https://openstandard.ru
+created: '2015-12-06T13:08:22'

@@ -1,0 +1,75 @@
+id: sarprok-ru-2017-04-03-7c27551a
+name: sarprok.ru (2017-04-03)
+domain: sarprok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/stop
+  size: 0
+  modified: '2017-04-04T12:41:51'
+  type: ''
+- name: tmp-wpull-warcsesrsp-puoossuy.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/temp/tmp-wpull-warcsesrsp-puoossuy.tmp
+  size: 49232
+  modified: '2017-04-04T12:41:54'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-ouzbn3x3.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/temp/tmp-wpull-warcsesreq-ouzbn3x3.tmp
+  size: 299
+  modified: '2017-04-04T12:41:52'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-u1qoghy_.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/temp/tmp-wpull-resp_cb-u1qoghy_.tmp
+  size: 48722
+  modified: '2017-04-04T12:41:54'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-zjuy_v90.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/temp/tmp-wpull-resp_cb-zjuy_v90.tmp
+  size: 51052
+  modified: '2017-04-04T12:41:54'
+  type: ''
+  extension: .tmp
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/dupes_db/data.mdb
+  size: 8622080
+  modified: '2017-04-04T12:41:54'
+  type: ''
+  extension: .mdb
+- name: www.sarprok.ru-2017-04-03-7c27551a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/www.sarprok.ru-2017-04-03-7c27551a-00000.warc.gz
+  size: 2546480065
+  modified: '2017-04-04T12:41:54'
+  type: WARC
+  extension: .warc.gz
+- name: warc-extractor.py
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/warc-extractor.py
+  size: 26779
+  modified: '2017-04-08T19:19:02'
+  type: ''
+  extension: .py
+- name: www.sarprok.ru-2017-04-03-7c27551a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/www.sarprok.ru-2017-04-03-7c27551a.cdx
+  size: 17828654
+  modified: '2017-04-04T12:41:54'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/wpull.db
+  size: 19485696
+  modified: '2017-04-04T12:41:55'
+  type: wpull database
+  extension: .db
+- name: www.sarprok.ru-2017-04-03-7c27551a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.sarprok.ru-2017-04-03-7c27551a/www.sarprok.ru-2017-04-03-7c27551a-meta.warc.gz
+  size: 1472989
+  modified: '2017-04-04T12:41:55'
+  type: WARC
+  extension: .warc.gz
+url: https://sarprok.ru
+created: '2017-04-03'

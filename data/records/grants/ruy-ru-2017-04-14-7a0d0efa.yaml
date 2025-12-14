@@ -1,0 +1,63 @@
+id: ruy-ru-2017-04-14-7a0d0efa
+name: ruy.ru (2017-04-14)
+domain: ruy.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/stop
+  size: 0
+  modified: '2017-04-15T22:05:04'
+  type: ''
+- name: tmp-wpull-warcsesrsp-tc6fu5oe.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/temp/tmp-wpull-warcsesrsp-tc6fu5oe.tmp
+  size: 0
+  modified: '2017-04-15T22:05:03'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-whpzxhit.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/temp/tmp-wpull-resp_cb-whpzxhit.tmp
+  size: 131623
+  modified: '2017-04-15T22:05:04'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-5weyk1sy.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/temp/tmp-wpull-warcsesreq-5weyk1sy.tmp
+  size: 514
+  modified: '2017-04-15T22:05:03'
+  type: ''
+  extension: .tmp
+- name: www.ruy.ru-2017-04-14-7a0d0efa-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/www.ruy.ru-2017-04-14-7a0d0efa-meta.warc.gz
+  size: 2978865
+  modified: '2017-04-15T22:05:06'
+  type: WARC
+  extension: .warc.gz
+- name: www.ruy.ru-2017-04-14-7a0d0efa.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/www.ruy.ru-2017-04-14-7a0d0efa.cdx
+  size: 26025490
+  modified: '2017-04-15T22:05:04'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/dupes_db/data.mdb
+  size: 16121856
+  modified: '2017-04-15T22:05:04'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/wpull.db
+  size: 218023936
+  modified: '2017-04-15T22:05:06'
+  type: wpull database
+  extension: .db
+- name: www.ruy.ru-2017-04-14-7a0d0efa-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.ruy.ru-2017-04-14-7a0d0efa/www.ruy.ru-2017-04-14-7a0d0efa-00000.warc.gz
+  size: 2608952549
+  modified: '2017-04-15T22:05:04'
+  type: WARC
+  extension: .warc.gz
+url: https://ruy.ru
+created: '2017-04-14'

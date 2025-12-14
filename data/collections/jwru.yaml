@@ -1,0 +1,30 @@
+id: jwru
+slug: jwru
+name: Свидетели Иеговы
+num_records: 4
+records:
+- id: jw-org-livejournal-com-2017-04-21-611cbd01
+  name: jw-org.livejournal.com (2017-04-21)
+  url: https://jw-org.livejournal.com
+  created: '2017-04-21'
+  domain: jw-org.livejournal.com
+- id: jw-ru-blogspot-ru-2017-04-21-8bda07e8
+  name: jw-ru.blogspot.ru (2017-04-21)
+  url: https://jw-ru.blogspot.ru
+  created: '2017-04-21'
+  domain: jw-ru.blogspot.ru
+- id: jw-russia-org-2017-04-21-14ee1e81
+  name: jw-russia.org (2017-04-21)
+  url: https://jw-russia.org
+  created: '2017-04-21'
+  domain: jw-russia.org
+- id: jwww-ru-2017-04-21-5e19af37
+  name: jwww.ru (2017-04-21)
+  url: https://jwww.ru
+  created: '2017-04-21'
+  domain: jwww.ru
+files:
+  total_count: 81
+  total_size: 823848573
+  directories:
+  - webcollect2017

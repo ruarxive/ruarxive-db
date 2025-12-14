@@ -1,0 +1,28 @@
+id: soyuzny-ru
+name: soyuzny.ru (2013-12-18)
+domain: soyuzny.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.soyuzny.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.soyuzny.ru/www.soyuzny.ru.log.xz
+  size: 25556
+  modified: '2013-12-18T15:29:00'
+  type: wpull log
+  extension: .xz
+- name: www.soyuzny.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.soyuzny.ru/www.soyuzny.ru.cdx.xz
+  size: 42512
+  modified: '2013-12-18T15:28:59'
+  type: CDX
+  extension: .xz
+- name: www.soyuzny.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.soyuzny.ru/www.soyuzny.ru.warc.xz
+  size: 25419324
+  modified: '2013-12-18T15:28:55'
+  type: WARC
+  extension: .xz
+url: https://soyuzny.ru
+created: '2013-12-18T15:28:55'

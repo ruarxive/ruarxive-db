@@ -1,0 +1,13 @@
+id: forums2022
+slug: forums2022
+name: Интернет Форумы в 2022 г
+created: '2022-03-16T19:30:57.000Z'
+num_records: 1
+records:
+- id: jediru-net
+  name: Форум Костромских джедаев
+  url: https://jediru.net/
+  status: собран
+  status_id: collected
+  created: '2022-03-16T19:30:18.000Z'
+  domain: jediru.net

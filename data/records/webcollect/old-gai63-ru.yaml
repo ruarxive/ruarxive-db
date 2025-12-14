@@ -1,0 +1,16 @@
+id: old-gai63-ru
+name: old.gai63.ru.7z (2013-09-10)
+domain: old.gai63.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.gai63.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.gai63.ru.7z
+  size: 122873965
+  modified: '2013-09-10T09:15:12'
+  type: httrack archive
+  extension: .7z
+url: https://old.gai63.ru.7z
+created: '2013-09-10T09:15:12'

@@ -1,0 +1,28 @@
+id: cluster-ria-ru
+name: cluster.ria.ru (2013-12-10)
+domain: cluster.ria.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: cluster.ria.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/cluster.ria.ru/cluster.ria.ru.log.xz
+  size: 273000
+  modified: '2013-12-10T15:40:27'
+  type: wpull log
+  extension: .xz
+- name: cluster.ria.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/cluster.ria.ru/cluster.ria.ru.cdx.xz
+  size: 838992
+  modified: '2013-12-10T15:39:33'
+  type: CDX
+  extension: .xz
+- name: cluster.ria.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/cluster.ria.ru/cluster.ria.ru.warc.xz
+  size: 176449012
+  modified: '2013-12-10T15:39:43'
+  type: WARC
+  extension: .xz
+url: https://cluster.ria.ru
+created: '2013-12-10T15:39:43'

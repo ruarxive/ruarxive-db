@@ -1,0 +1,64 @@
+id: voda-mnr-gov-ru-2017-04-30-0a02ed8d
+name: voda.mnr.gov.ru (2017-04-30)
+domain: voda.mnr.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: tmp-wpull-warc-9gn2df.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/temp/tmp-wpull-warc-9gn2df.log.gz
+  size: 353675
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesreq-y8d3mo.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/temp/tmp-wpull-warcsesreq-y8d3mo.tmp
+  size: 416
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-3iamgf.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/temp/tmp-wpull-warcsesrsp-3iamgf.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-sy_doe.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/temp/tmp-wpull-warcsesreq-sy_doe.tmp
+  size: 426
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-xd5nje.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/temp/tmp-wpull-warcsesrsp-xd5nje.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/dupes_db/data.mdb
+  size: 1048576
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .mdb
+- name: voda.mnr.gov.ru-2017-04-30-0a02ed8d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/voda.mnr.gov.ru-2017-04-30-0a02ed8d-00000.warc.gz
+  size: 997064891
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: voda.mnr.gov.ru-2017-04-30-0a02ed8d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/voda.mnr.gov.ru-2017-04-30-0a02ed8d.cdx
+  size: 1706210
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/voda.mnr.gov.ru-2017-04-30-0a02ed8d/wpull.db
+  size: 6019072
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+url: https://voda.mnr.gov.ru
+created: '2017-04-30'

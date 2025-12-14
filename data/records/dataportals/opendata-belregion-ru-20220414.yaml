@@ -1,0 +1,35 @@
+id: opendata-belregion-ru-20220414
+name: opendata.belregion.ru (2022-04-14)
+domain: opendata.belregion.ru
+url: https://opendata.belregion.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.belregion.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.belregion.ru/2022-04-14/opendata.belregion.ru.cdx
+  size: 384603
+  modified: '2022-04-14T04:23:03'
+  type: CDX
+  extension: .cdx
+- name: opendata.belregion.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.belregion.ru/2022-04-14/opendata.belregion.ru.log
+  size: 4297780
+  modified: '2022-04-14T04:23:03'
+  type: wpull log
+  extension: .log
+- name: opendata.belregion.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.belregion.ru/2022-04-14/opendata.belregion.ru.warc.gz
+  size: 21533575
+  modified: '2022-04-14T04:23:03'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.belregion.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.belregion.ru/2022-04-14/sitearchive-opendata.belregion.ru.db
+  size: 716800
+  modified: '2022-04-14T04:23:03'
+  type: ''
+  extension: .db

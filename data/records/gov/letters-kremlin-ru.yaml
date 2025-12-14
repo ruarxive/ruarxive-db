@@ -1,0 +1,28 @@
+id: letters-kremlin-ru
+name: letters.kremlin.ru (2013-10-04)
+domain: letters.kremlin.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: letters.kremlin.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/letters.kremlin.ru/letters.kremlin.ru.log.xz
+  size: 229072
+  modified: '2013-10-04T20:48:35'
+  type: wpull log
+  extension: .xz
+- name: letters.kremlin.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/letters.kremlin.ru/letters.kremlin.ru.warc.xz
+  size: 3482700
+  modified: '2013-10-04T20:48:24'
+  type: WARC
+  extension: .xz
+- name: letters.kremlin.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/letters.kremlin.ru/letters.kremlin.ru.cdx.xz
+  size: 412044
+  modified: '2013-10-04T20:48:37'
+  type: CDX
+  extension: .xz
+url: https://letters.kremlin.ru
+created: '2013-10-04T20:48:24'

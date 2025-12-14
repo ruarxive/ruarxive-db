@@ -1,0 +1,28 @@
+id: strat-ru
+name: strat.ru (2013-12-19)
+domain: strat.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.strat.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.strat.ru/www.strat.ru.cdx.xz
+  size: 75048
+  modified: '2013-12-19T11:18:21'
+  type: CDX
+  extension: .xz
+- name: www.strat.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.strat.ru/www.strat.ru.warc.xz
+  size: 52011392
+  modified: '2013-12-19T11:18:04'
+  type: WARC
+  extension: .xz
+- name: www.strat.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.strat.ru/www.strat.ru.log.xz
+  size: 47516
+  modified: '2013-12-19T11:18:20'
+  type: wpull log
+  extension: .xz
+url: https://strat.ru
+created: '2013-12-19T11:18:04'

@@ -1,0 +1,25 @@
+id: vral-li
+name: ВРуническая Академия Лженаук
+url: https://vral.li
+domain: vral.li
+created: '2022-04-05T03:15:47.000Z'
+date: '2022-04-05T07:43:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Потенциальная вероятность блокировки или исчезновения сайта
+reason_id: potentsialnaya-veroyatnost-blokirovki-ili
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: science
+  name: Наука
+  slug: science
+source:
+  id: community
+  name: Сообщество
+priority: низкий

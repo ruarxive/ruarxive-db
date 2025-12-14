@@ -1,0 +1,31 @@
+id: 48-hours-nsk-com
+name: фестиваль 48 часов новосибирск
+url: https://48-hours-nsk.com
+domain: 48-hours-nsk.com
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-03-30T12:07:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Важный сибирский децентрализованный партисипативный фестиваль современного
+  искусства о выходе за пределы традиционной эстетики и интернациональная платформа
+  для художников.
+reason_id: vazhnyy-sibirskiy-detsentralizovannyy-partisipativnyy
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: средний
+resources:
+- type: WARC
+  name: 48-hours-nsk.com.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/48-hours-nsk.com/48-hours-nsk.com.warc.gz

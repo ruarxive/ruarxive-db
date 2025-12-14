@@ -1,0 +1,28 @@
+id: talisman-sochi2014-com
+name: talisman.sochi2014.com (2014-03-08)
+domain: talisman.sochi2014.com
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: talisman.sochi2014.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/talisman.sochi2014.com/talisman.sochi2014.com.log.xz
+  size: 19408
+  modified: '2014-03-08T06:41:14'
+  type: wpull log
+  extension: .xz
+- name: talisman.sochi2014.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/talisman.sochi2014.com/talisman.sochi2014.com.warc.xz
+  size: 6713952
+  modified: '2014-03-08T06:41:06'
+  type: WARC
+  extension: .xz
+- name: talisman.sochi2014.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/talisman.sochi2014.com/talisman.sochi2014.com.cdx.xz
+  size: 28600
+  modified: '2014-03-08T06:41:05'
+  type: CDX
+  extension: .xz
+url: https://talisman.sochi2014.com
+created: '2014-03-08T06:41:06'

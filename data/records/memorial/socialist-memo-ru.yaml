@@ -1,0 +1,28 @@
+id: socialist-memo-ru
+name: socialist.memo.ru (2013-10-28)
+domain: socialist.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: socialist.memo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/socialist.memo.ru/socialist.memo.ru.log.xz
+  size: 496732
+  modified: '2013-10-28T06:31:53'
+  type: wpull log
+  extension: .xz
+- name: socialist.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/socialist.memo.ru/socialist.memo.ru.warc.xz
+  size: 59048284
+  modified: '2013-10-28T06:23:13'
+  type: WARC
+  extension: .xz
+- name: socialist.memo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/socialist.memo.ru/socialist.memo.ru.cdx.xz
+  size: 994964
+  modified: '2013-10-28T06:31:56'
+  type: CDX
+  extension: .xz
+url: https://socialist.memo.ru
+created: '2013-10-28T06:23:13'

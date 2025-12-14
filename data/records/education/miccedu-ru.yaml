@@ -1,0 +1,34 @@
+id: miccedu-ru
+name: miccedu.ru (2013-12-10)
+domain: miccedu.ru
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: miccedu.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/education/miccedu.ru/miccedu.ru.cdx.xz
+  size: 2129432
+  modified: '2013-12-10T07:52:34'
+  type: CDX
+  extension: .xz
+- name: edu.txt
+  url: https://cdn.ruarxive.org/public/webcollect/education/miccedu.ru/edu.txt
+  size: 30
+  modified: '2013-12-20T14:49:39'
+  type: ''
+  extension: .txt
+- name: miccedu.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/education/miccedu.ru/miccedu.ru.warc.xz
+  size: 440616232
+  modified: '2013-12-10T07:53:30'
+  type: WARC
+  extension: .xz
+- name: miccedu.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/education/miccedu.ru/miccedu.ru.log.xz
+  size: 1193372
+  modified: '2013-12-10T07:52:38'
+  type: wpull log
+  extension: .xz
+url: https://miccedu.ru
+created: '2013-12-10T07:53:30'

@@ -1,0 +1,46 @@
+id: data-gov-spb-ru
+name: data.gov.spb.ru (2017-02-21)
+domain: data.gov.spb.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.gov.spb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.spb.ru/data.gov.spb.ru.7z
+  size: 2785641428
+  modified: '2017-03-21T12:02:11'
+  type: ''
+  extension: .7z
+- name: data.gov.spb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.spb.ru/data.gov.spb.ru.warc.xz
+  size: 3119772908
+  modified: '2017-02-21T15:53:01'
+  type: WARC
+  extension: .xz
+- name: data.gov.spb.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.spb.ru/data.gov.spb.ru.cdx
+  size: 40981269
+  modified: '2017-02-21T15:53:01'
+  type: CDX
+  extension: .cdx
+- name: eatlas.data.gov.spb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.spb.ru/eatlas.data.gov.spb.ru.7z
+  size: 1089145
+  modified: '2017-03-20T15:36:47'
+  type: ''
+  extension: .7z
+- name: data.gov.spb.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.spb.ru/data.gov.spb.ru.log
+  size: 142378877
+  modified: '2017-02-21T15:53:01'
+  type: ''
+  extension: .log
+- name: newdata.gov.spb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.spb.ru/newdata.gov.spb.ru.7z
+  size: 3582
+  modified: '2017-03-20T15:36:45'
+  type: ''
+  extension: .7z
+url: https://data.gov.spb.ru
+created: '2017-02-21T15:53:01'

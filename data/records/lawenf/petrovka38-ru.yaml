@@ -1,0 +1,40 @@
+id: petrovka38-ru
+name: petrovka38.ru (2014-01-25)
+domain: petrovka38.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: petrovka38.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/petrovka38.ru/petrovka38.ru.cdx.xz
+  size: 3877764
+  modified: '2014-01-25T14:55:45'
+  type: CDX
+  extension: .xz
+- name: petrovka38.ru.warc.gz.7z.003
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/petrovka38.ru/petrovka38.ru.warc.gz.7z.003
+  size: 9464470
+  modified: '2014-01-25T14:55:43'
+  type: ''
+  extension: '.003'
+- name: petrovka38.ru.warc.gz.7z.001
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/petrovka38.ru/petrovka38.ru.warc.gz.7z.001
+  size: 3221225472
+  modified: '2014-01-25T14:47:46'
+  type: ''
+  extension: '.001'
+- name: petrovka38.ru.warc.gz.7z.002
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/petrovka38.ru/petrovka38.ru.warc.gz.7z.002
+  size: 3221225472
+  modified: '2014-01-25T14:39:01'
+  type: ''
+  extension: '.002'
+- name: petrovka38.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/petrovka38.ru/petrovka38.ru.log.xz
+  size: 2960780
+  modified: '2014-01-25T14:55:49'
+  type: wpull log
+  extension: .xz
+url: https://petrovka38.ru
+created: '2014-01-25T14:39:01'

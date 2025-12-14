@@ -1,0 +1,40 @@
+id: arenda-ahml-ru-2017-05-10-6cee67b5
+name: arenda.ahml.ru (2017-05-10)
+domain: arenda.ahml.ru
+collection:
+  id: aizhk
+  slug: aizhk
+  name: АИЖК
+resources:
+- name: arenda.ahml.ru-2017-05-10-6cee67b5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/arenda.ahml.ru-2017-05-10-6cee67b5/arenda.ahml.ru-2017-05-10-6cee67b5-meta.warc.gz
+  size: 8328
+  modified: '2017-05-10T08:37:00'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/arenda.ahml.ru-2017-05-10-6cee67b5/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-05-10T08:36:59'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/arenda.ahml.ru-2017-05-10-6cee67b5/wpull.db
+  size: 46080
+  modified: '2017-05-10T08:36:59'
+  type: wpull database
+  extension: .db
+- name: arenda.ahml.ru-2017-05-10-6cee67b5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/arenda.ahml.ru-2017-05-10-6cee67b5/arenda.ahml.ru-2017-05-10-6cee67b5-00000.warc.gz
+  size: 5411497
+  modified: '2017-05-10T08:36:59'
+  type: WARC
+  extension: .warc.gz
+- name: arenda.ahml.ru-2017-05-10-6cee67b5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/arenda.ahml.ru-2017-05-10-6cee67b5/arenda.ahml.ru-2017-05-10-6cee67b5.cdx
+  size: 38408
+  modified: '2017-05-10T08:36:59'
+  type: CDX
+  extension: .cdx
+url: https://arenda.ahml.ru
+created: '2017-05-10'

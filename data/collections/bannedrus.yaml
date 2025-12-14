@@ -1,0 +1,54 @@
+id: bannedrus
+slug: bannedrus
+name: Заблокированные сайты
+num_records: 9
+records:
+- id: buran-ru
+  name: buran.ru (2015-05-06)
+  url: https://buran.ru
+  created: '2015-05-06T10:25:46'
+  domain: buran.ru
+- id: chaika-navalny-com
+  name: chaika.navalny.com (2015-12-06)
+  url: https://chaika.navalny.com
+  created: '2015-12-06T22:16:19'
+  domain: chaika.navalny.com
+- id: ej-ru
+  name: ej.ru (2014-03-15)
+  url: https://ej.ru
+  created: '2014-03-15T05:02:19'
+  domain: ej.ru
+- id: grani-ru
+  name: grani.ru (2014-03-25)
+  url: https://grani.ru
+  created: '2014-03-25T11:22:43'
+  domain: grani.ru
+- id: kasparov-ru
+  name: kasparov.ru (2014-03-14)
+  url: https://kasparov.ru
+  created: '2014-03-14T17:06:51'
+  domain: kasparov.ru
+- id: liberal-ru
+  name: liberal.ru (2015-05-27)
+  url: https://liberal.ru
+  created: '2015-05-27T17:16:53'
+  domain: liberal.ru
+- id: lurkmore-to
+  name: lurkmore.to (2014-10-07)
+  url: https://lurkmore.to
+  created: '2014-10-07T01:27:19'
+  domain: lurkmore.to
+- id: navalny-livejournal-com
+  name: navalny.livejournal.com (2014-03-25)
+  url: https://navalny.livejournal.com
+  created: '2014-03-25T11:22:49'
+  domain: navalny.livejournal.com
+- id: navalny-ru
+  name: navalny.ru (2014-03-14)
+  url: https://navalny.ru
+  created: '2014-03-14T09:17:57'
+  domain: navalny.ru
+files:
+  total_count: 36
+  total_size: 29831044420
+  directories: []

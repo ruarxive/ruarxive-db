@@ -1,0 +1,40 @@
+id: ufo-fsrar-ru-2017-05-31-c117c7ad
+name: ufo.fsrar.ru (2017-05-31)
+domain: ufo.fsrar.ru
+collection:
+  id: fsrar
+  slug: fsrar
+  name: ФСРАР
+resources:
+- name: ufo.fsrar.ru-2017-05-31-c117c7ad.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/ufo.fsrar.ru-2017-05-31-c117c7ad/ufo.fsrar.ru-2017-05-31-c117c7ad.cdx
+  size: 3245147
+  modified: '2017-06-01T12:44:31'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/ufo.fsrar.ru-2017-05-31-c117c7ad/dupes_db/data.mdb
+  size: 1863680
+  modified: '2017-06-01T12:45:23'
+  type: ''
+  extension: .mdb
+- name: ufo.fsrar.ru-2017-05-31-c117c7ad-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/ufo.fsrar.ru-2017-05-31-c117c7ad/ufo.fsrar.ru-2017-05-31-c117c7ad-00000.warc.gz
+  size: 2190859627
+  modified: '2017-06-01T12:45:23'
+  type: WARC
+  extension: .warc.gz
+- name: ufo.fsrar.ru-2017-05-31-c117c7ad-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/ufo.fsrar.ru-2017-05-31-c117c7ad/ufo.fsrar.ru-2017-05-31-c117c7ad-meta.warc.gz
+  size: 423367
+  modified: '2017-06-01T12:45:23'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/ufo.fsrar.ru-2017-05-31-c117c7ad/wpull.db
+  size: 3630080
+  modified: '2017-06-01T12:44:31'
+  type: wpull database
+  extension: .db
+url: https://ufo.fsrar.ru
+created: '2017-05-31'

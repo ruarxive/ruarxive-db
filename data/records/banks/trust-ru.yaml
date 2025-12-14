@@ -1,0 +1,58 @@
+id: trust-ru
+name: trust.ru (2013-12-18)
+domain: trust.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.trust.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.trust.ru_04012015/www.trust.ru.warc.xz
+  size: 1120876860
+  modified: '2014-12-28T21:32:24'
+  type: WARC
+  extension: .xz
+- name: www.trust.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.trust.ru_04012015/www.trust.ru.log.xz
+  size: 1479904
+  modified: '2014-12-28T21:32:24'
+  type: wpull log
+  extension: .xz
+- name: www.trust.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.trust.ru_04012015/www.trust.ru.7z
+  size: 1113034938
+  modified: '2015-01-04T18:32:15'
+  type: ''
+  extension: .7z
+- name: www.trust.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.trust.ru_04012015/www.trust.ru.cdx.xz
+  size: 3681308
+  modified: '2014-12-28T21:32:24'
+  type: CDX
+  extension: .xz
+- name: www.trust.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.trust.ru/www.trust.ru.cdx.xz
+  size: 985024
+  modified: '2013-12-18T09:50:08'
+  type: CDX
+  extension: .xz
+- name: www.trust.ru.warc.zip
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.trust.ru/www.trust.ru.warc.zip
+  size: 1694595960
+  modified: '2014-12-27T09:15:05'
+  type: ''
+  extension: .zip
+- name: www.trust.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.trust.ru/www.trust.ru.warc.xz
+  size: 656957576
+  modified: '2013-12-18T09:50:34'
+  type: WARC
+  extension: .xz
+- name: www.trust.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.trust.ru/www.trust.ru.log.xz
+  size: 451100
+  modified: '2013-12-18T09:50:06'
+  type: wpull log
+  extension: .xz
+url: https://trust.ru
+created: '2013-12-18T09:50:34'

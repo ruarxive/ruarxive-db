@@ -1,0 +1,40 @@
+id: zadachi-mccme-ru-2017-06-28-96b5aa77
+name: zadachi.mccme.ru (2017-06-28)
+domain: zadachi.mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: zadachi.mccme.ru-2017-06-28-96b5aa77-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/zadachi.mccme.ru-2017-06-28-96b5aa77/zadachi.mccme.ru-2017-06-28-96b5aa77-meta.warc.gz
+  size: 3016
+  modified: '2017-06-28T19:29:17'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/zadachi.mccme.ru-2017-06-28-96b5aa77/dupes_db/data.mdb
+  size: 20480
+  modified: '2017-06-28T19:29:15'
+  type: ''
+  extension: .mdb
+- name: zadachi.mccme.ru-2017-06-28-96b5aa77.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/zadachi.mccme.ru-2017-06-28-96b5aa77/zadachi.mccme.ru-2017-06-28-96b5aa77.cdx
+  size: 1193
+  modified: '2017-06-28T19:29:17'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/zadachi.mccme.ru-2017-06-28-96b5aa77/wpull.db
+  size: 10240
+  modified: '2017-06-28T19:29:17'
+  type: wpull database
+  extension: .db
+- name: zadachi.mccme.ru-2017-06-28-96b5aa77-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/zadachi.mccme.ru-2017-06-28-96b5aa77/zadachi.mccme.ru-2017-06-28-96b5aa77-00000.warc.gz
+  size: 35202
+  modified: '2017-06-28T19:29:17'
+  type: WARC
+  extension: .warc.gz
+url: https://zadachi.mccme.ru
+created: '2017-06-28'

@@ -1,0 +1,28 @@
+id: memory-irk-ru
+name: memory.irk.ru (2013-12-31)
+domain: memory.irk.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: memory.irk.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memory.irk.ru/memory.irk.ru.log.xz
+  size: 36720
+  modified: '2013-12-31T09:21:19'
+  type: wpull log
+  extension: .xz
+- name: memory.irk.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memory.irk.ru/memory.irk.ru.warc.xz
+  size: 639340
+  modified: '2013-12-31T09:21:20'
+  type: WARC
+  extension: .xz
+- name: memory.irk.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/memory.irk.ru/memory.irk.ru.cdx.xz
+  size: 102356
+  modified: '2013-12-31T09:21:22'
+  type: CDX
+  extension: .xz
+url: https://memory.irk.ru
+created: '2013-12-31T09:21:20'

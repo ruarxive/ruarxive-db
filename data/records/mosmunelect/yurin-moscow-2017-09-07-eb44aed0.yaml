@@ -1,0 +1,40 @@
+id: yurin-moscow-2017-09-07-eb44aed0
+name: yurin.moscow (2017-09-07)
+domain: yurin.moscow
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: yurin.moscow-2017-09-07-eb44aed0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yurin.moscow-2017-09-07-eb44aed0/yurin.moscow-2017-09-07-eb44aed0-00000.warc.gz
+  size: 4340048
+  modified: '2017-09-07T22:00:10'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yurin.moscow-2017-09-07-eb44aed0/wpull.db
+  size: 23552
+  modified: '2017-09-07T22:00:10'
+  type: wpull database
+  extension: .db
+- name: yurin.moscow-2017-09-07-eb44aed0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yurin.moscow-2017-09-07-eb44aed0/yurin.moscow-2017-09-07-eb44aed0-meta.warc.gz
+  size: 5052
+  modified: '2017-09-07T22:00:11'
+  type: WARC
+  extension: .warc.gz
+- name: yurin.moscow-2017-09-07-eb44aed0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yurin.moscow-2017-09-07-eb44aed0/yurin.moscow-2017-09-07-eb44aed0.cdx
+  size: 17082
+  modified: '2017-09-07T22:00:10'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yurin.moscow-2017-09-07-eb44aed0/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-09-07T22:00:10'
+  type: ''
+  extension: .mdb
+url: https://yurin.moscow
+created: '2017-09-07'

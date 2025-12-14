@@ -1,0 +1,40 @@
+id: educom-ru-2017-08-20-83ce7103
+name: educom.ru (2017-08-20)
+domain: educom.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: educom.ru-2017-08-20-83ce7103-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/educom.ru-2017-08-20-83ce7103/educom.ru-2017-08-20-83ce7103-meta.warc.gz
+  size: 25946
+  modified: '2017-08-20T16:31:01'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/educom.ru-2017-08-20-83ce7103/dupes_db/data.mdb
+  size: 102400
+  modified: '2017-08-20T16:30:16'
+  type: ''
+  extension: .mdb
+- name: educom.ru-2017-08-20-83ce7103-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/educom.ru-2017-08-20-83ce7103/educom.ru-2017-08-20-83ce7103-00000.warc.gz
+  size: 5646480
+  modified: '2017-08-20T16:31:00'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/educom.ru-2017-08-20-83ce7103/wpull.db
+  size: 164864
+  modified: '2017-08-20T16:31:01'
+  type: wpull database
+  extension: .db
+- name: educom.ru-2017-08-20-83ce7103.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/educom.ru-2017-08-20-83ce7103/educom.ru-2017-08-20-83ce7103.cdx
+  size: 160650
+  modified: '2017-08-20T16:31:00'
+  type: CDX
+  extension: .cdx
+url: https://educom.ru
+created: '2017-08-20'

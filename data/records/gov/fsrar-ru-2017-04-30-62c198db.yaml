@@ -1,0 +1,52 @@
+id: fsrar-ru-2017-04-30-62c198db
+name: fsrar.ru (2017-04-30)
+domain: fsrar.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fsrar.ru-2017-04-30-62c198db-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsrar.ru-2017-04-30-62c198db/www.fsrar.ru-2017-04-30-62c198db-00000.warc.gz
+  size: 1487608904
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsrar.ru-2017-04-30-62c198db/wpull.db
+  size: 3137536
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsrar.ru-2017-04-30-62c198db/dupes_db/data.mdb
+  size: 1339392
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .mdb
+- name: www.fsrar.ru-2017-04-30-62c198db.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsrar.ru-2017-04-30-62c198db/www.fsrar.ru-2017-04-30-62c198db.cdx
+  size: 2120614
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: tmp-wpull-warcsesreq-t0l5sk.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsrar.ru-2017-04-30-62c198db/temp/tmp-wpull-warcsesreq-t0l5sk.tmp
+  size: 776
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-os9ubu.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsrar.ru-2017-04-30-62c198db/temp/tmp-wpull-warc-os9ubu.log.gz
+  size: 466363
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesrsp-6i7j09.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsrar.ru-2017-04-30-62c198db/temp/tmp-wpull-warcsesrsp-6i7j09.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+url: https://fsrar.ru
+created: '2017-04-30'

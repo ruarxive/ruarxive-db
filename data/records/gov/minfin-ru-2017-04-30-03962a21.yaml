@@ -1,0 +1,64 @@
+id: minfin-ru-2017-04-30-03962a21
+name: minfin.ru (2017-04-30)
+domain: minfin.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: minfin.ru-2017-04-30-03962a21.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/minfin.ru-2017-04-30-03962a21.cdx
+  size: 359469
+  modified: '2017-04-30T08:45:37'
+  type: CDX
+  extension: .cdx
+- name: tmp-wpull-warcsesrsp-z_8e2r.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/temp/tmp-wpull-warcsesrsp-z_8e2r.tmp
+  size: 0
+  modified: '2017-04-30T08:45:38'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-blszlz.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/temp/tmp-wpull-warcsesrsp-blszlz.tmp
+  size: 0
+  modified: '2017-04-30T08:45:37'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-evvjzl.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/temp/tmp-wpull-warcsesreq-evvjzl.tmp
+  size: 2471
+  modified: '2017-04-30T08:45:38'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-6u_n_y.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/temp/tmp-wpull-warcsesreq-6u_n_y.tmp
+  size: 2474
+  modified: '2017-04-30T08:45:37'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-w2ll2j.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/temp/tmp-wpull-warc-w2ll2j.log.gz
+  size: 77187
+  modified: '2017-04-30T08:45:38'
+  type: wpull log
+  extension: .gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/wpull.db
+  size: 3537920
+  modified: '2017-04-30T08:45:38'
+  type: wpull database
+  extension: .db
+- name: minfin.ru-2017-04-30-03962a21-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/minfin.ru-2017-04-30-03962a21-00000.warc.gz
+  size: 180226801
+  modified: '2017-04-30T08:45:38'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/minfin.ru-2017-04-30-03962a21/dupes_db/data.mdb
+  size: 200704
+  modified: '2017-04-30T08:45:37'
+  type: ''
+  extension: .mdb
+url: https://minfin.ru
+created: '2017-04-30'

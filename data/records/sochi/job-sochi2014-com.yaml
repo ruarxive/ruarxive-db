@@ -1,0 +1,28 @@
+id: job-sochi2014-com
+name: job.sochi2014.com (2014-03-08)
+domain: job.sochi2014.com
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: job.sochi2014.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/job.sochi2014.com/job.sochi2014.com.cdx.xz
+  size: 1293596
+  modified: '2014-03-08T06:37:51'
+  type: CDX
+  extension: .xz
+- name: job.sochi2014.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/job.sochi2014.com/job.sochi2014.com.warc.xz
+  size: 6536560
+  modified: '2014-03-08T06:37:31'
+  type: WARC
+  extension: .xz
+- name: job.sochi2014.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/job.sochi2014.com/job.sochi2014.com.log.xz
+  size: 578684
+  modified: '2014-03-08T06:37:53'
+  type: wpull log
+  extension: .xz
+url: https://job.sochi2014.com
+created: '2014-03-08T06:37:31'

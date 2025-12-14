@@ -1,0 +1,36 @@
+id: media
+slug: media
+name: Онлайн СМИ
+num_records: 5
+records:
+- id: inrussia-com-2017-08-02-3fbf5dc4
+  name: inrussia.com (2017-08-02)
+  url: https://inrussia.com
+  created: '2017-08-02'
+  domain: inrussia.com
+- id: lysova-love-2017-05-11-f68e6dba
+  name: lysova.love (2017-05-11)
+  url: https://lysova.love
+  created: '2017-05-11'
+  domain: lysova.love
+- id: old-kronvestnik-ru
+  name: old.kronvestnik.ru (2013-11-06)
+  url: https://old.kronvestnik.ru
+  created: '2013-11-06T20:58:40'
+  domain: old.kronvestnik.ru
+- id: rusplt-ru
+  name: rusplt.ru (2014-12-07)
+  url: https://rusplt.ru
+  created: '2014-12-07T09:23:54'
+  domain: rusplt.ru
+- id: russlife-ru
+  name: russlife.ru (2017-07-05)
+  url: https://russlife.ru
+  created: '2017-07-05T20:38:30'
+  domain: russlife.ru
+files:
+  total_count: 52
+  total_size: 34144076059
+  directories:
+  - webarchive
+  - webcollect2017

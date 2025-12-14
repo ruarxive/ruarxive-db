@@ -1,0 +1,40 @@
+id: sevastopol-customs-ru-2017-05-10-44c9ee67
+name: sevastopol.customs.ru (2017-05-10)
+domain: sevastopol.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: sevastopol.customs.ru-2017-05-10-44c9ee67.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/sevastopol.customs.ru-2017-05-10-44c9ee67/sevastopol.customs.ru-2017-05-10-44c9ee67.cdx
+  size: 999
+  modified: '2017-05-10T09:20:38'
+  type: CDX
+  extension: .cdx
+- name: sevastopol.customs.ru-2017-05-10-44c9ee67-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/sevastopol.customs.ru-2017-05-10-44c9ee67/sevastopol.customs.ru-2017-05-10-44c9ee67-meta.warc.gz
+  size: 2983
+  modified: '2017-05-10T09:20:38'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/sevastopol.customs.ru-2017-05-10-44c9ee67/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-05-10T09:20:36'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/sevastopol.customs.ru-2017-05-10-44c9ee67/wpull.db
+  size: 10240
+  modified: '2017-05-10T09:20:38'
+  type: wpull database
+  extension: .db
+- name: sevastopol.customs.ru-2017-05-10-44c9ee67-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/sevastopol.customs.ru-2017-05-10-44c9ee67/sevastopol.customs.ru-2017-05-10-44c9ee67-00000.warc.gz
+  size: 9233
+  modified: '2017-05-10T09:20:38'
+  type: WARC
+  extension: .warc.gz
+url: https://sevastopol.customs.ru
+created: '2017-05-10'

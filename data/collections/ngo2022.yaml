@@ -1,0 +1,68 @@
+id: ngo2022
+slug: ngo2022
+name: НКО 2022
+created: '2022-03-25T07:16:39.000Z'
+num_records: 9
+records:
+- id: alfa-endo-ru
+  name: Альфа-Эндо
+  url: https://alfa-endo.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-28T13:23:12.000Z'
+  domain: alfa-endo.ru
+- id: baltfriends-ru
+  name: Друзья Балтии
+  url: https://baltfriends.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-25T07:17:09.000Z'
+  domain: baltfriends.ru
+- id: blago-ru
+  name: Благо.ру
+  url: https://blago.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-03-25T07:16:47.000Z'
+  domain: blago.ru
+- id: cafrussia-ru
+  name: КАФ Россия
+  url: https://cafrussia.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-25T07:16:15.000Z'
+  domain: cafrussia.ru
+- id: donatenow-ru
+  name: Программа Им Нужна Ваша Помощь (КАФ)
+  url: https://donatenow.ru/
+  status: собран
+  status_id: collected
+  created: '2022-03-28T14:31:56.000Z'
+  domain: donatenow.ru
+- id: givingtuesday-ru
+  name: Проект Щедрый вторник
+  url: https://www.givingtuesday.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-25T09:37:55.000Z'
+  domain: givingtuesday.ru
+- id: jes-education
+  name: Дистанционная школа JES!
+  status: собран
+  status_id: collected
+  created: '2022-03-28T14:32:38.000Z'
+  domain: jes.education
+- id: philanthropy-ru
+  name: Журнал Филантроп
+  url: http://philanthropy.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-03-25T09:36:31.000Z'
+  domain: philanthropy.ru
+- id: pjlibrary-ru
+  name: Пижамная библиотека
+  url: https://www.pjlibrary.ru/
+  status: собран
+  status_id: collected
+  created: '2022-03-28T13:27:54.000Z'
+  domain: pjlibrary.ru

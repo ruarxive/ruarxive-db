@@ -1,0 +1,595 @@
+id: webcollect
+slug: webcollect
+name: Архивные коллекции файлов (httrack)
+num_records: 117
+records:
+- id: 01112-ru
+  name: 01112.ru.7z (2012-10-22)
+  url: https://01112.ru.7z
+  created: '2012-10-22T09:33:57'
+  domain: 01112.ru.7z
+- id: 2004-kremlin-ru
+  name: 2004.kremlin.ru.7z (2012-10-22)
+  url: https://2004.kremlin.ru.7z
+  created: '2012-10-22T09:34:00'
+  domain: 2004.kremlin.ru.7z
+- id: 2018-minsvyaz-ru
+  name: 2018.minsvyaz.ru.7z (2013-08-27)
+  url: https://2018.minsvyaz.ru.7z
+  created: '2013-08-27T11:43:34'
+  domain: 2018.minsvyaz.ru.7z
+- id: 210-minfin-ru
+  name: 210.minfin.ru.7z (2013-09-10)
+  url: https://210.minfin.ru.7z
+  created: '2013-09-10T06:36:05'
+  domain: 210.minfin.ru.7z
+- id: a-vologda-oblast-ru
+  name: a.vologda-oblast.ru.7z (2013-08-13)
+  url: https://a.vologda-oblast.ru.7z
+  created: '2013-08-13T13:26:58'
+  domain: a.vologda-oblast.ru.7z
+- id: ach-gov-ru
+  name: ach.gov.ru.7z (2013-09-17)
+  url: https://ach.gov.ru.7z
+  created: '2013-09-17T05:49:51'
+  domain: ach.gov.ru.7z
+- id: adm-nso-ru
+  name: adm.nso.ru.7z (2012-10-22)
+  url: https://adm.nso.ru.7z
+  created: '2012-10-22T09:34:10'
+  domain: adm.nso.ru.7z
+- id: adm-yar-ru
+  name: adm.yar.ru.7z (2013-08-13)
+  url: https://adm.yar.ru.7z
+  created: '2013-08-13T13:27:54'
+  domain: adm.yar.ru.7z
+- id: ajaxy-mil-ru
+  name: ajaxy.mil.ru.7z (2012-10-22)
+  url: https://ajaxy.mil.ru.7z
+  created: '2012-10-22T09:34:50'
+  domain: ajaxy.mil.ru.7z
+- id: ar-mon-gov-ru
+  name: ar.mon.gov.ru.7z (2012-10-22)
+  url: https://ar.mon.gov.ru.7z
+  created: '2012-10-22T09:36:53'
+  domain: ar.mon.gov.ru.7z
+- id: archive-fedsfm-ru
+  name: archive.fedsfm.ru.7z (2012-10-22)
+  url: https://archive.fedsfm.ru.7z
+  created: '2012-10-22T09:38:02'
+  domain: archive.fedsfm.ru.7z
+- id: archive-minregion-ru
+  name: archive.minregion.ru.7z (2012-10-22)
+  url: https://archive.minregion.ru.7z
+  created: '2012-10-22T09:38:14'
+  domain: archive.minregion.ru.7z
+- id: award-adm-gov-ru
+  name: award.adm.gov.ru.7z (2012-10-22)
+  url: https://award.adm.gov.ru.7z
+  created: '2012-10-22T09:39:02'
+  domain: award.adm.gov.ru.7z
+- id: award-gov-ru
+  name: award.gov.ru.7z (2012-10-22)
+  url: https://award.gov.ru.7z
+  created: '2012-10-22T09:39:04'
+  domain: award.gov.ru.7z
+- id: back2russia-ru
+  name: back2russia.ru.7z (2012-10-22)
+  url: https://back2russia.ru.7z
+  created: '2012-10-22T09:39:33'
+  domain: back2russia.ru.7z
+- id: cdrom01-economy-gov-ru
+  name: cdrom01.economy.gov.ru.7z (2012-10-22)
+  url: https://cdrom01.economy.gov.ru.7z
+  created: '2012-10-22T09:42:17'
+  domain: cdrom01.economy.gov.ru.7z
+- id: contract-mil-ru
+  name: contract.mil.ru.7z (2012-10-22)
+  url: https://contract.mil.ru.7z
+  created: '2012-10-22T09:40:03'
+  domain: contract.mil.ru.7z
+- id: da-medvedev-ru
+  name: da-medvedev.ru.7z (2012-10-22)
+  url: https://da-medvedev.ru.7z
+  created: '2012-10-22T09:44:33'
+  domain: da-medvedev.ru.7z
+- id: dproos-nso-ru
+  name: dproos-nso.ru.7z (2013-08-17)
+  url: https://dproos-nso.ru.7z
+  created: '2013-08-17T13:11:04'
+  domain: dproos-nso.ru.7z
+- id: duty-mil-ru
+  name: duty.mil.ru.7z (2012-10-22)
+  url: https://duty.mil.ru.7z
+  created: '2012-10-22T09:44:57'
+  domain: duty.mil.ru.7z
+- id: edunso-ru
+  name: edunso.ru.7z (2012-10-22)
+  url: https://edunso.ru.7z
+  created: '2012-10-22T10:09:48'
+  domain: edunso.ru.7z
+- id: eu-russia-net
+  name: eu-russia.net.7z (2012-10-22)
+  url: https://eu-russia.net.7z
+  created: '2012-10-22T09:45:06'
+  domain: eu-russia.net.7z
+- id: fcsm-ru
+  name: fcsm.ru.7z (2013-08-17)
+  url: https://fcsm.ru.7z
+  created: '2013-08-17T13:17:47'
+  domain: fcsm.ru.7z
+- id: fkcb-ffms-ru
+  name: fkcb.ffms.ru.7z (2012-10-22)
+  url: https://fkcb.ffms.ru.7z
+  created: '2012-10-22T09:45:17'
+  domain: fkcb.ffms.ru.7z
+- id: fssn-ru
+  name: fssn.ru.7z (2013-08-13)
+  url: https://fssn.ru.7z
+  created: '2013-08-13T13:24:42'
+  domain: fssn.ru.7z
+- id: fssn-ruold
+  name: fssn.ru (2013-01-05)
+  url: https://fssn.ru
+  created: '2013-01-05T19:26:52'
+  domain: fssn.ru
+- id: g8finance-ru
+  name: g8finance.ru.7z (2012-10-22)
+  url: https://g8finance.ru.7z
+  created: '2012-10-22T10:45:52'
+  domain: g8finance.ru.7z
+- id: gfs-ru
+  name: gfs.ru.7z (2012-10-22)
+  url: https://gfs.ru.7z
+  created: '2012-10-22T09:45:55'
+  domain: gfs.ru.7z
+- id: gks-ru
+  name: gks.ru.7z (2013-12-21)
+  url: https://gks.ru.7z
+  created: '2013-12-21T09:39:31'
+  domain: gks.ru.7z
+- id: gov-ru
+  name: gov.ru.7z (2012-10-22)
+  url: https://gov.ru.7z
+  created: '2012-10-22T10:10:16'
+  domain: gov.ru.7z
+- id: gusp-gov-ru
+  name: gusp.gov.ru.7z (2012-10-22)
+  url: https://gusp.gov.ru.7z
+  created: '2012-10-22T10:46:01'
+  domain: gusp.gov.ru.7z
+- id: ivanskom-ru
+  name: ivanskom.ru.7z (2013-09-18)
+  url: https://ivanskom.ru.7z
+  created: '2013-09-18T22:21:58'
+  domain: ivanskom.ru.7z
+- id: kursk1943-mil-ru
+  name: kursk1943.mil.ru.7z (2012-10-22)
+  url: https://kursk1943.mil.ru.7z
+  created: '2012-10-22T09:46:17'
+  domain: kursk1943.mil.ru.7z
+- id: lentu-ru
+  name: lentu.ru.7z (2012-10-22)
+  url: https://lentu.ru.7z
+  created: '2012-10-22T09:46:40'
+  domain: lentu.ru.7z
+- id: lib-adm-gov-ru
+  name: lib.adm.gov.ru.7z (2012-10-22)
+  url: https://lib.adm.gov.ru.7z
+  created: '2012-10-22T09:46:45'
+  domain: lib.adm.gov.ru.7z
+- id: mak-ru
+  name: mak.ru.7z (2013-09-16)
+  url: https://mak.ru.7z
+  created: '2013-09-16T21:23:03'
+  domain: mak.ru.7z
+- id: maps-minregion-ru
+  name: maps.minregion.ru.7z (2012-10-22)
+  url: https://maps.minregion.ru.7z
+  created: '2012-10-22T09:46:47'
+  domain: maps.minregion.ru.7z
+- id: may9-ru
+  name: may9.ru.7z (2012-10-22)
+  url: https://may9.ru.7z
+  created: '2012-10-22T09:47:00'
+  domain: may9.ru.7z
+- id: mb-tomsk-ru
+  name: mb.tomsk.ru.7z (2013-09-23)
+  url: https://mb.tomsk.ru.7z
+  created: '2013-09-23T07:53:44'
+  domain: mb.tomsk.ru.7z
+- id: medvedev2008-ru
+  name: medvedev2008.ru.7z (2013-08-28)
+  url: https://medvedev2008.ru.7z
+  created: '2013-08-28T00:06:30'
+  domain: medvedev2008.ru.7z
+- id: memo-ru
+  name: memo.ru.7z (2010-11-05)
+  url: https://memo.ru.7z
+  created: '2010-11-05T15:01:53'
+  domain: memo.ru.7z
+- id: mfnso-ru
+  name: mfnso.ru.7z (2012-10-22)
+  url: https://mfnso.ru.7z
+  created: '2012-10-22T10:10:48'
+  domain: mfnso.ru.7z
+- id: mgdf-ru
+  name: mgdf.ru.7z (2012-10-22)
+  url: https://mgdf.ru.7z
+  created: '2012-10-22T09:47:15'
+  domain: mgdf.ru.7z
+- id: mintrans-ru8080
+  name: mintrans.ru (2013-08-13)
+  url: https://mintrans.ru
+  created: '2013-08-13T14:15:19'
+  domain: mintrans.ru
+- id: minvostokrazvitia-ru
+  name: minvostokrazvitia.ru.7z (2013-09-17)
+  url: https://minvostokrazvitia.ru.7z
+  created: '2013-09-17T19:41:43'
+  domain: minvostokrazvitia.ru.7z
+- id: mosregistr-ru
+  name: mosregistr.ru.7z (2012-10-22)
+  url: https://mosregistr.ru.7z
+  created: '2012-10-22T10:11:11'
+  domain: mosregistr.ru.7z
+- id: munition-gov-ru
+  name: munition.gov.ru.7z (2012-10-22)
+  url: https://munition.gov.ru.7z
+  created: '2012-10-22T09:47:20'
+  domain: munition.gov.ru.7z
+- id: nano-extech-ru
+  name: nano.extech.ru.7z (2012-10-22)
+  url: https://nano.extech.ru.7z
+  created: '2012-10-22T09:47:20'
+  domain: nano.extech.ru.7z
+- id: navalny-ru
+  name: navalny.ru.7z (2013-09-14)
+  url: https://navalny.ru.7z
+  created: '2013-09-14T14:11:27'
+  domain: navalny.ru.7z
+- id: niisp-ru
+  name: niisp.ru.7z (2013-09-16)
+  url: https://niisp.ru.7z
+  created: '2013-09-16T20:01:47'
+  domain: niisp.ru.7z
+- id: old-agrodv-ru
+  name: old.agrodv.ru.7z (2012-10-22)
+  url: https://old.agrodv.ru.7z
+  created: '2012-10-22T10:11:28'
+  domain: old.agrodv.ru.7z
+- id: old-belrus-ru
+  name: old.belrus.ru.7z (2013-08-17)
+  url: https://old.belrus.ru.7z
+  created: '2013-08-17T13:25:37'
+  domain: old.belrus.ru.7z
+- id: old-crc-ru
+  name: old.crc.ru.7z (2012-10-22)
+  url: https://old.crc.ru.7z
+  created: '2012-10-22T09:47:21'
+  domain: old.crc.ru.7z
+- id: old-dgp-mos-ru
+  name: old.dgp.mos.ru.7z (2013-09-10)
+  url: https://old.dgp.mos.ru.7z
+  created: '2013-09-10T07:37:43'
+  domain: old.dgp.mos.ru.7z
+- id: old-dit-mos-ru
+  name: old.dit.mos.ru.7z (2013-09-10)
+  url: https://old.dit.mos.ru.7z
+  created: '2013-09-10T09:15:34'
+  domain: old.dit.mos.ru.7z
+- id: old-e-dag-ru
+  name: old.e-dag.ru.7z (2012-10-22)
+  url: https://old.e-dag.ru.7z
+  created: '2012-10-22T09:47:29'
+  domain: old.e-dag.ru.7z
+- id: old-favt-ru
+  name: old.favt.ru.7z (2012-10-22)
+  url: https://old.favt.ru.7z
+  created: '2012-10-22T09:47:51'
+  domain: old.favt.ru.7z
+- id: old-ffms-ru
+  name: old.ffms.ru.7z (2012-10-22)
+  url: https://old.ffms.ru.7z
+  created: '2012-10-22T09:48:32'
+  domain: old.ffms.ru.7z
+- id: old-fskn-gov-ru
+  name: old.fskn.gov.ru.7z (2012-10-22)
+  url: https://old.fskn.gov.ru.7z
+  created: '2012-10-22T09:49:17'
+  domain: old.fskn.gov.ru.7z
+- id: old-gai63-ru
+  name: old.gai63.ru.7z (2013-09-10)
+  url: https://old.gai63.ru.7z
+  created: '2013-09-10T09:15:12'
+  domain: old.gai63.ru.7z
+- id: old-gsen-ru
+  name: old.gsen.ru.7z (2012-10-22)
+  url: https://old.gsen.ru.7z
+  created: '2012-10-22T09:49:39'
+  domain: old.gsen.ru.7z
+- id: old-minsvyaz-ru
+  name: old.minsvyaz.ru.7z (2013-08-13)
+  url: https://old.minsvyaz.ru.7z
+  created: '2013-08-13T13:56:14'
+  domain: old.minsvyaz.ru.7z
+- id: old-mintorg-midural-ru
+  name: old.mintorg.midural.ru.7z (2012-10-22)
+  url: https://old.mintorg.midural.ru.7z
+  created: '2012-10-22T09:52:57'
+  domain: old.mintorg.midural.ru.7z
+- id: old-mnr-gov-ru
+  name: old.mnr.gov.ru.7z (2013-08-13)
+  url: https://old.mnr.gov.ru.7z
+  created: '2013-08-13T14:04:59'
+  domain: old.mnr.gov.ru.7z
+- id: old-mon-gov-ru
+  name: old.mon.gov.ru.7z (2012-10-22)
+  url: https://old.mon.gov.ru.7z
+  created: '2012-10-22T09:55:37'
+  domain: old.mon.gov.ru.7z
+- id: old-mosmetro-ru
+  name: old.mosmetro.ru.7z (2012-10-22)
+  url: https://old.mosmetro.ru.7z
+  created: '2012-10-22T09:58:35'
+  domain: old.mosmetro.ru.7z
+- id: old-nsrd-ru
+  name: old.nsrd.ru.7z (2013-09-10)
+  url: https://old.nsrd.ru.7z
+  created: '2013-09-10T06:40:29'
+  domain: old.nsrd.ru.7z
+- id: old-obrnadzor-gov-ru
+  name: old.obrnadzor.gov.ru.7z (2012-10-22)
+  url: https://old.obrnadzor.gov.ru.7z
+  created: '2012-10-22T09:59:08'
+  domain: old.obrnadzor.gov.ru.7z
+- id: old-prokuror-tula-ru
+  name: old.prokuror-tula.ru.7z (2013-08-17)
+  url: https://old.prokuror-tula.ru.7z
+  created: '2013-08-17T13:28:08'
+  domain: old.prokuror-tula.ru.7z
+- id: old-rosgranitsa-ru
+  name: old.rosgranitsa.ru.7z (2012-10-22)
+  url: https://old.rosgranitsa.ru.7z
+  created: '2012-10-22T09:59:35'
+  domain: old.rosgranitsa.ru.7z
+- id: old-rosim-ru
+  name: old.rosim.ru.7z (2013-08-13)
+  url: https://old.rosim.ru.7z
+  created: '2013-08-13T13:31:08'
+  domain: old.rosim.ru.7z
+- id: old-rostrud-info
+  name: old.rostrud.info.7z (2012-10-22)
+  url: https://old.rostrud.info.7z
+  created: '2012-10-22T09:59:58'
+  domain: old.rostrud.info.7z
+- id: old-stavadm-ru
+  name: old.stavadm.ru.7z (2012-10-22)
+  url: https://old.stavadm.ru.7z
+  created: '2012-10-22T10:01:44'
+  domain: old.stavadm.ru.7z
+- id: old-tarif-penza-ru
+  name: old.tarif-penza.ru.7z (2012-10-22)
+  url: https://old.tarif-penza.ru.7z
+  created: '2012-10-22T10:03:42'
+  domain: old.tarif-penza.ru.7z
+- id: old-www-dumask-ru
+  name: old.www.dumask.ru.7z (2013-09-10)
+  url: https://old.www.dumask.ru.7z
+  created: '2013-09-10T19:12:04'
+  domain: old.www.dumask.ru.7z
+- id: orgdiv-adm-gov-ru
+  name: orgdiv.adm.gov.ru.7z (2012-10-22)
+  url: https://orgdiv.adm.gov.ru.7z
+  created: '2012-10-22T10:03:57'
+  domain: orgdiv.adm.gov.ru.7z
+- id: perepis-2010-ru
+  name: perepis-2010.ru.7z (2013-08-17)
+  url: https://perepis-2010.ru.7z
+  created: '2013-08-17T13:28:14'
+  domain: perepis-2010.ru.7z
+- id: perepis2002-ru
+  name: perepis2002.ru.7z (2013-08-17)
+  url: https://perepis2002.ru.7z
+  created: '2013-08-17T13:53:17'
+  domain: perepis2002.ru.7z
+- id: premier-gov-ru
+  name: premier.gov.ru.7z (2012-10-22)
+  url: https://premier.gov.ru.7z
+  created: '2012-10-22T10:05:03'
+  domain: premier.gov.ru.7z
+- id: presscenter-minsvyaz-ru
+  name: presscenter.minsvyaz.ru.7z (2013-08-27)
+  url: https://presscenter.minsvyaz.ru.7z
+  created: '2013-08-27T12:14:17'
+  domain: presscenter.minsvyaz.ru.7z
+- id: putin2012-ru
+  name: putin2012.ru.7z (2012-10-22)
+  url: https://putin2012.ru.7z
+  created: '2012-10-22T10:11:48'
+  domain: putin2012.ru.7z
+- id: rosim-penza-ru
+  name: rosim-penza.ru.7z (2013-08-13)
+  url: https://rosim-penza.ru.7z
+  created: '2013-08-13T13:43:14'
+  domain: rosim-penza.ru.7z
+- id: rosim-tambov-ru
+  name: rosim.tambov.ru.7z (2013-08-13)
+  url: https://rosim.tambov.ru.7z
+  created: '2013-08-13T13:42:58'
+  domain: rosim.tambov.ru.7z
+- id: rosim72-ru
+  name: rosim72.ru.7z (2013-08-13)
+  url: https://rosim72.ru.7z
+  created: '2013-08-13T13:43:09'
+  domain: rosim72.ru.7z
+- id: rosimomsk-narod-ru
+  name: rosimomsk.narod.ru.7z (2013-08-13)
+  url: https://rosimomsk.narod.ru.7z
+  created: '2013-08-13T13:27:49'
+  domain: rosimomsk.narod.ru.7z
+- id: roskart-rosreestr-ru
+  name: roskart.rosreestr.ru.7z (2012-10-22)
+  url: https://roskart.rosreestr.ru.7z
+  created: '2012-10-22T10:06:25'
+  domain: roskart.rosreestr.ru.7z
+- id: rosnedv-rosreestr-ru
+  name: rosnedv.rosreestr.ru.7z (2012-10-22)
+  url: https://rosnedv.rosreestr.ru.7z
+  created: '2012-10-22T10:07:01'
+  domain: rosnedv.rosreestr.ru.7z
+- id: rosohrancult-ru
+  name: rosohrancult.ru.7z (2012-10-22)
+  url: https://rosohrancult.ru.7z
+  created: '2012-10-22T10:12:31'
+  domain: rosohrancult.ru.7z
+- id: rosreg-rosreestr-ru
+  name: rosreg.rosreestr.ru.7z (2012-10-22)
+  url: https://rosreg.rosreestr.ru.7z
+  created: '2012-10-22T10:07:47'
+  domain: rosreg.rosreestr.ru.7z
+- id: rost-ru
+  name: rost.ru.7z (2012-10-22)
+  url: https://rost.ru.7z
+  created: '2012-10-22T10:08:11'
+  domain: rost.ru.7z
+- id: rpn-irkutsk-ru
+  name: rpn.irkutsk.ru.7z (2013-08-17)
+  url: https://rpn.irkutsk.ru.7z
+  created: '2013-08-17T13:33:57'
+  domain: rpn.irkutsk.ru.7z
+- id: russianlang-ru
+  name: russianlang.ru.7z (2012-10-22)
+  url: https://russianlang.ru.7z
+  created: '2012-10-22T10:08:46'
+  domain: russianlang.ru.7z
+- id: sk-kursk-ru
+  name: sk-kursk.ru.7z (2013-09-18)
+  url: https://sk-kursk.ru.7z
+  created: '2013-09-18T22:22:04'
+  domain: sk-kursk.ru.7z
+- id: skhmao-ru
+  name: skhmao.ru.7z (2013-09-17)
+  url: https://skhmao.ru.7z
+  created: '2013-09-17T19:41:45'
+  domain: skhmao.ru.7z
+- id: skpskov-ru
+  name: skpskov.ru.7z (2013-09-18)
+  url: https://skpskov.ru.7z
+  created: '2013-09-18T22:22:11'
+  domain: skpskov.ru.7z
+- id: skpw-ru
+  name: skpw.ru.7z (2013-09-16)
+  url: https://skpw.ru.7z
+  created: '2013-09-16T07:46:16'
+  domain: skpw.ru.7z
+- id: skr-tambov-ru
+  name: skr-tambov.ru.7z (2013-09-18)
+  url: https://skr-tambov.ru.7z
+  created: '2013-09-18T22:22:38'
+  domain: skr-tambov.ru.7z
+- id: sobyanin-org
+  name: sobyanin.org.7z (2013-09-14)
+  url: https://sobyanin.org.7z
+  created: '2013-09-14T05:57:48'
+  domain: sobyanin.org.7z
+- id: sovet-mil-ru
+  name: sovet.mil.ru.7z (2012-10-22)
+  url: https://sovet.mil.ru.7z
+  created: '2012-10-22T10:08:48'
+  domain: sovet.mil.ru.7z
+- id: sport-fcp-ru
+  name: sport-fcp.ru.7z (2013-08-29)
+  url: https://sport-fcp.ru.7z
+  created: '2013-08-29T11:59:16'
+  domain: sport-fcp.ru.7z
+- id: suskburyatia-ru
+  name: suskburyatia.ru.7z (2013-09-18)
+  url: https://suskburyatia.ru.7z
+  created: '2013-09-18T22:23:49'
+  domain: suskburyatia.ru.7z
+- id: svr-gov-ru
+  name: svr.gov.ru.7z (2012-10-22)
+  url: https://svr.gov.ru.7z
+  created: '2012-10-22T10:08:53'
+  domain: svr.gov.ru.7z
+- id: tfu-ru
+  name: tfu.ru.7z (2013-08-13)
+  url: https://tfu.ru.7z
+  created: '2013-08-13T13:43:01'
+  domain: tfu.ru.7z
+- id: tpu-ru
+  name: tpu.ru.7z (2013-09-23)
+  url: https://tpu.ru.7z
+  created: '2013-09-23T09:13:34'
+  domain: tpu.ru.7z
+- id: transport-spb-ru
+  name: transport.spb.ru.7z (2013-08-27)
+  url: https://transport.spb.ru.7z
+  created: '2013-08-27T11:44:12'
+  domain: transport.spb.ru.7z
+- id: tsouz-ru
+  name: tsouz.ru.7z (2013-08-17)
+  url: https://tsouz.ru.7z
+  created: '2013-08-17T13:51:12'
+  domain: tsouz.ru.7z
+- id: tsu-ru
+  name: tsu.ru.7z (2013-09-23)
+  url: https://tsu.ru.7z
+  created: '2013-09-23T15:52:55'
+  domain: tsu.ru.7z
+- id: tu-rosim-mo-ru
+  name: tu-rosim-mo.ru.7z (2013-08-13)
+  url: https://tu-rosim-mo.ru.7z
+  created: '2013-08-13T13:43:06'
+  domain: tu-rosim-mo.ru.7z
+- id: ui-mos-ru
+  name: ui.mos.ru.7z (2012-10-22)
+  url: https://ui.mos.ru.7z
+  created: '2012-10-22T10:09:04'
+  domain: ui.mos.ru.7z
+- id: uvc-mil-ru
+  name: uvc.mil.ru.7z (2012-10-22)
+  url: https://uvc.mil.ru.7z
+  created: '2012-10-22T10:09:17'
+  domain: uvc.mil.ru.7z
+- id: uvd-bel-ru
+  name: uvd-bel.ru.7z (2012-10-22)
+  url: https://uvd-bel.ru.7z
+  created: '2012-10-22T10:13:23'
+  domain: uvd-bel.ru.7z
+- id: vaomos-ru
+  name: vaomos.ru.7z (2013-08-17)
+  url: https://vaomos.ru.7z
+  created: '2013-08-17T13:34:22'
+  domain: vaomos.ru.7z
+- id: victory-mil-ru
+  name: victory.mil.ru.7z (2010-11-05)
+  url: https://victory.mil.ru.7z
+  created: '2010-11-05T14:29:13'
+  domain: victory.mil.ru.7z
+- id: w3-rfbr-ru
+  name: w3.rfbr.ru.7z (2013-08-17)
+  url: https://w3.rfbr.ru.7z
+  created: '2013-08-17T13:34:00'
+  domain: w3.rfbr.ru.7z
+- id: zhirinovskiy2012-ru
+  name: zhirinovskiy2012.ru.7z (2012-10-22)
+  url: https://zhirinovskiy2012.ru.7z
+  created: '2012-10-22T10:13:37'
+  domain: zhirinovskiy2012.ru.7z
+- id: zsuo-old-ru
+  name: zsuo-old.ru.7z (2012-10-22)
+  url: https://zsuo-old.ru.7z
+  created: '2012-10-22T10:14:27'
+  domain: zsuo-old.ru.7z
+- id: zyuganov-kprf-ru
+  name: zyuganov.kprf.ru.7z (2012-10-22)
+  url: https://zyuganov.kprf.ru.7z
+  created: '2012-10-22T10:13:26'
+  domain: zyuganov.kprf.ru.7z
+files:
+  total_count: 117
+  total_size: 42851780347
+  directories:
+  - mirrors

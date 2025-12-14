@@ -1,0 +1,285 @@
+id: mosmunelect
+slug: mosmunelect
+name: Муниципальные выборы в Москве
+num_records: 55
+records:
+- id: alexegorkin2017-wixsite-com-mysite-2017-09-07-3f9a938c
+  name: alexegorkin2017.wixsite.com-mysite (2017-09-07)
+  url: https://alexegorkin2017.wixsite.com-mysite
+  created: '2017-09-07'
+  domain: alexegorkin2017.wixsite.com-mysite
+- id: arbat-shlyapin-com-2017-09-07-bc78d082
+  name: arbat.shlyapin.com (2017-09-07)
+  url: https://arbat.shlyapin.com
+  created: '2017-09-07'
+  domain: arbat.shlyapin.com
+- id: azar2017-ru-2017-09-07-d2fd8fa7
+  name: azar2017.ru (2017-09-07)
+  url: https://azar2017.ru
+  created: '2017-09-07'
+  domain: azar2017.ru
+- id: belavskaya-ru-2017-09-07-dde27191
+  name: belavskaya.ru (2017-09-07)
+  url: https://belavskaya.ru
+  created: '2017-09-07'
+  domain: belavskaya.ru
+- id: bogorodskoe2017-ru-2017-09-07-5935bd49
+  name: bogorodskoe2017.ru (2017-09-07)
+  url: https://bogorodskoe2017.ru
+  created: '2017-09-07'
+  domain: bogorodskoe2017.ru
+- id: chukanova-info-2017-09-07-85f7f0ed
+  name: chukanova.info (2017-09-07)
+  url: https://chukanova.info
+  created: '2017-09-07'
+  domain: chukanova.info
+- id: dgorbenko-ru-2017-09-07-c8137198
+  name: dgorbenko.ru (2017-09-07)
+  url: https://dgorbenko.ru
+  created: '2017-09-07'
+  domain: dgorbenko.ru
+- id: drygaas-ru-2017-09-07-7a4a9e27
+  name: drygaas.ru (2017-09-07)
+  url: https://drygaas.ru
+  created: '2017-09-07'
+  domain: drygaas.ru
+- id: dyagilev7-ru-2017-09-07-07252135
+  name: dyagilev7.ru (2017-09-07)
+  url: https://dyagilev7.ru
+  created: '2017-09-07'
+  domain: dyagilev7.ru
+- id: elections-moscow-2017-09-07-495b3061
+  name: elections.moscow (2017-09-07)
+  url: https://elections.moscow
+  created: '2017-09-07'
+  domain: elections.moscow
+- id: galiamina-ru-2017-09-07-4ae7c6e7
+  name: galiamina.ru (2017-09-07)
+  url: https://galiamina.ru
+  created: '2017-09-07'
+  domain: galiamina.ru
+- id: hutor-info-2017-09-07-6700fd74
+  name: hutor.info (2017-09-07)
+  url: https://hutor.info
+  created: '2017-09-07'
+  domain: hutor.info
+- id: ingridapresnya-ru-2017-09-07-95644e17
+  name: ingridapresnya.ru (2017-09-07)
+  url: https://ingridapresnya.ru
+  created: '2017-09-07'
+  domain: ingridapresnya.ru
+- id: izmdep-ru-2017-09-07-d2eb6f6b
+  name: izmdep.ru (2017-09-07)
+  url: https://izmdep.ru
+  created: '2017-09-07'
+  domain: izmdep.ru
+- id: komanda2017-ru-2017-09-07-1a2e3e68
+  name: komanda2017.ru (2017-09-07)
+  url: https://komanda2017.ru
+  created: '2017-09-07'
+  domain: komanda2017.ru
+- id: konkovo2017-ru-2017-09-07-24876cb6
+  name: konkovo2017.ru (2017-09-07)
+  url: https://konkovo2017.ru
+  created: '2017-09-07'
+  domain: konkovo2017.ru
+- id: kuzminki2017-ru-2017-09-07-036745cb
+  name: kuzminki2017.ru (2017-09-07)
+  url: https://kuzminki2017.ru
+  created: '2017-09-07'
+  domain: kuzminki2017.ru
+- id: lebedev-moscow-2017-09-07-0ac25610
+  name: lebedev.moscow (2017-09-07)
+  url: https://lebedev.moscow
+  created: '2017-09-07'
+  domain: lebedev.moscow
+- id: mundep-aeroport-ru-2017-09-07-563b82f9
+  name: mundep-aeroport.ru (2017-09-07)
+  url: https://mundep-aeroport.ru
+  created: '2017-09-07'
+  domain: mundep-aeroport.ru
+- id: mundep-gudkov-ru-2017-09-07-21f3cced
+  name: mundep.gudkov.ru (2017-09-07)
+  url: https://mundep.gudkov.ru
+  created: '2017-09-07'
+  domain: mundep.gudkov.ru
+- id: myostankino-ru-2017-09-07-9e7afee4
+  name: myostankino.ru (2017-09-07)
+  url: https://myostankino.ru
+  created: '2017-09-07'
+  domain: myostankino.ru
+- id: myostankino-ru-2017-09-07-fc9a0885
+  name: myostankino.ru (2017-09-07)
+  url: https://myostankino.ru
+  created: '2017-09-07'
+  domain: myostankino.ru
+- id: nagornylife-ru-2017-09-07-64f87166
+  name: nagornylife.ru (2017-09-07)
+  url: https://nagornylife.ru
+  created: '2017-09-07'
+  domain: nagornylife.ru
+- id: narod-kandidat-org-2017-09-07-8186e5f4
+  name: narod-kandidat.org (2017-09-07)
+  url: https://narod-kandidat.org
+  created: '2017-09-07'
+  domain: narod-kandidat.org
+- id: narodnaya-org-2017-09-07-28533ef7
+  name: narodnaya.org (2017-09-07)
+  url: https://narodnaya.org
+  created: '2017-09-07'
+  domain: narodnaya.org
+- id: obruch-tk-2017-09-07-494a47b3
+  name: obruch.tk (2017-09-07)
+  url: https://obruch.tk
+  created: '2017-09-07'
+  domain: obruch.tk
+- id: omostinskaya-wixsite-com-mysite-2017-09-07-88759a07
+  name: omostinskaya.wixsite.com-mysite (2017-09-07)
+  url: https://omostinskaya.wixsite.com-mysite
+  created: '2017-09-07'
+  domain: omostinskaya.wixsite.com-mysite
+- id: otradnoe2017-info-2017-09-07-4f413fd1
+  name: otradnoe2017.info (2017-09-07)
+  url: https://otradnoe2017.info
+  created: '2017-09-07'
+  domain: otradnoe2017.info
+- id: otradnoe2017-info-2017-09-07-7c84130a
+  name: otradnoe2017.info (2017-09-07)
+  url: https://otradnoe2017.info
+  created: '2017-09-07'
+  domain: otradnoe2017.info
+- id: ramenki2017-ru-2017-09-07-e419efdc
+  name: ramenki2017.ru (2017-09-07)
+  url: https://ramenki2017.ru
+  created: '2017-09-07'
+  domain: ramenki2017.ru
+- id: razudalov-ru-2017-09-07-ad0c152a
+  name: razudalov.ru (2017-09-07)
+  url: https://razudalov.ru
+  created: '2017-09-07'
+  domain: razudalov.ru
+- id: rost-msk-tilda-ws-2017-09-07-0cecbad8
+  name: rost-msk.tilda.ws (2017-09-07)
+  url: https://rost-msk.tilda.ws
+  created: '2017-09-07'
+  domain: rost-msk.tilda.ws
+- id: s-izm-ru-2017-09-07-f063acd3
+  name: s-izm.ru (2017-09-07)
+  url: https://s-izm.ru
+  created: '2017-09-07'
+  domain: s-izm.ru
+- id: samsonsholademi-ru-2017-09-07-52e9697f
+  name: samsonsholademi.ru (2017-09-07)
+  url: https://samsonsholademi.ru
+  created: '2017-09-07'
+  domain: samsonsholademi.ru
+- id: shteyn2017-ru-2017-09-07-7dbd8115
+  name: shteyn2017.ru (2017-09-07)
+  url: https://shteyn2017.ru
+  created: '2017-09-07'
+  domain: shteyn2017.ru
+- id: sosedi-fp-ru-2017-09-07-09b1a152
+  name: sosedi-fp.ru (2017-09-07)
+  url: https://sosedi-fp.ru
+  created: '2017-09-07'
+  domain: sosedi-fp.ru
+- id: sosedideputati-ru-2017-09-07-8bffa347
+  name: sosedideputati.ru (2017-09-07)
+  url: https://sosedideputati.ru
+  created: '2017-09-07'
+  domain: sosedideputati.ru
+- id: sovet-gagarin-org-2017-09-07-c1db640f
+  name: sovet-gagarin.org (2017-09-07)
+  url: https://sovet-gagarin.org
+  created: '2017-09-07'
+  domain: sovet-gagarin.org
+- id: stepanov-life-2017-09-07-f0db9b31
+  name: stepanov.life (2017-09-07)
+  url: https://stepanov.life
+  created: '2017-09-07'
+  domain: stepanov.life
+- id: taganka2017-ru-2017-09-07-e5488c8c
+  name: taganka2017.ru (2017-09-07)
+  url: https://taganka2017.ru
+  created: '2017-09-07'
+  domain: taganka2017.ru
+- id: vuboru2017-aladina-info-2017-09-07-b1b5859f
+  name: vuboru2017.aladina.info (2017-09-07)
+  url: https://vuboru2017.aladina.info
+  created: '2017-09-07'
+  domain: vuboru2017.aladina.info
+- id: xn----7sbbrqgfnlp1a8d5a-xn--p1ai-2017-09-07-890045fc
+  name: xn----7sbbrqgfnlp1a8d5a.xn--p1ai (2017-09-07)
+  url: https://xn----7sbbrqgfnlp1a8d5a.xn--p1ai
+  created: '2017-09-07'
+  domain: xn----7sbbrqgfnlp1a8d5a.xn--p1ai
+- id: xn----7sbhwbietbbgikwpcds-xn--p1ai-2017-09-07-41dafb19
+  name: xn----7sbhwbietbbgikwpcds.xn--p1ai (2017-09-07)
+  url: https://xn----7sbhwbietbbgikwpcds.xn--p1ai
+  created: '2017-09-07'
+  domain: xn----7sbhwbietbbgikwpcds.xn--p1ai
+- id: xn--2017-43dma2cjij0b9af0v-xn--p1ai-2017-09-07-40e538c0
+  name: xn--2017-43dma2cjij0b9af0v.xn--p1ai (2017-09-07)
+  url: https://xn--2017-43dma2cjij0b9af0v.xn--p1ai
+  created: '2017-09-07'
+  domain: xn--2017-43dma2cjij0b9af0v.xn--p1ai
+- id: xn--2017-93df9fqa0hd-xn--p1ai-2017-09-07-4bee8208
+  name: xn--2017-93df9fqa0hd.xn--p1ai (2017-09-07)
+  url: https://xn--2017-93df9fqa0hd.xn--p1ai
+  created: '2017-09-07'
+  domain: xn--2017-93df9fqa0hd.xn--p1ai
+- id: xn--2017-k5dgtby-xn--p1ai-2017-09-07-362a69cc
+  name: xn--2017-k5dgtby.xn--p1ai (2017-09-07)
+  url: https://xn--2017-k5dgtby.xn--p1ai
+  created: '2017-09-07'
+  domain: xn--2017-k5dgtby.xn--p1ai
+- id: xn--80aapfilmjx-xn--p1ai-2017-09-07-e2cafc02
+  name: xn--80aapfilmjx.xn--p1ai (2017-09-07)
+  url: https://xn--80aapfilmjx.xn--p1ai
+  created: '2017-09-07'
+  domain: xn--80aapfilmjx.xn--p1ai
+- id: xn--80aeilihp4f-xn--p1ai-2017-09-07-51662bb4
+  name: xn--80aeilihp4f.xn--p1ai (2017-09-07)
+  url: https://xn--80aeilihp4f.xn--p1ai
+  created: '2017-09-07'
+  domain: xn--80aeilihp4f.xn--p1ai
+- id: xn--e1a9a-xn--80adxhks-2017-09-07-eb182ac8
+  name: xn--e1a9a.xn--80adxhks (2017-09-07)
+  url: https://xn--e1a9a.xn--80adxhks
+  created: '2017-09-07'
+  domain: xn--e1a9a.xn--80adxhks
+- id: yakimanka2017-ru-2017-09-07-d4464717
+  name: yakimanka2017.ru (2017-09-07)
+  url: https://yakimanka2017.ru
+  created: '2017-09-07'
+  domain: yakimanka2017.ru
+- id: yasenevo2-info-2017-09-07-8d821043
+  name: yasenevo2.info (2017-09-07)
+  url: https://yasenevo2.info
+  created: '2017-09-07'
+  domain: yasenevo2.info
+- id: yurin-moscow-2017-09-07-eb44aed0
+  name: yurin.moscow (2017-09-07)
+  url: https://yurin.moscow
+  created: '2017-09-07'
+  domain: yurin.moscow
+- id: zakuncevo-org-2017-09-07-35745081
+  name: zakuncevo.org (2017-09-07)
+  url: https://zakuncevo.org
+  created: '2017-09-07'
+  domain: zakuncevo.org
+- id: zmsk2017-ru-2017-09-07-dc501c14
+  name: zmsk2017.ru (2017-09-07)
+  url: https://zmsk2017.ru
+  created: '2017-09-07'
+  domain: zmsk2017.ru
+- id: zuzino-shtab-ru-2017-09-07-3a2ca67f
+  name: zuzino-shtab.ru (2017-09-07)
+  url: https://zuzino-shtab.ru
+  created: '2017-09-07'
+  domain: zuzino-shtab.ru
+files:
+  total_count: 1156
+  total_size: 11216868189
+  directories:
+  - webcollect2017

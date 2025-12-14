@@ -1,0 +1,40 @@
+id: elochki-minfin-ru-2017-05-15-b8b8b28b
+name: elochki.minfin.ru (2017-05-15)
+domain: elochki.minfin.ru
+collection:
+  id: minfin
+  slug: minfin
+  name: Министерство финансов РФ
+resources:
+- name: elochki.minfin.ru-2017-05-15-b8b8b28b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/elochki.minfin.ru-2017-05-15-b8b8b28b/elochki.minfin.ru-2017-05-15-b8b8b28b.cdx
+  size: 132354
+  modified: '2017-05-15T08:53:13'
+  type: CDX
+  extension: .cdx
+- name: elochki.minfin.ru-2017-05-15-b8b8b28b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/elochki.minfin.ru-2017-05-15-b8b8b28b/elochki.minfin.ru-2017-05-15-b8b8b28b-00000.warc.gz
+  size: 71891162
+  modified: '2017-05-15T08:53:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/elochki.minfin.ru-2017-05-15-b8b8b28b/wpull.db
+  size: 153600
+  modified: '2017-05-15T08:53:14'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/elochki.minfin.ru-2017-05-15-b8b8b28b/dupes_db/data.mdb
+  size: 102400
+  modified: '2017-05-15T08:52:54'
+  type: ''
+  extension: .mdb
+- name: elochki.minfin.ru-2017-05-15-b8b8b28b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/elochki.minfin.ru-2017-05-15-b8b8b28b/elochki.minfin.ru-2017-05-15-b8b8b28b-meta.warc.gz
+  size: 22844
+  modified: '2017-05-15T08:53:14'
+  type: WARC
+  extension: .warc.gz
+url: https://elochki.minfin.ru
+created: '2017-05-15'

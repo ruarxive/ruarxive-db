@@ -1,0 +1,40 @@
+id: fguz-tyumen-ru-2017-05-14-dad2838a
+name: fguz-tyumen.ru (2017-05-14)
+domain: fguz-tyumen.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tyumen.ru-2017-05-14-dad2838a/dupes_db/data.mdb
+  size: 1306624
+  modified: '2017-05-14T19:14:45'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tyumen.ru-2017-05-14-dad2838a/wpull.db
+  size: 4935680
+  modified: '2017-05-14T19:14:46'
+  type: wpull database
+  extension: .db
+- name: www.fguz-tyumen.ru-2017-05-14-dad2838a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tyumen.ru-2017-05-14-dad2838a/www.fguz-tyumen.ru-2017-05-14-dad2838a-meta.warc.gz
+  size: 481796
+  modified: '2017-05-14T19:14:47'
+  type: WARC
+  extension: .warc.gz
+- name: www.fguz-tyumen.ru-2017-05-14-dad2838a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tyumen.ru-2017-05-14-dad2838a/www.fguz-tyumen.ru-2017-05-14-dad2838a-00000.warc.gz
+  size: 415265002
+  modified: '2017-05-14T19:14:45'
+  type: WARC
+  extension: .warc.gz
+- name: www.fguz-tyumen.ru-2017-05-14-dad2838a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguz-tyumen.ru-2017-05-14-dad2838a/www.fguz-tyumen.ru-2017-05-14-dad2838a.cdx
+  size: 4725043
+  modified: '2017-05-14T19:14:45'
+  type: CDX
+  extension: .cdx
+url: https://fguz-tyumen.ru
+created: '2017-05-14'

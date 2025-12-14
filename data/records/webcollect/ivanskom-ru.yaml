@@ -1,0 +1,16 @@
+id: ivanskom-ru
+name: ivanskom.ru.7z (2013-09-18)
+domain: ivanskom.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: ivanskom.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/ivanskom.ru.7z
+  size: 33979954
+  modified: '2013-09-18T22:21:58'
+  type: httrack archive
+  extension: .7z
+url: https://ivanskom.ru.7z
+created: '2013-09-18T22:21:58'

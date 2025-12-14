@@ -1,0 +1,40 @@
+id: burtp-ru-2017-04-04-c620a6f7
+name: burtp.ru (2017-04-04)
+domain: burtp.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: burtp.ru-2017-04-04-c620a6f7-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/burtp.ru-2017-04-04-c620a6f7/burtp.ru-2017-04-04-c620a6f7-meta.warc.gz
+  size: 50703
+  modified: '2017-04-04T08:43:16'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/burtp.ru-2017-04-04-c620a6f7/dupes_db/data.mdb
+  size: 249856
+  modified: '2017-04-04T08:42:35'
+  type: ''
+  extension: .mdb
+- name: burtp.ru-2017-04-04-c620a6f7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/burtp.ru-2017-04-04-c620a6f7/burtp.ru-2017-04-04-c620a6f7-00000.warc.gz
+  size: 18204476
+  modified: '2017-04-04T08:43:16'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/burtp.ru-2017-04-04-c620a6f7/wpull.db
+  size: 405504
+  modified: '2017-04-04T08:43:16'
+  type: wpull database
+  extension: .db
+- name: burtp.ru-2017-04-04-c620a6f7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/burtp.ru-2017-04-04-c620a6f7/burtp.ru-2017-04-04-c620a6f7.cdx
+  size: 397767
+  modified: '2017-04-04T08:43:16'
+  type: CDX
+  extension: .cdx
+url: https://burtp.ru
+created: '2017-04-04'

@@ -1,0 +1,46 @@
+id: komitetgi-ru-2017-05-20-45505618
+name: komitetgi.ru (2017-05-20)
+domain: komitetgi.ru
+collection:
+  id: ngofunds
+  slug: ngofunds
+  name: Фонды НКО
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/komitetgi.ru-2017-05-20-45505618/dupes_db/data.mdb
+  size: 3399680
+  modified: '2017-05-21T23:08:03'
+  type: ''
+  extension: .mdb
+- name: warc-extractor.py
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/komitetgi.ru-2017-05-20-45505618/warc-extractor.py
+  size: 26744
+  modified: '2017-04-05T22:09:29'
+  type: ''
+  extension: .py
+- name: komitetgi.ru-2017-05-20-45505618-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/komitetgi.ru-2017-05-20-45505618/komitetgi.ru-2017-05-20-45505618-meta.warc.gz
+  size: 866505
+  modified: '2017-05-21T23:08:10'
+  type: WARC
+  extension: .warc.gz
+- name: komitetgi.ru-2017-05-20-45505618.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/komitetgi.ru-2017-05-20-45505618/komitetgi.ru-2017-05-20-45505618.cdx
+  size: 6024272
+  modified: '2017-05-21T23:08:09'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/komitetgi.ru-2017-05-20-45505618/wpull.db
+  size: 1113100288
+  modified: '2017-05-21T23:08:09'
+  type: wpull database
+  extension: .db
+- name: komitetgi.ru-2017-05-20-45505618-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/komitetgi.ru-2017-05-20-45505618/komitetgi.ru-2017-05-20-45505618-00000.warc.gz
+  size: 1577904090
+  modified: '2017-05-21T23:08:09'
+  type: WARC
+  extension: .warc.gz
+url: https://komitetgi.ru
+created: '2017-05-20'

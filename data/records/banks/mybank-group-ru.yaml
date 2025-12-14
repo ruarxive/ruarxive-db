@@ -1,0 +1,28 @@
+id: mybank-group-ru
+name: mybank-group.ru (2013-12-17)
+domain: mybank-group.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.mybank-group.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mybank-group.ru/www.mybank-group.ru.log.xz
+  size: 139968
+  modified: '2013-12-17T23:18:07'
+  type: wpull log
+  extension: .xz
+- name: www.mybank-group.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mybank-group.ru/www.mybank-group.ru.cdx.xz
+  size: 162544
+  modified: '2013-12-17T23:19:56'
+  type: CDX
+  extension: .xz
+- name: www.mybank-group.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mybank-group.ru/www.mybank-group.ru.warc.xz
+  size: 463469068
+  modified: '2013-12-17T23:18:18'
+  type: WARC
+  extension: .xz
+url: https://mybank-group.ru
+created: '2013-12-17T23:18:18'

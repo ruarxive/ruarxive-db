@@ -1,0 +1,40 @@
+id: eva-rsl-ru-2017-05-17-ec092329
+name: eva.rsl.ru (2017-05-17)
+domain: eva.rsl.ru
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: eva.rsl.ru-2017-05-17-ec092329.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/eva.rsl.ru-2017-05-17-ec092329/eva.rsl.ru-2017-05-17-ec092329.cdx
+  size: 14573258
+  modified: '2017-05-18T00:44:40'
+  type: CDX
+  extension: .cdx
+- name: eva.rsl.ru-2017-05-17-ec092329-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/eva.rsl.ru-2017-05-17-ec092329/eva.rsl.ru-2017-05-17-ec092329-meta.warc.gz
+  size: 1246266
+  modified: '2017-05-18T00:44:42'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/eva.rsl.ru-2017-05-17-ec092329/wpull.db
+  size: 12002304
+  modified: '2017-05-18T00:44:40'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/eva.rsl.ru-2017-05-17-ec092329/dupes_db/data.mdb
+  size: 4558848
+  modified: '2017-05-18T00:44:40'
+  type: ''
+  extension: .mdb
+- name: eva.rsl.ru-2017-05-17-ec092329-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/eva.rsl.ru-2017-05-17-ec092329/eva.rsl.ru-2017-05-17-ec092329-00000.warc.gz
+  size: 424295609
+  modified: '2017-05-18T00:44:40'
+  type: WARC
+  extension: .warc.gz
+url: https://eva.rsl.ru
+created: '2017-05-17'

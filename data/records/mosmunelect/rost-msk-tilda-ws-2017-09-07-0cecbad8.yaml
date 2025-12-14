@@ -1,0 +1,40 @@
+id: rost-msk-tilda-ws-2017-09-07-0cecbad8
+name: rost-msk.tilda.ws (2017-09-07)
+domain: rost-msk.tilda.ws
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: rost-msk.tilda.ws-2017-09-07-0cecbad8-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/rost-msk.tilda.ws-2017-09-07-0cecbad8/rost-msk.tilda.ws-2017-09-07-0cecbad8-meta.warc.gz
+  size: 10084
+  modified: '2017-09-07T22:01:24'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/rost-msk.tilda.ws-2017-09-07-0cecbad8/wpull.db
+  size: 58368
+  modified: '2017-09-07T22:01:23'
+  type: wpull database
+  extension: .db
+- name: rost-msk.tilda.ws-2017-09-07-0cecbad8.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/rost-msk.tilda.ws-2017-09-07-0cecbad8/rost-msk.tilda.ws-2017-09-07-0cecbad8.cdx
+  size: 46096
+  modified: '2017-09-07T22:01:23'
+  type: CDX
+  extension: .cdx
+- name: rost-msk.tilda.ws-2017-09-07-0cecbad8-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/rost-msk.tilda.ws-2017-09-07-0cecbad8/rost-msk.tilda.ws-2017-09-07-0cecbad8-00000.warc.gz
+  size: 3899043
+  modified: '2017-09-07T22:01:23'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/rost-msk.tilda.ws-2017-09-07-0cecbad8/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-09-07T22:01:23'
+  type: ''
+  extension: .mdb
+url: https://rost-msk.tilda.ws
+created: '2017-09-07'

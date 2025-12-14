@@ -1,0 +1,16 @@
+id: old-udms-mosreg-ru-7z
+name: old.udms.mosreg.ru.7z (2017-05-06)
+domain: old.udms.mosreg.ru.7z
+collection:
+  id: mosreg2014
+  slug: mosreg2014
+  name: Региональное правительство Москвы 2014
+resources:
+- name: old.udms.mosreg.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg2014/old.udms.mosreg.ru.7z
+  size: 121757448
+  modified: '2017-05-06T10:17:26'
+  type: ''
+  extension: .7z
+url: https://old.udms.mosreg.ru.7z
+created: '2017-05-06T10:17:26'

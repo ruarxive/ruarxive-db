@@ -1,0 +1,40 @@
+id: stepanov-life-2017-09-07-f0db9b31
+name: stepanov.life (2017-09-07)
+domain: stepanov.life
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: stepanov.life-2017-09-07-f0db9b31-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/stepanov.life-2017-09-07-f0db9b31/stepanov.life-2017-09-07-f0db9b31-00000.warc.gz
+  size: 6288
+  modified: '2017-09-07T22:59:06'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/stepanov.life-2017-09-07-f0db9b31/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-09-07T21:59:02'
+  type: ''
+  extension: .mdb
+- name: stepanov.life-2017-09-07-f0db9b31.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/stepanov.life-2017-09-07-f0db9b31/stepanov.life-2017-09-07-f0db9b31.cdx
+  size: 394
+  modified: '2017-09-07T22:29:06'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/stepanov.life-2017-09-07-f0db9b31/wpull.db
+  size: 10240
+  modified: '2017-09-07T23:14:07'
+  type: wpull database
+  extension: .db
+- name: stepanov.life-2017-09-07-f0db9b31-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/stepanov.life-2017-09-07-f0db9b31/stepanov.life-2017-09-07-f0db9b31-meta.warc.gz
+  size: 2965
+  modified: '2017-09-07T23:14:07'
+  type: WARC
+  extension: .warc.gz
+url: https://stepanov.life
+created: '2017-09-07'

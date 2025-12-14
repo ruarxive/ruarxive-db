@@ -1,0 +1,51 @@
+id: rkn-gov-ru-2017-04-06-233d0ca6
+name: rkn.gov.ru (2017-04-06)
+domain: rkn.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: rkn.gov.ru-2017-04-06-233d0ca6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rkn.gov.ru-2017-04-06-233d0ca6/rkn.gov.ru-2017-04-06-233d0ca6-meta.warc.gz
+  size: 1658291
+  modified: '2017-04-07T11:54:57'
+  type: WARC
+  extension: .warc.gz
+- name: rkn.gov.ru-2017-04-06-233d0ca6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rkn.gov.ru-2017-04-06-233d0ca6/rkn.gov.ru-2017-04-06-233d0ca6-00000.warc.gz
+  size: 5368781068
+  modified: '2017-04-07T06:42:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rkn.gov.ru-2017-04-06-233d0ca6/wpull.db
+  size: 26637312
+  modified: '2017-04-07T11:54:57'
+  type: wpull database
+  extension: .db
+- name: rkn.gov.ru-2017-04-06-233d0ca6-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rkn.gov.ru-2017-04-06-233d0ca6/rkn.gov.ru-2017-04-06-233d0ca6-00001.warc.gz
+  size: 272467887
+  modified: '2017-04-07T11:52:36'
+  type: WARC
+  extension: .warc.gz
+- name: rkn.gov.ru-2017-04-06-233d0ca6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rkn.gov.ru-2017-04-06-233d0ca6/rkn.gov.ru-2017-04-06-233d0ca6.cdx
+  size: 16521649
+  modified: '2017-04-07T11:52:36'
+  type: CDX
+  extension: .cdx
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rkn.gov.ru-2017-04-06-233d0ca6/stop
+  size: 0
+  modified: '2017-04-07T11:54:54'
+  type: ''
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rkn.gov.ru-2017-04-06-233d0ca6/dupes_db/data.mdb
+  size: 8232960
+  modified: '2017-04-07T11:52:27'
+  type: ''
+  extension: .mdb
+url: https://rkn.gov.ru
+created: '2017-04-06'

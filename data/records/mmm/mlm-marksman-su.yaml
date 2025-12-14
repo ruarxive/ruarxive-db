@@ -1,0 +1,28 @@
+id: mlm-marksman-su
+name: mlm.marksman.su (2013-10-28)
+domain: mlm.marksman.su
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: mlm.marksman.su.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mlm.marksman.su/mlm.marksman.su.log.xz
+  size: 31420
+  modified: '2013-10-28T06:14:40'
+  type: wpull log
+  extension: .xz
+- name: mlm.marksman.su.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mlm.marksman.su/mlm.marksman.su.cdx.xz
+  size: 41972
+  modified: '2013-10-28T06:14:26'
+  type: CDX
+  extension: .xz
+- name: mlm.marksman.su.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/mlm.marksman.su/mlm.marksman.su.warc.xz
+  size: 66214192
+  modified: '2013-10-28T06:14:28'
+  type: WARC
+  extension: .xz
+url: https://mlm.marksman.su
+created: '2013-10-28T06:14:28'

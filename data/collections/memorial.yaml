@@ -1,0 +1,290 @@
+id: memorial
+slug: memorial
+name: Мемориал
+num_records: 56
+records:
+- id: 1917-1991-org
+  name: 1917-1991.org (2014-08-03)
+  url: https://1917-1991.org
+  created: '2014-08-03T03:06:03'
+  domain: 1917-1991.org
+- id: arch-iofe-center-2017-06-06-e540b2ed
+  name: arch.iofe.center (2017-06-06)
+  url: https://arch.iofe.center
+  created: '2017-06-06'
+  domain: arch.iofe.center
+- id: archive-tastorona-su-2017-06-15-e8fb06cd
+  name: archive.tastorona.su (2017-06-15)
+  url: https://archive.tastorona.su
+  created: '2017-06-15'
+  domain: archive.tastorona.su
+- id: bulletin-memo-ru-2017-06-06-0b2bbae4
+  name: bulletin.memo.ru (2017-06-06)
+  url: https://bulletin.memo.ru
+  created: '2017-06-06'
+  domain: bulletin.memo.ru
+- id: cathol-memo-ru
+  name: cathol.memo.ru (2016-11-25)
+  url: https://cathol.memo.ru
+  created: '2016-11-25T18:54:50'
+  domain: cathol.memo.ru
+- id: dostup-memo-ru
+  name: dostup.memo.ru (2014-08-03)
+  url: https://dostup.memo.ru
+  created: '2014-08-03T02:53:19'
+  domain: dostup.memo.ru
+- id: ehracmos-memo-ru
+  name: ehracmos.memo.ru (2014-08-03)
+  url: https://ehracmos.memo.ru
+  created: '2014-08-03T02:58:20'
+  domain: ehracmos.memo.ru
+- id: ek12km-ru
+  name: ek12km.ru (2014-08-03)
+  url: https://ek12km.ru
+  created: '2014-08-03T02:53:43'
+  domain: ek12km.ru
+- id: ekmemo-ru-2017-06-06-5b916542
+  name: ekmemo.ru (2017-06-06)
+  url: https://ekmemo.ru
+  created: '2017-06-06'
+  domain: ekmemo.ru
+- id: ekmemorial-com
+  name: ekmemorial.com (2014-08-04)
+  url: https://ekmemorial.com
+  created: '2014-08-04T21:57:26'
+  domain: ekmemorial.com
+- id: gulagmuseum-org
+  name: gulagmuseum.org (2013-10-28)
+  url: https://gulagmuseum.org
+  created: '2013-10-28T18:23:08'
+  domain: gulagmuseum.org
+- id: histor-ipt-kt-org
+  name: histor-ipt-kt.org (2014-08-03)
+  url: https://histor-ipt-kt.org
+  created: '2014-08-03T03:23:48'
+  domain: histor-ipt-kt.org
+- id: hts-memo-ru-2017-06-15-a09ae14f
+  name: hts.memo.ru (2017-06-15)
+  url: https://hts.memo.ru
+  created: '2017-06-15'
+  domain: hts.memo.ru
+- id: kavkaz-memo-ru
+  name: kavkaz.memo.ru (2016-11-26)
+  url: https://kavkaz.memo.ru
+  created: '2016-11-26T02:02:50'
+  domain: kavkaz.memo.ru
+- id: kubanmemo-ru
+  name: kubanmemo.ru (2013-12-31)
+  url: https://kubanmemo.ru
+  created: '2013-12-31T08:31:02'
+  domain: kubanmemo.ru
+- id: lagerkolyma-narod-ru-2017-06-06-6935c274
+  name: lagerkolyma.narod.ru (2017-06-06)
+  url: https://lagerkolyma.narod.ru
+  created: '2017-06-06'
+  domain: lagerkolyma.narod.ru
+- id: lagerkolyma-narod-ru
+  name: lagerkolyma.narod.ru (2013-12-30)
+  url: https://lagerkolyma.narod.ru
+  created: '2013-12-30T12:38:12'
+  domain: lagerkolyma.narod.ru
+- id: lenmartirolog-memorial-nic-org
+  name: lenmartirolog.memorial-nic.org (2016-12-11)
+  url: https://lenmartirolog.memorial-nic.org
+  created: '2016-12-11T19:48:55'
+  domain: lenmartirolog.memorial-nic.org
+- id: lib-memo-ru
+  name: lib.memo.ru (2013-10-27)
+  url: https://lib.memo.ru
+  created: '2013-10-27T17:28:40'
+  domain: lib.memo.ru
+- id: lists-memo-ru
+  name: lists.memo.ru (2013-10-28)
+  url: https://lists.memo.ru
+  created: '2013-10-28T06:17:08'
+  domain: lists.memo.ru
+- id: listsbook-memo-ru
+  name: listsbook.memo.ru (2016-12-11)
+  url: https://listsbook.memo.ru
+  created: '2016-12-11T09:25:18'
+  domain: listsbook.memo.ru
+- id: memo-projects-livejournal-com
+  name: memo-projects.livejournal.com (2014-08-04)
+  url: https://memo-projects.livejournal.com
+  created: '2014-08-04T08:59:08'
+  domain: memo-projects.livejournal.com
+- id: memo-ru
+  name: memo.ru (2014-08-09)
+  url: https://memo.ru
+  created: '2014-08-09T01:45:33'
+  domain: memo.ru
+- id: memorial-krsk-ru-2017-06-06-74c22e22
+  name: memorial.krsk.ru (2017-06-06)
+  url: https://memorial.krsk.ru
+  created: '2017-06-06'
+  domain: memorial.krsk.ru
+- id: memorial-nic-org-2017-06-06-b5e1a01b
+  name: memorial-nic.org (2017-06-06)
+  url: https://memorial-nic.org
+  created: '2017-06-06'
+  domain: memorial-nic.org
+- id: memorial-ru
+  name: memorial.ru (2014-08-03)
+  url: https://memorial.ru
+  created: '2014-08-03T23:35:53'
+  domain: memorial.ru
+- id: memorialtula-ru-2017-06-06-e4b4bbc6
+  name: memorialtula.ru (2017-06-06)
+  url: https://memorialtula.ru
+  created: '2017-06-06'
+  domain: memorialtula.ru
+- id: memoru-irk-ru-2017-06-06-c392b81c
+  name: memoru.irk.ru (2017-06-06)
+  url: https://memoru.irk.ru
+  created: '2017-06-06'
+  domain: memoru.irk.ru
+- id: memory-irk-ru
+  name: memory.irk.ru (2013-12-31)
+  url: https://memory.irk.ru
+  created: '2013-12-31T09:21:20'
+  domain: memory.irk.ru
+- id: memory-pvost-org
+  name: memory.pvost.org (2013-12-30)
+  url: https://memory.pvost.org
+  created: '2013-12-30T12:41:03'
+  domain: memory.pvost.org
+- id: mos-memo-ru
+  name: mos.memo.ru (2013-10-23)
+  url: https://mos.memo.ru
+  created: '2013-10-23T14:07:19'
+  domain: mos.memo.ru
+- id: musei-penza-memo-org
+  name: musei.penza-memo.org (2014-08-16)
+  url: https://musei.penza-memo.org
+  created: '2014-08-16T22:29:52'
+  domain: musei.penza-memo.org
+- id: notepad-memo-ru
+  name: notepad.memo.ru (2016-11-30)
+  url: https://notepad.memo.ru
+  created: '2016-11-30T15:22:31'
+  domain: notepad.memo.ru
+- id: october29-ru
+  name: october29.ru (2014-08-03)
+  url: https://october29.ru
+  created: '2014-08-03T02:49:40'
+  domain: october29.ru
+- id: old-memo-ru-2017-06-06-d431b99f
+  name: old.memo.ru (2017-06-06)
+  url: https://old.memo.ru
+  created: '2017-06-06'
+  domain: old.memo.ru
+- id: old-memorial-nic-org
+  name: old.memorial-nic.org (2013-10-27)
+  url: https://old.memorial-nic.org
+  created: '2013-10-27T17:28:07'
+  domain: old.memorial-nic.org
+- id: omsk-memorial-ru-2017-06-06-62d3032b
+  name: omsk-memorial.ru (2017-06-06)
+  url: https://omsk-memorial.ru
+  created: '2017-06-06'
+  domain: omsk-memorial.ru
+- id: pamyat-kolymy-ucoz-ru-2017-06-06-2801a517
+  name: pamyat-kolymy.ucoz.ru (2017-06-06)
+  url: https://pamyat-kolymy.ucoz.ru
+  created: '2017-06-06'
+  domain: pamyat-kolymy.ucoz.ru
+- id: penza-memo-ru
+  name: penza.memo.ru (2014-08-03)
+  url: https://penza.memo.ru
+  created: '2014-08-03T02:47:35'
+  domain: penza.memo.ru
+- id: periodics-memo-ru-2017-06-06-87dd7ada
+  name: periodics.memo.ru (2017-06-06)
+  url: https://periodics.memo.ru
+  created: '2017-06-06'
+  domain: periodics.memo.ru
+- id: pkk-memo-ru
+  name: pkk.memo.ru (2013-10-27)
+  url: https://pkk.memo.ru
+  created: '2013-10-27T17:28:25'
+  domain: pkk.memo.ru
+- id: pmem-ru
+  name: pmem.ru (2014-08-03)
+  url: https://pmem.ru
+  created: '2014-08-03T03:48:23'
+  domain: pmem.ru
+- id: pokayanie-komi-narod-ru
+  name: pokayanie-komi.narod.ru (2014-08-03)
+  url: https://pokayanie-komi.narod.ru
+  created: '2014-08-03T02:54:19'
+  domain: pokayanie-komi.narod.ru
+- id: poslednyadres-ru-2017-06-06-af811264
+  name: poslednyadres.ru (2017-06-06)
+  url: https://poslednyadres.ru
+  created: '2017-06-06'
+  domain: poslednyadres.ru
+- id: prava-penza-memo-org
+  name: prava.penza-memo.org (2014-08-16)
+  url: https://prava.penza-memo.org
+  created: '2014-08-16T22:24:29'
+  domain: prava.penza-memo.org
+- id: rarebooks-memo-ru
+  name: rarebooks.memo.ru (2016-11-25)
+  url: https://rarebooks.memo.ru
+  created: '2016-11-25T18:40:46'
+  domain: rarebooks.memo.ru
+- id: redarm37-chat-ru
+  name: redarm37.chat.ru (2013-12-30)
+  url: https://redarm37.chat.ru
+  created: '2013-12-30T12:41:32'
+  domain: redarm37.chat.ru
+- id: refugee-memo-ru
+  name: refugee.memo.ru (2014-08-08)
+  url: https://refugee.memo.ru
+  created: '2014-08-08T08:54:44'
+  domain: refugee.memo.ru
+- id: samizdat-memo-ru
+  name: samizdat.memo.ru (2016-11-26)
+  url: https://samizdat.memo.ru
+  created: '2016-11-26T02:06:42'
+  domain: samizdat.memo.ru
+- id: sledturmnkvd-info
+  name: sledturmnkvd.info (2014-08-03)
+  url: https://sledturmnkvd.info
+  created: '2014-08-03T03:11:35'
+  domain: sledturmnkvd.info
+- id: socialist-memo-ru
+  name: socialist.memo.ru (2013-10-28)
+  url: https://socialist.memo.ru
+  created: '2013-10-28T06:23:13'
+  domain: socialist.memo.ru
+- id: stalin-memo-ru
+  name: stalin.memo.ru (2013-10-21)
+  url: https://stalin.memo.ru
+  created: '2013-10-21T18:14:58'
+  domain: stalin.memo.ru
+- id: tastorona-su-2017-06-15-b370c7c6
+  name: tastorona.su (2017-06-15)
+  url: https://tastorona.su
+  created: '2017-06-15'
+  domain: tastorona.su
+- id: topos-memo-ru
+  name: topos.memo.ru (2016-11-25)
+  url: https://topos.memo.ru
+  created: '2016-11-25T23:35:35'
+  domain: topos.memo.ru
+- id: urokiistorii-ru
+  name: urokiistorii.ru (2015-04-12)
+  url: https://urokiistorii.ru
+  created: '2015-04-12T09:48:52'
+  domain: urokiistorii.ru
+- id: visz-nlr-ru
+  name: visz.nlr.ru (2013-12-31)
+  url: https://visz.nlr.ru
+  created: '2013-12-31T09:09:11'
+  domain: visz.nlr.ru
+files:
+  total_count: 522
+  total_size: 35609041500
+  directories:
+  - webcollect2017

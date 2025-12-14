@@ -1,0 +1,40 @@
+id: perspektivafund-ru-2017-04-13-c6372913
+name: perspektivafund.ru (2017-04-13)
+domain: perspektivafund.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: perspektivafund.ru-2017-04-13-c6372913.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/perspektivafund.ru-2017-04-13-c6372913/perspektivafund.ru-2017-04-13-c6372913.cdx
+  size: 108454
+  modified: '2017-04-13T13:08:15'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/perspektivafund.ru-2017-04-13-c6372913/dupes_db/data.mdb
+  size: 106496
+  modified: '2017-04-13T13:08:15'
+  type: ''
+  extension: .mdb
+- name: perspektivafund.ru-2017-04-13-c6372913-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/perspektivafund.ru-2017-04-13-c6372913/perspektivafund.ru-2017-04-13-c6372913-meta.warc.gz
+  size: 16985
+  modified: '2017-04-13T13:08:15'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/perspektivafund.ru-2017-04-13-c6372913/wpull.db
+  size: 140288
+  modified: '2017-04-13T13:08:15'
+  type: wpull database
+  extension: .db
+- name: perspektivafund.ru-2017-04-13-c6372913-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/perspektivafund.ru-2017-04-13-c6372913/perspektivafund.ru-2017-04-13-c6372913-00000.warc.gz
+  size: 14351968
+  modified: '2017-04-13T13:08:15'
+  type: WARC
+  extension: .warc.gz
+url: https://perspektivafund.ru
+created: '2017-04-13'

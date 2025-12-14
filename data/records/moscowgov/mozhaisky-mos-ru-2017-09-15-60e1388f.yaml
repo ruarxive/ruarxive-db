@@ -1,0 +1,46 @@
+id: mozhaisky-mos-ru-2017-09-15-60e1388f
+name: mozhaisky.mos.ru (2017-09-15)
+domain: mozhaisky.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: mozhaisky.mos.ru-2017-09-15-60e1388f-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mozhaisky.mos.ru-2017-09-15-60e1388f/mozhaisky.mos.ru-2017-09-15-60e1388f-00001.warc.gz
+  size: 1697405519
+  modified: '2017-09-17T09:37:08'
+  type: WARC
+  extension: .warc.gz
+- name: mozhaisky.mos.ru-2017-09-15-60e1388f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mozhaisky.mos.ru-2017-09-15-60e1388f/mozhaisky.mos.ru-2017-09-15-60e1388f-00000.warc.gz
+  size: 5371302308
+  modified: '2017-09-16T22:04:53'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mozhaisky.mos.ru-2017-09-15-60e1388f/wpull.db
+  size: 12974080
+  modified: '2017-09-17T09:37:14'
+  type: wpull database
+  extension: .db
+- name: mozhaisky.mos.ru-2017-09-15-60e1388f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mozhaisky.mos.ru-2017-09-15-60e1388f/mozhaisky.mos.ru-2017-09-15-60e1388f-meta.warc.gz
+  size: 1469330
+  modified: '2017-09-17T09:37:23'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mozhaisky.mos.ru-2017-09-15-60e1388f/dupes_db/data.mdb
+  size: 5955584
+  modified: '2017-09-17T09:37:09'
+  type: ''
+  extension: .mdb
+- name: mozhaisky.mos.ru-2017-09-15-60e1388f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/mozhaisky.mos.ru-2017-09-15-60e1388f/mozhaisky.mos.ru-2017-09-15-60e1388f.cdx
+  size: 10497877
+  modified: '2017-09-17T09:37:08'
+  type: CDX
+  extension: .cdx
+url: https://mozhaisky.mos.ru
+created: '2017-09-15'

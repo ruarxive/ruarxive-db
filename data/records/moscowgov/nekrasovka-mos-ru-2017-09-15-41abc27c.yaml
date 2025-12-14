@@ -1,0 +1,40 @@
+id: nekrasovka-mos-ru-2017-09-15-41abc27c
+name: nekrasovka.mos.ru (2017-09-15)
+domain: nekrasovka.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: nekrasovka.mos.ru-2017-09-15-41abc27c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nekrasovka.mos.ru-2017-09-15-41abc27c/nekrasovka.mos.ru-2017-09-15-41abc27c-00000.warc.gz
+  size: 2601736654
+  modified: '2017-09-17T06:12:57'
+  type: WARC
+  extension: .warc.gz
+- name: nekrasovka.mos.ru-2017-09-15-41abc27c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nekrasovka.mos.ru-2017-09-15-41abc27c/nekrasovka.mos.ru-2017-09-15-41abc27c-meta.warc.gz
+  size: 1076511
+  modified: '2017-09-17T06:13:06'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nekrasovka.mos.ru-2017-09-15-41abc27c/dupes_db/data.mdb
+  size: 4202496
+  modified: '2017-09-17T06:12:50'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nekrasovka.mos.ru-2017-09-15-41abc27c/wpull.db
+  size: 9789440
+  modified: '2017-09-17T06:12:58'
+  type: wpull database
+  extension: .db
+- name: nekrasovka.mos.ru-2017-09-15-41abc27c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nekrasovka.mos.ru-2017-09-15-41abc27c/nekrasovka.mos.ru-2017-09-15-41abc27c.cdx
+  size: 7729985
+  modified: '2017-09-17T06:12:57'
+  type: CDX
+  extension: .cdx
+url: https://nekrasovka.mos.ru
+created: '2017-09-15'

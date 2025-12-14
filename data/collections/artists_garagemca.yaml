@@ -1,0 +1,69 @@
+id: artists_garagemca
+slug: artists_garagemca
+name: Артисты
+created: '2022-03-29T16:19:40.000Z'
+num_records: 9
+records:
+- id: chtodelat-org
+  name: Сайт группы “Что делать”
+  url: https://chtodelat.org/?lang=ru
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: chtodelat.org
+- id: citizen-ka-livejournal-com
+  name: ЖЖ Оли Данилкиной
+  url: https://citizen-ka.livejournal.com/tag/%D1%84%D0%BE%D1%82%D0%BE
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: citizen-ka.livejournal.com
+- id: nofixedpoints-com
+  name: Сайт исследовательницы Виты Хлоповой, посвященный современной хореографии
+  url: https://nofixedpoints.com/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: nofixedpoints.com
+- id: osmopolis-ru
+  name: Сайт Анатолия Осмоловского
+  url: http://osmopolis.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: osmopolis.ru
+- id: prigov-ru
+  name: Сайт художника и поэта Дмитрия Александровича Пригова
+  url: http://prigov.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: prigov.ru
+- id: roomfor-ru
+  name: 'Сайт Кати Ганюшиной и Ани Кравченко, посвященный современному танцу: '
+  url: http://roomfor.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: roomfor.ru
+- id: sigutin-ru
+  name: Сайт художника Александра Сигутина
+  url: 'http://sigutin.ru/ '
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: sigutin.ru
+- id: vadimzakharov-com
+  name: Сайт художника Вадима Захарова
+  url: https://www.vadimzakharov.com/moscow-conceptualism-website
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: vadimzakharov.com
+- id: youtube-com
+  name: Youtube-канал с видеоархивом перформансов Кати Ганюшиной и Ани Кравченко
+  url: https://www.youtube.com/channel/UCAgfMmqI-8JmopPZKs7JpmA/featured
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: youtube.com

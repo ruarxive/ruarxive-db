@@ -1,0 +1,34 @@
+id: sportsovet-ru
+name: sportsovet.ru (2017-03-22)
+domain: sportsovet.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.sportsovet.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.sportsovet.ru/www.sportsovet.ru.log
+  size: 403314
+  modified: '2017-03-22T06:26:20'
+  type: ''
+  extension: .log
+- name: www.sportsovet.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.sportsovet.ru/www.sportsovet.ru.7z
+  size: 164972349
+  modified: '2017-03-24T03:38:56'
+  type: ''
+  extension: .7z
+- name: www.sportsovet.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.sportsovet.ru/www.sportsovet.ru.cdx
+  size: 71042
+  modified: '2017-03-22T06:26:20'
+  type: CDX
+  extension: .cdx
+- name: www.sportsovet.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.sportsovet.ru/www.sportsovet.ru.warc.xz
+  size: 163855784
+  modified: '2017-03-22T06:26:20'
+  type: WARC
+  extension: .xz
+url: https://sportsovet.ru
+created: '2017-03-22T06:26:20'

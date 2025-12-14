@@ -1,0 +1,34 @@
+id: venets-bank-ru
+name: venets-bank.ru (2014-05-10)
+domain: venets-bank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.venets-bank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.venets-bank.ru/www.venets-bank.ru.log.xz
+  size: 34368
+  modified: '2014-05-10T23:40:50'
+  type: wpull log
+  extension: .xz
+- name: www.venets-bank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.venets-bank.ru/www.venets-bank.ru.7z
+  size: 92352690
+  modified: '2014-08-20T09:38:52'
+  type: ''
+  extension: .7z
+- name: www.venets-bank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.venets-bank.ru/www.venets-bank.ru.warc.xz
+  size: 91374984
+  modified: '2014-05-10T23:40:50'
+  type: WARC
+  extension: .xz
+- name: www.venets-bank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.venets-bank.ru/www.venets-bank.ru.cdx.xz
+  size: 46260
+  modified: '2014-05-10T23:40:50'
+  type: CDX
+  extension: .xz
+url: https://venets-bank.ru
+created: '2014-05-10T23:40:50'

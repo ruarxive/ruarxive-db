@@ -1,0 +1,46 @@
+id: uvao-mos-ru-2017-08-20-326cf8ab
+name: uvao.mos.ru (2017-08-20)
+domain: uvao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: uvao.mos.ru-2017-08-20-326cf8ab-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uvao.mos.ru-2017-08-20-326cf8ab/uvao.mos.ru-2017-08-20-326cf8ab-meta.warc.gz
+  size: 2724072
+  modified: '2017-08-24T00:46:34'
+  type: WARC
+  extension: .warc.gz
+- name: uvao.mos.ru-2017-08-20-326cf8ab-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uvao.mos.ru-2017-08-20-326cf8ab/uvao.mos.ru-2017-08-20-326cf8ab-00000.warc.gz
+  size: 5368795123
+  modified: '2017-08-22T20:05:41'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uvao.mos.ru-2017-08-20-326cf8ab/dupes_db/data.mdb
+  size: 11337728
+  modified: '2017-08-23T23:59:21'
+  type: ''
+  extension: .mdb
+- name: uvao.mos.ru-2017-08-20-326cf8ab-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uvao.mos.ru-2017-08-20-326cf8ab/uvao.mos.ru-2017-08-20-326cf8ab-00001.warc.gz
+  size: 1850218526
+  modified: '2017-08-24T00:46:31'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uvao.mos.ru-2017-08-20-326cf8ab/wpull.db
+  size: 51212288
+  modified: '2017-08-24T00:46:31'
+  type: wpull database
+  extension: .db
+- name: uvao.mos.ru-2017-08-20-326cf8ab.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uvao.mos.ru-2017-08-20-326cf8ab/uvao.mos.ru-2017-08-20-326cf8ab.cdx
+  size: 20749722
+  modified: '2017-08-24T00:46:31'
+  type: CDX
+  extension: .cdx
+url: https://uvao.mos.ru
+created: '2017-08-20'

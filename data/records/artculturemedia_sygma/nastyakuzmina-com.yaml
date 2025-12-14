@@ -1,0 +1,29 @@
+id: nastyakuzmina-com
+name: Анастасия Кузьмина
+url: https://www.nastyakuzmina.com/
+domain: nastyakuzmina.com
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-03-30T12:07:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт портфолио
+resource_type_id: portfolio
+reason: Сайт-портфолио российской художницы Анастасии Кузьминой. Внешний запрос
+reason_id: external-request-14
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: средний
+resources:
+- type: WARC
+  name: nastyakuzmina.com.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/nastyakuzmina.com/nastyakuzmina.com.warc.gz

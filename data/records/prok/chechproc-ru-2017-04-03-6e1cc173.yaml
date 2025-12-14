@@ -1,0 +1,40 @@
+id: chechproc-ru-2017-04-03-6e1cc173
+name: chechproc.ru (2017-04-03)
+domain: chechproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chechproc.ru-2017-04-03-6e1cc173/wpull.db
+  size: 2499584
+  modified: '2017-04-03T18:55:54'
+  type: wpull database
+  extension: .db
+- name: www.chechproc.ru-2017-04-03-6e1cc173.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chechproc.ru-2017-04-03-6e1cc173/www.chechproc.ru-2017-04-03-6e1cc173.cdx
+  size: 2380464
+  modified: '2017-04-03T18:55:53'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chechproc.ru-2017-04-03-6e1cc173/dupes_db/data.mdb
+  size: 1441792
+  modified: '2017-04-03T18:55:53'
+  type: ''
+  extension: .mdb
+- name: www.chechproc.ru-2017-04-03-6e1cc173-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chechproc.ru-2017-04-03-6e1cc173/www.chechproc.ru-2017-04-03-6e1cc173-meta.warc.gz
+  size: 308897
+  modified: '2017-04-03T18:55:54'
+  type: WARC
+  extension: .warc.gz
+- name: www.chechproc.ru-2017-04-03-6e1cc173-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.chechproc.ru-2017-04-03-6e1cc173/www.chechproc.ru-2017-04-03-6e1cc173-00000.warc.gz
+  size: 403568675
+  modified: '2017-04-03T18:55:53'
+  type: WARC
+  extension: .warc.gz
+url: https://chechproc.ru
+created: '2017-04-03'

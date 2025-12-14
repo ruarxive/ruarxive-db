@@ -1,0 +1,40 @@
+id: budcodex-ru-2017-05-15-f3d19334
+name: budcodex.ru (2017-05-15)
+domain: budcodex.ru
+collection:
+  id: minfin
+  slug: minfin
+  name: Министерство финансов РФ
+resources:
+- name: budcodex.ru-2017-05-15-f3d19334-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budcodex.ru-2017-05-15-f3d19334/budcodex.ru-2017-05-15-f3d19334-00000.warc.gz
+  size: 46701568
+  modified: '2017-05-15T09:32:23'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budcodex.ru-2017-05-15-f3d19334/dupes_db/data.mdb
+  size: 770048
+  modified: '2017-05-15T09:32:23'
+  type: ''
+  extension: .mdb
+- name: budcodex.ru-2017-05-15-f3d19334-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budcodex.ru-2017-05-15-f3d19334/budcodex.ru-2017-05-15-f3d19334-meta.warc.gz
+  size: 183075
+  modified: '2017-05-15T09:32:24'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budcodex.ru-2017-05-15-f3d19334/wpull.db
+  size: 1741824
+  modified: '2017-05-15T09:32:24'
+  type: wpull database
+  extension: .db
+- name: budcodex.ru-2017-05-15-f3d19334.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minfin/budcodex.ru-2017-05-15-f3d19334/budcodex.ru-2017-05-15-f3d19334.cdx
+  size: 1645398
+  modified: '2017-05-15T09:32:23'
+  type: CDX
+  extension: .cdx
+url: https://budcodex.ru
+created: '2017-05-15'

@@ -1,0 +1,46 @@
+id: inmsk-ru
+name: inmsk.ru (2013-12-23)
+domain: inmsk.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: inmsk.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/inmsk.ru/inmsk.ru.log.xz
+  size: 23761892
+  modified: '2014-03-20T13:32:13'
+  type: wpull log
+  extension: .xz
+- name: inmsk.ru.warc.srep
+  url: https://cdn.ruarxive.org/public/webcollect/ria/inmsk.ru/inmsk.ru.warc.srep
+  size: 11704873698
+  modified: '2014-08-19T00:10:07'
+  type: ''
+  extension: .srep
+- name: inmsk.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/inmsk.ru/inmsk.ru.cdx.xz
+  size: 42524664
+  modified: '2014-03-20T13:32:06'
+  type: CDX
+  extension: .xz
+- name: www.inmsk.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.inmsk.ru/www.inmsk.ru.log.xz
+  size: 489732
+  modified: '2013-12-23T08:16:48'
+  type: wpull log
+  extension: .xz
+- name: www.inmsk.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.inmsk.ru/www.inmsk.ru.cdx.xz
+  size: 926912
+  modified: '2013-12-23T08:16:55'
+  type: CDX
+  extension: .xz
+- name: www.inmsk.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.inmsk.ru/www.inmsk.ru.warc.xz
+  size: 111677508
+  modified: '2013-12-23T08:17:01'
+  type: WARC
+  extension: .xz
+url: https://inmsk.ru
+created: '2013-12-23T08:17:01'

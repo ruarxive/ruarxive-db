@@ -1,0 +1,28 @@
+id: blogsochi-ru
+name: blogsochi.ru (2014-02-01)
+domain: blogsochi.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: www.blogsochi.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.blogsochi.ru/www.blogsochi.ru.cdx.xz
+  size: 1707688
+  modified: '2014-02-01T10:57:33'
+  type: CDX
+  extension: .xz
+- name: www.blogsochi.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.blogsochi.ru/www.blogsochi.ru.log.xz
+  size: 1053152
+  modified: '2014-02-01T10:57:28'
+  type: wpull log
+  extension: .xz
+- name: www.blogsochi.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.blogsochi.ru/www.blogsochi.ru.warc.xz
+  size: 405689896
+  modified: '2014-02-01T10:57:51'
+  type: WARC
+  extension: .xz
+url: https://blogsochi.ru
+created: '2014-02-01T10:57:51'

@@ -1,0 +1,40 @@
+id: sevproc-ru-2017-04-03-bdec410b
+name: sevproc.ru (2017-04-03)
+domain: sevproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: sevproc.ru-2017-04-03-bdec410b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/sevproc.ru-2017-04-03-bdec410b/sevproc.ru-2017-04-03-bdec410b.cdx
+  size: 2240337
+  modified: '2017-04-03T19:06:39'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/sevproc.ru-2017-04-03-bdec410b/wpull.db
+  size: 2675712
+  modified: '2017-04-03T19:06:40'
+  type: wpull database
+  extension: .db
+- name: sevproc.ru-2017-04-03-bdec410b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/sevproc.ru-2017-04-03-bdec410b/sevproc.ru-2017-04-03-bdec410b-00000.warc.gz
+  size: 521181918
+  modified: '2017-04-03T19:06:39'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/sevproc.ru-2017-04-03-bdec410b/dupes_db/data.mdb
+  size: 1421312
+  modified: '2017-04-03T19:06:39'
+  type: ''
+  extension: .mdb
+- name: sevproc.ru-2017-04-03-bdec410b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/sevproc.ru-2017-04-03-bdec410b/sevproc.ru-2017-04-03-bdec410b-meta.warc.gz
+  size: 334288
+  modified: '2017-04-03T19:06:40'
+  type: WARC
+  extension: .warc.gz
+url: https://sevproc.ru
+created: '2017-04-03'

@@ -1,0 +1,40 @@
+id: chukanova-info-2017-09-07-85f7f0ed
+name: chukanova.info (2017-09-07)
+domain: chukanova.info
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: chukanova.info-2017-09-07-85f7f0ed-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/chukanova.info-2017-09-07-85f7f0ed/chukanova.info-2017-09-07-85f7f0ed-meta.warc.gz
+  size: 79834
+  modified: '2017-09-07T22:31:33'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/chukanova.info-2017-09-07-85f7f0ed/wpull.db
+  size: 1042432
+  modified: '2017-09-07T22:31:33'
+  type: wpull database
+  extension: .db
+- name: chukanova.info-2017-09-07-85f7f0ed-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/chukanova.info-2017-09-07-85f7f0ed/chukanova.info-2017-09-07-85f7f0ed-00000.warc.gz
+  size: 252656730
+  modified: '2017-09-07T22:31:32'
+  type: WARC
+  extension: .warc.gz
+- name: chukanova.info-2017-09-07-85f7f0ed.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/chukanova.info-2017-09-07-85f7f0ed/chukanova.info-2017-09-07-85f7f0ed.cdx
+  size: 624307
+  modified: '2017-09-07T22:31:32'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/chukanova.info-2017-09-07-85f7f0ed/dupes_db/data.mdb
+  size: 425984
+  modified: '2017-09-07T22:31:31'
+  type: ''
+  extension: .mdb
+url: https://chukanova.info
+created: '2017-09-07'

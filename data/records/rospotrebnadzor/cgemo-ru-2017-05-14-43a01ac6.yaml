@@ -1,0 +1,40 @@
+id: cgemo-ru-2017-05-14-43a01ac6
+name: cgemo.ru (2017-05-14)
+domain: cgemo.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgemo.ru-2017-05-14-43a01ac6/dupes_db/data.mdb
+  size: 110592
+  modified: '2017-05-14T16:25:50'
+  type: ''
+  extension: .mdb
+- name: cgemo.ru-2017-05-14-43a01ac6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgemo.ru-2017-05-14-43a01ac6/cgemo.ru-2017-05-14-43a01ac6-00000.warc.gz
+  size: 151433743
+  modified: '2017-05-14T16:25:50'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgemo.ru-2017-05-14-43a01ac6/wpull.db
+  size: 135168
+  modified: '2017-05-14T16:25:50'
+  type: wpull database
+  extension: .db
+- name: cgemo.ru-2017-05-14-43a01ac6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgemo.ru-2017-05-14-43a01ac6/cgemo.ru-2017-05-14-43a01ac6.cdx
+  size: 139267
+  modified: '2017-05-14T16:25:50'
+  type: CDX
+  extension: .cdx
+- name: cgemo.ru-2017-05-14-43a01ac6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/cgemo.ru-2017-05-14-43a01ac6/cgemo.ru-2017-05-14-43a01ac6-meta.warc.gz
+  size: 23796
+  modified: '2017-05-14T16:25:51'
+  type: WARC
+  extension: .warc.gz
+url: https://cgemo.ru
+created: '2017-05-14'

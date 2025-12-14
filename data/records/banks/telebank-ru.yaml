@@ -1,0 +1,34 @@
+id: telebank-ru
+name: telebank.ru (2014-05-15)
+domain: telebank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.telebank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.telebank.ru/www.telebank.ru.7z
+  size: 94675
+  modified: '2014-08-20T01:03:13'
+  type: ''
+  extension: .7z
+- name: www.telebank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.telebank.ru/www.telebank.ru.cdx.xz
+  size: 3976
+  modified: '2014-05-15T15:17:06'
+  type: CDX
+  extension: .xz
+- name: www.telebank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.telebank.ru/www.telebank.ru.log.xz
+  size: 3048
+  modified: '2014-05-15T15:17:06'
+  type: wpull log
+  extension: .xz
+- name: www.telebank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.telebank.ru/www.telebank.ru.warc.xz
+  size: 108404
+  modified: '2014-05-15T15:17:06'
+  type: WARC
+  extension: .xz
+url: https://telebank.ru
+created: '2014-05-15T15:17:06'

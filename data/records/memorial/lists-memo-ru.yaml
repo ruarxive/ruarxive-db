@@ -1,0 +1,28 @@
+id: lists-memo-ru
+name: lists.memo.ru (2013-10-28)
+domain: lists.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: lists.memo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lists.memo.ru/lists.memo.ru.cdx.xz
+  size: 1000968
+  modified: '2013-10-28T06:17:43'
+  type: CDX
+  extension: .xz
+- name: lists.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lists.memo.ru/lists.memo.ru.warc.xz
+  size: 94213436
+  modified: '2013-10-28T06:17:08'
+  type: WARC
+  extension: .xz
+- name: lists.memo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/lists.memo.ru/lists.memo.ru.log.xz
+  size: 564352
+  modified: '2013-10-28T06:16:38'
+  type: wpull log
+  extension: .xz
+url: https://lists.memo.ru
+created: '2013-10-28T06:17:08'

@@ -1,0 +1,40 @@
+id: amom-mos-ru-2017-09-15-60fafb5b
+name: amom.mos.ru (2017-09-15)
+domain: amom.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/amom.mos.ru-2017-09-15-60fafb5b/dupes_db/data.mdb
+  size: 1732608
+  modified: '2017-09-16T00:22:46'
+  type: ''
+  extension: .mdb
+- name: amom.mos.ru-2017-09-15-60fafb5b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/amom.mos.ru-2017-09-15-60fafb5b/amom.mos.ru-2017-09-15-60fafb5b-00000.warc.gz
+  size: 2520027875
+  modified: '2017-09-16T00:23:28'
+  type: WARC
+  extension: .warc.gz
+- name: amom.mos.ru-2017-09-15-60fafb5b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/amom.mos.ru-2017-09-15-60fafb5b/amom.mos.ru-2017-09-15-60fafb5b.cdx
+  size: 3290614
+  modified: '2017-09-16T00:23:28'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/amom.mos.ru-2017-09-15-60fafb5b/wpull.db
+  size: 3901440
+  modified: '2017-09-16T00:23:28'
+  type: wpull database
+  extension: .db
+- name: amom.mos.ru-2017-09-15-60fafb5b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/amom.mos.ru-2017-09-15-60fafb5b/amom.mos.ru-2017-09-15-60fafb5b-meta.warc.gz
+  size: 413373
+  modified: '2017-09-16T00:23:33'
+  type: WARC
+  extension: .warc.gz
+url: https://amom.mos.ru
+created: '2017-09-15'

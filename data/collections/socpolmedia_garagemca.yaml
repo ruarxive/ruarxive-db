@@ -1,0 +1,34 @@
+id: socpolmedia_garagemca
+slug: socpolmedia_garagemca
+name: Социальные и политические СМИ
+created: '2022-03-29T16:19:40.000Z'
+num_records: 4
+records:
+- id: avtonom-org
+  name: Автономное действие
+  url: https://avtonom.org/library
+  status: запланирован
+  status_id: planned
+  created: '2022-03-29T16:16:48.000Z'
+  domain: avtonom.org
+- id: gefter-ru
+  name: Гефтер
+  url: http://gefter.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: gefter.ru
+- id: rabkor-ru
+  name: Журнал Рабкор
+  url: https://rabkor.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: rabkor.ru
+- id: ttolk-ru
+  name: Блог Толкователь
+  url: http://ttolk.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: ttolk.ru

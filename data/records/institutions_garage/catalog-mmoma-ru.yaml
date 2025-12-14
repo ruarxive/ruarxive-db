@@ -1,0 +1,19 @@
+id: catalog-mmoma-ru
+name: Раздел сайта MMOMA к проекту (выставке) “Невозможное сообщество” Виктора Мизиано
+url: https://catalog.mmoma.ru/icomunity/index.html
+domain: catalog.mmoma.ru
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: раздел сайта
+resource_type_id: site-section
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: institutions_garage
+  name: Институты
+  slug: institutions_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: средний

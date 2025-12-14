@@ -1,0 +1,28 @@
+id: ksgp-cis-ru
+name: ksgp-cis.ru (2014-01-21)
+domain: ksgp-cis.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: www.ksgp-cis.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.ksgp-cis.ru/www.ksgp-cis.ru.log.xz
+  size: 24240
+  modified: '2014-01-21T19:53:42'
+  type: wpull log
+  extension: .xz
+- name: www.ksgp-cis.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.ksgp-cis.ru/www.ksgp-cis.ru.warc.xz
+  size: 17501792
+  modified: '2014-01-21T19:53:37'
+  type: WARC
+  extension: .xz
+- name: www.ksgp-cis.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.ksgp-cis.ru/www.ksgp-cis.ru.cdx.xz
+  size: 57960
+  modified: '2014-01-21T19:53:41'
+  type: CDX
+  extension: .xz
+url: https://ksgp-cis.ru
+created: '2014-01-21T19:53:37'

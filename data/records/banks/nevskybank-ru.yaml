@@ -1,0 +1,28 @@
+id: nevskybank-ru
+name: nevskybank.ru (2013-12-18)
+domain: nevskybank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.nevskybank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nevskybank.ru/www.nevskybank.ru.cdx.xz
+  size: 47724
+  modified: '2013-12-18T15:30:00'
+  type: CDX
+  extension: .xz
+- name: www.nevskybank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nevskybank.ru/www.nevskybank.ru.warc.xz
+  size: 13252684
+  modified: '2013-12-18T15:30:02'
+  type: WARC
+  extension: .xz
+- name: www.nevskybank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.nevskybank.ru/www.nevskybank.ru.log.xz
+  size: 25508
+  modified: '2013-12-18T15:30:05'
+  type: wpull log
+  extension: .xz
+url: https://nevskybank.ru
+created: '2013-12-18T15:30:02'

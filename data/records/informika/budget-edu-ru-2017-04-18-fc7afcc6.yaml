@@ -1,0 +1,40 @@
+id: budget-edu-ru-2017-04-18-fc7afcc6
+name: budget.edu.ru (2017-04-18)
+domain: budget.edu.ru
+collection:
+  id: informika
+  slug: informika
+  name: Информика
+resources:
+- name: budget.edu.ru-2017-04-18-fc7afcc6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/budget.edu.ru-2017-04-18-fc7afcc6/budget.edu.ru-2017-04-18-fc7afcc6.cdx
+  size: 545887
+  modified: '2017-04-18T08:35:46'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/budget.edu.ru-2017-04-18-fc7afcc6/dupes_db/data.mdb
+  size: 221184
+  modified: '2017-04-18T08:35:45'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/budget.edu.ru-2017-04-18-fc7afcc6/wpull.db
+  size: 479232
+  modified: '2017-04-18T08:35:46'
+  type: wpull database
+  extension: .db
+- name: budget.edu.ru-2017-04-18-fc7afcc6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/budget.edu.ru-2017-04-18-fc7afcc6/budget.edu.ru-2017-04-18-fc7afcc6-00000.warc.gz
+  size: 154864278
+  modified: '2017-04-18T08:35:46'
+  type: WARC
+  extension: .warc.gz
+- name: budget.edu.ru-2017-04-18-fc7afcc6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/budget.edu.ru-2017-04-18-fc7afcc6/budget.edu.ru-2017-04-18-fc7afcc6-meta.warc.gz
+  size: 59307
+  modified: '2017-04-18T08:35:46'
+  type: WARC
+  extension: .warc.gz
+url: https://budget.edu.ru
+created: '2017-04-18'

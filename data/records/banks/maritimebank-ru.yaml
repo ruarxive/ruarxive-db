@@ -1,0 +1,34 @@
+id: maritimebank-ru
+name: maritimebank.ru (2014-05-09)
+domain: maritimebank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: maritimebank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/maritimebank.ru/maritimebank.ru.log.xz
+  size: 169696
+  modified: '2014-05-09T17:01:03'
+  type: wpull log
+  extension: .xz
+- name: maritimebank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/maritimebank.ru/maritimebank.ru.warc.xz
+  size: 9536928
+  modified: '2014-05-09T17:01:03'
+  type: WARC
+  extension: .xz
+- name: maritimebank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/maritimebank.ru/maritimebank.ru.7z
+  size: 9489578
+  modified: '2014-08-19T10:21:29'
+  type: ''
+  extension: .7z
+- name: maritimebank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/maritimebank.ru/maritimebank.ru.cdx.xz
+  size: 189572
+  modified: '2014-05-09T17:01:01'
+  type: CDX
+  extension: .xz
+url: https://maritimebank.ru
+created: '2014-05-09T17:01:03'

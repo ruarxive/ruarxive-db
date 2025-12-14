@@ -1,0 +1,40 @@
+id: fcntp-ru-2017-05-10-2043eed9
+name: fcntp.ru (2017-05-10)
+domain: fcntp.ru
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcntp.ru-2017-05-10-2043eed9/wpull.db
+  size: 21214208
+  modified: '2017-05-10T09:10:41'
+  type: wpull database
+  extension: .db
+- name: www.fcntp.ru-2017-05-10-2043eed9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcntp.ru-2017-05-10-2043eed9/www.fcntp.ru-2017-05-10-2043eed9-00000.warc.gz
+  size: 98578813
+  modified: '2017-05-10T09:10:40'
+  type: WARC
+  extension: .warc.gz
+- name: www.fcntp.ru-2017-05-10-2043eed9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcntp.ru-2017-05-10-2043eed9/www.fcntp.ru-2017-05-10-2043eed9.cdx
+  size: 19368068
+  modified: '2017-05-10T09:10:40'
+  type: CDX
+  extension: .cdx
+- name: www.fcntp.ru-2017-05-10-2043eed9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcntp.ru-2017-05-10-2043eed9/www.fcntp.ru-2017-05-10-2043eed9-meta.warc.gz
+  size: 239515
+  modified: '2017-05-10T09:10:42'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcntp.ru-2017-05-10-2043eed9/dupes_db/data.mdb
+  size: 7479296
+  modified: '2017-05-10T09:04:22'
+  type: ''
+  extension: .mdb
+url: https://fcntp.ru
+created: '2017-05-10'

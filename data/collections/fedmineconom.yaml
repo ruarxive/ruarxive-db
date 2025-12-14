@@ -1,0 +1,105 @@
+id: fedmineconom
+slug: fedmineconom
+name: Министерство экономического развития РФ
+num_records: 19
+records:
+- id: aisup-economy-gov-ru-2017-08-09-6ef6f084
+  name: aisup.economy.gov.ru (2017-08-09)
+  url: https://aisup.economy.gov.ru
+  created: '2017-08-09'
+  domain: aisup.economy.gov.ru
+- id: ar-economy-gov-ru-2017-08-09-ee52ef60
+  name: ar.economy.gov.ru (2017-08-09)
+  url: https://ar.economy.gov.ru
+  created: '2017-08-09'
+  domain: ar.economy.gov.ru
+- id: comissia-economy-gov-ru-2017-08-09-8e0ea835
+  name: comissia.economy.gov.ru (2017-08-09)
+  url: https://comissia.economy.gov.ru
+  created: '2017-08-09'
+  domain: comissia.economy.gov.ru
+- id: faip-economy-gov-ru-2017-08-09-d686cae4
+  name: faip.economy.gov.ru (2017-08-09)
+  url: https://faip.economy.gov.ru
+  created: '2017-08-09'
+  domain: faip.economy.gov.ru
+- id: fcp-economy-gov-ru-2017-08-09-8513fa55
+  name: fcp.economy.gov.ru (2017-08-09)
+  url: https://fcp.economy.gov.ru
+  created: '2017-08-09'
+  domain: fcp.economy.gov.ru
+- id: fgis-economy-gov-ru-2017-08-09-ec0200d8
+  name: fgis.economy.gov.ru (2017-08-09)
+  url: https://fgis.economy.gov.ru
+  created: '2017-08-09'
+  domain: fgis.economy.gov.ru
+- id: fgistp-economy-gov-ru-2017-08-09-a77f02b6
+  name: fgistp.economy.gov.ru (2017-08-09)
+  url: https://fgistp.economy.gov.ru
+  created: '2017-08-09'
+  domain: fgistp.economy.gov.ru
+- id: formodernization-economy-gov-ru-2017-08-09-3d9a7b2d
+  name: formodernization.economy.gov.ru (2017-08-09)
+  url: https://formodernization.economy.gov.ru
+  created: '2017-08-09'
+  domain: formodernization.economy.gov.ru
+- id: infrfaip-economy-gov-ru-2017-08-09-b602d1df
+  name: infrfaip.economy.gov.ru (2017-08-09)
+  url: https://infrfaip.economy.gov.ru
+  created: '2017-08-09'
+  domain: infrfaip.economy.gov.ru
+- id: irfaip-economy-gov-ru-2017-08-09-687783bc
+  name: irfaip.economy.gov.ru (2017-08-09)
+  url: https://irfaip.economy.gov.ru
+  created: '2017-08-09'
+  domain: irfaip.economy.gov.ru
+- id: nko-economy-gov-ru-2017-08-09-dcf2d67f
+  name: nko.economy.gov.ru (2017-08-09)
+  url: https://nko.economy.gov.ru
+  created: '2017-08-09'
+  domain: nko.economy.gov.ru
+- id: ocean-economy-gov-ru-2017-08-09-b8aeceff
+  name: ocean.economy.gov.ru (2017-08-09)
+  url: https://ocean.economy.gov.ru
+  created: '2017-08-09'
+  domain: ocean.economy.gov.ru
+- id: oldsmb-economy-gov-ru-2017-08-09-3299f206
+  name: oldsmb.economy.gov.ru (2017-08-09)
+  url: https://oldsmb.economy.gov.ru
+  created: '2017-08-09'
+  domain: oldsmb.economy.gov.ru
+- id: os-economy-gov-ru-2017-08-09-12ba228a
+  name: os.economy.gov.ru (2017-08-09)
+  url: https://os.economy.gov.ru
+  created: '2017-08-09'
+  domain: os.economy.gov.ru
+- id: oss-economy-gov-ru-2017-08-09-b294bcca
+  name: oss.economy.gov.ru (2017-08-09)
+  url: https://oss.economy.gov.ru
+  created: '2017-08-09'
+  domain: oss.economy.gov.ru
+- id: poz-economy-gov-ru-2017-08-09-0748da2b
+  name: poz.economy.gov.ru (2017-08-09)
+  url: https://poz.economy.gov.ru
+  created: '2017-08-09'
+  domain: poz.economy.gov.ru
+- id: services-fgis-economy-gov-ru-2017-08-09-2db3524d
+  name: services.fgis.economy.gov.ru (2017-08-09)
+  url: https://services.fgis.economy.gov.ru
+  created: '2017-08-09'
+  domain: services.fgis.economy.gov.ru
+- id: smb-economy-gov-ru-2017-08-09-ff8781d9
+  name: smb.economy.gov.ru (2017-08-09)
+  url: https://smb.economy.gov.ru
+  created: '2017-08-09'
+  domain: smb.economy.gov.ru
+- id: young-oldsmb-economy-gov-ru-2017-08-09-d69ad8ef
+  name: young.oldsmb.economy.gov.ru (2017-08-09)
+  url: https://young.oldsmb.economy.gov.ru
+  created: '2017-08-09'
+  domain: young.oldsmb.economy.gov.ru
+files:
+  total_count: 415
+  total_size: 77930394603
+  directories:
+  - webcollect2017

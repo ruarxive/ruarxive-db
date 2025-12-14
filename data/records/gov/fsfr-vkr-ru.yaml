@@ -1,0 +1,28 @@
+id: fsfr-vkr-ru
+name: fsfr-vkr.ru (2013-09-24)
+domain: fsfr-vkr.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fsfr-vkr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fsfr-vkr.ru/www.fsfr-vkr.ru.warc.xz
+  size: 29411112
+  modified: '2013-09-24T06:17:26'
+  type: WARC
+  extension: .xz
+- name: www.fsfr-vkr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fsfr-vkr.ru/www.fsfr-vkr.ru.log.xz
+  size: 1726764
+  modified: '2013-09-24T06:18:53'
+  type: wpull log
+  extension: .xz
+- name: www.fsfr-vkr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fsfr-vkr.ru/www.fsfr-vkr.ru.cdx.xz
+  size: 4201136
+  modified: '2013-09-24T06:17:11'
+  type: CDX
+  extension: .xz
+url: https://fsfr-vkr.ru
+created: '2013-09-24T06:17:26'

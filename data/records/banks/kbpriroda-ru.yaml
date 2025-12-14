@@ -1,0 +1,28 @@
+id: kbpriroda-ru
+name: kbpriroda.ru (2014-01-31)
+domain: kbpriroda.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.kbpriroda.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kbpriroda.ru/www.kbpriroda.ru.cdx.xz
+  size: 4944
+  modified: '2014-01-31T18:03:27'
+  type: CDX
+  extension: .xz
+- name: www.kbpriroda.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kbpriroda.ru/www.kbpriroda.ru.warc.xz
+  size: 28484032
+  modified: '2014-01-31T18:03:29'
+  type: WARC
+  extension: .xz
+- name: www.kbpriroda.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kbpriroda.ru/www.kbpriroda.ru.log.xz
+  size: 6456
+  modified: '2014-01-31T18:03:28'
+  type: wpull log
+  extension: .xz
+url: https://kbpriroda.ru
+created: '2014-01-31T18:03:29'

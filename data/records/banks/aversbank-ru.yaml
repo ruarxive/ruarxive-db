@@ -1,0 +1,34 @@
+id: aversbank-ru
+name: aversbank.ru (2014-05-10)
+domain: aversbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.aversbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.aversbank.ru/www.aversbank.ru.warc.xz
+  size: 63490096
+  modified: '2014-05-10T20:14:08'
+  type: WARC
+  extension: .xz
+- name: www.aversbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.aversbank.ru/www.aversbank.ru.cdx.xz
+  size: 28544
+  modified: '2014-05-10T20:14:08'
+  type: CDX
+  extension: .xz
+- name: www.aversbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.aversbank.ru/www.aversbank.ru.7z
+  size: 63653537
+  modified: '2014-08-19T17:55:45'
+  type: ''
+  extension: .7z
+- name: www.aversbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.aversbank.ru/www.aversbank.ru.log.xz
+  size: 23960
+  modified: '2014-05-10T20:14:08'
+  type: wpull log
+  extension: .xz
+url: https://aversbank.ru
+created: '2014-05-10T20:14:08'

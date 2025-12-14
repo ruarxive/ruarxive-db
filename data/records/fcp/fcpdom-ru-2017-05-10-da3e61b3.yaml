@@ -1,0 +1,40 @@
+id: fcpdom-ru-2017-05-10-da3e61b3
+name: fcpdom.ru (2017-05-10)
+domain: fcpdom.ru
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpdom.ru-2017-05-10-da3e61b3/wpull.db
+  size: 3262464
+  modified: '2017-05-10T09:28:59'
+  type: wpull database
+  extension: .db
+- name: www.fcpdom.ru-2017-05-10-da3e61b3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpdom.ru-2017-05-10-da3e61b3/www.fcpdom.ru-2017-05-10-da3e61b3.cdx
+  size: 1737251
+  modified: '2017-05-10T09:28:58'
+  type: CDX
+  extension: .cdx
+- name: www.fcpdom.ru-2017-05-10-da3e61b3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpdom.ru-2017-05-10-da3e61b3/www.fcpdom.ru-2017-05-10-da3e61b3-00000.warc.gz
+  size: 98458805
+  modified: '2017-05-10T09:28:58'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpdom.ru-2017-05-10-da3e61b3/dupes_db/data.mdb
+  size: 1310720
+  modified: '2017-05-10T09:28:59'
+  type: ''
+  extension: .mdb
+- name: www.fcpdom.ru-2017-05-10-da3e61b3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcpdom.ru-2017-05-10-da3e61b3/www.fcpdom.ru-2017-05-10-da3e61b3-meta.warc.gz
+  size: 218653
+  modified: '2017-05-10T09:28:59'
+  type: WARC
+  extension: .warc.gz
+url: https://fcpdom.ru
+created: '2017-05-10'

@@ -1,0 +1,28 @@
+id: sciex-ru
+name: sciex.ru (2013-12-19)
+domain: sciex.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: sciex.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/sciex.ru/sciex.ru.log.xz
+  size: 3852
+  modified: '2013-12-19T16:13:15'
+  type: wpull log
+  extension: .xz
+- name: sciex.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/sciex.ru/sciex.ru.warc.xz
+  size: 4423144
+  modified: '2013-12-19T16:13:15'
+  type: WARC
+  extension: .xz
+- name: sciex.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/sciex.ru/sciex.ru.cdx.xz
+  size: 5040
+  modified: '2013-12-19T16:13:14'
+  type: CDX
+  extension: .xz
+url: https://sciex.ru
+created: '2013-12-19T16:13:15'

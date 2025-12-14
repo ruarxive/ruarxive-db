@@ -1,0 +1,19 @@
+id: old-guelman-ru
+name: Фрагменты журнала “Максимка” (на старом сайте Гельмана)
+url: http://old.guelman.ru/maksimka/
+domain: old.guelman.ru
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: раздел сайта
+resource_type_id: site-section
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: artculturemedia_garage
+  name: Искусство и культура
+  slug: artculturemedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum
+priority: высокий

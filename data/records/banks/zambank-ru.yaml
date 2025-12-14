@@ -1,0 +1,34 @@
+id: zambank-ru
+name: zambank.ru (2014-05-15)
+domain: zambank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.zambank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zambank.ru/www.zambank.ru.cdx.xz
+  size: 236
+  modified: '2014-05-15T15:15:54'
+  type: CDX
+  extension: .xz
+- name: www.zambank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zambank.ru/www.zambank.ru.7z
+  size: 752
+  modified: '2014-08-19T22:48:46'
+  type: ''
+  extension: .7z
+- name: www.zambank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zambank.ru/www.zambank.ru.warc.xz
+  size: 2236
+  modified: '2014-05-15T15:15:54'
+  type: WARC
+  extension: .xz
+- name: www.zambank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zambank.ru/www.zambank.ru.log.xz
+  size: 488
+  modified: '2014-05-15T15:15:54'
+  type: wpull log
+  extension: .xz
+url: https://zambank.ru
+created: '2014-05-15T15:15:54'

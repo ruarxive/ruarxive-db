@@ -1,0 +1,16 @@
+id: lib-adm-gov-ru
+name: lib.adm.gov.ru.7z (2012-10-22)
+domain: lib.adm.gov.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: lib.adm.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/lib.adm.gov.ru.7z
+  size: 2504403
+  modified: '2012-10-22T09:46:45'
+  type: httrack archive
+  extension: .7z
+url: https://lib.adm.gov.ru.7z
+created: '2012-10-22T09:46:45'

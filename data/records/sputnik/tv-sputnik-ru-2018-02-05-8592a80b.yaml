@@ -1,0 +1,40 @@
+id: tv-sputnik-ru-2018-02-05-8592a80b
+name: tv.sputnik.ru (2018-02-05)
+domain: tv.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: tv.sputnik.ru-2018-02-05-8592a80b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/tv.sputnik.ru-2018-02-05-8592a80b/tv.sputnik.ru-2018-02-05-8592a80b.cdx
+  size: 52756
+  modified: '2018-02-05T17:10:07'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/tv.sputnik.ru-2018-02-05-8592a80b/dupes_db/data.mdb
+  size: 69632
+  modified: '2018-02-05T17:10:06'
+  type: ''
+  extension: .mdb
+- name: tv.sputnik.ru-2018-02-05-8592a80b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/tv.sputnik.ru-2018-02-05-8592a80b/tv.sputnik.ru-2018-02-05-8592a80b-meta.warc.gz
+  size: 12735
+  modified: '2018-02-05T17:10:07'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/tv.sputnik.ru-2018-02-05-8592a80b/wpull.db
+  size: 69632
+  modified: '2018-02-05T17:10:07'
+  type: wpull database
+  extension: .db
+- name: tv.sputnik.ru-2018-02-05-8592a80b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/tv.sputnik.ru-2018-02-05-8592a80b/tv.sputnik.ru-2018-02-05-8592a80b-00000.warc.gz
+  size: 3234640
+  modified: '2018-02-05T17:10:07'
+  type: WARC
+  extension: .warc.gz
+url: https://tv.sputnik.ru
+created: '2018-02-05'

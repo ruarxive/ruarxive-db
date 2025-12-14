@@ -1,0 +1,40 @@
+id: archive-council-gov-ru-2017-05-09-8dc0cdb3
+name: archive.council.gov.ru (2017-05-09)
+domain: archive.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archive.council.gov.ru-2017-05-09-8dc0cdb3/wpull.db
+  size: 394240
+  modified: '2017-05-09T20:25:57'
+  type: wpull database
+  extension: .db
+- name: archive.council.gov.ru-2017-05-09-8dc0cdb3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archive.council.gov.ru-2017-05-09-8dc0cdb3/archive.council.gov.ru-2017-05-09-8dc0cdb3-00000.warc.gz
+  size: 11437042
+  modified: '2017-05-09T20:25:37'
+  type: WARC
+  extension: .warc.gz
+- name: archive.council.gov.ru-2017-05-09-8dc0cdb3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archive.council.gov.ru-2017-05-09-8dc0cdb3/archive.council.gov.ru-2017-05-09-8dc0cdb3-meta.warc.gz
+  size: 60524
+  modified: '2017-05-09T20:25:57'
+  type: WARC
+  extension: .warc.gz
+- name: archive.council.gov.ru-2017-05-09-8dc0cdb3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archive.council.gov.ru-2017-05-09-8dc0cdb3/archive.council.gov.ru-2017-05-09-8dc0cdb3.cdx
+  size: 684336
+  modified: '2017-05-09T20:25:37'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archive.council.gov.ru-2017-05-09-8dc0cdb3/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-05-09T20:23:54'
+  type: ''
+  extension: .mdb
+url: https://archive.council.gov.ru
+created: '2017-05-09'

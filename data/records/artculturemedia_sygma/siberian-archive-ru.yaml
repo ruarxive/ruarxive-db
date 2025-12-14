@@ -1,0 +1,25 @@
+id: siberian-archive-ru
+name: Сибирский архив современного искусства
+url: https://siberian-archive.ru/
+domain: siberian-archive.ru
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-06-22T09:35:00.000Z'
+status: ожидает загрузки в хранилище
+status_id: awaiting-storage
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Важный архив современной художественной жизни в Сибири.
+reason_id: vazhnyy-arhiv-sovremennoy-hudozhestvennoy
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: высокий

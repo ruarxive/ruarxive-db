@@ -1,0 +1,26 @@
+id: ayarkut-com
+name: Фонд поддержки современного искусства AyarKut
+url: http://ayarkut.com/
+domain: ayarkut.com
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-06-23T09:34:00.000Z'
+status: ожидает загрузки в хранилище
+status_id: awaiting-storage
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Фонд прекратил своё существование из-за войны и кризиса
+reason_id: fond-prekratil-svoyo-suschestvovanie
+strategy: стандартная веб архивация
+tools:
+- wget
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: высокий

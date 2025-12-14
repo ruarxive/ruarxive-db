@@ -1,0 +1,45 @@
+id: government-ru-2017-05-01-9d803f6a
+name: government.ru (2017-05-01)
+domain: government.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/government.ru-2017-05-01-9d803f6a/stop
+  size: 0
+  modified: '2017-05-02T18:13:39'
+  type: ''
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/government.ru-2017-05-01-9d803f6a/wpull.db
+  size: 16493568
+  modified: '2017-05-02T18:13:39'
+  type: wpull database
+  extension: .db
+- name: government.ru-2017-05-01-9d803f6a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/government.ru-2017-05-01-9d803f6a/government.ru-2017-05-01-9d803f6a-meta.warc.gz
+  size: 2424035
+  modified: '2017-05-02T18:13:41'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/government.ru-2017-05-01-9d803f6a/dupes_db/data.mdb
+  size: 8024064
+  modified: '2017-05-02T17:41:04'
+  type: ''
+  extension: .mdb
+- name: government.ru-2017-05-01-9d803f6a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/government.ru-2017-05-01-9d803f6a/government.ru-2017-05-01-9d803f6a.cdx
+  size: 16832082
+  modified: '2017-05-02T17:41:20'
+  type: CDX
+  extension: .cdx
+- name: government.ru-2017-05-01-9d803f6a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/government.ru-2017-05-01-9d803f6a/government.ru-2017-05-01-9d803f6a-00000.warc.gz
+  size: 4501026324
+  modified: '2017-05-02T17:41:20'
+  type: WARC
+  extension: .warc.gz
+url: https://government.ru
+created: '2017-05-01'

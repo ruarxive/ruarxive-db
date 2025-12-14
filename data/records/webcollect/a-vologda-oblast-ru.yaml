@@ -1,0 +1,16 @@
+id: a-vologda-oblast-ru
+name: a.vologda-oblast.ru.7z (2013-08-13)
+domain: a.vologda-oblast.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: a.vologda-oblast.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/a.vologda-oblast.ru.7z
+  size: 405838058
+  modified: '2013-08-13T13:26:58'
+  type: httrack archive
+  extension: .7z
+url: https://a.vologda-oblast.ru.7z
+created: '2013-08-13T13:26:58'

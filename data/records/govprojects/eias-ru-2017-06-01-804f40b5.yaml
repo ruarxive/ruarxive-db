@@ -1,0 +1,40 @@
+id: eias-ru-2017-06-01-804f40b5
+name: eias.ru (2017-06-01)
+domain: eias.ru
+collection:
+  id: govprojects
+  slug: govprojects
+  name: Государственные проекты
+resources:
+- name: eias.ru-2017-06-01-804f40b5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/eias.ru-2017-06-01-804f40b5/eias.ru-2017-06-01-804f40b5-00000.warc.gz
+  size: 351557595
+  modified: '2017-06-03T12:30:26'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/eias.ru-2017-06-01-804f40b5/dupes_db/data.mdb
+  size: 131072
+  modified: '2017-06-03T12:30:26'
+  type: ''
+  extension: .mdb
+- name: eias.ru-2017-06-01-804f40b5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/eias.ru-2017-06-01-804f40b5/eias.ru-2017-06-01-804f40b5.cdx
+  size: 164164
+  modified: '2017-06-03T12:30:18'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/eias.ru-2017-06-01-804f40b5/wpull.db
+  size: 158720
+  modified: '2017-06-03T12:30:17'
+  type: wpull database
+  extension: .db
+- name: eias.ru-2017-06-01-804f40b5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/eias.ru-2017-06-01-804f40b5/eias.ru-2017-06-01-804f40b5-meta.warc.gz
+  size: 25525
+  modified: '2017-06-03T12:30:26'
+  type: WARC
+  extension: .warc.gz
+url: https://eias.ru
+created: '2017-06-01'

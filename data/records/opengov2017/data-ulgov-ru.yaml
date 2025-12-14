@@ -1,0 +1,34 @@
+id: data-ulgov-ru
+name: data.ulgov.ru (2017-02-19)
+domain: data.ulgov.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: data.ulgov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.ulgov.ru/data.ulgov.ru.cdx
+  size: 10203184
+  modified: '2017-02-19T03:28:10'
+  type: CDX
+  extension: .cdx
+- name: data.ulgov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.ulgov.ru/data.ulgov.ru.warc.gz
+  size: 177531887
+  modified: '2017-02-19T03:28:11'
+  type: WARC
+  extension: .warc.gz
+- name: data.ulgov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.ulgov.ru/data.ulgov.ru.7z
+  size: 31692767
+  modified: '2017-02-22T23:46:42'
+  type: ''
+  extension: .7z
+- name: data.ulgov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.ulgov.ru/data.ulgov.ru.log
+  size: 18696696
+  modified: '2017-02-19T03:28:11'
+  type: ''
+  extension: .log
+url: https://data.ulgov.ru
+created: '2017-02-19T03:28:11'

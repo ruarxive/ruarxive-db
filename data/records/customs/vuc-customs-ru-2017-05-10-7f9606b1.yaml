@@ -1,0 +1,40 @@
+id: vuc-customs-ru-2017-05-10-7f9606b1
+name: vuc.customs.ru (2017-05-10)
+domain: vuc.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vuc.customs.ru-2017-05-10-7f9606b1/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-05-10T09:22:20'
+  type: ''
+  extension: .mdb
+- name: vuc.customs.ru-2017-05-10-7f9606b1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vuc.customs.ru-2017-05-10-7f9606b1/vuc.customs.ru-2017-05-10-7f9606b1.cdx
+  size: 33993
+  modified: '2017-05-10T09:22:20'
+  type: CDX
+  extension: .cdx
+- name: vuc.customs.ru-2017-05-10-7f9606b1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vuc.customs.ru-2017-05-10-7f9606b1/vuc.customs.ru-2017-05-10-7f9606b1-00000.warc.gz
+  size: 15640196
+  modified: '2017-05-10T09:22:20'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vuc.customs.ru-2017-05-10-7f9606b1/wpull.db
+  size: 59392
+  modified: '2017-05-10T09:22:20'
+  type: wpull database
+  extension: .db
+- name: vuc.customs.ru-2017-05-10-7f9606b1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/vuc.customs.ru-2017-05-10-7f9606b1/vuc.customs.ru-2017-05-10-7f9606b1-meta.warc.gz
+  size: 7675
+  modified: '2017-05-10T09:22:21'
+  type: WARC
+  extension: .warc.gz
+url: https://vuc.customs.ru
+created: '2017-05-10'

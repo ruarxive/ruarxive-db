@@ -1,0 +1,40 @@
+id: periodics-memo-ru-2017-06-06-87dd7ada
+name: periodics.memo.ru (2017-06-06)
+domain: periodics.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/periodics.memo.ru-2017-06-06-87dd7ada/dupes_db/data.mdb
+  size: 180224
+  modified: '2017-06-08T19:12:08'
+  type: ''
+  extension: .mdb
+- name: periodics.memo.ru-2017-06-06-87dd7ada-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/periodics.memo.ru-2017-06-06-87dd7ada/periodics.memo.ru-2017-06-06-87dd7ada-00000.warc.gz
+  size: 4216088
+  modified: '2017-06-08T19:12:08'
+  type: WARC
+  extension: .warc.gz
+- name: periodics.memo.ru-2017-06-06-87dd7ada.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/periodics.memo.ru-2017-06-06-87dd7ada/periodics.memo.ru-2017-06-06-87dd7ada.cdx
+  size: 275550
+  modified: '2017-06-08T19:12:08'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/periodics.memo.ru-2017-06-06-87dd7ada/wpull.db
+  size: 265216
+  modified: '2017-06-08T19:12:08'
+  type: wpull database
+  extension: .db
+- name: periodics.memo.ru-2017-06-06-87dd7ada-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/periodics.memo.ru-2017-06-06-87dd7ada/periodics.memo.ru-2017-06-06-87dd7ada-meta.warc.gz
+  size: 28923
+  modified: '2017-06-08T19:12:08'
+  type: WARC
+  extension: .warc.gz
+url: https://periodics.memo.ru
+created: '2017-06-06'

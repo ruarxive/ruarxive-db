@@ -1,0 +1,40 @@
+id: fgis-economy-gov-ru-2017-08-09-ec0200d8
+name: fgis.economy.gov.ru (2017-08-09)
+domain: fgis.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: fgis.economy.gov.ru-2017-08-09-ec0200d8-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fgis.economy.gov.ru-2017-08-09-ec0200d8/fgis.economy.gov.ru-2017-08-09-ec0200d8-00000.warc.gz
+  size: 430125
+  modified: '2017-08-10T00:09:40'
+  type: WARC
+  extension: .warc.gz
+- name: fgis.economy.gov.ru-2017-08-09-ec0200d8.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fgis.economy.gov.ru-2017-08-09-ec0200d8/fgis.economy.gov.ru-2017-08-09-ec0200d8.cdx
+  size: 16128
+  modified: '2017-08-10T00:09:40'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fgis.economy.gov.ru-2017-08-09-ec0200d8/wpull.db
+  size: 27648
+  modified: '2017-08-10T00:09:40'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fgis.economy.gov.ru-2017-08-09-ec0200d8/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-08-10T00:09:40'
+  type: ''
+  extension: .mdb
+- name: fgis.economy.gov.ru-2017-08-09-ec0200d8-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/fgis.economy.gov.ru-2017-08-09-ec0200d8/fgis.economy.gov.ru-2017-08-09-ec0200d8-meta.warc.gz
+  size: 5005
+  modified: '2017-08-10T00:09:41'
+  type: WARC
+  extension: .warc.gz
+url: https://fgis.economy.gov.ru
+created: '2017-08-09'

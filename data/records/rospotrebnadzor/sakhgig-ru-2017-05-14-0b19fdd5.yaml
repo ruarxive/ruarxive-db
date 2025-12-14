@@ -1,0 +1,40 @@
+id: sakhgig-ru-2017-05-14-0b19fdd5
+name: sakhgig.ru (2017-05-14)
+domain: sakhgig.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: sakhgig.ru-2017-05-14-0b19fdd5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sakhgig.ru-2017-05-14-0b19fdd5/sakhgig.ru-2017-05-14-0b19fdd5.cdx
+  size: 3868337
+  modified: '2017-05-14T19:20:15'
+  type: CDX
+  extension: .cdx
+- name: sakhgig.ru-2017-05-14-0b19fdd5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sakhgig.ru-2017-05-14-0b19fdd5/sakhgig.ru-2017-05-14-0b19fdd5-00000.warc.gz
+  size: 1012387575
+  modified: '2017-05-14T19:20:15'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sakhgig.ru-2017-05-14-0b19fdd5/wpull.db
+  size: 3676160
+  modified: '2017-05-14T19:20:15'
+  type: wpull database
+  extension: .db
+- name: sakhgig.ru-2017-05-14-0b19fdd5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sakhgig.ru-2017-05-14-0b19fdd5/sakhgig.ru-2017-05-14-0b19fdd5-meta.warc.gz
+  size: 375525
+  modified: '2017-05-14T19:20:15'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/sakhgig.ru-2017-05-14-0b19fdd5/dupes_db/data.mdb
+  size: 466944
+  modified: '2017-05-14T19:20:15'
+  type: ''
+  extension: .mdb
+url: https://sakhgig.ru
+created: '2017-05-14'

@@ -1,0 +1,28 @@
+id: tavrich-ru
+name: tavrich.ru (2013-12-19)
+domain: tavrich.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.tavrich.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tavrich.ru/www.tavrich.ru.cdx.xz
+  size: 146804
+  modified: '2013-12-19T12:31:38'
+  type: CDX
+  extension: .xz
+- name: www.tavrich.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tavrich.ru/www.tavrich.ru.log.xz
+  size: 86484
+  modified: '2013-12-19T12:31:18'
+  type: wpull log
+  extension: .xz
+- name: www.tavrich.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tavrich.ru/www.tavrich.ru.warc.xz
+  size: 106030396
+  modified: '2013-12-19T12:31:21'
+  type: WARC
+  extension: .xz
+url: https://tavrich.ru
+created: '2013-12-19T12:31:21'

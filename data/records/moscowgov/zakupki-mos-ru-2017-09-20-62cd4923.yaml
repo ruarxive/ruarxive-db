@@ -1,0 +1,40 @@
+id: zakupki-mos-ru-2017-09-20-62cd4923
+name: zakupki.mos.ru (2017-09-20)
+domain: zakupki.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zakupki.mos.ru-2017-09-20-62cd4923/wpull.db
+  size: 3749888
+  modified: '2017-09-21T04:29:19'
+  type: wpull database
+  extension: .db
+- name: zakupki.mos.ru-2017-09-20-62cd4923-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zakupki.mos.ru-2017-09-20-62cd4923/zakupki.mos.ru-2017-09-20-62cd4923-meta.warc.gz
+  size: 447309
+  modified: '2017-09-21T04:29:20'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zakupki.mos.ru-2017-09-20-62cd4923/dupes_db/data.mdb
+  size: 1998848
+  modified: '2017-09-21T04:29:19'
+  type: ''
+  extension: .mdb
+- name: zakupki.mos.ru-2017-09-20-62cd4923-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zakupki.mos.ru-2017-09-20-62cd4923/zakupki.mos.ru-2017-09-20-62cd4923-00000.warc.gz
+  size: 40599925
+  modified: '2017-09-21T04:29:19'
+  type: WARC
+  extension: .warc.gz
+- name: zakupki.mos.ru-2017-09-20-62cd4923.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zakupki.mos.ru-2017-09-20-62cd4923/zakupki.mos.ru-2017-09-20-62cd4923.cdx
+  size: 3949631
+  modified: '2017-09-21T04:29:19'
+  type: CDX
+  extension: .cdx
+url: https://zakupki.mos.ru
+created: '2017-09-20'

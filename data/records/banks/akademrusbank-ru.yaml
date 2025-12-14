@@ -1,0 +1,46 @@
+id: akademrusbank-ru
+name: akademrusbank.ru (2014-05-12)
+domain: akademrusbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: akademrusbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/akademrusbank.ru/akademrusbank.ru.7z
+  size: 182193279
+  modified: '2014-08-18T01:46:14'
+  type: ''
+  extension: .7z
+- name: akademrusbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/akademrusbank.ru/akademrusbank.ru.warc.xz
+  size: 173243816
+  modified: '2014-05-12T16:15:09'
+  type: WARC
+  extension: .xz
+- name: akademrusbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/akademrusbank.ru/akademrusbank.ru.cdx.xz
+  size: 21512
+  modified: '2014-05-12T16:15:09'
+  type: CDX
+  extension: .xz
+- name: akademrusbank.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/akademrusbank.ru/akademrusbank.ru.warc
+  size: 197257030
+  modified: '2014-05-12T16:15:09'
+  type: WARC
+  extension: .warc
+- name: akademrusbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/akademrusbank.ru/akademrusbank.ru.log.xz
+  size: 25284
+  modified: '2014-05-12T16:15:09'
+  type: wpull log
+  extension: .xz
+- name: akademrusbank.ru.csv
+  url: https://cdn.ruarxive.org/public/webcollect/banks/akademrusbank.ru/akademrusbank.ru.csv
+  size: 96142
+  modified: '2016-11-10T07:31:42'
+  type: ''
+  extension: .csv
+url: https://akademrusbank.ru
+created: '2014-05-12T16:15:09'

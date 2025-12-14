@@ -1,0 +1,16 @@
+id: domains-txt
+name: domains.txt (2018-02-21)
+domain: domains.txt
+collection:
+  id: infoculture
+  slug: infoculture
+  name: Инфокультура
+resources:
+- name: domains.txt
+  url: https://cdn.ruarxive.org/public/webcollect2017/infoculture/domains.txt
+  size: 85
+  modified: '2018-02-21T14:33:51'
+  type: ''
+  extension: .txt
+url: https://domains.txt
+created: '2018-02-21T14:33:51'

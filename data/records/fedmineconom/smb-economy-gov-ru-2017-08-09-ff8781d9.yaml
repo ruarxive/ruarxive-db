@@ -1,0 +1,40 @@
+id: smb-economy-gov-ru-2017-08-09-ff8781d9
+name: smb.economy.gov.ru (2017-08-09)
+domain: smb.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/smb.economy.gov.ru-2017-08-09-ff8781d9/wpull.db
+  size: 9074688
+  modified: '2017-08-10T16:17:36'
+  type: wpull database
+  extension: .db
+- name: smb.economy.gov.ru-2017-08-09-ff8781d9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/smb.economy.gov.ru-2017-08-09-ff8781d9/smb.economy.gov.ru-2017-08-09-ff8781d9.cdx
+  size: 8053468
+  modified: '2017-08-10T16:17:32'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/smb.economy.gov.ru-2017-08-09-ff8781d9/dupes_db/data.mdb
+  size: 3584000
+  modified: '2017-08-10T16:17:19'
+  type: ''
+  extension: .mdb
+- name: smb.economy.gov.ru-2017-08-09-ff8781d9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/smb.economy.gov.ru-2017-08-09-ff8781d9/smb.economy.gov.ru-2017-08-09-ff8781d9-00000.warc.gz
+  size: 2721931096
+  modified: '2017-08-10T16:17:35'
+  type: WARC
+  extension: .warc.gz
+- name: smb.economy.gov.ru-2017-08-09-ff8781d9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/smb.economy.gov.ru-2017-08-09-ff8781d9/smb.economy.gov.ru-2017-08-09-ff8781d9-meta.warc.gz
+  size: 843921
+  modified: '2017-08-10T16:17:38'
+  type: WARC
+  extension: .warc.gz
+url: https://smb.economy.gov.ru
+created: '2017-08-09'

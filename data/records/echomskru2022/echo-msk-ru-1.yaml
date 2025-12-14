@@ -1,0 +1,32 @@
+id: echo-msk-ru-1
+name: Сайт Эхо Москвы
+url: https://echo.msk.ru
+domain: echo.msk.ru
+created: '2022-03-04T05:20:53.000Z'
+date: '2022-03-04T05:27:00.000Z'
+status: собран
+status_id: collected
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Ликвидация организации после отзыва лицензии на вещание у радиостанции
+reason_id: likvidatsiya-organizatsii-posle-otzyva
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: echomskru2022
+  name: Эхо Москвы 2022
+  slug: echomskru2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: echo.msk.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/echomskru2022/echo.msk.ru/echo.msk.ru.warc.gz
+- type: WARC
+  name: echo.msk.ru.warc.gz
+  url: https://f001.backblazeb2.com/file/IKPUBLIC/webcollect2022/echomskru2022/echo.msk.ru/echo.msk.ru.warc.gz

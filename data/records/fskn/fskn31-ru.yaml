@@ -1,0 +1,40 @@
+id: fskn31-ru
+name: fskn31.ru (2016-05-31)
+domain: fskn31.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: fskn31.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn31.ru/fskn31.ru.log
+  size: 2475421
+  modified: '2016-05-31T22:54:38'
+  type: ''
+  extension: .log
+- name: fskn31.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn31.ru/fskn31.ru.cdx
+  size: 1370352
+  modified: '2016-05-31T22:54:38'
+  type: CDX
+  extension: .cdx
+- name: fskn31.ru.txt
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn31.ru/fskn31.ru.txt
+  size: 27
+  modified: '2016-05-31T20:46:08'
+  type: ''
+  extension: .txt
+- name: fskn31.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn31.ru/fskn31.ru.7z
+  size: 23811765
+  modified: '2016-09-27T20:32:18'
+  type: ''
+  extension: .7z
+- name: fskn31.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn31.ru/fskn31.ru.warc.gz
+  size: 62667441
+  modified: '2016-05-31T22:54:38'
+  type: WARC
+  extension: .warc.gz
+url: https://fskn31.ru
+created: '2016-05-31T22:54:38'

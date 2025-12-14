@@ -1,0 +1,52 @@
+id: mnr-gov-ru-2017-04-30-cd82da14
+name: mnr.gov.ru (2017-04-30)
+domain: mnr.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: tmp-wpull-warc-we91i9.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mnr.gov.ru-2017-04-30-cd82da14/temp/tmp-wpull-warc-we91i9.log.gz
+  size: 218940
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesreq-yxeboz.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mnr.gov.ru-2017-04-30-cd82da14/temp/tmp-wpull-warcsesreq-yxeboz.tmp
+  size: 375
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-p0v34a.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mnr.gov.ru-2017-04-30-cd82da14/temp/tmp-wpull-warcsesrsp-p0v34a.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mnr.gov.ru-2017-04-30-cd82da14/wpull.db
+  size: 5061632
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+- name: www.mnr.gov.ru-2017-04-30-cd82da14.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mnr.gov.ru-2017-04-30-cd82da14/www.mnr.gov.ru-2017-04-30-cd82da14.cdx
+  size: 1119174
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mnr.gov.ru-2017-04-30-cd82da14/dupes_db/data.mdb
+  size: 671744
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .mdb
+- name: www.mnr.gov.ru-2017-04-30-cd82da14-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.mnr.gov.ru-2017-04-30-cd82da14/www.mnr.gov.ru-2017-04-30-cd82da14-00000.warc.gz
+  size: 829061065
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+url: https://mnr.gov.ru
+created: '2017-04-30'

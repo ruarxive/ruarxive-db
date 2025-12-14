@@ -1,0 +1,40 @@
+id: nagorny-mos-ru-2017-09-15-1f8b8cfe
+name: nagorny.mos.ru (2017-09-15)
+domain: nagorny.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagorny.mos.ru-2017-09-15-1f8b8cfe/dupes_db/data.mdb
+  size: 10002432
+  modified: '2017-09-17T22:33:31'
+  type: ''
+  extension: .mdb
+- name: nagorny.mos.ru-2017-09-15-1f8b8cfe-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagorny.mos.ru-2017-09-15-1f8b8cfe/nagorny.mos.ru-2017-09-15-1f8b8cfe-00000.warc.gz
+  size: 3069241514
+  modified: '2017-09-17T22:33:31'
+  type: WARC
+  extension: .warc.gz
+- name: nagorny.mos.ru-2017-09-15-1f8b8cfe.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagorny.mos.ru-2017-09-15-1f8b8cfe/nagorny.mos.ru-2017-09-15-1f8b8cfe.cdx
+  size: 31854769
+  modified: '2017-09-17T22:33:31'
+  type: CDX
+  extension: .cdx
+- name: nagorny.mos.ru-2017-09-15-1f8b8cfe-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagorny.mos.ru-2017-09-15-1f8b8cfe/nagorny.mos.ru-2017-09-15-1f8b8cfe-meta.warc.gz
+  size: 2640196
+  modified: '2017-09-17T22:33:35'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nagorny.mos.ru-2017-09-15-1f8b8cfe/wpull.db
+  size: 34867200
+  modified: '2017-09-17T22:33:31'
+  type: wpull database
+  extension: .db
+url: https://nagorny.mos.ru
+created: '2017-09-15'

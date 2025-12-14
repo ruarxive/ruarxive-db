@@ -1,0 +1,28 @@
+id: forumspb-com
+name: forumspb.com (2013-09-20)
+domain: forumspb.com
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: forumspb.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/forumspb.com/forumspb.com.cdx.xz
+  size: 162420
+  modified: '2013-09-20T08:01:37'
+  type: CDX
+  extension: .xz
+- name: forumspb.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/forumspb.com/forumspb.com.warc.xz
+  size: 232852036
+  modified: '2013-09-20T08:00:54'
+  type: WARC
+  extension: .xz
+- name: forumspb.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/forumspb.com/forumspb.com.log.xz
+  size: 123040
+  modified: '2013-09-20T08:00:51'
+  type: wpull log
+  extension: .xz
+url: https://forumspb.com
+created: '2013-09-20T08:00:54'

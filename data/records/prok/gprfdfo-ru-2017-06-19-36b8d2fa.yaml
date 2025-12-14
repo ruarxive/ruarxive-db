@@ -1,0 +1,40 @@
+id: gprfdfo-ru-2017-06-19-36b8d2fa
+name: gprfdfo.ru (2017-06-19)
+domain: gprfdfo.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gprfdfo.ru-2017-06-19-36b8d2fa/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-06-25T17:13:05'
+  type: ''
+  extension: .mdb
+- name: gprfdfo.ru-2017-06-19-36b8d2fa-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gprfdfo.ru-2017-06-19-36b8d2fa/gprfdfo.ru-2017-06-19-36b8d2fa-00000.warc.gz
+  size: 7125
+  modified: '2017-06-25T17:12:54'
+  type: WARC
+  extension: .warc.gz
+- name: gprfdfo.ru-2017-06-19-36b8d2fa.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gprfdfo.ru-2017-06-19-36b8d2fa/gprfdfo.ru-2017-06-19-36b8d2fa.cdx
+  size: 23
+  modified: '2017-06-25T17:12:52'
+  type: CDX
+  extension: .cdx
+- name: gprfdfo.ru-2017-06-19-36b8d2fa-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gprfdfo.ru-2017-06-19-36b8d2fa/gprfdfo.ru-2017-06-19-36b8d2fa-meta.warc.gz
+  size: 2983
+  modified: '2017-06-25T17:12:52'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/gprfdfo.ru-2017-06-19-36b8d2fa/wpull.db
+  size: 10240
+  modified: '2017-06-25T17:12:52'
+  type: wpull database
+  extension: .db
+url: https://gprfdfo.ru
+created: '2017-06-19'

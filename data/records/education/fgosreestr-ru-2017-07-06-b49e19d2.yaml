@@ -1,0 +1,40 @@
+id: fgosreestr-ru-2017-07-06-b49e19d2
+name: fgosreestr.ru (2017-07-06)
+domain: fgosreestr.ru
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fgosreestr.ru-2017-07-06-b49e19d2/dupes_db/data.mdb
+  size: 106496
+  modified: '2017-07-07T00:22:14'
+  type: ''
+  extension: .mdb
+- name: fgosreestr.ru-2017-07-06-b49e19d2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fgosreestr.ru-2017-07-06-b49e19d2/fgosreestr.ru-2017-07-06-b49e19d2.cdx
+  size: 98195
+  modified: '2017-07-07T00:22:14'
+  type: CDX
+  extension: .cdx
+- name: fgosreestr.ru-2017-07-06-b49e19d2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fgosreestr.ru-2017-07-06-b49e19d2/fgosreestr.ru-2017-07-06-b49e19d2-00000.warc.gz
+  size: 57427151
+  modified: '2017-07-07T00:22:14'
+  type: WARC
+  extension: .warc.gz
+- name: fgosreestr.ru-2017-07-06-b49e19d2-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fgosreestr.ru-2017-07-06-b49e19d2/fgosreestr.ru-2017-07-06-b49e19d2-meta.warc.gz
+  size: 15174
+  modified: '2017-07-07T00:22:15'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fgosreestr.ru-2017-07-06-b49e19d2/wpull.db
+  size: 146432
+  modified: '2017-07-07T00:22:14'
+  type: wpull database
+  extension: .db
+url: https://fgosreestr.ru
+created: '2017-07-06'

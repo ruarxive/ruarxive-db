@@ -1,0 +1,29 @@
+id: cafrussia-ru
+name: КАФ Россия
+url: https://cafrussia.ru
+domain: cafrussia.ru
+created: '2022-03-25T07:16:15.000Z'
+date: '2022-03-25T07:18:00.000Z'
+status: собран
+status_id: collected
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Внесение организации в реестр иностранных агентов
+reason_id: foreign-agent-designation
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: ngo2022
+  name: НКО 2022
+  slug: ngo2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: cafrussia.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/ngo2022/cafrussia.ru/cafrussia.ru.warc.gz

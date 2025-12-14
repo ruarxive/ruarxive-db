@@ -1,0 +1,34 @@
+id: ssb-msk-ru
+name: ssb.msk.ru (2014-05-09)
+domain: ssb.msk.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.ssb.msk.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ssb.msk.ru/www.ssb.msk.ru.log.xz
+  size: 19732
+  modified: '2014-05-09T17:37:58'
+  type: wpull log
+  extension: .xz
+- name: www.ssb.msk.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ssb.msk.ru/www.ssb.msk.ru.warc.xz
+  size: 30802604
+  modified: '2014-05-09T17:37:58'
+  type: WARC
+  extension: .xz
+- name: www.ssb.msk.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ssb.msk.ru/www.ssb.msk.ru.7z
+  size: 30925057
+  modified: '2014-08-20T01:25:25'
+  type: ''
+  extension: .7z
+- name: www.ssb.msk.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ssb.msk.ru/www.ssb.msk.ru.cdx.xz
+  size: 32548
+  modified: '2014-05-09T17:37:58'
+  type: CDX
+  extension: .xz
+url: https://ssb.msk.ru
+created: '2014-05-09T17:37:58'

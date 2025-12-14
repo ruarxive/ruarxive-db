@@ -1,0 +1,28 @@
+id: kartofel-org
+name: kartofel.org (2013-12-17)
+domain: kartofel.org
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: kartofel.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/kartofel.org/kartofel.org.warc.xz
+  size: 283129420
+  modified: '2013-12-17T13:42:07'
+  type: WARC
+  extension: .xz
+- name: kartofel.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/kartofel.org/kartofel.org.log.xz
+  size: 74440
+  modified: '2013-12-17T13:43:16'
+  type: wpull log
+  extension: .xz
+- name: kartofel.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/kartofel.org/kartofel.org.cdx.xz
+  size: 71652
+  modified: '2013-12-17T13:43:15'
+  type: CDX
+  extension: .xz
+url: https://kartofel.org
+created: '2013-12-17T13:42:07'

@@ -1,0 +1,46 @@
+id: yasenevo2-info-2017-09-07-8d821043
+name: yasenevo2.info (2017-09-07)
+domain: yasenevo2.info
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: yasenevo2.info-2017-09-07-8d821043-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yasenevo2.info-2017-09-07-8d821043/yasenevo2.info-2017-09-07-8d821043-00000.warc.gz
+  size: 5368741437
+  modified: '2017-09-08T06:17:51'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yasenevo2.info-2017-09-07-8d821043/wpull.db
+  size: 14749696
+  modified: '2017-09-08T10:57:06'
+  type: wpull database
+  extension: .db
+- name: yasenevo2.info-2017-09-07-8d821043-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yasenevo2.info-2017-09-07-8d821043/yasenevo2.info-2017-09-07-8d821043-00001.warc.gz
+  size: 1797378630
+  modified: '2017-09-08T10:57:05'
+  type: WARC
+  extension: .warc.gz
+- name: yasenevo2.info-2017-09-07-8d821043.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yasenevo2.info-2017-09-07-8d821043/yasenevo2.info-2017-09-07-8d821043.cdx
+  size: 11834032
+  modified: '2017-09-08T10:57:05'
+  type: CDX
+  extension: .cdx
+- name: yasenevo2.info-2017-09-07-8d821043-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yasenevo2.info-2017-09-07-8d821043/yasenevo2.info-2017-09-07-8d821043-meta.warc.gz
+  size: 1331013
+  modified: '2017-09-08T10:57:07'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/yasenevo2.info-2017-09-07-8d821043/dupes_db/data.mdb
+  size: 7004160
+  modified: '2017-09-08T10:57:05'
+  type: ''
+  extension: .mdb
+url: https://yasenevo2.info
+created: '2017-09-07'

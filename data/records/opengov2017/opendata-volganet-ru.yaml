@@ -1,0 +1,34 @@
+id: opendata-volganet-ru
+name: opendata.volganet.ru (2017-02-18)
+domain: opendata.volganet.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: opendata.volganet.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.volganet.ru/opendata.volganet.ru.warc.gz
+  size: 76993972
+  modified: '2017-02-18T15:32:37'
+  type: WARC
+  extension: .warc.gz
+- name: opendata.volganet.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.volganet.ru/opendata.volganet.ru.log
+  size: 2264298
+  modified: '2017-02-18T15:32:37'
+  type: ''
+  extension: .log
+- name: opendata.volganet.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.volganet.ru/opendata.volganet.ru.7z
+  size: 13676624
+  modified: '2017-02-26T12:22:24'
+  type: ''
+  extension: .7z
+- name: opendata.volganet.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.volganet.ru/opendata.volganet.ru.cdx
+  size: 822551
+  modified: '2017-02-18T15:32:37'
+  type: CDX
+  extension: .cdx
+url: https://opendata.volganet.ru
+created: '2017-02-18T15:32:37'

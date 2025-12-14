@@ -1,0 +1,40 @@
+id: perechen-vak2-ed-gov-ru-2017-05-27-88f03216
+name: perechen.vak2.ed.gov.ru (2017-05-27)
+domain: perechen.vak2.ed.gov.ru
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/perechen.vak2.ed.gov.ru-2017-05-27-88f03216/wpull.db
+  size: 25600
+  modified: '2017-05-31T18:16:33'
+  type: wpull database
+  extension: .db
+- name: perechen.vak2.ed.gov.ru-2017-05-27-88f03216-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/perechen.vak2.ed.gov.ru-2017-05-27-88f03216/perechen.vak2.ed.gov.ru-2017-05-27-88f03216-00000.warc.gz
+  size: 2529709
+  modified: '2017-05-31T18:16:45'
+  type: WARC
+  extension: .warc.gz
+- name: perechen.vak2.ed.gov.ru-2017-05-27-88f03216-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/perechen.vak2.ed.gov.ru-2017-05-27-88f03216/perechen.vak2.ed.gov.ru-2017-05-27-88f03216-meta.warc.gz
+  size: 4826
+  modified: '2017-05-31T18:17:23'
+  type: WARC
+  extension: .warc.gz
+- name: perechen.vak2.ed.gov.ru-2017-05-27-88f03216.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/perechen.vak2.ed.gov.ru-2017-05-27-88f03216/perechen.vak2.ed.gov.ru-2017-05-27-88f03216.cdx
+  size: 15432
+  modified: '2017-05-31T18:16:23'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/perechen.vak2.ed.gov.ru-2017-05-27-88f03216/dupes_db/data.mdb
+  size: 49152
+  modified: '2017-05-31T18:13:36'
+  type: ''
+  extension: .mdb
+url: https://perechen.vak2.ed.gov.ru
+created: '2017-05-27'

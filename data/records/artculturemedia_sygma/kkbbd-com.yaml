@@ -1,0 +1,24 @@
+id: kkbbd-com
+name: кимкибабадук
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-04-05T13:53:00.000Z'
+status: ожидает загрузки в хранилище
+status_id: awaiting-storage
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Ключевой сайт начала 20-х о российском кино и культуре с феминистких и деколониальных
+  позиций.
+reason_id: klyuchevoy-sayt-nachala-rossiyskom
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: высокий

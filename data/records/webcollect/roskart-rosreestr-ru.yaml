@@ -1,0 +1,16 @@
+id: roskart-rosreestr-ru
+name: roskart.rosreestr.ru.7z (2012-10-22)
+domain: roskart.rosreestr.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: roskart.rosreestr.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/roskart.rosreestr.ru.7z
+  size: 8672907
+  modified: '2012-10-22T10:06:25'
+  type: httrack archive
+  extension: .7z
+url: https://roskart.rosreestr.ru.7z
+created: '2012-10-22T10:06:25'

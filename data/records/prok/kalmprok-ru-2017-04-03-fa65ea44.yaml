@@ -1,0 +1,40 @@
+id: kalmprok-ru-2017-04-03-fa65ea44
+name: kalmprok.ru (2017-04-03)
+domain: kalmprok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kalmprok.ru-2017-04-03-fa65ea44/wpull.db
+  size: 8151040
+  modified: '2017-04-03T20:49:30'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kalmprok.ru-2017-04-03-fa65ea44/dupes_db/data.mdb
+  size: 3358720
+  modified: '2017-04-03T20:49:28'
+  type: ''
+  extension: .mdb
+- name: www.kalmprok.ru-2017-04-03-fa65ea44-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kalmprok.ru-2017-04-03-fa65ea44/www.kalmprok.ru-2017-04-03-fa65ea44-meta.warc.gz
+  size: 717356
+  modified: '2017-04-03T20:49:30'
+  type: WARC
+  extension: .warc.gz
+- name: www.kalmprok.ru-2017-04-03-fa65ea44.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kalmprok.ru-2017-04-03-fa65ea44/www.kalmprok.ru-2017-04-03-fa65ea44.cdx
+  size: 5802728
+  modified: '2017-04-03T20:49:28'
+  type: CDX
+  extension: .cdx
+- name: www.kalmprok.ru-2017-04-03-fa65ea44-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.kalmprok.ru-2017-04-03-fa65ea44/www.kalmprok.ru-2017-04-03-fa65ea44-00000.warc.gz
+  size: 728802302
+  modified: '2017-04-03T20:49:28'
+  type: WARC
+  extension: .warc.gz
+url: https://kalmprok.ru
+created: '2017-04-03'

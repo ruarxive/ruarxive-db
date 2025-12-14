@@ -1,0 +1,35 @@
+id: niron-inion-ru-20220414
+name: niron.inion.ru (2022-04-14)
+domain: niron.inion.ru
+url: https://niron.inion.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: niron.inion.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/niron.inion.ru/2022-04-14/niron.inion.ru.cdx
+  size: 919947
+  modified: '2022-04-14T10:46:32'
+  type: CDX
+  extension: .cdx
+- name: niron.inion.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/niron.inion.ru/2022-04-14/niron.inion.ru.log
+  size: 14087425
+  modified: '2022-04-14T10:46:38'
+  type: wpull log
+  extension: .log
+- name: niron.inion.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/niron.inion.ru/2022-04-14/niron.inion.ru.warc.gz
+  size: 26224649
+  modified: '2022-04-14T10:46:38'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-niron.inion.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/niron.inion.ru/2022-04-14/sitearchive-niron.inion.ru.db
+  size: 1683456
+  modified: '2022-04-14T10:46:38'
+  type: ''
+  extension: .db

@@ -1,0 +1,28 @@
+id: webinfo-mnhb-ru
+name: webinfo.mnhb.ru (2014-05-14)
+domain: webinfo.mnhb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: webinfo.mnhb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/webinfo.mnhb.ru/webinfo.mnhb.ru.log.xz
+  size: 276
+  modified: '2014-05-14T17:49:09'
+  type: wpull log
+  extension: .xz
+- name: webinfo.mnhb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/webinfo.mnhb.ru/webinfo.mnhb.ru.cdx.xz
+  size: 84
+  modified: '2014-05-14T17:49:09'
+  type: CDX
+  extension: .xz
+- name: webinfo.mnhb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/webinfo.mnhb.ru/webinfo.mnhb.ru.warc.xz
+  size: 1124
+  modified: '2014-05-14T17:49:09'
+  type: WARC
+  extension: .xz
+url: https://webinfo.mnhb.ru
+created: '2014-05-14T17:49:09'

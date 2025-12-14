@@ -1,0 +1,34 @@
+id: kostroma-arbitr-ru
+name: kostroma.arbitr.ru (2014-08-03)
+domain: kostroma.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: kostroma.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kostroma.arbitr.ru/kostroma.arbitr.ru.cdx.xz
+  size: 304048
+  modified: '2014-08-03T05:37:50'
+  type: CDX
+  extension: .xz
+- name: kostroma.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kostroma.arbitr.ru/kostroma.arbitr.ru.7z
+  size: 88184151
+  modified: '2014-08-09T10:03:55'
+  type: ''
+  extension: .7z
+- name: kostroma.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kostroma.arbitr.ru/kostroma.arbitr.ru.log.xz
+  size: 185172
+  modified: '2014-08-03T05:37:50'
+  type: wpull log
+  extension: .xz
+- name: kostroma.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kostroma.arbitr.ru/kostroma.arbitr.ru.warc.xz
+  size: 160941348
+  modified: '2014-08-03T05:37:50'
+  type: WARC
+  extension: .xz
+url: https://kostroma.arbitr.ru
+created: '2014-08-03T05:37:50'

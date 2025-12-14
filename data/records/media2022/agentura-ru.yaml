@@ -1,0 +1,29 @@
+id: agentura-ru
+name: Agentura.ru
+url: https://agentura.ru
+domain: agentura.ru
+created: '2022-03-28T14:25:49.000Z'
+date: '2022-03-20T14:26:00.000Z'
+status: собран
+status_id: collected
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Внесение организации в реестр иностранных агентов
+reason_id: foreign-agent-designation
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий
+resources:
+- type: WARC
+  name: agentura.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/media2022/agentura.ru/agentura.ru.warc.gz

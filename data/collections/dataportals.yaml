@@ -1,0 +1,172 @@
+id: dataportals
+slug: dataportals
+name: Порталы открытых данных
+num_records: 40
+records:
+- id: fias-nalog-ru-20120820
+  name: fias.nalog.ru (2012-08-20)
+  url: https://fias.nalog.ru
+  created: '2012-08-20'
+  domain: fias.nalog.ru
+- id: data-admhmao-ru-20220414
+  name: data.admhmao.ru (2022-04-14)
+  url: https://data.admhmao.ru
+  domain: data.admhmao.ru
+- id: data-ekburg-ru-20220414
+  name: data.ekburg.ru (2022-04-14)
+  url: https://data.ekburg.ru
+  domain: data.ekburg.ru
+- id: data-gov-ru-20220202
+  name: data.gov.ru (2022-02-02)
+  url: https://data.gov.ru
+  domain: data.gov.ru
+- id: data-gov-ru-20250715
+  name: data.gov.ru (2025-07-15)
+  url: https://data.gov.ru
+  domain: data.gov.ru
+- id: data-gov-ru-20250906
+  name: data.gov.ru (2025-09-06)
+  url: https://data.gov.ru
+  domain: data.gov.ru
+- id: data-kzn-ru-20220415
+  name: data.kzn.ru (2022-04-15)
+  url: https://data.kzn.ru
+  domain: data.kzn.ru
+- id: data-mos-gorsud-ru-20220416
+  name: data.mos-gorsud.ru (2022-04-16)
+  url: https://data.mos-gorsud.ru
+  domain: data.mos-gorsud.ru
+- id: data-mos-ru-20210701
+  name: data.mos.ru (2021-07-01)
+  url: https://data.mos.ru
+  domain: data.mos.ru
+- id: data-n-vartovsk-ru-20220416
+  name: data.n-vartovsk.ru (2022-04-16)
+  url: https://data.n-vartovsk.ru
+  domain: data.n-vartovsk.ru
+- id: data-sakhalin-gov-ru-20220416
+  name: data.sakhalin.gov.ru (2022-04-16)
+  url: https://data.sakhalin.gov.ru
+  domain: data.sakhalin.gov.ru
+- id: data-yanao-ru-20220415
+  name: data.yanao.ru (2022-04-15)
+  url: https://data.yanao.ru
+  domain: data.yanao.ru
+- id: fedstat-ru-20220410
+  name: fedstat.ru (2022-04-10)
+  url: https://fedstat.ru
+  domain: fedstat.ru
+- id: niron-inion-ru-20220414
+  name: niron.inion.ru (2022-04-14)
+  url: https://niron.inion.ru
+  domain: niron.inion.ru
+- id: old-od-kbr-ru-20220415
+  name: old.od.kbr.ru (2022-04-15)
+  url: https://old.od.kbr.ru
+  domain: old.od.kbr.ru
+- id: open-midural-ru-20220417
+  name: open.midural.ru (2022-04-17)
+  url: https://open.midural.ru
+  domain: open.midural.ru
+- id: opendata-49gov-ru-20220414
+  name: opendata.49gov.ru (2022-04-14)
+  url: https://opendata.49gov.ru
+  domain: opendata.49gov.ru
+- id: opendata-adm-ussuriisk-ru-20220416
+  name: opendata.adm-ussuriisk.ru (2022-04-16)
+  url: https://opendata.adm-ussuriisk.ru
+  domain: opendata.adm-ussuriisk.ru
+- id: opendata-admomsk-ru-20220415
+  name: opendata.admomsk.ru (2022-04-15)
+  url: https://opendata.admomsk.ru
+  domain: opendata.admomsk.ru
+- id: opendata-admrzn-ru-20220414
+  name: opendata.admrzn.ru (2022-04-14)
+  url: https://opendata.admrzn.ru
+  domain: opendata.admrzn.ru
+- id: opendata-barnaul-org-20220414
+  name: opendata.barnaul.org (2022-04-14)
+  url: https://opendata.barnaul.org
+  domain: opendata.barnaul.org
+- id: opendata-belregion-ru-20220414
+  name: opendata.belregion.ru (2022-04-14)
+  url: https://opendata.belregion.ru
+  domain: opendata.belregion.ru
+- id: opendata-cap-ru-20220414
+  name: opendata.cap.ru (2022-04-14)
+  url: https://opendata.cap.ru
+  domain: opendata.cap.ru
+- id: opendata-cheladmin-ru-20220415
+  name: opendata.cheladmin.ru (2022-04-15)
+  url: https://opendata.cheladmin.ru
+  domain: opendata.cheladmin.ru
+- id: opendata-krasnodar-ru-20220416
+  name: opendata.krasnodar.ru (2022-04-16)
+  url: https://opendata.krasnodar.ru
+  domain: opendata.krasnodar.ru
+- id: opendata-krd-ru-20220415
+  name: opendata.krd.ru (2022-04-15)
+  url: https://opendata.krd.ru
+  domain: opendata.krd.ru
+- id: opendata-mkrf-ru-20210613
+  name: opendata.mkrf.ru (2021-06-13)
+  url: https://opendata.mkrf.ru
+  domain: opendata.mkrf.ru
+- id: opendata-novo-sibirsk-ru-20220416
+  name: opendata.novo-sibirsk.ru (2022-04-16)
+  url: https://opendata.novo-sibirsk.ru
+  domain: opendata.novo-sibirsk.ru
+- id: opendata-perm-ru-20220416
+  name: opendata.perm.ru (2022-04-16)
+  url: https://opendata.perm.ru
+  domain: opendata.perm.ru
+- id: opendata-permkrai-ru-20220417
+  name: opendata.permkrai.ru (2022-04-17)
+  url: https://opendata.permkrai.ru
+  domain: opendata.permkrai.ru
+- id: opendata-rkomi-ru-20220414
+  name: opendata.rkomi.ru (2022-04-14)
+  url: https://opendata.rkomi.ru
+  domain: opendata.rkomi.ru
+- id: opendata-rostov-gorod-ru-20220415
+  name: opendata.rostov-gorod.ru (2022-04-15)
+  url: https://opendata.rostov-gorod.ru
+  domain: opendata.rostov-gorod.ru
+- id: opendata-samregion-ru-20220414
+  name: opendata.samregion.ru (2022-04-14)
+  url: https://opendata.samregion.ru
+  domain: opendata.samregion.ru
+- id: opendata-tver-ru-20220415
+  name: opendata.tver.ru (2022-04-15)
+  url: https://opendata.tver.ru
+  domain: opendata.tver.ru
+- id: opendata-ulgov-ru-20220414
+  name: opendata.ulgov.ru (2022-04-14)
+  url: https://opendata.ulgov.ru
+  domain: opendata.ulgov.ru
+- id: opendata-yarcloud-ru-20220417
+  name: opendata.yarcloud.ru (2022-04-17)
+  url: https://opendata.yarcloud.ru
+  domain: opendata.yarcloud.ru
+- id: rosstat-gov-ru-20220129
+  name: rosstat.gov.ru (2022-01-29)
+  url: https://rosstat.gov.ru
+  domain: rosstat.gov.ru
+- id: showdata-gks-ru-20220419
+  name: showdata.gks.ru (2022-04-19)
+  url: https://showdata.gks.ru
+  domain: showdata.gks.ru
+- id: stat-customs-ru-20220411
+  name: stat.customs.ru (2022-04-11)
+  url: https://stat.customs.ru
+  domain: stat.customs.ru
+- id: www-opendata71-ru-20220414
+  name: www.opendata71.ru (2022-04-14)
+  url: https://www.opendata71.ru
+  domain: www.opendata71.ru
+files:
+  total_count: 147
+  total_size: 50553764528
+  directories:
+  - datacollect
+  - dataportals

@@ -1,0 +1,46 @@
+id: mccme-ru-2017-06-28-df6008cc
+name: mccme.ru (2017-06-28)
+domain: mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: www.mccme.ru-2017-06-28-df6008cc-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mccme.ru-2017-06-28-df6008cc/www.mccme.ru-2017-06-28-df6008cc-00001.warc.gz
+  size: 4991778561
+  modified: '2017-06-29T05:15:33'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mccme.ru-2017-06-28-df6008cc/wpull.db
+  size: 7273472
+  modified: '2017-06-29T05:30:40'
+  type: wpull database
+  extension: .db
+- name: www.mccme.ru-2017-06-28-df6008cc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mccme.ru-2017-06-28-df6008cc/www.mccme.ru-2017-06-28-df6008cc-00000.warc.gz
+  size: 5410227280
+  modified: '2017-06-28T22:35:08'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mccme.ru-2017-06-28-df6008cc/dupes_db/data.mdb
+  size: 3760128
+  modified: '2017-06-29T04:33:01'
+  type: ''
+  extension: .mdb
+- name: www.mccme.ru-2017-06-28-df6008cc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mccme.ru-2017-06-28-df6008cc/www.mccme.ru-2017-06-28-df6008cc-meta.warc.gz
+  size: 902779
+  modified: '2017-06-29T05:30:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.mccme.ru-2017-06-28-df6008cc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mccme.ru-2017-06-28-df6008cc/www.mccme.ru-2017-06-28-df6008cc.cdx
+  size: 7781800
+  modified: '2017-06-29T04:33:02'
+  type: CDX
+  extension: .cdx
+url: https://mccme.ru
+created: '2017-06-28'

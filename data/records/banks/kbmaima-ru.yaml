@@ -1,0 +1,28 @@
+id: kbmaima-ru
+name: kbmaima.ru (2013-12-18)
+domain: kbmaima.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: kbmaima.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kbmaima.ru/kbmaima.ru.warc.xz
+  size: 1469524
+  modified: '2013-12-18T09:54:07'
+  type: WARC
+  extension: .xz
+- name: kbmaima.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kbmaima.ru/kbmaima.ru.cdx.xz
+  size: 21964
+  modified: '2013-12-18T09:54:09'
+  type: CDX
+  extension: .xz
+- name: kbmaima.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/kbmaima.ru/kbmaima.ru.log.xz
+  size: 13996
+  modified: '2013-12-18T09:54:09'
+  type: wpull log
+  extension: .xz
+url: https://kbmaima.ru
+created: '2013-12-18T09:54:07'

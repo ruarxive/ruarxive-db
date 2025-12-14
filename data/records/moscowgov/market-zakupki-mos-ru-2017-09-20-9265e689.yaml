@@ -1,0 +1,40 @@
+id: market-zakupki-mos-ru-2017-09-20-9265e689
+name: market.zakupki.mos.ru (2017-09-20)
+domain: market.zakupki.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: market.zakupki.mos.ru-2017-09-20-9265e689-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/market.zakupki.mos.ru-2017-09-20-9265e689/market.zakupki.mos.ru-2017-09-20-9265e689-meta.warc.gz
+  size: 567130
+  modified: '2017-09-20T14:09:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/market.zakupki.mos.ru-2017-09-20-9265e689/wpull.db
+  size: 6368256
+  modified: '2017-09-20T14:09:41'
+  type: wpull database
+  extension: .db
+- name: market.zakupki.mos.ru-2017-09-20-9265e689-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/market.zakupki.mos.ru-2017-09-20-9265e689/market.zakupki.mos.ru-2017-09-20-9265e689-00000.warc.gz
+  size: 500903392
+  modified: '2017-09-20T14:09:40'
+  type: WARC
+  extension: .warc.gz
+- name: market.zakupki.mos.ru-2017-09-20-9265e689.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/market.zakupki.mos.ru-2017-09-20-9265e689/market.zakupki.mos.ru-2017-09-20-9265e689.cdx
+  size: 6460795
+  modified: '2017-09-20T14:09:40'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/market.zakupki.mos.ru-2017-09-20-9265e689/dupes_db/data.mdb
+  size: 3698688
+  modified: '2017-09-20T14:09:40'
+  type: ''
+  extension: .mdb
+url: https://market.zakupki.mos.ru
+created: '2017-09-20'

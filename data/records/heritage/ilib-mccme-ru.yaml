@@ -1,0 +1,34 @@
+id: ilib-mccme-ru
+name: ilib.mccme.ru (2014-08-22)
+domain: ilib.mccme.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: ilib.mccme.ru.warc.lzo
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/ilib.mccme.ru/ilib.mccme.ru.warc.lzo
+  size: 51568281540
+  modified: '2014-08-22T16:22:27'
+  type: ''
+  extension: .lzo
+- name: ilib.mccme.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/ilib.mccme.ru/ilib.mccme.ru.log.xz
+  size: 2026732
+  modified: '2014-08-22T16:22:27'
+  type: wpull log
+  extension: .xz
+- name: ilib.mccme.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/ilib.mccme.ru/ilib.mccme.ru.7z
+  size: 51109459831
+  modified: '2014-11-30T01:22:53'
+  type: ''
+  extension: .7z
+- name: ilib.mccme.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/ilib.mccme.ru/ilib.mccme.ru.cdx.xz
+  size: 353240
+  modified: '2014-08-22T16:22:26'
+  type: CDX
+  extension: .xz
+url: https://ilib.mccme.ru
+created: '2014-08-22T16:22:26'

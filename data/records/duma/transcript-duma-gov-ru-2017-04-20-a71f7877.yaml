@@ -1,0 +1,40 @@
+id: transcript-duma-gov-ru-2017-04-20-a71f7877
+name: transcript.duma.gov.ru (2017-04-20)
+domain: transcript.duma.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: transcript.duma.gov.ru-2017-04-20-a71f7877.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/transcript.duma.gov.ru-2017-04-20-a71f7877/transcript.duma.gov.ru-2017-04-20-a71f7877.cdx
+  size: 853440
+  modified: '2017-04-20T17:23:44'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/transcript.duma.gov.ru-2017-04-20-a71f7877/dupes_db/data.mdb
+  size: 204800
+  modified: '2017-04-20T17:23:44'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/transcript.duma.gov.ru-2017-04-20-a71f7877/wpull.db
+  size: 527360
+  modified: '2017-04-20T17:23:44'
+  type: wpull database
+  extension: .db
+- name: transcript.duma.gov.ru-2017-04-20-a71f7877-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/transcript.duma.gov.ru-2017-04-20-a71f7877/transcript.duma.gov.ru-2017-04-20-a71f7877-meta.warc.gz
+  size: 72318
+  modified: '2017-04-20T17:23:44'
+  type: WARC
+  extension: .warc.gz
+- name: transcript.duma.gov.ru-2017-04-20-a71f7877-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/transcript.duma.gov.ru-2017-04-20-a71f7877/transcript.duma.gov.ru-2017-04-20-a71f7877-00000.warc.gz
+  size: 44830339
+  modified: '2017-04-20T17:23:44'
+  type: WARC
+  extension: .warc.gz
+url: https://transcript.duma.gov.ru
+created: '2017-04-20'

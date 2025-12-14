@@ -1,0 +1,40 @@
+id: declaration-rostrud-ru-2017-05-15-2eee4ba1
+name: declaration.rostrud.ru (2017-05-15)
+domain: declaration.rostrud.ru
+collection:
+  id: rostrud
+  slug: rostrud
+  name: Роструд
+resources:
+- name: declaration.rostrud.ru-2017-05-15-2eee4ba1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/declaration.rostrud.ru-2017-05-15-2eee4ba1/declaration.rostrud.ru-2017-05-15-2eee4ba1-00000.warc.gz
+  size: 37336884
+  modified: '2017-05-15T08:36:45'
+  type: WARC
+  extension: .warc.gz
+- name: declaration.rostrud.ru-2017-05-15-2eee4ba1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/declaration.rostrud.ru-2017-05-15-2eee4ba1/declaration.rostrud.ru-2017-05-15-2eee4ba1-meta.warc.gz
+  size: 50686
+  modified: '2017-05-15T08:36:46'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/declaration.rostrud.ru-2017-05-15-2eee4ba1/dupes_db/data.mdb
+  size: 344064
+  modified: '2017-05-15T08:36:45'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/declaration.rostrud.ru-2017-05-15-2eee4ba1/wpull.db
+  size: 516096
+  modified: '2017-05-15T08:36:45'
+  type: wpull database
+  extension: .db
+- name: declaration.rostrud.ru-2017-05-15-2eee4ba1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/declaration.rostrud.ru-2017-05-15-2eee4ba1/declaration.rostrud.ru-2017-05-15-2eee4ba1.cdx
+  size: 520333
+  modified: '2017-05-15T08:36:45'
+  type: CDX
+  extension: .cdx
+url: https://declaration.rostrud.ru
+created: '2017-05-15'

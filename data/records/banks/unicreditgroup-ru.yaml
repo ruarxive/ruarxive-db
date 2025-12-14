@@ -1,0 +1,34 @@
+id: unicreditgroup-ru
+name: unicreditgroup.ru (2014-05-08)
+domain: unicreditgroup.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.unicreditgroup.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unicreditgroup.ru/www.unicreditgroup.ru.cdx.xz
+  size: 556
+  modified: '2014-05-08T18:37:44'
+  type: CDX
+  extension: .xz
+- name: www.unicreditgroup.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unicreditgroup.ru/www.unicreditgroup.ru.warc.xz
+  size: 10264
+  modified: '2014-05-08T18:37:44'
+  type: WARC
+  extension: .xz
+- name: www.unicreditgroup.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unicreditgroup.ru/www.unicreditgroup.ru.log.xz
+  size: 680
+  modified: '2014-05-08T18:37:44'
+  type: wpull log
+  extension: .xz
+- name: www.unicreditgroup.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.unicreditgroup.ru/www.unicreditgroup.ru.7z
+  size: 7809
+  modified: '2014-08-20T10:08:45'
+  type: ''
+  extension: .7z
+url: https://unicreditgroup.ru
+created: '2014-05-08T18:37:44'

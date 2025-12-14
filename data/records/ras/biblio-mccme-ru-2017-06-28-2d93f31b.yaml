@@ -1,0 +1,40 @@
+id: biblio-mccme-ru-2017-06-28-2d93f31b
+name: biblio.mccme.ru (2017-06-28)
+domain: biblio.mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/biblio.mccme.ru-2017-06-28-2d93f31b/dupes_db/data.mdb
+  size: 2686976
+  modified: '2017-06-29T00:13:46'
+  type: ''
+  extension: .mdb
+- name: biblio.mccme.ru-2017-06-28-2d93f31b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/biblio.mccme.ru-2017-06-28-2d93f31b/biblio.mccme.ru-2017-06-28-2d93f31b-meta.warc.gz
+  size: 344745
+  modified: '2017-06-29T00:13:49'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/biblio.mccme.ru-2017-06-28-2d93f31b/wpull.db
+  size: 9870336
+  modified: '2017-06-29T00:13:47'
+  type: wpull database
+  extension: .db
+- name: biblio.mccme.ru-2017-06-28-2d93f31b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/biblio.mccme.ru-2017-06-28-2d93f31b/biblio.mccme.ru-2017-06-28-2d93f31b.cdx
+  size: 4975624
+  modified: '2017-06-29T00:13:47'
+  type: CDX
+  extension: .cdx
+- name: biblio.mccme.ru-2017-06-28-2d93f31b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/biblio.mccme.ru-2017-06-28-2d93f31b/biblio.mccme.ru-2017-06-28-2d93f31b-00000.warc.gz
+  size: 163989890
+  modified: '2017-06-29T00:13:47'
+  type: WARC
+  extension: .warc.gz
+url: https://biblio.mccme.ru
+created: '2017-06-28'

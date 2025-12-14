@@ -1,0 +1,34 @@
+id: data-admhmao-ru
+name: data.admhmao.ru (2017-02-18)
+domain: data.admhmao.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: data.admhmao.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.admhmao.ru/data.admhmao.ru.warc.gz
+  size: 23254787
+  modified: '2017-02-18T16:35:29'
+  type: WARC
+  extension: .warc.gz
+- name: data.admhmao.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.admhmao.ru/data.admhmao.ru.7z
+  size: 7680081
+  modified: '2017-02-21T18:23:38'
+  type: ''
+  extension: .7z
+- name: data.admhmao.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.admhmao.ru/data.admhmao.ru.cdx
+  size: 1027813
+  modified: '2017-02-18T16:35:29'
+  type: CDX
+  extension: .cdx
+- name: data.admhmao.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/data.admhmao.ru/data.admhmao.ru.log
+  size: 1729482
+  modified: '2017-02-18T16:35:29'
+  type: ''
+  extension: .log
+url: https://data.admhmao.ru
+created: '2017-02-18T16:35:29'

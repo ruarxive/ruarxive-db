@@ -1,0 +1,40 @@
+id: prokuratura-nerchinsk-ru-2017-04-04-5aff4957
+name: prokuratura-nerchinsk.ru (2017-04-04)
+domain: prokuratura-nerchinsk.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: prokuratura-nerchinsk.ru-2017-04-04-5aff4957-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nerchinsk.ru-2017-04-04-5aff4957/prokuratura-nerchinsk.ru-2017-04-04-5aff4957-meta.warc.gz
+  size: 29616
+  modified: '2017-04-04T08:31:54'
+  type: WARC
+  extension: .warc.gz
+- name: prokuratura-nerchinsk.ru-2017-04-04-5aff4957-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nerchinsk.ru-2017-04-04-5aff4957/prokuratura-nerchinsk.ru-2017-04-04-5aff4957-00000.warc.gz
+  size: 5860735
+  modified: '2017-04-04T08:31:54'
+  type: WARC
+  extension: .warc.gz
+- name: prokuratura-nerchinsk.ru-2017-04-04-5aff4957.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nerchinsk.ru-2017-04-04-5aff4957/prokuratura-nerchinsk.ru-2017-04-04-5aff4957.cdx
+  size: 303202
+  modified: '2017-04-04T08:31:54'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nerchinsk.ru-2017-04-04-5aff4957/wpull.db
+  size: 290816
+  modified: '2017-04-04T08:31:54'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-nerchinsk.ru-2017-04-04-5aff4957/dupes_db/data.mdb
+  size: 176128
+  modified: '2017-04-04T08:31:14'
+  type: ''
+  extension: .mdb
+url: https://prokuratura-nerchinsk.ru
+created: '2017-04-04'

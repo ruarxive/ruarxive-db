@@ -1,0 +1,34 @@
+id: buran-ru
+name: buran.ru (2015-05-06)
+domain: buran.ru
+collection:
+  id: bannedrus
+  slug: bannedrus
+  name: Заблокированные сайты
+resources:
+- name: www.buran.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/www.buran.ru/www.buran.ru.7z
+  size: 9708823171
+  modified: '2015-05-17T15:48:01'
+  type: ''
+  extension: .7z
+- name: www.buran.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/www.buran.ru/www.buran.ru.log
+  size: 23777678
+  modified: '2015-05-06T10:25:46'
+  type: ''
+  extension: .log
+- name: www.buran.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/www.buran.ru/www.buran.ru.warc.xz
+  size: 9528915928
+  modified: '2015-05-06T10:25:46'
+  type: WARC
+  extension: .xz
+- name: www.buran.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/www.buran.ru/www.buran.ru.cdx
+  size: 3149762
+  modified: '2015-05-06T10:25:46'
+  type: CDX
+  extension: .cdx
+url: https://buran.ru
+created: '2015-05-06T10:25:46'

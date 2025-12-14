@@ -1,0 +1,16 @@
+id: old-rosim-ru
+name: old.rosim.ru.7z (2013-08-13)
+domain: old.rosim.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: www.old.rosim.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/www.old.rosim.ru.7z
+  size: 513945831
+  modified: '2013-08-13T13:31:08'
+  type: httrack archive
+  extension: .7z
+url: https://old.rosim.ru.7z
+created: '2013-08-13T13:31:08'

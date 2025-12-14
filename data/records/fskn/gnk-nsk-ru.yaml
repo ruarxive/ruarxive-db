@@ -1,0 +1,34 @@
+id: gnk-nsk-ru
+name: gnk.nsk.ru (2016-06-08)
+domain: gnk.nsk.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: gnk.nsk.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/gnk.nsk.ru/gnk.nsk.ru.log
+  size: 6536138
+  modified: '2016-06-08T00:20:00'
+  type: ''
+  extension: .log
+- name: gnk.nsk.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/gnk.nsk.ru/gnk.nsk.ru.7z
+  size: 339779720
+  modified: '2016-09-27T20:36:14'
+  type: ''
+  extension: .7z
+- name: gnk.nsk.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/gnk.nsk.ru/gnk.nsk.ru.warc.gz
+  size: 427425435
+  modified: '2016-06-08T00:20:00'
+  type: WARC
+  extension: .warc.gz
+- name: gnk.nsk.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/gnk.nsk.ru/gnk.nsk.ru.cdx
+  size: 3785090
+  modified: '2016-06-08T00:20:00'
+  type: CDX
+  extension: .cdx
+url: https://gnk.nsk.ru
+created: '2016-06-08T00:20:00'

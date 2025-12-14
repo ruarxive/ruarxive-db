@@ -1,0 +1,28 @@
+id: bdsa-minjust-ru
+name: bdsa.minjust.ru (2013-11-04)
+domain: bdsa.minjust.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: bdsa.minjust.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/bdsa.minjust.ru/bdsa.minjust.ru.log.xz
+  size: 4164
+  modified: '2013-11-04T12:52:59'
+  type: wpull log
+  extension: .xz
+- name: bdsa.minjust.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/bdsa.minjust.ru/bdsa.minjust.ru.cdx.xz
+  size: 5372
+  modified: '2013-11-04T12:52:58'
+  type: CDX
+  extension: .xz
+- name: bdsa.minjust.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/bdsa.minjust.ru/bdsa.minjust.ru.warc.xz
+  size: 215820
+  modified: '2013-11-04T12:52:58'
+  type: WARC
+  extension: .xz
+url: https://bdsa.minjust.ru
+created: '2013-11-04T12:52:58'

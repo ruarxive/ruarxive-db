@@ -1,0 +1,40 @@
+id: sport-mos-ru-2017-08-20-296b067d
+name: sport.mos.ru (2017-08-20)
+domain: sport.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: sport.mos.ru-2017-08-20-296b067d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sport.mos.ru-2017-08-20-296b067d/sport.mos.ru-2017-08-20-296b067d.cdx
+  size: 140252
+  modified: '2017-08-20T16:28:11'
+  type: CDX
+  extension: .cdx
+- name: sport.mos.ru-2017-08-20-296b067d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sport.mos.ru-2017-08-20-296b067d/sport.mos.ru-2017-08-20-296b067d-meta.warc.gz
+  size: 19446
+  modified: '2017-08-20T16:28:12'
+  type: WARC
+  extension: .warc.gz
+- name: sport.mos.ru-2017-08-20-296b067d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sport.mos.ru-2017-08-20-296b067d/sport.mos.ru-2017-08-20-296b067d-00000.warc.gz
+  size: 1689762
+  modified: '2017-08-20T16:28:11'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sport.mos.ru-2017-08-20-296b067d/wpull.db
+  size: 156672
+  modified: '2017-08-20T16:28:12'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sport.mos.ru-2017-08-20-296b067d/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-08-20T16:28:07'
+  type: ''
+  extension: .mdb
+url: https://sport.mos.ru
+created: '2017-08-20'

@@ -1,0 +1,34 @@
+id: selmashbank-ru
+name: selmashbank.ru (2014-05-09)
+domain: selmashbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.selmashbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.selmashbank.ru/www.selmashbank.ru.7z
+  size: 7946552
+  modified: '2014-08-19T22:06:13'
+  type: ''
+  extension: .7z
+- name: www.selmashbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.selmashbank.ru/www.selmashbank.ru.warc.xz
+  size: 7917604
+  modified: '2014-05-09T15:05:22'
+  type: WARC
+  extension: .xz
+- name: www.selmashbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.selmashbank.ru/www.selmashbank.ru.cdx.xz
+  size: 9036
+  modified: '2014-05-09T15:05:22'
+  type: CDX
+  extension: .xz
+- name: www.selmashbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.selmashbank.ru/www.selmashbank.ru.log.xz
+  size: 7424
+  modified: '2014-05-09T15:05:22'
+  type: wpull log
+  extension: .xz
+url: https://selmashbank.ru
+created: '2014-05-09T15:05:22'

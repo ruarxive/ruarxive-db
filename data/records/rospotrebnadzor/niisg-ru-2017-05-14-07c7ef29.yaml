@@ -1,0 +1,40 @@
+id: niisg-ru-2017-05-14-07c7ef29
+name: niisg.ru (2017-05-14)
+domain: niisg.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: niisg.ru-2017-05-14-07c7ef29.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/niisg.ru-2017-05-14-07c7ef29/niisg.ru-2017-05-14-07c7ef29.cdx
+  size: 2275167
+  modified: '2017-05-14T18:27:51'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/niisg.ru-2017-05-14-07c7ef29/wpull.db
+  size: 3591168
+  modified: '2017-05-14T18:27:52'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/niisg.ru-2017-05-14-07c7ef29/dupes_db/data.mdb
+  size: 1077248
+  modified: '2017-05-14T18:18:17'
+  type: ''
+  extension: .mdb
+- name: niisg.ru-2017-05-14-07c7ef29-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/niisg.ru-2017-05-14-07c7ef29/niisg.ru-2017-05-14-07c7ef29-meta.warc.gz
+  size: 256310
+  modified: '2017-05-14T18:27:52'
+  type: WARC
+  extension: .warc.gz
+- name: niisg.ru-2017-05-14-07c7ef29-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/niisg.ru-2017-05-14-07c7ef29/niisg.ru-2017-05-14-07c7ef29-00000.warc.gz
+  size: 239655530
+  modified: '2017-05-14T18:27:51'
+  type: WARC
+  extension: .warc.gz
+url: https://niisg.ru
+created: '2017-05-14'

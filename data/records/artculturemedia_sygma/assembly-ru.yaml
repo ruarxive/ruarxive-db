@@ -1,0 +1,20 @@
+id: assembly-ru
+name: Ассамблея
+url: https://assembly.ru/
+domain: assembly.ru
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-04-05T16:29:00.000Z'
+status: невозможно собрать
+status_id: impossible
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Важная художественная инициатива в Санкт-Петербурге
+reason_id: vazhnaya-hudozhestvennaya-initsiativa-sankt
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: высокий

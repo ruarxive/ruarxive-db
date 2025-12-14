@@ -1,0 +1,25 @@
+id: samizdat-wiki
+name: Архив журнала Часы
+url: https://samizdat.wiki/
+domain: samizdat.wiki
+created: '2022-03-29T15:43:19.000Z'
+date: '2022-04-11T15:59:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Электронный архив Центра Андрея Белого - отсканированные
+reason_id: elektronnyy-arhiv-tsentra-andreya
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: высокий

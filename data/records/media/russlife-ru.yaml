@@ -1,0 +1,16 @@
+id: russlife-ru
+name: russlife.ru (2017-07-05)
+domain: russlife.ru
+collection:
+  id: media
+  slug: media
+  name: Онлайн СМИ
+resources:
+- name: russlife.ru.zip
+  url: https://cdn.ruarxive.org/public/webarchive/media/russlife.ru/russlife.ru.zip
+  size: 41352511
+  modified: '2017-07-05T20:38:30'
+  type: Archive.org extraction
+  extension: .zip
+url: https://russlife.ru
+created: '2017-07-05T20:38:30'

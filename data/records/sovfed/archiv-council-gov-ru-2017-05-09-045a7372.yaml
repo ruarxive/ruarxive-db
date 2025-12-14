@@ -1,0 +1,46 @@
+id: archiv-council-gov-ru-2017-05-09-045a7372
+name: archiv.council.gov.ru (2017-05-09)
+domain: archiv.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: archiv.council.gov.ru-2017-05-09-045a7372-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archiv.council.gov.ru-2017-05-09-045a7372/archiv.council.gov.ru-2017-05-09-045a7372-00000.warc.gz
+  size: 5368712462
+  modified: '2017-05-10T03:11:47'
+  type: WARC
+  extension: .warc.gz
+- name: archiv.council.gov.ru-2017-05-09-045a7372.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archiv.council.gov.ru-2017-05-09-045a7372/archiv.council.gov.ru-2017-05-09-045a7372.cdx
+  size: 38025191
+  modified: '2017-05-10T06:40:18'
+  type: CDX
+  extension: .cdx
+- name: archiv.council.gov.ru-2017-05-09-045a7372-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archiv.council.gov.ru-2017-05-09-045a7372/archiv.council.gov.ru-2017-05-09-045a7372-meta.warc.gz
+  size: 3255615
+  modified: '2017-05-10T06:40:21'
+  type: WARC
+  extension: .warc.gz
+- name: archiv.council.gov.ru-2017-05-09-045a7372-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archiv.council.gov.ru-2017-05-09-045a7372/archiv.council.gov.ru-2017-05-09-045a7372-00001.warc.gz
+  size: 831794066
+  modified: '2017-05-10T06:40:18'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archiv.council.gov.ru-2017-05-09-045a7372/dupes_db/data.mdb
+  size: 20402176
+  modified: '2017-05-10T04:09:54'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/archiv.council.gov.ru-2017-05-09-045a7372/wpull.db
+  size: 39882752
+  modified: '2017-05-10T06:40:18'
+  type: wpull database
+  extension: .db
+url: https://archiv.council.gov.ru
+created: '2017-05-09'

@@ -1,0 +1,55 @@
+id: ngofunds
+slug: ngofunds
+name: Фонды НКО
+num_records: 9
+records:
+- id: doshkolka-rybakovfond-ru-2017-05-20-49861c7d
+  name: doshkolka.rybakovfond.ru (2017-05-20)
+  url: https://doshkolka.rybakovfond.ru
+  created: '2017-05-20'
+  domain: doshkolka.rybakovfond.ru
+- id: iteacher-rybakovfond-ru-2017-05-20-3ba2c6d4
+  name: iteacher.rybakovfond.ru (2017-05-20)
+  url: https://iteacher.rybakovfond.ru
+  created: '2017-05-20'
+  domain: iteacher.rybakovfond.ru
+- id: komitetgi-ru-2017-05-20-45505618
+  name: komitetgi.ru (2017-05-20)
+  url: https://komitetgi.ru
+  created: '2017-05-20'
+  domain: komitetgi.ru
+- id: konkurs-rybakovfond-ru-2017-05-20-33fd6d26
+  name: konkurs.rybakovfond.ru (2017-05-20)
+  url: https://konkurs.rybakovfond.ru
+  created: '2017-05-20'
+  domain: konkurs.rybakovfond.ru
+- id: nps-rybakovfond-ru-2017-05-20-d1b9b66f
+  name: nps.rybakovfond.ru (2017-05-20)
+  url: https://nps.rybakovfond.ru
+  created: '2017-05-20'
+  domain: nps.rybakovfond.ru
+- id: old-rybakovfond-ru-2017-05-20-1617bf8d
+  name: old.rybakovfond.ru (2017-05-20)
+  url: https://old.rybakovfond.ru
+  created: '2017-05-20'
+  domain: old.rybakovfond.ru
+- id: r2-rybakovfond-ru-2017-05-20-9fd9382e
+  name: r2.rybakovfond.ru (2017-05-20)
+  url: https://r2.rybakovfond.ru
+  created: '2017-05-20'
+  domain: r2.rybakovfond.ru
+- id: rybakovfond-ru-2017-05-20-f47dbb2d
+  name: rybakovfond.ru (2017-05-20)
+  url: https://rybakovfond.ru
+  created: '2017-05-20'
+  domain: rybakovfond.ru
+- id: topschool-rybakovfond-ru-2017-05-20-6147c07a
+  name: topschool.rybakovfond.ru (2017-05-20)
+  url: https://topschool.rybakovfond.ru
+  created: '2017-05-20'
+  domain: topschool.rybakovfond.ru
+files:
+  total_count: 194
+  total_size: 4486193259
+  directories:
+  - webcollect2017

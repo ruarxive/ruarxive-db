@@ -1,0 +1,25 @@
+id: klnran-ru
+name: Комиссия по борьбе с лженаукой РАН при Президиуме Российской академии наук
+url: http://klnran.ru
+domain: klnran.ru
+created: '2022-04-05T03:23:54.000Z'
+date: '2022-04-05T07:43:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Сайт не обновлялся несколько лет
+reason_id: not-updated-3
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: science
+  name: Наука
+  slug: science
+source:
+  id: community
+  name: Сообщество
+priority: низкий

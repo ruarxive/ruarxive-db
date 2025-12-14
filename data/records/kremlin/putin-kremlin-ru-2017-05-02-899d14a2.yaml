@@ -1,0 +1,40 @@
+id: putin-kremlin-ru-2017-05-02-899d14a2
+name: putin.kremlin.ru (2017-05-02)
+domain: putin.kremlin.ru
+collection:
+  id: kremlin
+  slug: kremlin
+  name: Администрация Президента РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/putin.kremlin.ru-2017-05-02-899d14a2/wpull.db
+  size: 4268032
+  modified: '2017-05-02T23:48:30'
+  type: wpull database
+  extension: .db
+- name: putin.kremlin.ru-2017-05-02-899d14a2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/putin.kremlin.ru-2017-05-02-899d14a2/putin.kremlin.ru-2017-05-02-899d14a2.cdx
+  size: 3962990
+  modified: '2017-05-02T23:48:30'
+  type: CDX
+  extension: .cdx
+- name: putin.kremlin.ru-2017-05-02-899d14a2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/putin.kremlin.ru-2017-05-02-899d14a2/putin.kremlin.ru-2017-05-02-899d14a2-00000.warc.gz
+  size: 930217593
+  modified: '2017-05-02T23:48:30'
+  type: WARC
+  extension: .warc.gz
+- name: putin.kremlin.ru-2017-05-02-899d14a2-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/putin.kremlin.ru-2017-05-02-899d14a2/putin.kremlin.ru-2017-05-02-899d14a2-meta.warc.gz
+  size: 537026
+  modified: '2017-05-02T23:48:31'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/kremlin/putin.kremlin.ru-2017-05-02-899d14a2/dupes_db/data.mdb
+  size: 2396160
+  modified: '2017-05-02T23:44:08'
+  type: ''
+  extension: .mdb
+url: https://putin.kremlin.ru
+created: '2017-05-02'

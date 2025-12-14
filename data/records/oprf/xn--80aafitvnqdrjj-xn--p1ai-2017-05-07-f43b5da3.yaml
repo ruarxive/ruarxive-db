@@ -1,0 +1,52 @@
+id: xn--80aafitvnqdrjj-xn--p1ai-2017-05-07-f43b5da3
+name: xn--80aafitvnqdrjj.xn--p1ai (2017-05-07)
+domain: xn--80aafitvnqdrjj.xn--p1ai
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3-00000.warc.gz
+  size: 5374781465
+  modified: '2017-05-07T11:01:52'
+  type: WARC
+  extension: .warc.gz
+- name: xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3-00001.warc.gz
+  size: 5368739824
+  modified: '2017-05-07T11:42:58'
+  type: WARC
+  extension: .warc.gz
+- name: xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3.cdx
+  size: 17106138
+  modified: '2017-05-07T12:07:29'
+  type: CDX
+  extension: .cdx
+- name: xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3-meta.warc.gz
+  size: 2851823
+  modified: '2017-05-07T12:07:30'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3/wpull.db
+  size: 21670912
+  modified: '2017-05-07T12:07:29'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3/dupes_db/data.mdb
+  size: 12533760
+  modified: '2017-05-07T12:07:29'
+  type: ''
+  extension: .mdb
+- name: xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3/xn--80aafitvnqdrjj.xn--p1ai-2017-05-07-f43b5da3-00002.warc.gz
+  size: 2414202740
+  modified: '2017-05-07T12:07:29'
+  type: WARC
+  extension: .warc.gz
+url: https://xn--80aafitvnqdrjj.xn--p1ai
+created: '2017-05-07'

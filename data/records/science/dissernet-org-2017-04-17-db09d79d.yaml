@@ -1,0 +1,40 @@
+id: dissernet-org-2017-04-17-db09d79d
+name: dissernet.org (2017-04-17)
+domain: dissernet.org
+collection:
+  id: science
+  slug: science
+  name: Наука
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/www.dissernet.org-2017-04-17-db09d79d/wpull.db
+  size: 80923648
+  modified: '2017-04-18T07:00:11'
+  type: wpull database
+  extension: .db
+- name: www.dissernet.org-2017-04-17-db09d79d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/www.dissernet.org-2017-04-17-db09d79d/www.dissernet.org-2017-04-17-db09d79d-00000.warc.gz
+  size: 4030983215
+  modified: '2017-04-18T06:59:47'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/www.dissernet.org-2017-04-17-db09d79d/dupes_db/data.mdb
+  size: 32407552
+  modified: '2017-04-18T06:59:17'
+  type: ''
+  extension: .mdb
+- name: www.dissernet.org-2017-04-17-db09d79d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/www.dissernet.org-2017-04-17-db09d79d/www.dissernet.org-2017-04-17-db09d79d.cdx
+  size: 74051677
+  modified: '2017-04-18T06:59:47'
+  type: CDX
+  extension: .cdx
+- name: www.dissernet.org-2017-04-17-db09d79d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/science/www.dissernet.org-2017-04-17-db09d79d/www.dissernet.org-2017-04-17-db09d79d-meta.warc.gz
+  size: 7501827
+  modified: '2017-04-18T07:00:11'
+  type: WARC
+  extension: .warc.gz
+url: https://dissernet.org
+created: '2017-04-17'

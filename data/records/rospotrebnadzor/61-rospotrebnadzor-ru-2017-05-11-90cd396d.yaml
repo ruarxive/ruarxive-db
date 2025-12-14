@@ -1,0 +1,40 @@
+id: 61-rospotrebnadzor-ru-2017-05-11-90cd396d
+name: 61.rospotrebnadzor.ru (2017-05-11)
+domain: 61.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: 61.rospotrebnadzor.ru-2017-05-11-90cd396d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/61.rospotrebnadzor.ru-2017-05-11-90cd396d/61.rospotrebnadzor.ru-2017-05-11-90cd396d.cdx
+  size: 5136215
+  modified: '2017-05-11T19:45:45'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/61.rospotrebnadzor.ru-2017-05-11-90cd396d/dupes_db/data.mdb
+  size: 3772416
+  modified: '2017-05-11T19:44:23'
+  type: ''
+  extension: .mdb
+- name: 61.rospotrebnadzor.ru-2017-05-11-90cd396d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/61.rospotrebnadzor.ru-2017-05-11-90cd396d/61.rospotrebnadzor.ru-2017-05-11-90cd396d-meta.warc.gz
+  size: 482147
+  modified: '2017-05-11T19:45:47'
+  type: WARC
+  extension: .warc.gz
+- name: 61.rospotrebnadzor.ru-2017-05-11-90cd396d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/61.rospotrebnadzor.ru-2017-05-11-90cd396d/61.rospotrebnadzor.ru-2017-05-11-90cd396d-00000.warc.gz
+  size: 1177874533
+  modified: '2017-05-11T19:45:45'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/61.rospotrebnadzor.ru-2017-05-11-90cd396d/wpull.db
+  size: 7808000
+  modified: '2017-05-11T19:45:46'
+  type: wpull database
+  extension: .db
+url: https://61.rospotrebnadzor.ru
+created: '2017-05-11'

@@ -1,0 +1,28 @@
+id: fizvosp-ru
+name: fizvosp.ru (2013-11-03)
+domain: fizvosp.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fizvosp.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fizvosp.ru/www.fizvosp.ru.warc.xz
+  size: 45845516
+  modified: '2013-11-03T23:22:48'
+  type: WARC
+  extension: .xz
+- name: www.fizvosp.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fizvosp.ru/www.fizvosp.ru.cdx.xz
+  size: 17468
+  modified: '2013-11-03T23:22:47'
+  type: CDX
+  extension: .xz
+- name: www.fizvosp.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fizvosp.ru/www.fizvosp.ru.log.xz
+  size: 15788
+  modified: '2013-11-03T23:22:47'
+  type: wpull log
+  extension: .xz
+url: https://fizvosp.ru
+created: '2013-11-03T23:22:48'

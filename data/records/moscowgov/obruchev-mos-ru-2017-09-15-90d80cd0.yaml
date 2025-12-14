@@ -1,0 +1,40 @@
+id: obruchev-mos-ru-2017-09-15-90d80cd0
+name: obruchev.mos.ru (2017-09-15)
+domain: obruchev.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: obruchev.mos.ru-2017-09-15-90d80cd0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/obruchev.mos.ru-2017-09-15-90d80cd0/obruchev.mos.ru-2017-09-15-90d80cd0-meta.warc.gz
+  size: 1947136
+  modified: '2017-09-17T17:32:43'
+  type: WARC
+  extension: .warc.gz
+- name: obruchev.mos.ru-2017-09-15-90d80cd0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/obruchev.mos.ru-2017-09-15-90d80cd0/obruchev.mos.ru-2017-09-15-90d80cd0-00000.warc.gz
+  size: 4121211978
+  modified: '2017-09-17T17:32:39'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/obruchev.mos.ru-2017-09-15-90d80cd0/dupes_db/data.mdb
+  size: 6246400
+  modified: '2017-09-17T17:32:38'
+  type: ''
+  extension: .mdb
+- name: obruchev.mos.ru-2017-09-15-90d80cd0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/obruchev.mos.ru-2017-09-15-90d80cd0/obruchev.mos.ru-2017-09-15-90d80cd0.cdx
+  size: 13386568
+  modified: '2017-09-17T17:32:38'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/obruchev.mos.ru-2017-09-15-90d80cd0/wpull.db
+  size: 17360896
+  modified: '2017-09-17T17:32:39'
+  type: wpull database
+  extension: .db
+url: https://obruchev.mos.ru
+created: '2017-09-15'

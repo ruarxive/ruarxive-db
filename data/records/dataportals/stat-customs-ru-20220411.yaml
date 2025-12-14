@@ -1,0 +1,17 @@
+id: stat-customs-ru-20220411
+name: stat.customs.ru (2022-04-11)
+domain: stat.customs.ru
+url: https://stat.customs.ru
+created: '2022-04-11'
+date: '2022-04-11'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: stat_customs_20220411.csv.gz
+  url: https://cdn.ruarxive.org/public/dataportals/stat.customs.ru/2022-04-11/stat_customs_20220411.csv.gz
+  size: 49377990
+  modified: '2022-04-11T11:46:12'
+  type: ''
+  extension: .gz

@@ -1,0 +1,40 @@
+id: fbuz35-ru-2017-05-14-0c40cc84
+name: fbuz35.ru (2017-05-14)
+domain: fbuz35.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fbuz35.ru-2017-05-14-0c40cc84/dupes_db/data.mdb
+  size: 589824
+  modified: '2017-05-14T17:20:17'
+  type: ''
+  extension: .mdb
+- name: fbuz35.ru-2017-05-14-0c40cc84.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fbuz35.ru-2017-05-14-0c40cc84/fbuz35.ru-2017-05-14-0c40cc84.cdx
+  size: 908086
+  modified: '2017-05-14T17:20:18'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fbuz35.ru-2017-05-14-0c40cc84/wpull.db
+  size: 1153024
+  modified: '2017-05-14T17:20:19'
+  type: wpull database
+  extension: .db
+- name: fbuz35.ru-2017-05-14-0c40cc84-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fbuz35.ru-2017-05-14-0c40cc84/fbuz35.ru-2017-05-14-0c40cc84-00000.warc.gz
+  size: 206250549
+  modified: '2017-05-14T17:20:18'
+  type: WARC
+  extension: .warc.gz
+- name: fbuz35.ru-2017-05-14-0c40cc84-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fbuz35.ru-2017-05-14-0c40cc84/fbuz35.ru-2017-05-14-0c40cc84-meta.warc.gz
+  size: 154210
+  modified: '2017-05-14T17:20:19'
+  type: WARC
+  extension: .warc.gz
+url: https://fbuz35.ru
+created: '2017-05-14'

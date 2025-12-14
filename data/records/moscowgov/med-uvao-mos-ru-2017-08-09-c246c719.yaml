@@ -1,0 +1,40 @@
+id: med-uvao-mos-ru-2017-08-09-c246c719
+name: med.uvao.mos.ru (2017-08-09)
+domain: med.uvao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: med.uvao.mos.ru-2017-08-09-c246c719-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.uvao.mos.ru-2017-08-09-c246c719/med.uvao.mos.ru-2017-08-09-c246c719-00000.warc.gz
+  size: 2229
+  modified: '2017-08-09T15:22:03'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.uvao.mos.ru-2017-08-09-c246c719/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-08-09T15:22:03'
+  type: ''
+  extension: .mdb
+- name: med.uvao.mos.ru-2017-08-09-c246c719-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.uvao.mos.ru-2017-08-09-c246c719/med.uvao.mos.ru-2017-08-09-c246c719-meta.warc.gz
+  size: 2917
+  modified: '2017-08-09T15:22:07'
+  type: WARC
+  extension: .warc.gz
+- name: med.uvao.mos.ru-2017-08-09-c246c719.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.uvao.mos.ru-2017-08-09-c246c719/med.uvao.mos.ru-2017-08-09-c246c719.cdx
+  size: 23
+  modified: '2017-08-09T15:22:03'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/med.uvao.mos.ru-2017-08-09-c246c719/wpull.db
+  size: 10240
+  modified: '2017-08-09T15:22:06'
+  type: wpull database
+  extension: .db
+url: https://med.uvao.mos.ru
+created: '2017-08-09'

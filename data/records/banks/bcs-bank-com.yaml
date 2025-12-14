@@ -1,0 +1,34 @@
+id: bcs-bank-com
+name: bcs-bank.com (2014-05-09)
+domain: bcs-bank.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bcs-bank.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bcs-bank.com/www.bcs-bank.com.cdx.xz
+  size: 316
+  modified: '2014-05-09T15:03:08'
+  type: CDX
+  extension: .xz
+- name: www.bcs-bank.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bcs-bank.com/www.bcs-bank.com.warc.xz
+  size: 9956
+  modified: '2014-05-09T15:03:08'
+  type: WARC
+  extension: .xz
+- name: www.bcs-bank.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bcs-bank.com/www.bcs-bank.com.log.xz
+  size: 596
+  modified: '2014-05-09T15:03:08'
+  type: wpull log
+  extension: .xz
+- name: www.bcs-bank.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bcs-bank.com/www.bcs-bank.com.7z
+  size: 8190
+  modified: '2014-08-19T08:12:37'
+  type: ''
+  extension: .7z
+url: https://bcs-bank.com
+created: '2014-05-09T15:03:08'

@@ -1,0 +1,76 @@
+id: xn--80aacf1bhw5ag-xn--p1ai
+name: xn--80aacf1bhw5ag.xn--p1ai (2016-05-06)
+domain: xn--80aacf1bhw5ag.xn--p1ai
+collection:
+  id: politics
+  slug: politics
+  name: Политика
+resources:
+- name: xn--80aacf1bhw5ag.xn--p1ai.7z.007
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.7z.007
+  size: 1048576000
+  modified: '2016-05-06T20:55:57'
+  type: ''
+  extension: '.007'
+- name: xn--80aacf1bhw5ag.xn--p1ai.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.warc.xz
+  size: 7322406136
+  modified: '2016-05-06T17:38:07'
+  type: WARC
+  extension: .xz
+- name: xn--80aacf1bhw5ag.xn--p1ai.7z.003
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.7z.003
+  size: 1048576000
+  modified: '2016-05-06T20:43:55'
+  type: ''
+  extension: '.003'
+- name: xn--80aacf1bhw5ag.xn--p1ai.7z.004
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.7z.004
+  size: 1048576000
+  modified: '2016-05-06T20:47:06'
+  type: ''
+  extension: '.004'
+- name: xn--80aacf1bhw5ag.xn--p1ai.log
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.log
+  size: 12520181
+  modified: '2016-05-06T17:38:07'
+  type: ''
+  extension: .log
+- name: xn--80aacf1bhw5ag.xn--p1ai.7z.006
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.7z.006
+  size: 1048576000
+  modified: '2016-05-06T20:53:07'
+  type: ''
+  extension: '.006'
+- name: xn--80aacf1bhw5ag.xn--p1ai.7z.001
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.7z.001
+  size: 1048576000
+  modified: '2016-05-06T20:56:12'
+  type: ''
+  extension: '.001'
+- name: xn--80aacf1bhw5ag.xn--p1ai.7z.005
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.7z.005
+  size: 1048576000
+  modified: '2016-05-06T20:50:20'
+  type: ''
+  extension: '.005'
+- name: xn--80aacf1bhw5ag.xn--p1ai.7z.002
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.7z.002
+  size: 1048576000
+  modified: '2016-05-06T20:40:19'
+  type: ''
+  extension: '.002'
+- name: xn--80aacf1bhw5ag.xn--p1ai.7z.008
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.7z.008
+  size: 12841527
+  modified: '2016-05-06T20:56:12'
+  type: ''
+  extension: '.008'
+- name: xn--80aacf1bhw5ag.xn--p1ai.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/politics/xn--80aacf1bhw5ag.xn--p1ai/xn--80aacf1bhw5ag.xn--p1ai.cdx
+  size: 439890
+  modified: '2016-05-06T17:38:07'
+  type: CDX
+  extension: .cdx
+url: https://xn--80aacf1bhw5ag.xn--p1ai
+created: '2016-05-06T17:38:07'

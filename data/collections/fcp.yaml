@@ -1,0 +1,90 @@
+id: fcp
+slug: fcp
+name: Федеральные целевые программы
+num_records: 16
+records:
+- id: fcntp-ru-2017-05-10-2043eed9
+  name: fcntp.ru (2017-05-10)
+  url: https://fcntp.ru
+  created: '2017-05-10'
+  domain: fcntp.ru
+- id: fcp-minsport-gov-ru-2017-05-10-1dc6fce8
+  name: fcp.minsport.gov.ru (2017-05-10)
+  url: https://fcp.minsport.gov.ru
+  created: '2017-05-10'
+  domain: fcp.minsport.gov.ru
+- id: fcp-ocean-ru-2017-05-10-af40148b
+  name: fcp.ocean.ru (2017-05-10)
+  url: https://fcp.ocean.ru
+  created: '2017-05-10'
+  domain: fcp.ocean.ru
+- id: fcp-pbdd-ru-2017-05-10-0acd715d
+  name: fcp-pbdd.ru (2017-05-10)
+  url: https://fcp-pbdd.ru
+  created: '2017-05-10'
+  domain: fcp-pbdd.ru
+- id: fcp-radbez-ru-2017-05-10-65c1fdbf
+  name: fcp-radbez.ru (2017-05-10)
+  url: https://fcp-radbez.ru
+  created: '2017-05-10'
+  domain: fcp-radbez.ru
+- id: fcp-vpk-ru-2017-05-10-012060bb
+  name: fcp.vpk.ru (2017-05-10)
+  url: https://fcp.vpk.ru
+  created: '2017-05-10'
+  domain: fcp.vpk.ru
+- id: fcpdom-ru-2017-05-10-da3e61b3
+  name: fcpdom.ru (2017-05-10)
+  url: https://fcpdom.ru
+  created: '2017-05-10'
+  domain: fcpdom.ru
+- id: fcpfarma-ru-2017-05-10-10375371
+  name: fcpfarma.ru (2017-05-10)
+  url: https://fcpfarma.ru
+  created: '2017-05-10'
+  domain: fcpfarma.ru
+- id: fcpir-ru-2017-05-10-704f47d9
+  name: fcpir.ru (2017-05-10)
+  url: https://fcpir.ru
+  created: '2017-05-10'
+  domain: fcpir.ru
+- id: fcpk-ru-2017-05-10-2149e93f
+  name: fcpk.ru (2017-05-10)
+  url: https://fcpk.ru
+  created: '2017-05-10'
+  domain: fcpk.ru
+- id: fcpkultura-ru-2017-05-10-e02269af
+  name: fcpkultura.ru (2017-05-10)
+  url: https://fcpkultura.ru
+  created: '2017-05-10'
+  domain: fcpkultura.ru
+- id: fcpnano-ru-2017-05-10-af13ac0e
+  name: fcpnano.ru (2017-05-10)
+  url: https://fcpnano.ru
+  created: '2017-05-10'
+  domain: fcpnano.ru
+- id: fcpvhk-ru-2017-05-10-0235598b
+  name: fcpvhk.ru (2017-05-10)
+  url: https://fcpvhk.ru
+  created: '2017-05-10'
+  domain: fcpvhk.ru
+- id: fire-mchs-gov-ru-2017-05-10-4ad71100
+  name: fire.mchs.gov.ru (2017-05-10)
+  url: https://fire.mchs.gov.ru
+  created: '2017-05-10'
+  domain: fire.mchs.gov.ru
+- id: xn---2030-bwe0hj7au5h-xn--p1ai-2017-05-10-23a1deec
+  name: xn---2030-bwe0hj7au5h.xn--p1ai (2017-05-10)
+  url: https://xn---2030-bwe0hj7au5h.xn--p1ai
+  created: '2017-05-10'
+  domain: xn---2030-bwe0hj7au5h.xn--p1ai
+- id: xn--n1abdok-xn--p1ai-2017-05-10-076d216d
+  name: xn--n1abdok.xn--p1ai (2017-05-10)
+  url: https://xn--n1abdok.xn--p1ai
+  created: '2017-05-10'
+  domain: xn--n1abdok.xn--p1ai
+files:
+  total_count: 354
+  total_size: 87559341092
+  directories:
+  - webcollect2017

@@ -1,0 +1,35 @@
+id: data-sakhalin-gov-ru-20220416
+name: data.sakhalin.gov.ru (2022-04-16)
+domain: data.sakhalin.gov.ru
+url: https://data.sakhalin.gov.ru
+created: '2022-04-16'
+date: '2022-04-16'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: data.sakhalin.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/data.sakhalin.gov.ru/2022-04-16/data.sakhalin.gov.ru.cdx
+  size: 384505
+  modified: '2022-04-16T13:54:46'
+  type: CDX
+  extension: .cdx
+- name: data.sakhalin.gov.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/data.sakhalin.gov.ru/2022-04-16/data.sakhalin.gov.ru.log
+  size: 4502815
+  modified: '2022-04-16T13:54:46'
+  type: wpull log
+  extension: .log
+- name: data.sakhalin.gov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/data.sakhalin.gov.ru/2022-04-16/data.sakhalin.gov.ru.warc.gz
+  size: 28646488
+  modified: '2022-04-16T13:54:46'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-data.sakhalin.gov.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/data.sakhalin.gov.ru/2022-04-16/sitearchive-data.sakhalin.gov.ru.db
+  size: 667648
+  modified: '2022-04-16T13:54:47'
+  type: ''
+  extension: .db

@@ -1,0 +1,40 @@
+id: ru-sputnik-ru-2018-02-05-0794fb27
+name: ru.sputnik.ru (2018-02-05)
+domain: ru.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: ru.sputnik.ru-2018-02-05-0794fb27.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ru.sputnik.ru-2018-02-05-0794fb27/ru.sputnik.ru-2018-02-05-0794fb27.cdx
+  size: 20364
+  modified: '2018-02-05T17:08:29'
+  type: CDX
+  extension: .cdx
+- name: ru.sputnik.ru-2018-02-05-0794fb27-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ru.sputnik.ru-2018-02-05-0794fb27/ru.sputnik.ru-2018-02-05-0794fb27-00000.warc.gz
+  size: 1189382
+  modified: '2018-02-05T17:08:29'
+  type: WARC
+  extension: .warc.gz
+- name: ru.sputnik.ru-2018-02-05-0794fb27-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ru.sputnik.ru-2018-02-05-0794fb27/ru.sputnik.ru-2018-02-05-0794fb27-meta.warc.gz
+  size: 5545
+  modified: '2018-02-05T17:08:30'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ru.sputnik.ru-2018-02-05-0794fb27/wpull.db
+  size: 28672
+  modified: '2018-02-05T17:08:29'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/ru.sputnik.ru-2018-02-05-0794fb27/dupes_db/data.mdb
+  size: 53248
+  modified: '2018-02-05T17:08:29'
+  type: ''
+  extension: .mdb
+url: https://ru.sputnik.ru
+created: '2018-02-05'

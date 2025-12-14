@@ -1,0 +1,28 @@
+id: daletbank-ru
+name: daletbank.ru (2013-12-19)
+domain: daletbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.daletbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.daletbank.ru/www.daletbank.ru.log.xz
+  size: 926160
+  modified: '2013-12-19T09:43:58'
+  type: wpull log
+  extension: .xz
+- name: www.daletbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.daletbank.ru/www.daletbank.ru.warc.xz
+  size: 12245256
+  modified: '2013-12-19T09:44:08'
+  type: WARC
+  extension: .xz
+- name: www.daletbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.daletbank.ru/www.daletbank.ru.cdx.xz
+  size: 1383820
+  modified: '2013-12-19T09:43:50'
+  type: CDX
+  extension: .xz
+url: https://daletbank.ru
+created: '2013-12-19T09:44:08'

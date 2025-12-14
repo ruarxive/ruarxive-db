@@ -1,0 +1,40 @@
+id: korolev-crc-ru-2017-05-14-5e34b12d
+name: korolev.crc.ru (2017-05-14)
+domain: korolev.crc.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: korolev.crc.ru-2017-05-14-5e34b12d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/korolev.crc.ru-2017-05-14-5e34b12d/korolev.crc.ru-2017-05-14-5e34b12d-meta.warc.gz
+  size: 7003
+  modified: '2017-05-14T14:00:48'
+  type: WARC
+  extension: .warc.gz
+- name: korolev.crc.ru-2017-05-14-5e34b12d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/korolev.crc.ru-2017-05-14-5e34b12d/korolev.crc.ru-2017-05-14-5e34b12d-00000.warc.gz
+  size: 586327
+  modified: '2017-05-14T14:00:48'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/korolev.crc.ru-2017-05-14-5e34b12d/wpull.db
+  size: 43008
+  modified: '2017-05-14T14:00:48'
+  type: wpull database
+  extension: .db
+- name: korolev.crc.ru-2017-05-14-5e34b12d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/korolev.crc.ru-2017-05-14-5e34b12d/korolev.crc.ru-2017-05-14-5e34b12d.cdx
+  size: 36251
+  modified: '2017-05-14T14:00:48'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/korolev.crc.ru-2017-05-14-5e34b12d/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-05-14T14:00:46'
+  type: ''
+  extension: .mdb
+url: https://korolev.crc.ru
+created: '2017-05-14'

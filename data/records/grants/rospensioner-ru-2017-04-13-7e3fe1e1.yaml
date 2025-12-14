@@ -1,0 +1,40 @@
+id: rospensioner-ru-2017-04-13-7e3fe1e1
+name: rospensioner.ru (2017-04-13)
+domain: rospensioner.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rospensioner.ru-2017-04-13-7e3fe1e1/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-04-13T12:59:20'
+  type: ''
+  extension: .mdb
+- name: www.rospensioner.ru-2017-04-13-7e3fe1e1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rospensioner.ru-2017-04-13-7e3fe1e1/www.rospensioner.ru-2017-04-13-7e3fe1e1-00000.warc.gz
+  size: 55705
+  modified: '2017-04-13T12:59:22'
+  type: WARC
+  extension: .warc.gz
+- name: www.rospensioner.ru-2017-04-13-7e3fe1e1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rospensioner.ru-2017-04-13-7e3fe1e1/www.rospensioner.ru-2017-04-13-7e3fe1e1-meta.warc.gz
+  size: 2979
+  modified: '2017-04-13T12:59:22'
+  type: WARC
+  extension: .warc.gz
+- name: www.rospensioner.ru-2017-04-13-7e3fe1e1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rospensioner.ru-2017-04-13-7e3fe1e1/www.rospensioner.ru-2017-04-13-7e3fe1e1.cdx
+  size: 991
+  modified: '2017-04-13T12:59:22'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rospensioner.ru-2017-04-13-7e3fe1e1/wpull.db
+  size: 10240
+  modified: '2017-04-13T12:59:22'
+  type: wpull database
+  extension: .db
+url: https://rospensioner.ru
+created: '2017-04-13'

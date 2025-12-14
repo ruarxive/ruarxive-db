@@ -1,0 +1,28 @@
+id: pobediteli-ru
+name: pobediteli.ru (2013-10-23)
+domain: pobediteli.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: www.pobediteli.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.pobediteli.ru/www.pobediteli.ru.warc.xz
+  size: 423288012
+  modified: '2013-10-23T14:13:09'
+  type: WARC
+  extension: .xz
+- name: www.pobediteli.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.pobediteli.ru/www.pobediteli.ru.log.xz
+  size: 456332
+  modified: '2013-10-23T14:12:58'
+  type: wpull log
+  extension: .xz
+- name: www.pobediteli.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.pobediteli.ru/www.pobediteli.ru.cdx.xz
+  size: 717748
+  modified: '2013-10-23T14:14:27'
+  type: CDX
+  extension: .xz
+url: https://pobediteli.ru
+created: '2013-10-23T14:13:09'

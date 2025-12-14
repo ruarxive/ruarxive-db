@@ -1,0 +1,40 @@
+id: cge-amur-ru-2017-05-14-a464a86a
+name: cge-amur.ru (2017-05-14)
+domain: cge-amur.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge-amur.ru-2017-05-14-a464a86a/wpull.db
+  size: 1603584
+  modified: '2017-05-14T18:28:29'
+  type: wpull database
+  extension: .db
+- name: www.cge-amur.ru-2017-05-14-a464a86a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge-amur.ru-2017-05-14-a464a86a/www.cge-amur.ru-2017-05-14-a464a86a-meta.warc.gz
+  size: 173832
+  modified: '2017-05-14T18:28:30'
+  type: WARC
+  extension: .warc.gz
+- name: www.cge-amur.ru-2017-05-14-a464a86a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge-amur.ru-2017-05-14-a464a86a/www.cge-amur.ru-2017-05-14-a464a86a.cdx
+  size: 1643419
+  modified: '2017-05-14T18:28:29'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge-amur.ru-2017-05-14-a464a86a/dupes_db/data.mdb
+  size: 876544
+  modified: '2017-05-14T18:28:29'
+  type: ''
+  extension: .mdb
+- name: www.cge-amur.ru-2017-05-14-a464a86a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.cge-amur.ru-2017-05-14-a464a86a/www.cge-amur.ru-2017-05-14-a464a86a-00000.warc.gz
+  size: 315240393
+  modified: '2017-05-14T18:28:29'
+  type: WARC
+  extension: .warc.gz
+url: https://cge-amur.ru
+created: '2017-05-14'

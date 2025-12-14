@@ -1,0 +1,28 @@
+id: smartbank-ru
+name: smartbank.ru (2013-12-19)
+domain: smartbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.smartbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.smartbank.ru/www.smartbank.ru.log.xz
+  size: 35376
+  modified: '2013-12-19T12:35:23'
+  type: wpull log
+  extension: .xz
+- name: www.smartbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.smartbank.ru/www.smartbank.ru.cdx.xz
+  size: 55744
+  modified: '2013-12-19T12:35:23'
+  type: CDX
+  extension: .xz
+- name: www.smartbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.smartbank.ru/www.smartbank.ru.warc.xz
+  size: 22482712
+  modified: '2013-12-19T12:35:24'
+  type: WARC
+  extension: .xz
+url: https://smartbank.ru
+created: '2013-12-19T12:35:24'

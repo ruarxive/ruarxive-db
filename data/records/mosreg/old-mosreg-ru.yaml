@@ -1,0 +1,28 @@
+id: old-mosreg-ru
+name: old.mosreg.ru (2014-03-02)
+domain: old.mosreg.ru
+collection:
+  id: mosreg
+  slug: mosreg
+  name: Региональное правительство Москвы
+resources:
+- name: old.mosreg.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/old.mosreg.ru/old.mosreg.ru.log.xz
+  size: 7032688
+  modified: '2014-03-02T11:44:29'
+  type: wpull log
+  extension: .xz
+- name: old.mosreg.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/old.mosreg.ru/old.mosreg.ru.warc.xz
+  size: 2022264716
+  modified: '2014-03-02T11:44:30'
+  type: WARC
+  extension: .xz
+- name: old.mosreg.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg/old.mosreg.ru/old.mosreg.ru.cdx.xz
+  size: 18743716
+  modified: '2014-03-02T11:44:29'
+  type: CDX
+  extension: .xz
+url: https://old.mosreg.ru
+created: '2014-03-02T11:44:30'

@@ -1,0 +1,40 @@
+id: bgcsen-bryansk-in-2017-05-14-72033a7e
+name: bgcsen.bryansk.in (2017-05-14)
+domain: bgcsen.bryansk.in
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: bgcsen.bryansk.in-2017-05-14-72033a7e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/bgcsen.bryansk.in-2017-05-14-72033a7e/bgcsen.bryansk.in-2017-05-14-72033a7e-00000.warc.gz
+  size: 143456415
+  modified: '2017-05-14T17:16:32'
+  type: WARC
+  extension: .warc.gz
+- name: bgcsen.bryansk.in-2017-05-14-72033a7e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/bgcsen.bryansk.in-2017-05-14-72033a7e/bgcsen.bryansk.in-2017-05-14-72033a7e-meta.warc.gz
+  size: 123724
+  modified: '2017-05-14T17:16:33'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/bgcsen.bryansk.in-2017-05-14-72033a7e/dupes_db/data.mdb
+  size: 311296
+  modified: '2017-05-14T17:16:32'
+  type: ''
+  extension: .mdb
+- name: bgcsen.bryansk.in-2017-05-14-72033a7e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/bgcsen.bryansk.in-2017-05-14-72033a7e/bgcsen.bryansk.in-2017-05-14-72033a7e.cdx
+  size: 949664
+  modified: '2017-05-14T17:16:32'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/bgcsen.bryansk.in-2017-05-14-72033a7e/wpull.db
+  size: 834560
+  modified: '2017-05-14T17:16:32'
+  type: wpull database
+  extension: .db
+url: https://bgcsen.bryansk.in
+created: '2017-05-14'

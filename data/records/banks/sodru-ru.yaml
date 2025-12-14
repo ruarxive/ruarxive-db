@@ -1,0 +1,28 @@
+id: sodru-ru
+name: sodru.ru (2013-12-19)
+domain: sodru.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.sodru.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sodru.ru/www.sodru.ru.cdx.xz
+  size: 236
+  modified: '2013-12-19T12:34:14'
+  type: CDX
+  extension: .xz
+- name: www.sodru.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sodru.ru/www.sodru.ru.log.xz
+  size: 480
+  modified: '2013-12-19T12:34:03'
+  type: wpull log
+  extension: .xz
+- name: www.sodru.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sodru.ru/www.sodru.ru.warc.xz
+  size: 1808
+  modified: '2013-12-19T12:34:03'
+  type: WARC
+  extension: .xz
+url: https://sodru.ru
+created: '2013-12-19T12:34:03'

@@ -1,0 +1,40 @@
+id: msi-fcgie-ru-2017-05-14-478c1f4f
+name: msi.fcgie.ru (2017-05-14)
+domain: msi.fcgie.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: msi.fcgie.ru-2017-05-14-478c1f4f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/msi.fcgie.ru-2017-05-14-478c1f4f/msi.fcgie.ru-2017-05-14-478c1f4f-00000.warc.gz
+  size: 114209128
+  modified: '2017-05-14T17:07:19'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/msi.fcgie.ru-2017-05-14-478c1f4f/wpull.db
+  size: 805888
+  modified: '2017-05-14T17:07:19'
+  type: wpull database
+  extension: .db
+- name: msi.fcgie.ru-2017-05-14-478c1f4f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/msi.fcgie.ru-2017-05-14-478c1f4f/msi.fcgie.ru-2017-05-14-478c1f4f-meta.warc.gz
+  size: 74074
+  modified: '2017-05-14T17:07:19'
+  type: WARC
+  extension: .warc.gz
+- name: msi.fcgie.ru-2017-05-14-478c1f4f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/msi.fcgie.ru-2017-05-14-478c1f4f/msi.fcgie.ru-2017-05-14-478c1f4f.cdx
+  size: 653741
+  modified: '2017-05-14T17:07:19'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/msi.fcgie.ru-2017-05-14-478c1f4f/dupes_db/data.mdb
+  size: 200704
+  modified: '2017-05-14T17:06:50'
+  type: ''
+  extension: .mdb
+url: https://msi.fcgie.ru
+created: '2017-05-14'

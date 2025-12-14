@@ -1,0 +1,28 @@
+id: olb-ru
+name: olb.ru (2014-05-25)
+domain: olb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.olb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.olb.ru/www.olb.ru.warc.xz
+  size: 747611084
+  modified: '2014-05-25T00:41:38'
+  type: WARC
+  extension: .xz
+- name: www.olb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.olb.ru/www.olb.ru.cdx.xz
+  size: 22037212
+  modified: '2014-05-25T00:41:37'
+  type: CDX
+  extension: .xz
+- name: www.olb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.olb.ru/www.olb.ru.log.xz
+  size: 10641636
+  modified: '2014-05-25T00:41:37'
+  type: wpull log
+  extension: .xz
+url: https://olb.ru
+created: '2014-05-25T00:41:38'

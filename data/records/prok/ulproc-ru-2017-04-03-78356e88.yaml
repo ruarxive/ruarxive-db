@@ -1,0 +1,40 @@
+id: ulproc-ru-2017-04-03-78356e88
+name: ulproc.ru (2017-04-03)
+domain: ulproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.ulproc.ru-2017-04-03-78356e88.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ulproc.ru-2017-04-03-78356e88/www.ulproc.ru-2017-04-03-78356e88.cdx
+  size: 12170849
+  modified: '2017-04-04T02:14:29'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ulproc.ru-2017-04-03-78356e88/dupes_db/data.mdb
+  size: 4104192
+  modified: '2017-04-04T02:14:29'
+  type: ''
+  extension: .mdb
+- name: www.ulproc.ru-2017-04-03-78356e88-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ulproc.ru-2017-04-03-78356e88/www.ulproc.ru-2017-04-03-78356e88-meta.warc.gz
+  size: 1005891
+  modified: '2017-04-04T02:14:31'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ulproc.ru-2017-04-03-78356e88/wpull.db
+  size: 11920384
+  modified: '2017-04-04T02:14:32'
+  type: wpull database
+  extension: .db
+- name: www.ulproc.ru-2017-04-03-78356e88-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.ulproc.ru-2017-04-03-78356e88/www.ulproc.ru-2017-04-03-78356e88-00000.warc.gz
+  size: 688837145
+  modified: '2017-04-04T02:14:29'
+  type: WARC
+  extension: .warc.gz
+url: https://ulproc.ru
+created: '2017-04-03'

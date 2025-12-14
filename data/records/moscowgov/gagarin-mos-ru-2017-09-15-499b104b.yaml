@@ -1,0 +1,52 @@
+id: gagarin-mos-ru-2017-09-15-499b104b
+name: gagarin.mos.ru (2017-09-15)
+domain: gagarin.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: gagarin.mos.ru-2017-09-15-499b104b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/gagarin.mos.ru-2017-09-15-499b104b/gagarin.mos.ru-2017-09-15-499b104b.cdx
+  size: 9694236
+  modified: '2017-09-17T13:51:36'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/gagarin.mos.ru-2017-09-15-499b104b/dupes_db/data.mdb
+  size: 5980160
+  modified: '2017-09-17T13:19:53'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/gagarin.mos.ru-2017-09-15-499b104b/wpull.db
+  size: 12054528
+  modified: '2017-09-17T13:51:36'
+  type: wpull database
+  extension: .db
+- name: tmp-wpull-warcsesreq-t75px8.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/gagarin.mos.ru-2017-09-15-499b104b/temp/tmp-wpull-warcsesreq-t75px8.tmp
+  size: 313
+  modified: '2017-09-17T13:51:37'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-s2i5fc.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/gagarin.mos.ru-2017-09-15-499b104b/temp/tmp-wpull-warc-s2i5fc.log.gz
+  size: 2537842
+  modified: '2017-09-18T13:53:53'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesrsp-5bdffg.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/gagarin.mos.ru-2017-09-15-499b104b/temp/tmp-wpull-warcsesrsp-5bdffg.tmp
+  size: 0
+  modified: '2017-09-17T13:51:37'
+  type: ''
+  extension: .tmp
+- name: gagarin.mos.ru-2017-09-15-499b104b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/gagarin.mos.ru-2017-09-15-499b104b/gagarin.mos.ru-2017-09-15-499b104b-00000.warc.gz
+  size: 2914434386
+  modified: '2017-09-17T13:51:37'
+  type: WARC
+  extension: .warc.gz
+url: https://gagarin.mos.ru
+created: '2017-09-15'

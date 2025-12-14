@@ -1,0 +1,40 @@
+id: prokuratura-krasnodar-ru-2017-04-03-acaf6ee7
+name: prokuratura-krasnodar.ru (2017-04-03)
+domain: prokuratura-krasnodar.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7/www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7-meta.warc.gz
+  size: 8320
+  modified: '2017-04-03T18:06:37'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7/dupes_db/data.mdb
+  size: 65536
+  modified: '2017-04-03T18:06:37'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7/wpull.db
+  size: 56320
+  modified: '2017-04-03T18:06:37'
+  type: wpull database
+  extension: .db
+- name: www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7/www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7.cdx
+  size: 44057
+  modified: '2017-04-03T18:06:37'
+  type: CDX
+  extension: .cdx
+- name: www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7/www.prokuratura-krasnodar.ru-2017-04-03-acaf6ee7-00000.warc.gz
+  size: 8894497
+  modified: '2017-04-03T18:06:37'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuratura-krasnodar.ru
+created: '2017-04-03'

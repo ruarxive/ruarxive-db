@@ -1,0 +1,33 @@
+id: startbase-ru
+name: Стартбэйз
+url: https://startbase.ru
+domain: startbase.ru
+created: '2021-11-22T12:21:24.000Z'
+date: '2021-11-21T21:00:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Предбанкротное состояние организации
+reason_id: pre-bankruptcy
+reason_url: https://www.rusnano.com/news/20211119-rosnano-obyavlyaet-o-provedenii-vstrechi-s-kreditorami-i-krupnymi-derzhatelyami-obligatsiy/
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: rusnano2021
+  name: Роснано 2021
+  slug: rusnano2021
+source:
+  id: rosnano
+  name: Роснано
+priority: высокий
+resources:
+- type: WARC
+  name: startbase.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2021/rusnano2021/startbase.ru/startbase.ru.warc.gz
+- type: WARC
+  name: startbase.ru.warc.gz
+  url: https://f001.backblazeb2.com/file/IKPUBLIC/webcollect2021/rusnano2021/startbase.ru/startbase.ru.warc.gz

@@ -1,0 +1,33 @@
+id: 30marta-memo-ru
+name: Чтения памяти Арсения Рогинского
+url: https://30marta.memo.ru
+domain: 30marta.memo.ru
+created: '2021-11-22T14:19:53.000Z'
+date: '2021-11-21T21:00:00.000Z'
+status: собран
+status_id: collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Требование Генпрокуратуры РФ ликвидировать Международный Мемориал
+reason_id: prosecutor-liquidation
+reason_url: https://www.memo.ru/ru-ru/memorial/departments/intermemorial/news/626
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: memorial2021
+  name: Мемориал 2021
+  slug: memorial2021
+source:
+  id: international-memorial
+  name: Международный мемориал
+priority: высокий
+resources:
+- type: WARC
+  name: 30marta.memo.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2021/memorial2021/30marta.memo.ru/30marta.memo.ru.warc.gz
+- type: WARC
+  name: 30marta.memo.ru.warc.gz
+  url: https://f001.backblazeb2.com/file/IKPUBLIC/webcollect2021/memorial2021/30marta.memo.ru/30marta.memo.ru.warc.gz

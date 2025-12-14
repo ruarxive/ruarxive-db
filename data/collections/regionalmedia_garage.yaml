@@ -1,0 +1,82 @@
+id: regionalmedia_garage
+slug: regionalmedia_garage
+name: Региональные медиа
+created: '2022-03-29T16:19:40.000Z'
+num_records: 11
+records:
+- id: inde-io
+  name: Интернет-журнал Инде (Казань)
+  url: https://inde.io/
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-29T16:16:48.000Z'
+  domain: inde.io
+- id: kavkaz-uzel-eu
+  name: 'https://www.kavkaz-uzel.eu/ '
+  url: https://www.kavkaz-uzel.eu/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: kavkaz-uzel.eu
+- id: neeest-ru
+  name: Журнал NEST (Владивосток)
+  url: http://neeest.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: neeest.ru
+- id: newslab-ru-1
+  name: Интернет-газета NewsLab  (Красноярск)
+  url: https://newslab.ru/news/culture
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: newslab.ru
+- id: newslab-ru
+  name: ' Статья в NewsLab про Олесю Позднякову'
+  url: https://newslab.ru/article/authors/olesya-pozdnyakova
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: newslab.ru
+- id: prmira-ru
+  name: 'Сетевое издание: «Проспект Мира» (Красноярск)'
+  url: https://prmira.ru/?tag=kultura
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: prmira.ru
+- id: seledkagazeta-ru
+  name: Газета Seledka (Нижний Новгород)
+  url: http://seledkagazeta.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: seledkagazeta.ru
+- id: tayga-info
+  name: 'https://tayga.info/ (Новосибирск)  '
+  url: https://tayga.info/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: tayga.info
+- id: tv2-today
+  name: https://tv2.today/(Томск)
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: tv2.today
+- id: verbludvogne-ru
+  name: Верблюд в огне (Иркутск)
+  url: https://verbludvogne.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: verbludvogne.ru
+- id: yuga-ru
+  name: Юга.ру (Краснодар)
+  url: https://www.yuga.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: yuga.ru

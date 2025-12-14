@@ -1,0 +1,28 @@
+id: edu-crowdexpert-ru
+name: edu.crowdexpert.ru (2013-11-05)
+domain: edu.crowdexpert.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: edu.crowdexpert.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/edu.crowdexpert.ru/edu.crowdexpert.ru.warc.xz
+  size: 12188440
+  modified: '2013-11-05T14:01:01'
+  type: WARC
+  extension: .xz
+- name: edu.crowdexpert.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/edu.crowdexpert.ru/edu.crowdexpert.ru.log.xz
+  size: 842652
+  modified: '2013-11-05T14:00:48'
+  type: wpull log
+  extension: .xz
+- name: edu.crowdexpert.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/edu.crowdexpert.ru/edu.crowdexpert.ru.cdx.xz
+  size: 2365416
+  modified: '2013-11-05T14:00:54'
+  type: CDX
+  extension: .xz
+url: https://edu.crowdexpert.ru
+created: '2013-11-05T14:01:01'

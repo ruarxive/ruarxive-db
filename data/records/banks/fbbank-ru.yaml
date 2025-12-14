@@ -1,0 +1,34 @@
+id: fbbank-ru
+name: fbbank.ru (2014-05-11)
+domain: fbbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.fbbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.fbbank.ru/www.fbbank.ru.log.xz
+  size: 102416
+  modified: '2014-05-11T00:52:39'
+  type: wpull log
+  extension: .xz
+- name: www.fbbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.fbbank.ru/www.fbbank.ru.7z
+  size: 98497251
+  modified: '2014-08-19T22:56:47'
+  type: ''
+  extension: .7z
+- name: www.fbbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.fbbank.ru/www.fbbank.ru.warc.xz
+  size: 100056548
+  modified: '2014-05-11T00:52:39'
+  type: WARC
+  extension: .xz
+- name: www.fbbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.fbbank.ru/www.fbbank.ru.cdx.xz
+  size: 233572
+  modified: '2014-05-11T00:52:39'
+  type: CDX
+  extension: .xz
+url: https://fbbank.ru
+created: '2014-05-11T00:52:39'

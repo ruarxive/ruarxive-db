@@ -1,0 +1,34 @@
+id: sibesbank-ru
+name: sibesbank.ru (2014-05-09)
+domain: sibesbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.sibesbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sibesbank.ru/www.sibesbank.ru.warc.xz
+  size: 29289616
+  modified: '2014-05-09T15:14:49'
+  type: WARC
+  extension: .xz
+- name: www.sibesbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sibesbank.ru/www.sibesbank.ru.log.xz
+  size: 19740
+  modified: '2014-05-09T15:14:49'
+  type: wpull log
+  extension: .xz
+- name: www.sibesbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sibesbank.ru/www.sibesbank.ru.7z
+  size: 31277016
+  modified: '2014-08-20T08:44:16'
+  type: ''
+  extension: .7z
+- name: www.sibesbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sibesbank.ru/www.sibesbank.ru.cdx.xz
+  size: 29944
+  modified: '2014-05-09T15:14:49'
+  type: CDX
+  extension: .xz
+url: https://sibesbank.ru
+created: '2014-05-09T15:14:49'

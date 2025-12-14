@@ -1,0 +1,34 @@
+id: bnal-ru
+name: bnal.ru (2014-05-12)
+domain: bnal.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bnal.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bnal.ru/www.bnal.ru.cdx.xz
+  size: 316
+  modified: '2014-05-12T22:47:14'
+  type: CDX
+  extension: .xz
+- name: www.bnal.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bnal.ru/www.bnal.ru.7z
+  size: 5329
+  modified: '2014-08-20T09:59:33'
+  type: ''
+  extension: .7z
+- name: www.bnal.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bnal.ru/www.bnal.ru.warc.xz
+  size: 6972
+  modified: '2014-05-12T22:47:14'
+  type: WARC
+  extension: .xz
+- name: www.bnal.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bnal.ru/www.bnal.ru.log.xz
+  size: 592
+  modified: '2014-05-12T22:47:14'
+  type: wpull log
+  extension: .xz
+url: https://bnal.ru
+created: '2014-05-12T22:47:14'

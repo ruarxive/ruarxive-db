@@ -1,0 +1,34 @@
+id: may9-ru
+name: may9.ru (2015-05-18)
+domain: may9.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: may9.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/may9.ru/may9.ru.cdx
+  size: 13916230
+  modified: '2015-05-18T18:02:11'
+  type: CDX
+  extension: .cdx
+- name: may9.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/may9.ru/may9.ru.warc.xz
+  size: 1416646168
+  modified: '2015-05-18T18:02:11'
+  type: WARC
+  extension: .xz
+- name: may9.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/may9.ru/may9.ru.log
+  size: 27135703
+  modified: '2015-05-18T18:02:11'
+  type: ''
+  extension: .log
+- name: may8.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/may9.ru/may8.ru.7z
+  size: 1277249565
+  modified: '2015-05-20T01:04:19'
+  type: ''
+  extension: .7z
+url: https://may9.ru
+created: '2015-05-18T18:02:11'

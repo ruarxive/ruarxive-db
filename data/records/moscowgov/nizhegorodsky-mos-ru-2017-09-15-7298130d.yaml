@@ -1,0 +1,40 @@
+id: nizhegorodsky-mos-ru-2017-09-15-7298130d
+name: nizhegorodsky.mos.ru (2017-09-15)
+domain: nizhegorodsky.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nizhegorodsky.mos.ru-2017-09-15-7298130d/dupes_db/data.mdb
+  size: 3219456
+  modified: '2017-09-17T13:16:26'
+  type: ''
+  extension: .mdb
+- name: nizhegorodsky.mos.ru-2017-09-15-7298130d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nizhegorodsky.mos.ru-2017-09-15-7298130d/nizhegorodsky.mos.ru-2017-09-15-7298130d.cdx
+  size: 5750934
+  modified: '2017-09-17T13:16:26'
+  type: CDX
+  extension: .cdx
+- name: nizhegorodsky.mos.ru-2017-09-15-7298130d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nizhegorodsky.mos.ru-2017-09-15-7298130d/nizhegorodsky.mos.ru-2017-09-15-7298130d-meta.warc.gz
+  size: 834064
+  modified: '2017-09-17T13:19:58'
+  type: WARC
+  extension: .warc.gz
+- name: nizhegorodsky.mos.ru-2017-09-15-7298130d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nizhegorodsky.mos.ru-2017-09-15-7298130d/nizhegorodsky.mos.ru-2017-09-15-7298130d-00000.warc.gz
+  size: 4209425563
+  modified: '2017-09-17T13:18:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/nizhegorodsky.mos.ru-2017-09-15-7298130d/wpull.db
+  size: 7051264
+  modified: '2017-09-17T13:19:54'
+  type: wpull database
+  extension: .db
+url: https://nizhegorodsky.mos.ru
+created: '2017-09-15'

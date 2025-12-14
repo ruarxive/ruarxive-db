@@ -1,0 +1,64 @@
+id: news-sputnik-ru-2018-02-05-b4bce549
+name: news.sputnik.ru (2018-02-05)
+domain: news.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: news.sputnik.ru-2018-02-05-b4bce549-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/news.sputnik.ru-2018-02-05-b4bce549-00001.warc.gz
+  size: 5368731394
+  modified: '2018-02-06T23:44:11'
+  type: WARC
+  extension: .warc.gz
+- name: news.sputnik.ru-2018-02-05-b4bce549-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/news.sputnik.ru-2018-02-05-b4bce549-meta.warc.gz
+  size: 18710943
+  modified: '2018-02-08T01:21:07'
+  type: WARC
+  extension: .warc.gz
+- name: news.sputnik.ru-2018-02-05-b4bce549.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/news.sputnik.ru-2018-02-05-b4bce549.cdx
+  size: 51990824
+  modified: '2018-02-08T01:21:01'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/dupes_db/data.mdb
+  size: 17113088
+  modified: '2018-02-08T01:21:01'
+  type: ''
+  extension: .mdb
+- name: news.sputnik.ru-2018-02-05-b4bce549-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/news.sputnik.ru-2018-02-05-b4bce549-00000.warc.gz
+  size: 5452571138
+  modified: '2018-02-06T15:08:44'
+  type: WARC
+  extension: .warc.gz
+- name: news.sputnik.ru-2018-02-05-b4bce549-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/news.sputnik.ru-2018-02-05-b4bce549-00004.warc.gz
+  size: 1726006333
+  modified: '2018-02-08T01:21:01'
+  type: WARC
+  extension: .warc.gz
+- name: news.sputnik.ru-2018-02-05-b4bce549-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/news.sputnik.ru-2018-02-05-b4bce549-00002.warc.gz
+  size: 5568786377
+  modified: '2018-02-07T10:05:48'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/wpull.db
+  size: 108227584
+  modified: '2018-02-08T01:21:02'
+  type: wpull database
+  extension: .db
+- name: news.sputnik.ru-2018-02-05-b4bce549-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/news.sputnik.ru-2018-02-05-b4bce549/news.sputnik.ru-2018-02-05-b4bce549-00003.warc.gz
+  size: 5368740054
+  modified: '2018-02-07T22:03:03'
+  type: WARC
+  extension: .warc.gz
+url: https://news.sputnik.ru
+created: '2018-02-05'

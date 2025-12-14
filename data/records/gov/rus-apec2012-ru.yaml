@@ -1,0 +1,28 @@
+id: rus-apec2012-ru
+name: rus.apec2012.ru (2013-09-23)
+domain: rus.apec2012.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: rus.apec2012.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/rus.apec2012.ru/rus.apec2012.ru.log.xz
+  size: 76488
+  modified: '2013-09-23T00:05:41'
+  type: wpull log
+  extension: .xz
+- name: rus.apec2012.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/rus.apec2012.ru/rus.apec2012.ru.cdx.xz
+  size: 182856
+  modified: '2013-09-23T00:05:40'
+  type: CDX
+  extension: .xz
+- name: rus.apec2012.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/rus.apec2012.ru/rus.apec2012.ru.warc.xz
+  size: 21287688
+  modified: '2013-09-23T00:05:28'
+  type: WARC
+  extension: .xz
+url: https://rus.apec2012.ru
+created: '2013-09-23T00:05:28'

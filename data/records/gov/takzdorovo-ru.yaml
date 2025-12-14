@@ -1,0 +1,28 @@
+id: takzdorovo-ru
+name: takzdorovo.ru (2013-10-17)
+domain: takzdorovo.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.takzdorovo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.takzdorovo.ru/www.takzdorovo.ru.cdx.xz
+  size: 5529596
+  modified: '2013-10-17T19:57:14'
+  type: CDX
+  extension: .xz
+- name: www.takzdorovo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.takzdorovo.ru/www.takzdorovo.ru.warc.xz
+  size: 410632068
+  modified: '2013-10-17T19:58:10'
+  type: WARC
+  extension: .xz
+- name: www.takzdorovo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.takzdorovo.ru/www.takzdorovo.ru.log.xz
+  size: 2852484
+  modified: '2013-10-17T19:57:21'
+  type: wpull log
+  extension: .xz
+url: https://takzdorovo.ru
+created: '2013-10-17T19:58:10'

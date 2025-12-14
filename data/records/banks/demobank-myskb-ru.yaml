@@ -1,0 +1,28 @@
+id: demobank-myskb-ru
+name: demobank.myskb.ru (2014-05-12)
+domain: demobank.myskb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: demobank.myskb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/demobank.myskb.ru/demobank.myskb.ru.log.xz
+  size: 276
+  modified: '2014-05-12T22:47:13'
+  type: wpull log
+  extension: .xz
+- name: demobank.myskb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/demobank.myskb.ru/demobank.myskb.ru.cdx.xz
+  size: 84
+  modified: '2014-05-12T22:47:13'
+  type: CDX
+  extension: .xz
+- name: demobank.myskb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/demobank.myskb.ru/demobank.myskb.ru.warc.xz
+  size: 1120
+  modified: '2014-05-12T22:47:13'
+  type: WARC
+  extension: .xz
+url: https://demobank.myskb.ru
+created: '2014-05-12T22:47:13'

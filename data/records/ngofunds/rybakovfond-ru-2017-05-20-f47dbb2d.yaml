@@ -1,0 +1,40 @@
+id: rybakovfond-ru-2017-05-20-f47dbb2d
+name: rybakovfond.ru (2017-05-20)
+domain: rybakovfond.ru
+collection:
+  id: ngofunds
+  slug: ngofunds
+  name: Фонды НКО
+resources:
+- name: rybakovfond.ru-2017-05-20-f47dbb2d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/rybakovfond.ru-2017-05-20-f47dbb2d/rybakovfond.ru-2017-05-20-f47dbb2d-00000.warc.gz
+  size: 376833391
+  modified: '2017-05-20T11:11:50'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/rybakovfond.ru-2017-05-20-f47dbb2d/dupes_db/data.mdb
+  size: 294912
+  modified: '2017-05-20T11:11:49'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/rybakovfond.ru-2017-05-20-f47dbb2d/wpull.db
+  size: 500736
+  modified: '2017-05-20T11:11:50'
+  type: wpull database
+  extension: .db
+- name: rybakovfond.ru-2017-05-20-f47dbb2d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/rybakovfond.ru-2017-05-20-f47dbb2d/rybakovfond.ru-2017-05-20-f47dbb2d-meta.warc.gz
+  size: 82435
+  modified: '2017-05-20T11:11:50'
+  type: WARC
+  extension: .warc.gz
+- name: rybakovfond.ru-2017-05-20-f47dbb2d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ngofunds/rybakovfond.ru-2017-05-20-f47dbb2d/rybakovfond.ru-2017-05-20-f47dbb2d.cdx
+  size: 439685
+  modified: '2017-05-20T11:11:50'
+  type: CDX
+  extension: .cdx
+url: https://rybakovfond.ru
+created: '2017-05-20'

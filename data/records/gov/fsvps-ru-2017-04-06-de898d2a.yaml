@@ -1,0 +1,87 @@
+id: fsvps-ru-2017-04-06-de898d2a
+name: fsvps.ru (2017-04-06)
+domain: fsvps.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fsvps.ru-2017-04-06-de898d2a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/www.fsvps.ru-2017-04-06-de898d2a.cdx
+  size: 162808415
+  modified: '2017-04-07T23:41:49'
+  type: CDX
+  extension: .cdx
+- name: www.fsvps.ru-2017-04-06-de898d2a-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/www.fsvps.ru-2017-04-06-de898d2a-00001.warc.gz
+  size: 5368811770
+  modified: '2017-04-06T16:09:18'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-warcsesreq-i_mvsqz3.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/temp/tmp-wpull-warcsesreq-i_mvsqz3.tmp
+  size: 380
+  modified: '2017-04-07T23:41:48'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-3mj1c4bk.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/temp/tmp-wpull-resp_cb-3mj1c4bk.tmp
+  size: 29634
+  modified: '2017-04-07T23:41:49'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-1z0_7y7l.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/temp/tmp-wpull-warcsesrsp-1z0_7y7l.tmp
+  size: 0
+  modified: '2017-04-07T23:41:48'
+  type: ''
+  extension: .tmp
+- name: www.fsvps.ru-2017-04-06-de898d2a-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/www.fsvps.ru-2017-04-06-de898d2a-00004.warc.gz
+  size: 4222924935
+  modified: '2017-04-07T23:41:49'
+  type: WARC
+  extension: .warc.gz
+- name: www.fsvps.ru-2017-04-06-de898d2a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/www.fsvps.ru-2017-04-06-de898d2a-00000.warc.gz
+  size: 5374779641
+  modified: '2017-04-06T11:21:28'
+  type: WARC
+  extension: .warc.gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/stop
+  size: 0
+  modified: '2017-04-07T23:41:48'
+  type: ''
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/wpull.db
+  size: 159058944
+  modified: '2017-04-07T23:41:59'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/dupes_db/data.mdb
+  size: 59613184
+  modified: '2017-04-07T23:41:49'
+  type: ''
+  extension: .mdb
+- name: www.fsvps.ru-2017-04-06-de898d2a-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/www.fsvps.ru-2017-04-06-de898d2a-00002.warc.gz
+  size: 5368713746
+  modified: '2017-04-06T20:38:59'
+  type: WARC
+  extension: .warc.gz
+- name: www.fsvps.ru-2017-04-06-de898d2a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/www.fsvps.ru-2017-04-06-de898d2a-meta.warc.gz
+  size: 15084193
+  modified: '2017-04-07T23:41:59'
+  type: WARC
+  extension: .warc.gz
+- name: www.fsvps.ru-2017-04-06-de898d2a-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsvps.ru-2017-04-06-de898d2a/www.fsvps.ru-2017-04-06-de898d2a-00003.warc.gz
+  size: 5368709318
+  modified: '2017-04-07T07:19:37'
+  type: WARC
+  extension: .warc.gz
+url: https://fsvps.ru
+created: '2017-04-06'

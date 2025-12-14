@@ -1,0 +1,35 @@
+id: opendata-rkomi-ru-20220414
+name: opendata.rkomi.ru (2022-04-14)
+domain: opendata.rkomi.ru
+url: https://opendata.rkomi.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.rkomi.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.rkomi.ru/2022-04-14/opendata.rkomi.ru.cdx
+  size: 1586304
+  modified: '2022-04-14T05:42:59'
+  type: CDX
+  extension: .cdx
+- name: opendata.rkomi.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.rkomi.ru/2022-04-14/opendata.rkomi.ru.log
+  size: 17637037
+  modified: '2022-04-14T05:43:01'
+  type: wpull log
+  extension: .log
+- name: opendata.rkomi.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.rkomi.ru/2022-04-14/opendata.rkomi.ru.warc.gz
+  size: 416173931
+  modified: '2022-04-14T05:43:01'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.rkomi.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.rkomi.ru/2022-04-14/sitearchive-opendata.rkomi.ru.db
+  size: 2519040
+  modified: '2022-04-14T05:43:01'
+  type: ''
+  extension: .db

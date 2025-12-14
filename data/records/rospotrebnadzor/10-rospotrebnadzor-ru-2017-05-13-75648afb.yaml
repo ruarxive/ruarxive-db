@@ -1,0 +1,51 @@
+id: 10-rospotrebnadzor-ru-2017-05-13-75648afb
+name: 10.rospotrebnadzor.ru (2017-05-13)
+domain: 10.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: tmp-wpull-resp_cb-nyudyk.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/10.rospotrebnadzor.ru-2017-05-13-75648afb/temp/tmp-wpull-resp_cb-nyudyk.tmp
+  size: 98645
+  modified: '2017-05-15T00:14:53'
+  type: ''
+  extension: .tmp
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/10.rospotrebnadzor.ru-2017-05-13-75648afb/stop
+  size: 0
+  modified: '2017-05-15T00:14:52'
+  type: ''
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/10.rospotrebnadzor.ru-2017-05-13-75648afb/wpull.db
+  size: 124988416
+  modified: '2017-05-15T00:14:53'
+  type: wpull database
+  extension: .db
+- name: 10.rospotrebnadzor.ru-2017-05-13-75648afb-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/10.rospotrebnadzor.ru-2017-05-13-75648afb/10.rospotrebnadzor.ru-2017-05-13-75648afb-meta.warc.gz
+  size: 4065257
+  modified: '2017-05-15T00:14:57'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/10.rospotrebnadzor.ru-2017-05-13-75648afb/dupes_db/data.mdb
+  size: 35934208
+  modified: '2017-05-15T00:14:53'
+  type: ''
+  extension: .mdb
+- name: 10.rospotrebnadzor.ru-2017-05-13-75648afb.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/10.rospotrebnadzor.ru-2017-05-13-75648afb/10.rospotrebnadzor.ru-2017-05-13-75648afb.cdx
+  size: 49088816
+  modified: '2017-05-15T00:14:53'
+  type: CDX
+  extension: .cdx
+- name: 10.rospotrebnadzor.ru-2017-05-13-75648afb-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/10.rospotrebnadzor.ru-2017-05-13-75648afb/10.rospotrebnadzor.ru-2017-05-13-75648afb-00000.warc.gz
+  size: 2070128214
+  modified: '2017-05-15T00:14:53'
+  type: WARC
+  extension: .warc.gz
+url: https://10.rospotrebnadzor.ru
+created: '2017-05-13'

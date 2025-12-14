@@ -1,0 +1,40 @@
+id: hniiem-rospotrebnadzor-ru-2017-05-14-18857b69
+name: hniiem.rospotrebnadzor.ru (2017-05-14)
+domain: hniiem.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/hniiem.rospotrebnadzor.ru-2017-05-14-18857b69/wpull.db
+  size: 439296
+  modified: '2017-05-14T16:43:30'
+  type: wpull database
+  extension: .db
+- name: hniiem.rospotrebnadzor.ru-2017-05-14-18857b69.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/hniiem.rospotrebnadzor.ru-2017-05-14-18857b69/hniiem.rospotrebnadzor.ru-2017-05-14-18857b69.cdx
+  size: 474771
+  modified: '2017-05-14T16:43:26'
+  type: CDX
+  extension: .cdx
+- name: hniiem.rospotrebnadzor.ru-2017-05-14-18857b69-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/hniiem.rospotrebnadzor.ru-2017-05-14-18857b69/hniiem.rospotrebnadzor.ru-2017-05-14-18857b69-meta.warc.gz
+  size: 369799
+  modified: '2017-05-14T16:43:31'
+  type: WARC
+  extension: .warc.gz
+- name: hniiem.rospotrebnadzor.ru-2017-05-14-18857b69-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/hniiem.rospotrebnadzor.ru-2017-05-14-18857b69/hniiem.rospotrebnadzor.ru-2017-05-14-18857b69-00000.warc.gz
+  size: 245389492
+  modified: '2017-05-14T16:43:26'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/hniiem.rospotrebnadzor.ru-2017-05-14-18857b69/dupes_db/data.mdb
+  size: 163840
+  modified: '2017-05-14T16:43:11'
+  type: ''
+  extension: .mdb
+url: https://hniiem.rospotrebnadzor.ru
+created: '2017-05-14'

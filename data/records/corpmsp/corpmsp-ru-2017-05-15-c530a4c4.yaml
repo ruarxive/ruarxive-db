@@ -1,0 +1,46 @@
+id: corpmsp-ru-2017-05-15-c530a4c4
+name: corpmsp.ru (2017-05-15)
+domain: corpmsp.ru
+collection:
+  id: corpmsp
+  slug: corpmsp
+  name: Корпорация "МСП"
+resources:
+- name: corpmsp.ru-2017-05-15-c530a4c4-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/corpmsp.ru-2017-05-15-c530a4c4/corpmsp.ru-2017-05-15-c530a4c4-00001.warc.gz
+  size: 1762087820
+  modified: '2017-05-15T12:13:50'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/corpmsp.ru-2017-05-15-c530a4c4/dupes_db/data.mdb
+  size: 3383296
+  modified: '2017-05-15T12:13:50'
+  type: ''
+  extension: .mdb
+- name: corpmsp.ru-2017-05-15-c530a4c4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/corpmsp.ru-2017-05-15-c530a4c4/corpmsp.ru-2017-05-15-c530a4c4-00000.warc.gz
+  size: 5379586999
+  modified: '2017-05-15T11:42:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/corpmsp.ru-2017-05-15-c530a4c4/wpull.db
+  size: 7560192
+  modified: '2017-05-15T12:13:50'
+  type: wpull database
+  extension: .db
+- name: corpmsp.ru-2017-05-15-c530a4c4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/corpmsp.ru-2017-05-15-c530a4c4/corpmsp.ru-2017-05-15-c530a4c4-meta.warc.gz
+  size: 510305
+  modified: '2017-05-15T12:13:51'
+  type: WARC
+  extension: .warc.gz
+- name: corpmsp.ru-2017-05-15-c530a4c4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/corpmsp.ru-2017-05-15-c530a4c4/corpmsp.ru-2017-05-15-c530a4c4.cdx
+  size: 4366273
+  modified: '2017-05-15T12:13:50'
+  type: CDX
+  extension: .cdx
+url: https://corpmsp.ru
+created: '2017-05-15'

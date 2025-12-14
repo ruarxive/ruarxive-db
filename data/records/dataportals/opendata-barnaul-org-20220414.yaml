@@ -1,0 +1,35 @@
+id: opendata-barnaul-org-20220414
+name: opendata.barnaul.org (2022-04-14)
+domain: opendata.barnaul.org
+url: https://opendata.barnaul.org
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.barnaul.org.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.barnaul.org/2022-04-14/opendata.barnaul.org.cdx
+  size: 475660
+  modified: '2022-04-13T16:56:10'
+  type: CDX
+  extension: .cdx
+- name: opendata.barnaul.org.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.barnaul.org/2022-04-14/opendata.barnaul.org.log
+  size: 4180564
+  modified: '2022-04-14T04:02:23'
+  type: wpull log
+  extension: .log
+- name: opendata.barnaul.org.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.barnaul.org/2022-04-14/opendata.barnaul.org.warc.gz
+  size: 13704535
+  modified: '2022-04-14T04:02:23'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.barnaul.org.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.barnaul.org/2022-04-14/sitearchive-opendata.barnaul.org.db
+  size: 888832
+  modified: '2022-04-13T16:56:11'
+  type: ''
+  extension: .db

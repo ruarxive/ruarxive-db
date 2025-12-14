@@ -1,0 +1,40 @@
+id: prokrm-ru-2017-04-03-8fd2f24f
+name: prokrm.ru (2017-04-03)
+domain: prokrm.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrm.ru-2017-04-03-8fd2f24f/wpull.db
+  size: 4637696
+  modified: '2017-04-03T20:42:44'
+  type: wpull database
+  extension: .db
+- name: www.prokrm.ru-2017-04-03-8fd2f24f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrm.ru-2017-04-03-8fd2f24f/www.prokrm.ru-2017-04-03-8fd2f24f-00000.warc.gz
+  size: 320782565
+  modified: '2017-04-03T20:42:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.prokrm.ru-2017-04-03-8fd2f24f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrm.ru-2017-04-03-8fd2f24f/www.prokrm.ru-2017-04-03-8fd2f24f-meta.warc.gz
+  size: 453038
+  modified: '2017-04-03T20:42:44'
+  type: WARC
+  extension: .warc.gz
+- name: www.prokrm.ru-2017-04-03-8fd2f24f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrm.ru-2017-04-03-8fd2f24f/www.prokrm.ru-2017-04-03-8fd2f24f.cdx
+  size: 4696853
+  modified: '2017-04-03T20:42:41'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.prokrm.ru-2017-04-03-8fd2f24f/dupes_db/data.mdb
+  size: 2564096
+  modified: '2017-04-03T20:42:41'
+  type: ''
+  extension: .mdb
+url: https://prokrm.ru
+created: '2017-04-03'

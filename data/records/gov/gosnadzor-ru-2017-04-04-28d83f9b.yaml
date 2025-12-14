@@ -1,0 +1,46 @@
+id: gosnadzor-ru-2017-04-04-28d83f9b
+name: gosnadzor.ru (2017-04-04)
+domain: gosnadzor.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.gosnadzor.ru-2017-04-04-28d83f9b/dupes_db/data.mdb
+  size: 33890304
+  modified: '2017-04-05T12:46:45'
+  type: ''
+  extension: .mdb
+- name: www.gosnadzor.ru-2017-04-04-28d83f9b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.gosnadzor.ru-2017-04-04-28d83f9b/www.gosnadzor.ru-2017-04-04-28d83f9b-00000.warc.gz
+  size: 3307783590
+  modified: '2017-04-05T12:46:45'
+  type: WARC
+  extension: .warc.gz
+- name: www.gosnadzor.ru-2017-04-04-28d83f9b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.gosnadzor.ru-2017-04-04-28d83f9b/www.gosnadzor.ru-2017-04-04-28d83f9b.cdx
+  size: 38749726
+  modified: '2017-04-05T12:46:45'
+  type: CDX
+  extension: .cdx
+- name: www.gosnadzor.ru-2017-04-04-28d83f9b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.gosnadzor.ru-2017-04-04-28d83f9b/www.gosnadzor.ru-2017-04-04-28d83f9b-meta.warc.gz
+  size: 2322275
+  modified: '2017-04-05T12:46:49'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.gosnadzor.ru-2017-04-04-28d83f9b/wpull.db
+  size: 58075136
+  modified: '2017-04-05T12:46:50'
+  type: wpull database
+  extension: .db
+- name: warc-extractor.py
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.gosnadzor.ru-2017-04-04-28d83f9b/warc-extractor.py
+  size: 26779
+  modified: '2017-04-08T19:19:02'
+  type: ''
+  extension: .py
+url: https://gosnadzor.ru
+created: '2017-04-04'

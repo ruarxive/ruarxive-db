@@ -1,0 +1,40 @@
+id: ce-vkks-ru-2017-05-29-0a0ead47
+name: ce.vkks.ru (2017-05-29)
+domain: ce.vkks.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: ce.vkks.ru-2017-05-29-0a0ead47.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ce.vkks.ru-2017-05-29-0a0ead47/ce.vkks.ru-2017-05-29-0a0ead47.cdx
+  size: 437879
+  modified: '2017-06-03T08:47:40'
+  type: CDX
+  extension: .cdx
+- name: ce.vkks.ru-2017-05-29-0a0ead47-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ce.vkks.ru-2017-05-29-0a0ead47/ce.vkks.ru-2017-05-29-0a0ead47-00000.warc.gz
+  size: 17708152
+  modified: '2017-06-03T08:47:40'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ce.vkks.ru-2017-05-29-0a0ead47/wpull.db
+  size: 344064
+  modified: '2017-06-03T08:47:39'
+  type: wpull database
+  extension: .db
+- name: ce.vkks.ru-2017-05-29-0a0ead47-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ce.vkks.ru-2017-05-29-0a0ead47/ce.vkks.ru-2017-05-29-0a0ead47-meta.warc.gz
+  size: 47365
+  modified: '2017-06-03T08:47:37'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/ce.vkks.ru-2017-05-29-0a0ead47/dupes_db/data.mdb
+  size: 94208
+  modified: '2017-06-03T08:47:42'
+  type: ''
+  extension: .mdb
+url: https://ce.vkks.ru
+created: '2017-05-29'

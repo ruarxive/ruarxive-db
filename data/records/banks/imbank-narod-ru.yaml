@@ -1,0 +1,28 @@
+id: imbank-narod-ru
+name: imbank.narod.ru (2014-01-21)
+domain: imbank.narod.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.imbank.narod.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.imbank.narod.ru/www.imbank.narod.ru.warc.xz
+  size: 22875500
+  modified: '2014-01-21T06:59:52'
+  type: WARC
+  extension: .xz
+- name: www.imbank.narod.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.imbank.narod.ru/www.imbank.narod.ru.cdx.xz
+  size: 24952
+  modified: '2014-01-21T06:59:56'
+  type: CDX
+  extension: .xz
+- name: www.imbank.narod.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.imbank.narod.ru/www.imbank.narod.ru.log.xz
+  size: 21132
+  modified: '2014-01-21T06:59:56'
+  type: wpull log
+  extension: .xz
+url: https://imbank.narod.ru
+created: '2014-01-21T06:59:52'

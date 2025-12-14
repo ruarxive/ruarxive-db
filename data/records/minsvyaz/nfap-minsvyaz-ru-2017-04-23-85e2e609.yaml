@@ -1,0 +1,40 @@
+id: nfap-minsvyaz-ru-2017-04-23-85e2e609
+name: nfap.minsvyaz.ru (2017-04-23)
+domain: nfap.minsvyaz.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: nfap.minsvyaz.ru-2017-04-23-85e2e609.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/nfap.minsvyaz.ru-2017-04-23-85e2e609/nfap.minsvyaz.ru-2017-04-23-85e2e609.cdx
+  size: 358941
+  modified: '2017-04-23T07:48:41'
+  type: CDX
+  extension: .cdx
+- name: nfap.minsvyaz.ru-2017-04-23-85e2e609-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/nfap.minsvyaz.ru-2017-04-23-85e2e609/nfap.minsvyaz.ru-2017-04-23-85e2e609-meta.warc.gz
+  size: 91697
+  modified: '2017-04-23T07:48:41'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/nfap.minsvyaz.ru-2017-04-23-85e2e609/dupes_db/data.mdb
+  size: 106496
+  modified: '2017-04-23T07:48:40'
+  type: ''
+  extension: .mdb
+- name: nfap.minsvyaz.ru-2017-04-23-85e2e609-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/nfap.minsvyaz.ru-2017-04-23-85e2e609/nfap.minsvyaz.ru-2017-04-23-85e2e609-00000.warc.gz
+  size: 676116820
+  modified: '2017-04-23T07:48:41'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/nfap.minsvyaz.ru-2017-04-23-85e2e609/wpull.db
+  size: 165888
+  modified: '2017-04-23T07:48:41'
+  type: wpull database
+  extension: .db
+url: https://nfap.minsvyaz.ru
+created: '2017-04-23'

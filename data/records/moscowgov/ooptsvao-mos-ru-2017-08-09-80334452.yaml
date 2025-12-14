@@ -1,0 +1,40 @@
+id: ooptsvao-mos-ru-2017-08-09-80334452
+name: ooptsvao.mos.ru (2017-08-09)
+domain: ooptsvao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: ooptsvao.mos.ru-2017-08-09-80334452.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ooptsvao.mos.ru-2017-08-09-80334452/ooptsvao.mos.ru-2017-08-09-80334452.cdx
+  size: 57441167
+  modified: '2017-08-14T08:32:53'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ooptsvao.mos.ru-2017-08-09-80334452/wpull.db
+  size: 67596288
+  modified: '2017-08-14T08:32:54'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ooptsvao.mos.ru-2017-08-09-80334452/dupes_db/data.mdb
+  size: 39301120
+  modified: '2017-08-14T08:32:30'
+  type: ''
+  extension: .mdb
+- name: ooptsvao.mos.ru-2017-08-09-80334452-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ooptsvao.mos.ru-2017-08-09-80334452/ooptsvao.mos.ru-2017-08-09-80334452-meta.warc.gz
+  size: 5352178
+  modified: '2017-08-14T08:33:00'
+  type: WARC
+  extension: .warc.gz
+- name: ooptsvao.mos.ru-2017-08-09-80334452-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/ooptsvao.mos.ru-2017-08-09-80334452/ooptsvao.mos.ru-2017-08-09-80334452-00000.warc.gz
+  size: 3708054230
+  modified: '2017-08-14T08:32:53'
+  type: WARC
+  extension: .warc.gz
+url: https://ooptsvao.mos.ru
+created: '2017-08-09'

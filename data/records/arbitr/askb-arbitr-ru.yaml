@@ -1,0 +1,34 @@
+id: askb-arbitr-ru
+name: askb.arbitr.ru (2014-08-03)
+domain: askb.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: askb.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/askb.arbitr.ru/askb.arbitr.ru.7z
+  size: 58901023
+  modified: '2014-08-07T07:43:00'
+  type: ''
+  extension: .7z
+- name: askb.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/askb.arbitr.ru/askb.arbitr.ru.cdx.xz
+  size: 45520
+  modified: '2014-08-03T02:56:45'
+  type: CDX
+  extension: .xz
+- name: askb.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/askb.arbitr.ru/askb.arbitr.ru.warc.xz
+  size: 58850436
+  modified: '2014-08-03T02:56:45'
+  type: WARC
+  extension: .xz
+- name: askb.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/askb.arbitr.ru/askb.arbitr.ru.log.xz
+  size: 31376
+  modified: '2014-08-03T02:56:45'
+  type: wpull log
+  extension: .xz
+url: https://askb.arbitr.ru
+created: '2014-08-03T02:56:45'

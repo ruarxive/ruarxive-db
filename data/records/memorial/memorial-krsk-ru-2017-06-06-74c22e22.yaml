@@ -1,0 +1,34 @@
+id: memorial-krsk-ru-2017-06-06-74c22e22
+name: memorial.krsk.ru (2017-06-06)
+domain: memorial.krsk.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: www.memorial.krsk.ru-2017-06-06-74c22e22-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.memorial.krsk.ru-2017-06-06-74c22e22/www.memorial.krsk.ru-2017-06-06-74c22e22-meta.warc.gz
+  size: 816385
+  modified: '2017-06-08T19:09:34'
+  type: WARC
+  extension: .warc.gz
+- name: www.memorial.krsk.ru-2017-06-06-74c22e22-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.memorial.krsk.ru-2017-06-06-74c22e22/www.memorial.krsk.ru-2017-06-06-74c22e22-00000.warc.gz
+  size: 2544510116
+  modified: '2017-06-08T19:10:45'
+  type: WARC
+  extension: .warc.gz
+- name: www.memorial.krsk.ru-2017-06-06-74c22e22.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.memorial.krsk.ru-2017-06-06-74c22e22/www.memorial.krsk.ru-2017-06-06-74c22e22.cdx
+  size: 7593446
+  modified: '2017-06-08T19:10:57'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.memorial.krsk.ru-2017-06-06-74c22e22/wpull.db
+  size: 7398400
+  modified: '2017-06-08T19:09:35'
+  type: wpull database
+  extension: .db
+url: https://memorial.krsk.ru
+created: '2017-06-06'

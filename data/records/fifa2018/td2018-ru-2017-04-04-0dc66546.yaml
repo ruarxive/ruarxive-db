@@ -1,0 +1,40 @@
+id: td2018-ru-2017-04-04-0dc66546
+name: td2018.ru (2017-04-04)
+domain: td2018.ru
+collection:
+  id: fifa2018
+  slug: fifa2018
+  name: FIFA 2018
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.td2018.ru-2017-04-04-0dc66546/wpull.db
+  size: 146432
+  modified: '2017-04-04T12:36:45'
+  type: wpull database
+  extension: .db
+- name: www.td2018.ru-2017-04-04-0dc66546-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.td2018.ru-2017-04-04-0dc66546/www.td2018.ru-2017-04-04-0dc66546-meta.warc.gz
+  size: 22776
+  modified: '2017-04-04T12:36:45'
+  type: WARC
+  extension: .warc.gz
+- name: www.td2018.ru-2017-04-04-0dc66546-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.td2018.ru-2017-04-04-0dc66546/www.td2018.ru-2017-04-04-0dc66546-00000.warc.gz
+  size: 8416981
+  modified: '2017-04-04T12:36:45'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.td2018.ru-2017-04-04-0dc66546/dupes_db/data.mdb
+  size: 122880
+  modified: '2017-04-04T12:36:44'
+  type: ''
+  extension: .mdb
+- name: www.td2018.ru-2017-04-04-0dc66546.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.td2018.ru-2017-04-04-0dc66546/www.td2018.ru-2017-04-04-0dc66546.cdx
+  size: 126356
+  modified: '2017-04-04T12:36:45'
+  type: CDX
+  extension: .cdx
+url: https://td2018.ru
+created: '2017-04-04'

@@ -1,0 +1,140 @@
+id: sputnik
+slug: sputnik
+name: Портал Спутник
+num_records: 26
+records:
+- id: 1-sputnik-ru-2018-02-05-0a41681c
+  name: 1.sputnik.ru (2018-02-05)
+  url: https://1.sputnik.ru
+  created: '2018-02-05'
+  domain: 1.sputnik.ru
+- id: 1945-sputnik-ru-2018-02-05-34f91131
+  name: 1945.sputnik.ru (2018-02-05)
+  url: https://1945.sputnik.ru
+  created: '2018-02-05'
+  domain: 1945.sputnik.ru
+- id: 1957-sputnik-ru-2018-02-05-579be1d6
+  name: 1957.sputnik.ru (2018-02-05)
+  url: https://1957.sputnik.ru
+  created: '2018-02-05'
+  domain: 1957.sputnik.ru
+- id: 73-sputnik-ru-2018-02-05-7ac59dd1
+  name: 73.sputnik.ru (2018-02-05)
+  url: https://73.sputnik.ru
+  created: '2018-02-05'
+  domain: 73.sputnik.ru
+- id: ads-sputnik-ru-2018-02-05-fbb7e7f4
+  name: ads.sputnik.ru (2018-02-05)
+  url: https://ads.sputnik.ru
+  created: '2018-02-05'
+  domain: ads.sputnik.ru
+- id: afisha-sputnik-ru-2018-02-05-993b6e41
+  name: afisha.sputnik.ru (2018-02-05)
+  url: https://afisha.sputnik.ru
+  created: '2018-02-05'
+  domain: afisha.sputnik.ru
+- id: api-sputnik-ru-2018-02-05-6d0a91ae
+  name: api.sputnik.ru (2018-02-05)
+  url: https://api.sputnik.ru
+  created: '2018-02-05'
+  domain: api.sputnik.ru
+- id: apps-sputnik-ru-2018-02-05-7f117a6d
+  name: apps.sputnik.ru (2018-02-05)
+  url: https://apps.sputnik.ru
+  created: '2018-02-05'
+  domain: apps.sputnik.ru
+- id: browser-sputnik-ru-2018-02-05-73a1cdb1
+  name: browser.sputnik.ru (2018-02-05)
+  url: https://browser.sputnik.ru
+  created: '2018-02-05'
+  domain: browser.sputnik.ru
+- id: cnt-sputnik-ru-2018-02-05-1d619e50
+  name: cnt.sputnik.ru (2018-02-05)
+  url: https://cnt.sputnik.ru
+  created: '2018-02-05'
+  domain: cnt.sputnik.ru
+- id: corp-sputnik-ru-2018-02-05-526c4fda
+  name: corp.sputnik.ru (2018-02-05)
+  url: https://corp.sputnik.ru
+  created: '2018-02-05'
+  domain: corp.sputnik.ru
+- id: download-sputnik-ru-2018-02-05-f76468b3
+  name: download.sputnik.ru (2018-02-05)
+  url: https://download.sputnik.ru
+  created: '2018-02-05'
+  domain: download.sputnik.ru
+- id: finance-sputnik-ru-2018-02-05-ae67ae9a
+  name: finance.sputnik.ru (2018-02-05)
+  url: https://finance.sputnik.ru
+  created: '2018-02-05'
+  domain: finance.sputnik.ru
+- id: kino-sputnik-ru-2018-02-05-33962027
+  name: kino.sputnik.ru (2018-02-05)
+  url: https://kino.sputnik.ru
+  created: '2018-02-05'
+  domain: kino.sputnik.ru
+- id: mobileapi-sputnik-ru-2018-02-05-8c798d77
+  name: mobileapi.sputnik.ru (2018-02-05)
+  url: https://mobileapi.sputnik.ru
+  created: '2018-02-05'
+  domain: mobileapi.sputnik.ru
+- id: news-sputnik-ru-2018-02-05-b4bce549
+  name: news.sputnik.ru (2018-02-05)
+  url: https://news.sputnik.ru
+  created: '2018-02-05'
+  domain: news.sputnik.ru
+- id: pogoda-sputnik-ru-2018-02-05-ebb4edf9
+  name: pogoda.sputnik.ru (2018-02-05)
+  url: https://pogoda.sputnik.ru
+  created: '2018-02-05'
+  domain: pogoda.sputnik.ru
+- id: rd-sputnik-ru-2018-02-05-b988ec60
+  name: rd.sputnik.ru (2018-02-05)
+  url: https://rd.sputnik.ru
+  created: '2018-02-05'
+  domain: rd.sputnik.ru
+- id: regions-sputnik-ru-2018-02-05-00118973
+  name: regions.sputnik.ru (2018-02-05)
+  url: https://regions.sputnik.ru
+  created: '2018-02-05'
+  domain: regions.sputnik.ru
+- id: rgo-sputnik-ru-2018-02-05-c0a585e8
+  name: rgo.sputnik.ru (2018-02-05)
+  url: https://rgo.sputnik.ru
+  created: '2018-02-05'
+  domain: rgo.sputnik.ru
+- id: ru-sputnik-ru-2018-02-05-0794fb27
+  name: ru.sputnik.ru (2018-02-05)
+  url: https://ru.sputnik.ru
+  created: '2018-02-05'
+  domain: ru.sputnik.ru
+- id: safe-sputnik-ru-2018-02-05-f9d2ad24
+  name: safe.sputnik.ru (2018-02-05)
+  url: https://safe.sputnik.ru
+  created: '2018-02-05'
+  domain: safe.sputnik.ru
+- id: space-sputnik-ru-2018-02-05-7f4e2b3f
+  name: space.sputnik.ru (2018-02-05)
+  url: https://space.sputnik.ru
+  created: '2018-02-05'
+  domain: space.sputnik.ru
+- id: start-sputnik-ru-2018-02-05-e0e0f23d
+  name: start.sputnik.ru (2018-02-05)
+  url: https://start.sputnik.ru
+  created: '2018-02-05'
+  domain: start.sputnik.ru
+- id: turizm-sputnik-ru-2018-02-05-deffcf0e
+  name: turizm.sputnik.ru (2018-02-05)
+  url: https://turizm.sputnik.ru
+  created: '2018-02-05'
+  domain: turizm.sputnik.ru
+- id: tv-sputnik-ru-2018-02-05-8592a80b
+  name: tv.sputnik.ru (2018-02-05)
+  url: https://tv.sputnik.ru
+  created: '2018-02-05'
+  domain: tv.sputnik.ru
+files:
+  total_count: 549
+  total_size: 34222060053
+  directories:
+  - webcollect2017

@@ -1,0 +1,52 @@
+id: vak1-ed-gov-ru-2017-05-27-9084da47
+name: vak1.ed.gov.ru (2017-05-27)
+domain: vak1.ed.gov.ru
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: vak1.ed.gov.ru-2017-05-27-9084da47-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/vak1.ed.gov.ru-2017-05-27-9084da47/vak1.ed.gov.ru-2017-05-27-9084da47-00001.warc.gz
+  size: 5368742276
+  modified: '2017-05-31T18:26:36'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/vak1.ed.gov.ru-2017-05-27-9084da47/dupes_db/data.mdb
+  size: 8310784
+  modified: '2017-05-31T18:30:32'
+  type: ''
+  extension: .mdb
+- name: vak1.ed.gov.ru-2017-05-27-9084da47-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/vak1.ed.gov.ru-2017-05-27-9084da47/vak1.ed.gov.ru-2017-05-27-9084da47-meta.warc.gz
+  size: 1539200
+  modified: '2017-05-31T18:28:55'
+  type: WARC
+  extension: .warc.gz
+- name: vak1.ed.gov.ru-2017-05-27-9084da47-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/vak1.ed.gov.ru-2017-05-27-9084da47/vak1.ed.gov.ru-2017-05-27-9084da47-00000.warc.gz
+  size: 5371398057
+  modified: '2017-05-31T18:28:54'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/vak1.ed.gov.ru-2017-05-27-9084da47/wpull.db
+  size: 18312192
+  modified: '2017-05-31T18:24:01'
+  type: wpull database
+  extension: .db
+- name: vak1.ed.gov.ru-2017-05-27-9084da47-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/vak1.ed.gov.ru-2017-05-27-9084da47/vak1.ed.gov.ru-2017-05-27-9084da47-00002.warc.gz
+  size: 4090882991
+  modified: '2017-05-31T18:30:31'
+  type: WARC
+  extension: .warc.gz
+- name: vak1.ed.gov.ru-2017-05-27-9084da47.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/vak1.ed.gov.ru-2017-05-27-9084da47/vak1.ed.gov.ru-2017-05-27-9084da47.cdx
+  size: 15716857
+  modified: '2017-05-31T18:24:00'
+  type: CDX
+  extension: .cdx
+url: https://vak1.ed.gov.ru
+created: '2017-05-27'

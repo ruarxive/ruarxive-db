@@ -1,0 +1,40 @@
+id: akademichesky-mos-ru-2017-09-15-2310a5ae
+name: akademichesky.mos.ru (2017-09-15)
+domain: akademichesky.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/akademichesky.mos.ru-2017-09-15-2310a5ae/dupes_db/data.mdb
+  size: 106921984
+  modified: '2017-09-19T12:46:18'
+  type: ''
+  extension: .mdb
+- name: akademichesky.mos.ru-2017-09-15-2310a5ae-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/akademichesky.mos.ru-2017-09-15-2310a5ae/akademichesky.mos.ru-2017-09-15-2310a5ae-meta.warc.gz
+  size: 3140687
+  modified: '2017-09-19T12:46:25'
+  type: WARC
+  extension: .warc.gz
+- name: akademichesky.mos.ru-2017-09-15-2310a5ae-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/akademichesky.mos.ru-2017-09-15-2310a5ae/akademichesky.mos.ru-2017-09-15-2310a5ae-00000.warc.gz
+  size: 4429533371
+  modified: '2017-09-19T12:46:18'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/akademichesky.mos.ru-2017-09-15-2310a5ae/wpull.db
+  size: 180249600
+  modified: '2017-09-19T12:46:19'
+  type: wpull database
+  extension: .db
+- name: akademichesky.mos.ru-2017-09-15-2310a5ae.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/akademichesky.mos.ru-2017-09-15-2310a5ae/akademichesky.mos.ru-2017-09-15-2310a5ae.cdx
+  size: 80855655
+  modified: '2017-09-19T12:46:18'
+  type: CDX
+  extension: .cdx
+url: https://akademichesky.mos.ru
+created: '2017-09-15'

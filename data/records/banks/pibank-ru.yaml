@@ -1,0 +1,40 @@
+id: pibank-ru
+name: pibank.ru (2013-12-18)
+domain: pibank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.pibank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pibank.ru/www.pibank.ru.log.xz
+  size: 87280
+  modified: '2014-05-13T11:26:54'
+  type: wpull log
+  extension: .xz
+- name: www.pibank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pibank.ru/www.pibank.ru.7z
+  size: 43990265
+  modified: '2014-08-19T22:39:58'
+  type: ''
+  extension: .7z
+- name: www.pibank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pibank.ru/www.pibank.ru.cdx.xz
+  size: 184928
+  modified: '2014-05-13T11:26:54'
+  type: CDX
+  extension: .xz
+- name: www.pibank.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pibank.ru/www.pibank.ru.warc
+  size: 157339627
+  modified: '2013-12-18T15:28:05'
+  type: WARC
+  extension: .warc
+- name: www.pibank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pibank.ru/www.pibank.ru.warc.xz
+  size: 44450664
+  modified: '2014-05-13T11:26:54'
+  type: WARC
+  extension: .xz
+url: https://pibank.ru
+created: '2013-12-18T15:28:05'

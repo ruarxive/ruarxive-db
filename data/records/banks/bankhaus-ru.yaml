@@ -1,0 +1,34 @@
+id: bankhaus-ru
+name: bankhaus.ru (2014-05-15)
+domain: bankhaus.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bankhaus.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankhaus.ru/www.bankhaus.ru.warc.xz
+  size: 489721864
+  modified: '2014-05-15T16:53:22'
+  type: WARC
+  extension: .xz
+- name: www.bankhaus.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankhaus.ru/www.bankhaus.ru.log.xz
+  size: 60700
+  modified: '2014-05-15T16:53:22'
+  type: wpull log
+  extension: .xz
+- name: www.bankhaus.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankhaus.ru/www.bankhaus.ru.cdx.xz
+  size: 42732
+  modified: '2014-05-15T16:53:22'
+  type: CDX
+  extension: .xz
+- name: www.bankhaus.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankhaus.ru/www.bankhaus.ru.7z
+  size: 492024273
+  modified: '2014-08-20T10:05:28'
+  type: ''
+  extension: .7z
+url: https://bankhaus.ru
+created: '2014-05-15T16:53:22'

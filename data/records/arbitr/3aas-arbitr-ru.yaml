@@ -1,0 +1,34 @@
+id: 3aas-arbitr-ru
+name: 3aas.arbitr.ru (2014-08-01)
+domain: 3aas.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: 3aas.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/3aas.arbitr.ru/3aas.arbitr.ru.warc.xz
+  size: 189365460
+  modified: '2014-08-01T04:55:51'
+  type: WARC
+  extension: .xz
+- name: 3aas.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/3aas.arbitr.ru/3aas.arbitr.ru.log.xz
+  size: 323212
+  modified: '2014-08-01T04:55:51'
+  type: wpull log
+  extension: .xz
+- name: 3aas.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/3aas.arbitr.ru/3aas.arbitr.ru.cdx.xz
+  size: 697876
+  modified: '2014-08-01T04:55:51'
+  type: CDX
+  extension: .xz
+- name: 3aas.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/3aas.arbitr.ru/3aas.arbitr.ru.7z
+  size: 155924592
+  modified: '2014-08-07T01:18:58'
+  type: ''
+  extension: .7z
+url: https://3aas.arbitr.ru
+created: '2014-08-01T04:55:51'

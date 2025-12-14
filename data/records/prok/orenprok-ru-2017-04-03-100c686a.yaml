@@ -1,0 +1,40 @@
+id: orenprok-ru-2017-04-03-100c686a
+name: orenprok.ru (2017-04-03)
+domain: orenprok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.orenprok.ru-2017-04-03-100c686a/dupes_db/data.mdb
+  size: 3366912
+  modified: '2017-04-04T00:51:07'
+  type: ''
+  extension: .mdb
+- name: www.orenprok.ru-2017-04-03-100c686a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.orenprok.ru-2017-04-03-100c686a/www.orenprok.ru-2017-04-03-100c686a.cdx
+  size: 5481913
+  modified: '2017-04-04T00:51:07'
+  type: CDX
+  extension: .cdx
+- name: www.orenprok.ru-2017-04-03-100c686a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.orenprok.ru-2017-04-03-100c686a/www.orenprok.ru-2017-04-03-100c686a-meta.warc.gz
+  size: 490039
+  modified: '2017-04-04T00:51:08'
+  type: WARC
+  extension: .warc.gz
+- name: www.orenprok.ru-2017-04-03-100c686a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.orenprok.ru-2017-04-03-100c686a/www.orenprok.ru-2017-04-03-100c686a-00000.warc.gz
+  size: 528447091
+  modified: '2017-04-04T00:51:07'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.orenprok.ru-2017-04-03-100c686a/wpull.db
+  size: 5825536
+  modified: '2017-04-04T00:51:08'
+  type: wpull database
+  extension: .db
+url: https://orenprok.ru
+created: '2017-04-03'

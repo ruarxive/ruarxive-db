@@ -1,0 +1,28 @@
+id: fotofond-ria-ru
+name: fotofond.ria.ru (2013-12-10)
+domain: fotofond.ria.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: fotofond.ria.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/fotofond.ria.ru/fotofond.ria.ru.warc.xz
+  size: 160675016
+  modified: '2013-12-10T14:56:43'
+  type: WARC
+  extension: .xz
+- name: fotofond.ria.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/fotofond.ria.ru/fotofond.ria.ru.cdx.xz
+  size: 221964
+  modified: '2013-12-10T14:57:09'
+  type: CDX
+  extension: .xz
+- name: fotofond.ria.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/fotofond.ria.ru/fotofond.ria.ru.log.xz
+  size: 131940
+  modified: '2013-12-10T14:57:10'
+  type: wpull log
+  extension: .xz
+url: https://fotofond.ria.ru
+created: '2013-12-10T14:56:43'

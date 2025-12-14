@@ -1,0 +1,25 @@
+id: echo-msk-ru
+name: Архив передач Цена Победы на Эхо Москвы
+url: https://echo.msk.ru/programs/victory/
+domain: echo.msk.ru
+created: '2022-03-07T07:08:38.000Z'
+date: '2022-03-07T07:15:00.000Z'
+status: собран
+status_id: collected
+resource_type: раздел сайта
+resource_type_id: site-section
+reason: Ликвидация организации после отзыва лицензии на вещание у радиостанции
+reason_id: likvidatsiya-organizatsii-posle-otzyva
+strategy: архивация файлов по ссылкам
+tools:
+- aria2
+format: zip
+format_id: zip
+collection:
+  id: echomskru2022
+  name: Эхо Москвы 2022
+  slug: echomskru2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий

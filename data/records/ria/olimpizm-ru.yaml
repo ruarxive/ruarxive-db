@@ -1,0 +1,28 @@
+id: olimpizm-ru
+name: olimpizm.ru (2013-12-10)
+domain: olimpizm.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: www.olimpizm.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.olimpizm.ru/www.olimpizm.ru.log.xz
+  size: 215504
+  modified: '2013-12-10T07:45:09'
+  type: wpull log
+  extension: .xz
+- name: www.olimpizm.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.olimpizm.ru/www.olimpizm.ru.warc.xz
+  size: 35805944
+  modified: '2013-12-10T07:45:16'
+  type: WARC
+  extension: .xz
+- name: www.olimpizm.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.olimpizm.ru/www.olimpizm.ru.cdx.xz
+  size: 496744
+  modified: '2013-12-10T07:45:08'
+  type: CDX
+  extension: .xz
+url: https://olimpizm.ru
+created: '2013-12-10T07:45:16'

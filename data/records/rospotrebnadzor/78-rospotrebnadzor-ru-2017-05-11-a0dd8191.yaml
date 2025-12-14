@@ -1,0 +1,57 @@
+id: 78-rospotrebnadzor-ru-2017-05-11-a0dd8191
+name: 78.rospotrebnadzor.ru (2017-05-11)
+domain: 78.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: 78.rospotrebnadzor.ru-2017-05-11-a0dd8191.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78.rospotrebnadzor.ru-2017-05-11-a0dd8191/78.rospotrebnadzor.ru-2017-05-11-a0dd8191.cdx
+  size: 88079093
+  modified: '2017-05-13T04:44:57'
+  type: CDX
+  extension: .cdx
+- name: 78.rospotrebnadzor.ru-2017-05-11-a0dd8191-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78.rospotrebnadzor.ru-2017-05-11-a0dd8191/78.rospotrebnadzor.ru-2017-05-11-a0dd8191-meta.warc.gz
+  size: 5929881
+  modified: '2017-05-13T04:46:02'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78.rospotrebnadzor.ru-2017-05-11-a0dd8191/wpull.db
+  size: 219183104
+  modified: '2017-05-13T04:44:59'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78.rospotrebnadzor.ru-2017-05-11-a0dd8191/dupes_db/data.mdb
+  size: 109973504
+  modified: '2017-05-13T04:44:57'
+  type: ''
+  extension: .mdb
+- name: 78.rospotrebnadzor.ru-2017-05-11-a0dd8191-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78.rospotrebnadzor.ru-2017-05-11-a0dd8191/78.rospotrebnadzor.ru-2017-05-11-a0dd8191-00001.warc.gz
+  size: 1404624312
+  modified: '2017-05-13T04:44:57'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-qyn1n_.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78.rospotrebnadzor.ru-2017-05-11-a0dd8191/temp/tmp-wpull-resp_cb-qyn1n_.tmp
+  size: 61132
+  modified: '2017-05-13T04:44:57'
+  type: ''
+  extension: .tmp
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78.rospotrebnadzor.ru-2017-05-11-a0dd8191/stop
+  size: 0
+  modified: '2017-05-13T04:44:57'
+  type: ''
+- name: 78.rospotrebnadzor.ru-2017-05-11-a0dd8191-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/78.rospotrebnadzor.ru-2017-05-11-a0dd8191/78.rospotrebnadzor.ru-2017-05-11-a0dd8191-00000.warc.gz
+  size: 5371655834
+  modified: '2017-05-12T14:30:25'
+  type: WARC
+  extension: .warc.gz
+url: https://78.rospotrebnadzor.ru
+created: '2017-05-11'

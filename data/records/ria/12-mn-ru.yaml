@@ -1,0 +1,28 @@
+id: 12-mn-ru
+name: 12.mn.ru (2013-12-10)
+domain: 12.mn.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: 12.mn.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/12.mn.ru/12.mn.ru.log.xz
+  size: 73760
+  modified: '2013-12-10T14:52:49'
+  type: wpull log
+  extension: .xz
+- name: 12.mn.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/12.mn.ru/12.mn.ru.warc.xz
+  size: 21427488
+  modified: '2013-12-10T14:52:36'
+  type: WARC
+  extension: .xz
+- name: 12.mn.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/12.mn.ru/12.mn.ru.cdx.xz
+  size: 141780
+  modified: '2013-12-10T14:52:34'
+  type: CDX
+  extension: .xz
+url: https://12.mn.ru
+created: '2013-12-10T14:52:36'

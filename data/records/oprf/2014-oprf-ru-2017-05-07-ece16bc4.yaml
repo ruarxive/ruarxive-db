@@ -1,0 +1,40 @@
+id: 2014-oprf-ru-2017-05-07-ece16bc4
+name: 2014.oprf.ru (2017-05-07)
+domain: 2014.oprf.ru
+collection:
+  id: oprf
+  slug: oprf
+  name: Общественная палата РФ
+resources:
+- name: 2014.oprf.ru-2017-05-07-ece16bc4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/2014.oprf.ru-2017-05-07-ece16bc4/2014.oprf.ru-2017-05-07-ece16bc4-meta.warc.gz
+  size: 901856
+  modified: '2017-05-07T13:43:17'
+  type: WARC
+  extension: .warc.gz
+- name: 2014.oprf.ru-2017-05-07-ece16bc4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/2014.oprf.ru-2017-05-07-ece16bc4/2014.oprf.ru-2017-05-07-ece16bc4-00000.warc.gz
+  size: 2239515648
+  modified: '2017-05-07T13:43:16'
+  type: WARC
+  extension: .warc.gz
+- name: 2014.oprf.ru-2017-05-07-ece16bc4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/2014.oprf.ru-2017-05-07-ece16bc4/2014.oprf.ru-2017-05-07-ece16bc4.cdx
+  size: 9404141
+  modified: '2017-05-07T13:43:16'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/2014.oprf.ru-2017-05-07-ece16bc4/wpull.db
+  size: 9826304
+  modified: '2017-05-07T13:43:16'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/oprf/2014.oprf.ru-2017-05-07-ece16bc4/dupes_db/data.mdb
+  size: 1986560
+  modified: '2017-05-07T13:40:38'
+  type: ''
+  extension: .mdb
+url: https://2014.oprf.ru
+created: '2017-05-07'

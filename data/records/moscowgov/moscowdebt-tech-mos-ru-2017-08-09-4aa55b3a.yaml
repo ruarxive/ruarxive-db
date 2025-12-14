@@ -1,0 +1,40 @@
+id: moscowdebt-tech-mos-ru-2017-08-09-4aa55b3a
+name: moscowdebt.tech.mos.ru (2017-08-09)
+domain: moscowdebt.tech.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a/moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a.cdx
+  size: 623
+  modified: '2017-08-09T15:22:07'
+  type: CDX
+  extension: .cdx
+- name: moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a/moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a-meta.warc.gz
+  size: 2912
+  modified: '2017-08-09T15:22:07'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a/wpull.db
+  size: 10240
+  modified: '2017-08-09T15:22:07'
+  type: wpull database
+  extension: .db
+- name: moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a/moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a-00000.warc.gz
+  size: 5920
+  modified: '2017-08-09T15:22:07'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/moscowdebt.tech.mos.ru-2017-08-09-4aa55b3a/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-08-09T15:22:03'
+  type: ''
+  extension: .mdb
+url: https://moscowdebt.tech.mos.ru
+created: '2017-08-09'

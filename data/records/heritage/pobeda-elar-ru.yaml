@@ -1,0 +1,34 @@
+id: pobeda-elar-ru
+name: pobeda.elar.ru (2014-12-29)
+domain: pobeda.elar.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: pobeda.elar.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/pobeda.elar.ru/pobeda.elar.ru.log.xz
+  size: 2119640
+  modified: '2014-12-29T15:33:03'
+  type: wpull log
+  extension: .xz
+- name: pobeda.elar.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/pobeda.elar.ru/pobeda.elar.ru.warc.xz
+  size: 4632769660
+  modified: '2014-12-29T15:33:03'
+  type: WARC
+  extension: .xz
+- name: pobeda.elar.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/pobeda.elar.ru/pobeda.elar.ru.7z
+  size: 4632823725
+  modified: '2015-01-04T17:26:10'
+  type: ''
+  extension: .7z
+- name: pobeda.elar.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/pobeda.elar.ru/pobeda.elar.ru.cdx.xz
+  size: 3602812
+  modified: '2014-12-29T15:33:03'
+  type: CDX
+  extension: .xz
+url: https://pobeda.elar.ru
+created: '2014-12-29T15:33:03'

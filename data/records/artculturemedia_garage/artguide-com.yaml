@@ -1,0 +1,18 @@
+id: artguide-com
+name: АРТГИД
+url: https://artguide.com/
+domain: artguide.com
+created: '2022-03-29T16:16:48.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: artculturemedia_garage
+  name: Искусство и культура
+  slug: artculturemedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum

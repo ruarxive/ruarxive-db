@@ -1,0 +1,40 @@
+id: vorobyov-council-gov-ru-2017-05-09-40cd3127
+name: vorobyov.council.gov.ru (2017-05-09)
+domain: vorobyov.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: vorobyov.council.gov.ru-2017-05-09-40cd3127-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/vorobyov.council.gov.ru-2017-05-09-40cd3127/vorobyov.council.gov.ru-2017-05-09-40cd3127-00000.warc.gz
+  size: 4659919
+  modified: '2017-05-09T20:22:28'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/vorobyov.council.gov.ru-2017-05-09-40cd3127/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-05-09T20:22:28'
+  type: ''
+  extension: .mdb
+- name: vorobyov.council.gov.ru-2017-05-09-40cd3127.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/vorobyov.council.gov.ru-2017-05-09-40cd3127/vorobyov.council.gov.ru-2017-05-09-40cd3127.cdx
+  size: 64773
+  modified: '2017-05-09T20:22:28'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/vorobyov.council.gov.ru-2017-05-09-40cd3127/wpull.db
+  size: 81920
+  modified: '2017-05-09T20:22:28'
+  type: wpull database
+  extension: .db
+- name: vorobyov.council.gov.ru-2017-05-09-40cd3127-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/vorobyov.council.gov.ru-2017-05-09-40cd3127/vorobyov.council.gov.ru-2017-05-09-40cd3127-meta.warc.gz
+  size: 13702
+  modified: '2017-05-09T20:22:28'
+  type: WARC
+  extension: .warc.gz
+url: https://vorobyov.council.gov.ru
+created: '2017-05-09'

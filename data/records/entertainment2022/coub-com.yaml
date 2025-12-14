@@ -1,0 +1,25 @@
+id: coub-com
+name: Coub
+url: https://coub.com
+domain: coub.com
+created: '2022-03-16T19:29:16.000Z'
+date: '2022-03-17T08:27:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Анонс закрытия сайта с 1 апреля 2022 г.
+reason_id: site-closure-1
+strategy: архивация данных и API
+tools:
+- apibackuper
+format: zip
+format_id: zip
+collection:
+  id: entertainment2022
+  name: Развлекательные сайты 2022
+  slug: entertainment2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий

@@ -1,0 +1,34 @@
+id: kkapb-ru
+name: kkapb.ru (2014-05-10)
+domain: kkapb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.kkapb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kkapb.ru/www.kkapb.ru.log.xz
+  size: 484
+  modified: '2014-05-10T23:19:43'
+  type: wpull log
+  extension: .xz
+- name: www.kkapb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kkapb.ru/www.kkapb.ru.7z
+  size: 675
+  modified: '2014-08-19T08:13:37'
+  type: ''
+  extension: .7z
+- name: www.kkapb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kkapb.ru/www.kkapb.ru.cdx.xz
+  size: 232
+  modified: '2014-05-10T23:19:43'
+  type: CDX
+  extension: .xz
+- name: www.kkapb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kkapb.ru/www.kkapb.ru.warc.xz
+  size: 2280
+  modified: '2014-05-10T23:19:43'
+  type: WARC
+  extension: .xz
+url: https://kkapb.ru
+created: '2014-05-10T23:19:43'

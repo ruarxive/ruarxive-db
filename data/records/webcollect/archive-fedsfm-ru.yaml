@@ -1,0 +1,16 @@
+id: archive-fedsfm-ru
+name: archive.fedsfm.ru.7z (2012-10-22)
+domain: archive.fedsfm.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: archive.fedsfm.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/archive.fedsfm.ru.7z
+  size: 7946149
+  modified: '2012-10-22T09:38:02'
+  type: httrack archive
+  extension: .7z
+url: https://archive.fedsfm.ru.7z
+created: '2012-10-22T09:38:02'

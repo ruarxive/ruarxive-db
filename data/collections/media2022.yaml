@@ -1,0 +1,178 @@
+id: media2022
+slug: media2022
+name: Онлайн медиа 2022
+created: '2022-03-05T08:58:41.000Z'
+description: Архивы отдельных изданий заблокированных, удаляемых или самоисчезающих
+  на 2022 год в России
+collection_type: единовременная
+collection_date: '2022-03-14'
+reason: Высокая вероятность исчезновения связанная с блокировкой Роскомнадзором, решения
+  авторов издания не продолжать их вести и тд.
+num_records: 25
+records:
+- id: agentura-ru
+  name: Agentura.ru
+  url: https://agentura.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-28T14:25:49.000Z'
+  domain: agentura.ru
+- id: cableman-ru
+  name: Кабельщик
+  url: https://www.cableman.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-03-30T16:25:17.000Z'
+  domain: cableman.ru
+- id: chaskor-ru
+  name: Частный корреспондент
+  url: https://chaskor.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-24T14:57:45.000Z'
+  domain: chaskor.ru
+- id: colta-ru
+  name: Colta
+  url: https://colta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-14T08:55:49.000Z'
+  domain: colta.ru
+- id: discours-io
+  name: Дискурс
+  url: https://discours.io/
+  status: не собран
+  status_id: not-collected
+  created: '2022-04-11T16:18:40.000Z'
+  domain: discours.io
+- id: holod-media
+  name: holod.media
+  status: не собран
+  status_id: not-collected
+  created: '2022-04-11T16:15:51.000Z'
+  domain: holod.media
+- id: itsmycity-ru
+  name: ItsMyCity
+  url: https://itsmycity.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-28T14:18:55.000Z'
+  domain: itsmycity.ru
+- id: news-doxajournal-ru
+  name: DOXA
+  url: https://news.doxajournal.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-14T08:53:31.000Z'
+  domain: news.doxajournal.ru
+- id: paperpaper-ru
+  name: Газета Бумага
+  url: https://paperpaper.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-14T07:18:14.000Z'
+  domain: paperpaper.ru
+- id: poligon-media
+  name: Полигон Медиа
+  status: собран
+  status_id: collected
+  created: '2022-03-28T13:44:58.000Z'
+- id: regnum-ru
+  name: Regnum
+  url: https://regnum.ru
+  status: собран
+  status_id: collected
+  created: '2022-11-14T14:52:54.000Z'
+  domain: regnum.ru
+- id: rosbalt-ru
+  name: Росбалт
+  url: https://rosbalt.ru
+  status: собран
+  status_id: collected
+  created: '2022-11-14T14:53:01.000Z'
+  domain: rosbalt.ru
+- id: t-me-1
+  name: Телеграм канал Важных Новостей
+  status: собран
+  status_id: collected
+  created: '2022-03-05T19:55:38.000Z'
+  domain: t.me
+- id: t-me-2
+  name: Телеграм канал DOXA Journal
+  status: собран
+  status_id: collected
+  created: '2022-03-05T09:35:31.000Z'
+  domain: t.me
+- id: t-me-3
+  name: Телеграм канал ТВ2. Новости Томска и Сибири
+  status: собран
+  status_id: collected
+  created: '2022-03-07T08:18:33.000Z'
+  domain: t.me
+- id: t-me-4
+  name: Телеграм канал Полигон Медиа
+  status: собран
+  status_id: collected
+  created: '2022-03-28T13:45:57.000Z'
+  domain: t.me
+- id: t-me-5
+  name: Телеграм канал Телеканала Дождь (только сообщения)
+  status: собран
+  status_id: collected
+  created: '2022-03-28T14:30:36.000Z'
+  domain: t.me
+- id: t-me-7
+  name: Телеграм канал издания Троицкий Вариант
+  status: собран
+  status_id: collected
+  created: '2022-03-28T13:25:04.000Z'
+  domain: t.me
+- id: the-village-ru
+  name: The Village
+  url: https://www.the-village.ru/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: the-village.ru
+- id: thebell-io
+  name: The Bell
+  url: https://thebell.io
+  status: собирается
+  status_id: collecting
+  created: '2022-04-02T07:43:12.000Z'
+  domain: thebell.io
+- id: theins-ru
+  name: The Insider
+  url: https://theins.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-14T08:53:48.000Z'
+  domain: theins.ru
+- id: tjournal-ru
+  name: Tjournal.ru
+  url: https://tjournal.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-28T14:26:50.000Z'
+  domain: tjournal.ru
+- id: trv-science-ru
+  name: Троицкий вариант
+  url: http://trv-science.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-03-25T07:18:31.000Z'
+  domain: trv-science.ru
+- id: w-o-s-ru
+  name: ВОС
+  url: https://w-o-s.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-05T08:55:25.000Z'
+  domain: w-o-s.ru
+- id: wonderzine-com
+  name: Wonderzine
+  url: https://wonderzine.com
+  status: собирается
+  status_id: collecting
+  created: '2022-04-07T18:31:09.000Z'
+  domain: wonderzine.com

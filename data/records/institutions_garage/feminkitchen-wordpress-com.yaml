@@ -1,0 +1,18 @@
+id: feminkitchen-wordpress-com
+name: Блог “Феминистская кухня” (там только один текст Чубарова и всё)
+url: https://feminkitchen.wordpress.com/
+domain: feminkitchen.wordpress.com
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: institutions_garage
+  name: Институты
+  slug: institutions_garage
+source:
+  id: garage-museum
+  name: Garage Museum

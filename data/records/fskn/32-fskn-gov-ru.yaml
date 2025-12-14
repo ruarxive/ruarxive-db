@@ -1,0 +1,34 @@
+id: 32-fskn-gov-ru
+name: 32.fskn.gov.ru (2016-05-31)
+domain: 32.fskn.gov.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: www.32.fskn.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.32.fskn.gov.ru/www.32.fskn.gov.ru.cdx
+  size: 1876421
+  modified: '2016-05-31T22:55:05'
+  type: CDX
+  extension: .cdx
+- name: www.32.fskn.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.32.fskn.gov.ru/www.32.fskn.gov.ru.7z
+  size: 168037129
+  modified: '2016-09-27T21:26:15'
+  type: ''
+  extension: .7z
+- name: www.32.fskn.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.32.fskn.gov.ru/www.32.fskn.gov.ru.log
+  size: 3483320
+  modified: '2016-05-31T22:55:05'
+  type: ''
+  extension: .log
+- name: www.32.fskn.gov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/www.32.fskn.gov.ru/www.32.fskn.gov.ru.warc.gz
+  size: 214026186
+  modified: '2016-05-31T22:55:05'
+  type: WARC
+  extension: .warc.gz
+url: https://32.fskn.gov.ru
+created: '2016-05-31T22:55:05'

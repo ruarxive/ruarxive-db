@@ -1,0 +1,42 @@
+id: selforganised_garage
+slug: selforganised_garage
+name: Самоиздат
+created: '2022-03-29T16:19:40.000Z'
+num_records: 5
+records:
+- id: feminkitchen-org
+  name: 'Сайт проекта (клуба) “Художественная платформа “Феминистская кухня”, '
+  url: http://www.feminkitchen.org/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: feminkitchen.org
+- id: instagram-com-3
+  name: Самоорганизация Аэрарий, (Сочи)
+  url: https://www.instagram.com/aerariy/
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: instagram.com
+- id: instagram-com-4
+  name: 'Безназвания (Самоорганизация Ани Лялиной и погибшего Макса Амельченко, Владимир
+    – Новосибирск – Кемерово) '
+  url: 'https://www.instagram.com/_beznazvaniia/ '
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: instagram.com
+- id: llil-space
+  name: Самоорганизация Олега Устинова
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: llil.space
+- id: vimeo-com
+  name: “Художественная платформа “Феминистская кухня”, ВНИМАНИЕ, есть ВИДЕО, размещенные
+    на платформе Vimeo
+  url: https://vimeo.com/user17518957
+  status: не собран
+  status_id: not-collected
+  created: '2022-03-29T16:16:48.000Z'
+  domain: vimeo.com

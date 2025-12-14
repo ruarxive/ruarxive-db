@@ -1,0 +1,40 @@
+id: forum-km-duma-gov-ru-2017-05-21-5e0e49af
+name: forum.km.duma.gov.ru (2017-05-21)
+domain: forum.km.duma.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: forum.km.duma.gov.ru-2017-05-21-5e0e49af-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/forum.km.duma.gov.ru-2017-05-21-5e0e49af/forum.km.duma.gov.ru-2017-05-21-5e0e49af-00000.warc.gz
+  size: 66292400
+  modified: '2017-05-21T17:54:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/forum.km.duma.gov.ru-2017-05-21-5e0e49af/wpull.db
+  size: 447488
+  modified: '2017-05-21T17:54:14'
+  type: wpull database
+  extension: .db
+- name: forum.km.duma.gov.ru-2017-05-21-5e0e49af-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/forum.km.duma.gov.ru-2017-05-21-5e0e49af/forum.km.duma.gov.ru-2017-05-21-5e0e49af-meta.warc.gz
+  size: 32096
+  modified: '2017-05-21T17:54:14'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/forum.km.duma.gov.ru-2017-05-21-5e0e49af/dupes_db/data.mdb
+  size: 270336
+  modified: '2017-05-21T17:54:13'
+  type: ''
+  extension: .mdb
+- name: forum.km.duma.gov.ru-2017-05-21-5e0e49af.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/forum.km.duma.gov.ru-2017-05-21-5e0e49af/forum.km.duma.gov.ru-2017-05-21-5e0e49af.cdx
+  size: 373081
+  modified: '2017-05-21T17:54:13'
+  type: CDX
+  extension: .cdx
+url: https://forum.km.duma.gov.ru
+created: '2017-05-21'

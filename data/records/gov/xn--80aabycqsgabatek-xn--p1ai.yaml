@@ -1,0 +1,34 @@
+id: xn--80aabycqsgabatek-xn--p1ai
+name: xn--80aabycqsgabatek.xn--p1ai (2014-09-11)
+domain: xn--80aabycqsgabatek.xn--p1ai
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: limited.xn--80aabycqsgabatek.xn--p1ai.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/xn--80aabycqsgabatek.xn--p1ai/limited.xn--80aabycqsgabatek.xn--p1ai.7z
+  size: 98441764
+  modified: '2014-11-29T22:03:37'
+  type: ''
+  extension: .7z
+- name: xn--80aabycqsgabatek.xn--p1ai.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/xn--80aabycqsgabatek.xn--p1ai/xn--80aabycqsgabatek.xn--p1ai.cdx.xz
+  size: 131604
+  modified: '2014-09-11T02:34:59'
+  type: CDX
+  extension: .xz
+- name: xn--80aabycqsgabatek.xn--p1ai.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/xn--80aabycqsgabatek.xn--p1ai/xn--80aabycqsgabatek.xn--p1ai.warc.xz
+  size: 124264272
+  modified: '2014-09-11T02:34:59'
+  type: WARC
+  extension: .xz
+- name: xn--80aabycqsgabatek.xn--p1ai.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/xn--80aabycqsgabatek.xn--p1ai/xn--80aabycqsgabatek.xn--p1ai.log.xz
+  size: 100884
+  modified: '2014-09-11T02:34:59'
+  type: wpull log
+  extension: .xz
+url: https://xn--80aabycqsgabatek.xn--p1ai
+created: '2014-09-11T02:34:59'

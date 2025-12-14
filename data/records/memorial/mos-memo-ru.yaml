@@ -1,0 +1,28 @@
+id: mos-memo-ru
+name: mos.memo.ru (2013-10-23)
+domain: mos.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: mos.memo.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/mos.memo.ru/mos.memo.ru.log.xz
+  size: 3068
+  modified: '2013-10-23T14:07:19'
+  type: wpull log
+  extension: .xz
+- name: mos.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/mos.memo.ru/mos.memo.ru.warc.xz
+  size: 558088
+  modified: '2013-10-23T14:07:19'
+  type: WARC
+  extension: .xz
+- name: mos.memo.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/mos.memo.ru/mos.memo.ru.cdx.xz
+  size: 5032
+  modified: '2013-10-23T14:07:17'
+  type: CDX
+  extension: .xz
+url: https://mos.memo.ru
+created: '2013-10-23T14:07:19'

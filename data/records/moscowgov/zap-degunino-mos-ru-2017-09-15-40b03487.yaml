@@ -1,0 +1,40 @@
+id: zap-degunino-mos-ru-2017-09-15-40b03487
+name: zap-degunino.mos.ru (2017-09-15)
+domain: zap-degunino.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: zap-degunino.mos.ru-2017-09-15-40b03487.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zap-degunino.mos.ru-2017-09-15-40b03487/zap-degunino.mos.ru-2017-09-15-40b03487.cdx
+  size: 9222583
+  modified: '2017-09-17T19:55:28'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zap-degunino.mos.ru-2017-09-15-40b03487/wpull.db
+  size: 10712064
+  modified: '2017-09-17T19:55:30'
+  type: wpull database
+  extension: .db
+- name: zap-degunino.mos.ru-2017-09-15-40b03487-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zap-degunino.mos.ru-2017-09-15-40b03487/zap-degunino.mos.ru-2017-09-15-40b03487-meta.warc.gz
+  size: 1212186
+  modified: '2017-09-17T19:55:33'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zap-degunino.mos.ru-2017-09-15-40b03487/dupes_db/data.mdb
+  size: 4874240
+  modified: '2017-09-17T19:55:28'
+  type: ''
+  extension: .mdb
+- name: zap-degunino.mos.ru-2017-09-15-40b03487-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/zap-degunino.mos.ru-2017-09-15-40b03487/zap-degunino.mos.ru-2017-09-15-40b03487-00000.warc.gz
+  size: 2820481637
+  modified: '2017-09-17T19:55:28'
+  type: WARC
+  extension: .warc.gz
+url: https://zap-degunino.mos.ru
+created: '2017-09-15'

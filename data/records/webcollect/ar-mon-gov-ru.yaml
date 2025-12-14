@@ -1,0 +1,16 @@
+id: ar-mon-gov-ru
+name: ar.mon.gov.ru.7z (2012-10-22)
+domain: ar.mon.gov.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: ar.mon.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/ar.mon.gov.ru.7z
+  size: 78878805
+  modified: '2012-10-22T09:36:53'
+  type: httrack archive
+  extension: .7z
+url: https://ar.mon.gov.ru.7z
+created: '2012-10-22T09:36:53'

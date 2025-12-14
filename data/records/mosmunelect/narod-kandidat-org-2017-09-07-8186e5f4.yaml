@@ -1,0 +1,40 @@
+id: narod-kandidat-org-2017-09-07-8186e5f4
+name: narod-kandidat.org (2017-09-07)
+domain: narod-kandidat.org
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narod-kandidat.org-2017-09-07-8186e5f4/dupes_db/data.mdb
+  size: 720896
+  modified: '2017-09-08T01:12:40'
+  type: ''
+  extension: .mdb
+- name: narod-kandidat.org-2017-09-07-8186e5f4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narod-kandidat.org-2017-09-07-8186e5f4/narod-kandidat.org-2017-09-07-8186e5f4-meta.warc.gz
+  size: 271701
+  modified: '2017-09-08T01:13:18'
+  type: WARC
+  extension: .warc.gz
+- name: narod-kandidat.org-2017-09-07-8186e5f4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narod-kandidat.org-2017-09-07-8186e5f4/narod-kandidat.org-2017-09-07-8186e5f4.cdx
+  size: 3151765
+  modified: '2017-09-08T01:13:17'
+  type: CDX
+  extension: .cdx
+- name: narod-kandidat.org-2017-09-07-8186e5f4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narod-kandidat.org-2017-09-07-8186e5f4/narod-kandidat.org-2017-09-07-8186e5f4-00000.warc.gz
+  size: 133307984
+  modified: '2017-09-08T01:13:17'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/narod-kandidat.org-2017-09-07-8186e5f4/wpull.db
+  size: 2196480
+  modified: '2017-09-08T01:13:18'
+  type: wpull database
+  extension: .db
+url: https://narod-kandidat.org
+created: '2017-09-07'

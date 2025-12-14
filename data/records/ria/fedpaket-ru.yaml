@@ -1,0 +1,28 @@
+id: fedpaket-ru
+name: fedpaket.ru (2013-12-10)
+domain: fedpaket.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: fedpaket.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/fedpaket.ru/fedpaket.ru.warc.xz
+  size: 434152
+  modified: '2013-12-10T08:44:38'
+  type: WARC
+  extension: .xz
+- name: fedpaket.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/fedpaket.ru/fedpaket.ru.cdx.xz
+  size: 3272
+  modified: '2013-12-10T08:44:38'
+  type: CDX
+  extension: .xz
+- name: fedpaket.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/fedpaket.ru/fedpaket.ru.log.xz
+  size: 2232
+  modified: '2013-12-10T08:44:38'
+  type: wpull log
+  extension: .xz
+url: https://fedpaket.ru
+created: '2013-12-10T08:44:38'

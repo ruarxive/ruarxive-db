@@ -1,0 +1,28 @@
+id: dorforum2009-ru
+name: dorforum2009.ru (2013-09-20)
+domain: dorforum2009.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: dorforum2009.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/dorforum2009.ru/dorforum2009.ru.warc.xz
+  size: 97902548
+  modified: '2013-09-20T07:56:38'
+  type: WARC
+  extension: .xz
+- name: dorforum2009.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/dorforum2009.ru/dorforum2009.ru.log.xz
+  size: 14504
+  modified: '2013-09-20T07:56:53'
+  type: wpull log
+  extension: .xz
+- name: dorforum2009.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/dorforum2009.ru/dorforum2009.ru.cdx.xz
+  size: 11376
+  modified: '2013-09-20T07:56:53'
+  type: CDX
+  extension: .xz
+url: https://dorforum2009.ru
+created: '2013-09-20T07:56:38'

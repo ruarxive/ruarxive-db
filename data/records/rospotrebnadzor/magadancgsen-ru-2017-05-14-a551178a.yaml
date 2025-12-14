@@ -1,0 +1,40 @@
+id: magadancgsen-ru-2017-05-14-a551178a
+name: magadancgsen.ru (2017-05-14)
+domain: magadancgsen.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.magadancgsen.ru-2017-05-14-a551178a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.magadancgsen.ru-2017-05-14-a551178a/www.magadancgsen.ru-2017-05-14-a551178a-00000.warc.gz
+  size: 155575393
+  modified: '2017-05-14T19:50:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.magadancgsen.ru-2017-05-14-a551178a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.magadancgsen.ru-2017-05-14-a551178a/www.magadancgsen.ru-2017-05-14-a551178a-meta.warc.gz
+  size: 234833
+  modified: '2017-05-14T19:50:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.magadancgsen.ru-2017-05-14-a551178a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.magadancgsen.ru-2017-05-14-a551178a/www.magadancgsen.ru-2017-05-14-a551178a.cdx
+  size: 1401813
+  modified: '2017-05-14T19:50:41'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.magadancgsen.ru-2017-05-14-a551178a/dupes_db/data.mdb
+  size: 819200
+  modified: '2017-05-14T19:50:40'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.magadancgsen.ru-2017-05-14-a551178a/wpull.db
+  size: 1383424
+  modified: '2017-05-14T19:50:41'
+  type: wpull database
+  extension: .db
+url: https://magadancgsen.ru
+created: '2017-05-14'

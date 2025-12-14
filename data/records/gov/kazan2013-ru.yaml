@@ -1,0 +1,28 @@
+id: kazan2013-ru
+name: kazan2013.ru (2013-11-04)
+domain: kazan2013.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: kazan2013.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/kazan2013.ru/kazan2013.ru.warc.xz
+  size: 1479864568
+  modified: '2013-11-04T11:39:30'
+  type: WARC
+  extension: .xz
+- name: kazan2013.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/kazan2013.ru/kazan2013.ru.log.xz
+  size: 2859888
+  modified: '2013-11-04T11:45:56'
+  type: wpull log
+  extension: .xz
+- name: kazan2013.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/kazan2013.ru/kazan2013.ru.cdx.xz
+  size: 5274784
+  modified: '2013-11-04T11:38:32'
+  type: CDX
+  extension: .xz
+url: https://kazan2013.ru
+created: '2013-11-04T11:39:30'

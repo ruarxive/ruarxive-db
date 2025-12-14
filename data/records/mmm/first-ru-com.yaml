@@ -1,0 +1,28 @@
+id: first-ru-com
+name: first.ru.com (2013-11-05)
+domain: first.ru.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: first.ru.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/first.ru.com/first.ru.com.warc.xz
+  size: 548314444
+  modified: '2013-11-05T08:12:03'
+  type: WARC
+  extension: .xz
+- name: first.ru.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/first.ru.com/first.ru.com.cdx.xz
+  size: 1474052
+  modified: '2013-11-05T08:11:43'
+  type: CDX
+  extension: .xz
+- name: first.ru.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/first.ru.com/first.ru.com.log.xz
+  size: 810180
+  modified: '2013-11-05T08:14:54'
+  type: wpull log
+  extension: .xz
+url: https://first.ru.com
+created: '2013-11-05T08:12:03'

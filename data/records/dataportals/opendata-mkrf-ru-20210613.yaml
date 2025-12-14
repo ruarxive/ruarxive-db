@@ -1,0 +1,17 @@
+id: opendata-mkrf-ru-20210613
+name: opendata.mkrf.ru (2021-06-13)
+domain: opendata.mkrf.ru
+url: https://opendata.mkrf.ru
+created: '2021-06-13'
+date: '2021-06-13'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendatmkrfru-2021-06-13.zip
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.mkrf.ru/2021-06-13/opendatmkrfru-2021-06-13.zip
+  size: 15879156234
+  modified: '2022-04-11T08:59:10'
+  type: ''
+  extension: .zip

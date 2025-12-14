@@ -1,0 +1,28 @@
+id: zaskb-ru
+name: zaskb.ru (2014-01-21)
+domain: zaskb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.zaskb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zaskb.ru/www.zaskb.ru.cdx.xz
+  size: 49444
+  modified: '2014-01-21T06:58:27'
+  type: CDX
+  extension: .xz
+- name: www.zaskb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zaskb.ru/www.zaskb.ru.warc.xz
+  size: 57497368
+  modified: '2014-01-21T06:58:17'
+  type: WARC
+  extension: .xz
+- name: www.zaskb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zaskb.ru/www.zaskb.ru.log.xz
+  size: 34164
+  modified: '2014-01-21T06:58:16'
+  type: wpull log
+  extension: .xz
+url: https://zaskb.ru
+created: '2014-01-21T06:58:17'

@@ -1,0 +1,64 @@
+id: proctuva-ru-2017-04-03-71295864
+name: proctuva.ru (2017-04-03)
+domain: proctuva.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/wpull.db
+  size: 5904384
+  modified: '2017-04-03T09:34:23'
+  type: wpull database
+  extension: .db
+- name: proctuva.ru-2017-04-03-71295864-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/proctuva.ru-2017-04-03-71295864-00000.warc.gz
+  size: 63467362
+  modified: '2017-04-03T09:35:28'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/dupes_db/data.mdb
+  size: 2117632
+  modified: '2017-04-03T09:35:28'
+  type: ''
+  extension: .mdb
+- name: proctuva.ru-2017-04-03-71295864.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/proctuva.ru-2017-04-03-71295864.cdx
+  size: 2492151
+  modified: '2017-04-03T09:35:28'
+  type: CDX
+  extension: .cdx
+- name: wpull.db-wal
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/wpull.db-wal
+  size: 2558200
+  modified: '2017-04-03T09:35:28'
+  type: ''
+  extension: .db-wal
+- name: wpull.db-shm
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/wpull.db-shm
+  size: 32768
+  modified: '2017-04-03T09:35:15'
+  type: ''
+  extension: .db-shm
+- name: tmp-wpull-warc-n54dqpvp.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/temp/tmp-wpull-warc-n54dqpvp.log.gz
+  size: 588936
+  modified: '2017-04-03T09:35:30'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesrsp-4b91scgh.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/temp/tmp-wpull-warcsesrsp-4b91scgh.tmp
+  size: 0
+  modified: '2017-04-03T09:35:28'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-8lpir9j7.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proctuva.ru-2017-04-03-71295864/temp/tmp-wpull-warcsesreq-8lpir9j7.tmp
+  size: 471
+  modified: '2017-04-03T09:35:28'
+  type: ''
+  extension: .tmp
+url: https://proctuva.ru
+created: '2017-04-03'

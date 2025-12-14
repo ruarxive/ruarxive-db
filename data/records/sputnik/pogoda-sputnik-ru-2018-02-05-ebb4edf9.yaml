@@ -1,0 +1,40 @@
+id: pogoda-sputnik-ru-2018-02-05-ebb4edf9
+name: pogoda.sputnik.ru (2018-02-05)
+domain: pogoda.sputnik.ru
+collection:
+  id: sputnik
+  slug: sputnik
+  name: Портал Спутник
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/pogoda.sputnik.ru-2018-02-05-ebb4edf9/wpull.db
+  size: 92160
+  modified: '2018-02-05T17:12:27'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/pogoda.sputnik.ru-2018-02-05-ebb4edf9/dupes_db/data.mdb
+  size: 81920
+  modified: '2018-02-05T17:12:27'
+  type: ''
+  extension: .mdb
+- name: pogoda.sputnik.ru-2018-02-05-ebb4edf9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/pogoda.sputnik.ru-2018-02-05-ebb4edf9/pogoda.sputnik.ru-2018-02-05-ebb4edf9-00000.warc.gz
+  size: 2637924
+  modified: '2018-02-05T17:12:27'
+  type: WARC
+  extension: .warc.gz
+- name: pogoda.sputnik.ru-2018-02-05-ebb4edf9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/pogoda.sputnik.ru-2018-02-05-ebb4edf9/pogoda.sputnik.ru-2018-02-05-ebb4edf9-meta.warc.gz
+  size: 12076
+  modified: '2018-02-05T17:12:27'
+  type: WARC
+  extension: .warc.gz
+- name: pogoda.sputnik.ru-2018-02-05-ebb4edf9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sputnik/pogoda.sputnik.ru-2018-02-05-ebb4edf9/pogoda.sputnik.ru-2018-02-05-ebb4edf9.cdx
+  size: 81756
+  modified: '2018-02-05T17:12:27'
+  type: CDX
+  extension: .cdx
+url: https://pogoda.sputnik.ru
+created: '2018-02-05'

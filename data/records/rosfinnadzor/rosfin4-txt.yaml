@@ -1,0 +1,16 @@
+id: rosfin4-txt
+name: rosfin4.txt (2016-05-04)
+domain: rosfin4.txt
+collection:
+  id: rosfinnadzor
+  slug: rosfinnadzor
+  name: Росфиннадзор
+resources:
+- name: rosfin4.txt
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/rosfin4.txt
+  size: 244
+  modified: '2016-05-04T16:19:02'
+  type: ''
+  extension: .txt
+url: https://rosfin4.txt
+created: '2016-05-04T16:19:02'

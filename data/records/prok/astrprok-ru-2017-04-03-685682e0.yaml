@@ -1,0 +1,40 @@
+id: astrprok-ru-2017-04-03-685682e0
+name: astrprok.ru (2017-04-03)
+domain: astrprok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.astrprok.ru-2017-04-03-685682e0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.astrprok.ru-2017-04-03-685682e0/www.astrprok.ru-2017-04-03-685682e0-meta.warc.gz
+  size: 283243
+  modified: '2017-04-03T19:51:38'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.astrprok.ru-2017-04-03-685682e0/wpull.db
+  size: 2219008
+  modified: '2017-04-03T19:51:38'
+  type: wpull database
+  extension: .db
+- name: www.astrprok.ru-2017-04-03-685682e0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.astrprok.ru-2017-04-03-685682e0/www.astrprok.ru-2017-04-03-685682e0-00000.warc.gz
+  size: 489484960
+  modified: '2017-04-03T19:21:37'
+  type: WARC
+  extension: .warc.gz
+- name: www.astrprok.ru-2017-04-03-685682e0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.astrprok.ru-2017-04-03-685682e0/www.astrprok.ru-2017-04-03-685682e0.cdx
+  size: 2043045
+  modified: '2017-04-03T18:51:36'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.astrprok.ru-2017-04-03-685682e0/dupes_db/data.mdb
+  size: 397312
+  modified: '2017-04-03T18:50:12'
+  type: ''
+  extension: .mdb
+url: https://astrprok.ru
+created: '2017-04-03'

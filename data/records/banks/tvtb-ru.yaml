@@ -1,0 +1,34 @@
+id: tvtb-ru
+name: tvtb.ru (2014-05-14)
+domain: tvtb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.tvtb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tvtb.ru/www.tvtb.ru.log.xz
+  size: 4472
+  modified: '2014-05-14T17:53:11'
+  type: wpull log
+  extension: .xz
+- name: www.tvtb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tvtb.ru/www.tvtb.ru.7z
+  size: 5056729
+  modified: '2014-08-19T22:48:49'
+  type: ''
+  extension: .7z
+- name: www.tvtb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tvtb.ru/www.tvtb.ru.warc.xz
+  size: 5069568
+  modified: '2014-05-14T17:53:11'
+  type: WARC
+  extension: .xz
+- name: www.tvtb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tvtb.ru/www.tvtb.ru.cdx.xz
+  size: 6172
+  modified: '2014-05-14T17:53:11'
+  type: CDX
+  extension: .xz
+url: https://tvtb.ru
+created: '2014-05-14T17:53:11'

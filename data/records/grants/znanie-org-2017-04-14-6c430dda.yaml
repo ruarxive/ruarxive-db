@@ -1,0 +1,40 @@
+id: znanie-org-2017-04-14-6c430dda
+name: znanie.org (2017-04-14)
+domain: znanie.org
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/znanie.org-2017-04-14-6c430dda/dupes_db/data.mdb
+  size: 299008
+  modified: '2017-04-14T08:02:27'
+  type: ''
+  extension: .mdb
+- name: znanie.org-2017-04-14-6c430dda-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/znanie.org-2017-04-14-6c430dda/znanie.org-2017-04-14-6c430dda-00000.warc.gz
+  size: 190247919
+  modified: '2017-04-14T08:02:27'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/znanie.org-2017-04-14-6c430dda/wpull.db
+  size: 572416
+  modified: '2017-04-14T08:03:07'
+  type: wpull database
+  extension: .db
+- name: znanie.org-2017-04-14-6c430dda.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/znanie.org-2017-04-14-6c430dda/znanie.org-2017-04-14-6c430dda.cdx
+  size: 649535
+  modified: '2017-04-14T08:02:27'
+  type: CDX
+  extension: .cdx
+- name: znanie.org-2017-04-14-6c430dda-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/znanie.org-2017-04-14-6c430dda/znanie.org-2017-04-14-6c430dda-meta.warc.gz
+  size: 76189
+  modified: '2017-04-14T08:03:07'
+  type: WARC
+  extension: .warc.gz
+url: https://znanie.org
+created: '2017-04-14'

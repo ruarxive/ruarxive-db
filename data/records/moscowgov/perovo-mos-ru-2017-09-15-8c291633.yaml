@@ -1,0 +1,40 @@
+id: perovo-mos-ru-2017-09-15-8c291633
+name: perovo.mos.ru (2017-09-15)
+domain: perovo.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/perovo.mos.ru-2017-09-15-8c291633/wpull.db
+  size: 9699328
+  modified: '2017-09-17T05:44:28'
+  type: wpull database
+  extension: .db
+- name: perovo.mos.ru-2017-09-15-8c291633-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/perovo.mos.ru-2017-09-15-8c291633/perovo.mos.ru-2017-09-15-8c291633-00000.warc.gz
+  size: 3036149467
+  modified: '2017-09-17T05:44:20'
+  type: WARC
+  extension: .warc.gz
+- name: perovo.mos.ru-2017-09-15-8c291633-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/perovo.mos.ru-2017-09-15-8c291633/perovo.mos.ru-2017-09-15-8c291633-meta.warc.gz
+  size: 1185054
+  modified: '2017-09-17T05:44:37'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/perovo.mos.ru-2017-09-15-8c291633/dupes_db/data.mdb
+  size: 4419584
+  modified: '2017-09-17T05:44:21'
+  type: ''
+  extension: .mdb
+- name: perovo.mos.ru-2017-09-15-8c291633.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/perovo.mos.ru-2017-09-15-8c291633/perovo.mos.ru-2017-09-15-8c291633.cdx
+  size: 7954988
+  modified: '2017-09-17T05:44:20'
+  type: CDX
+  extension: .cdx
+url: https://perovo.mos.ru
+created: '2017-09-15'

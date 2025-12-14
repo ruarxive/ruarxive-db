@@ -1,0 +1,40 @@
+id: pisma-council-gov-ru-2017-05-09-aa26946b
+name: pisma.council.gov.ru (2017-05-09)
+domain: pisma.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/pisma.council.gov.ru-2017-05-09-aa26946b/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-05-09T20:21:10'
+  type: ''
+  extension: .mdb
+- name: pisma.council.gov.ru-2017-05-09-aa26946b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/pisma.council.gov.ru-2017-05-09-aa26946b/pisma.council.gov.ru-2017-05-09-aa26946b.cdx
+  size: 35302
+  modified: '2017-05-09T20:21:11'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/pisma.council.gov.ru-2017-05-09-aa26946b/wpull.db
+  size: 43008
+  modified: '2017-05-09T20:21:11'
+  type: wpull database
+  extension: .db
+- name: pisma.council.gov.ru-2017-05-09-aa26946b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/pisma.council.gov.ru-2017-05-09-aa26946b/pisma.council.gov.ru-2017-05-09-aa26946b-meta.warc.gz
+  size: 6963
+  modified: '2017-05-09T20:21:11'
+  type: WARC
+  extension: .warc.gz
+- name: pisma.council.gov.ru-2017-05-09-aa26946b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/pisma.council.gov.ru-2017-05-09-aa26946b/pisma.council.gov.ru-2017-05-09-aa26946b-00000.warc.gz
+  size: 4213379
+  modified: '2017-05-09T20:21:11'
+  type: WARC
+  extension: .warc.gz
+url: https://pisma.council.gov.ru
+created: '2017-05-09'

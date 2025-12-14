@@ -1,0 +1,28 @@
+id: aib-imbank-ru
+name: aib-imbank.ru (2014-01-21)
+domain: aib-imbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: aib-imbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/aib-imbank.ru/aib-imbank.ru.log.xz
+  size: 3624
+  modified: '2014-01-21T06:57:46'
+  type: wpull log
+  extension: .xz
+- name: aib-imbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/aib-imbank.ru/aib-imbank.ru.warc.xz
+  size: 1179296
+  modified: '2014-01-21T06:57:43'
+  type: WARC
+  extension: .xz
+- name: aib-imbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/aib-imbank.ru/aib-imbank.ru.cdx.xz
+  size: 5044
+  modified: '2014-01-21T06:57:45'
+  type: CDX
+  extension: .xz
+url: https://aib-imbank.ru
+created: '2014-01-21T06:57:43'

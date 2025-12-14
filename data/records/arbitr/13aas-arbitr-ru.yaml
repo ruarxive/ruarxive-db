@@ -1,0 +1,34 @@
+id: 13aas-arbitr-ru
+name: 13aas.arbitr.ru (2014-08-01)
+domain: 13aas.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: 13aas.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/13aas.arbitr.ru/13aas.arbitr.ru.7z
+  size: 39131703
+  modified: '2014-08-06T16:32:04'
+  type: ''
+  extension: .7z
+- name: 13aas.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/13aas.arbitr.ru/13aas.arbitr.ru.cdx.xz
+  size: 1172800
+  modified: '2014-08-01T10:00:33'
+  type: CDX
+  extension: .xz
+- name: 13aas.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/13aas.arbitr.ru/13aas.arbitr.ru.log.xz
+  size: 528740
+  modified: '2014-08-01T10:00:33'
+  type: wpull log
+  extension: .xz
+- name: 13aas.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/13aas.arbitr.ru/13aas.arbitr.ru.warc.xz
+  size: 40842568
+  modified: '2014-08-01T10:00:33'
+  type: WARC
+  extension: .xz
+url: https://13aas.arbitr.ru
+created: '2014-08-01T10:00:33'

@@ -1,0 +1,28 @@
+id: djcommodities-ru
+name: djcommodities.ru (2013-12-11)
+domain: djcommodities.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: djcommodities.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/djcommodities.ru/djcommodities.ru.warc.xz
+  size: 565464
+  modified: '2013-12-11T18:32:53'
+  type: WARC
+  extension: .xz
+- name: djcommodities.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/djcommodities.ru/djcommodities.ru.cdx.xz
+  size: 56652
+  modified: '2013-12-11T18:32:54'
+  type: CDX
+  extension: .xz
+- name: djcommodities.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/djcommodities.ru/djcommodities.ru.log.xz
+  size: 28408
+  modified: '2013-12-11T18:32:54'
+  type: wpull log
+  extension: .xz
+url: https://djcommodities.ru
+created: '2013-12-11T18:32:53'

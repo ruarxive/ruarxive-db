@@ -1,0 +1,34 @@
+id: ruscobank-ru
+name: ruscobank.ru (2014-05-09)
+domain: ruscobank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.ruscobank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ruscobank.ru/www.ruscobank.ru.cdx.xz
+  size: 80244
+  modified: '2014-05-09T15:38:06'
+  type: CDX
+  extension: .xz
+- name: www.ruscobank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ruscobank.ru/www.ruscobank.ru.warc.xz
+  size: 200120000
+  modified: '2014-05-09T15:38:06'
+  type: WARC
+  extension: .xz
+- name: www.ruscobank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ruscobank.ru/www.ruscobank.ru.log.xz
+  size: 55180
+  modified: '2014-05-09T15:38:06'
+  type: wpull log
+  extension: .xz
+- name: www.ruscobank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.ruscobank.ru/www.ruscobank.ru.7z
+  size: 202301943
+  modified: '2014-08-20T01:31:50'
+  type: ''
+  extension: .7z
+url: https://ruscobank.ru
+created: '2014-05-09T15:38:06'

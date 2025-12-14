@@ -1,0 +1,37 @@
+id: echomskru2022
+slug: echomskru2022
+name: Эхо Москвы 2022
+created: '2022-03-04T05:23:14.000Z'
+description: Сайт и другие онлайн ресурсы Эхо Москвы
+collection_type: единовременная
+collection_date: '2022-03-04'
+reason: Ликвидация организации после отзыва лицензии на вещание у радиостанции
+num_records: 4
+records:
+- id: echo-msk-ru-1
+  name: Сайт Эхо Москвы
+  url: https://echo.msk.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T05:20:53.000Z'
+  domain: echo.msk.ru
+- id: echo-msk-ru
+  name: Архив передач Цена Победы на Эхо Москвы
+  url: https://echo.msk.ru/programs/victory/
+  status: собран
+  status_id: collected
+  created: '2022-03-07T07:08:38.000Z'
+  domain: echo.msk.ru
+- id: echo-tomsk-ru
+  name: Сайт Томского Эха Москвы
+  url: https://echo.tomsk.ru
+  status: ожидает загрузки в хранилище
+  status_id: awaiting-storage
+  created: '2022-03-04T05:21:01.000Z'
+  domain: echo.tomsk.ru
+- id: t-me-echomskru
+  name: Телеграм канал Эхо Москвы
+  status: собран
+  status_id: collected
+  created: '2022-03-04T05:18:40.000Z'
+  domain: t.me

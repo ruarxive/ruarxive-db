@@ -1,0 +1,34 @@
+id: samizdat-memo-ru
+name: samizdat.memo.ru (2016-11-26)
+domain: samizdat.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: samizdat.memo.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/samizdat.memo.ru/samizdat.memo.ru.log
+  size: 69381
+  modified: '2016-11-26T02:06:42'
+  type: ''
+  extension: .log
+- name: samizdat.memo.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/samizdat.memo.ru/samizdat.memo.ru.cdx
+  size: 38655
+  modified: '2016-11-26T02:06:42'
+  type: CDX
+  extension: .cdx
+- name: samizdat.memo.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/samizdat.memo.ru/samizdat.memo.ru.7z
+  size: 168722
+  modified: '2016-12-11T23:02:38'
+  type: ''
+  extension: .7z
+- name: samizdat.memo.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/samizdat.memo.ru/samizdat.memo.ru.warc.xz
+  size: 189660
+  modified: '2016-11-26T02:06:42'
+  type: WARC
+  extension: .xz
+url: https://samizdat.memo.ru
+created: '2016-11-26T02:06:42'

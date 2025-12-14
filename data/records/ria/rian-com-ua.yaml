@@ -1,0 +1,28 @@
+id: rian-com-ua
+name: rian.com.ua (2013-12-12)
+domain: rian.com.ua
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: rian.com.ua.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/rian.com.ua/rian.com.ua.cdx.xz
+  size: 2455936
+  modified: '2013-12-12T20:06:00'
+  type: CDX
+  extension: .xz
+- name: rian.com.ua.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/rian.com.ua/rian.com.ua.warc.xz
+  size: 217747516
+  modified: '2013-12-12T20:04:33'
+  type: WARC
+  extension: .xz
+- name: rian.com.ua.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/rian.com.ua/rian.com.ua.log.xz
+  size: 1190512
+  modified: '2013-12-12T20:05:48'
+  type: wpull log
+  extension: .xz
+url: https://rian.com.ua
+created: '2013-12-12T20:04:33'

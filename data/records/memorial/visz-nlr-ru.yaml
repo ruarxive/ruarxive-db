@@ -1,0 +1,28 @@
+id: visz-nlr-ru
+name: visz.nlr.ru (2013-12-31)
+domain: visz.nlr.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: visz.nlr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/visz.nlr.ru/visz.nlr.ru.log.xz
+  size: 439696
+  modified: '2013-12-31T09:10:54'
+  type: wpull log
+  extension: .xz
+- name: visz.nlr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/visz.nlr.ru/visz.nlr.ru.cdx.xz
+  size: 1210680
+  modified: '2013-12-31T09:10:51'
+  type: CDX
+  extension: .xz
+- name: visz.nlr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/visz.nlr.ru/visz.nlr.ru.warc.xz
+  size: 314222228
+  modified: '2013-12-31T09:09:11'
+  type: WARC
+  extension: .xz
+url: https://visz.nlr.ru
+created: '2013-12-31T09:09:11'

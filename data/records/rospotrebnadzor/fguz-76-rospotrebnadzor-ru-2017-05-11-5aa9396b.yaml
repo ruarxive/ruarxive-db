@@ -1,0 +1,40 @@
+id: fguz-76-rospotrebnadzor-ru-2017-05-11-5aa9396b
+name: fguz.76.rospotrebnadzor.ru (2017-05-11)
+domain: fguz.76.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b/wpull.db
+  size: 380928
+  modified: '2017-05-11T11:07:05'
+  type: wpull database
+  extension: .db
+- name: fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b/fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b-00000.warc.gz
+  size: 526656116
+  modified: '2017-05-11T11:07:05'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b/dupes_db/data.mdb
+  size: 225280
+  modified: '2017-05-11T11:06:59'
+  type: ''
+  extension: .mdb
+- name: fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b/fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b-meta.warc.gz
+  size: 40471
+  modified: '2017-05-11T11:07:06'
+  type: WARC
+  extension: .warc.gz
+- name: fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b/fguz.76.rospotrebnadzor.ru-2017-05-11-5aa9396b.cdx
+  size: 397066
+  modified: '2017-05-11T11:07:05'
+  type: CDX
+  extension: .cdx
+url: https://fguz.76.rospotrebnadzor.ru
+created: '2017-05-11'

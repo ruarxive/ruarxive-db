@@ -1,0 +1,40 @@
+id: galiamina-ru-2017-09-07-4ae7c6e7
+name: galiamina.ru (2017-09-07)
+domain: galiamina.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: galiamina.ru-2017-09-07-4ae7c6e7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/galiamina.ru-2017-09-07-4ae7c6e7/galiamina.ru-2017-09-07-4ae7c6e7.cdx
+  size: 240258
+  modified: '2017-09-07T22:10:27'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/galiamina.ru-2017-09-07-4ae7c6e7/wpull.db
+  size: 259072
+  modified: '2017-09-07T22:10:28'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/galiamina.ru-2017-09-07-4ae7c6e7/dupes_db/data.mdb
+  size: 180224
+  modified: '2017-09-07T22:10:23'
+  type: ''
+  extension: .mdb
+- name: galiamina.ru-2017-09-07-4ae7c6e7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/galiamina.ru-2017-09-07-4ae7c6e7/galiamina.ru-2017-09-07-4ae7c6e7-00000.warc.gz
+  size: 14941564
+  modified: '2017-09-07T22:10:27'
+  type: WARC
+  extension: .warc.gz
+- name: galiamina.ru-2017-09-07-4ae7c6e7-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/galiamina.ru-2017-09-07-4ae7c6e7/galiamina.ru-2017-09-07-4ae7c6e7-meta.warc.gz
+  size: 40681
+  modified: '2017-09-07T22:10:28'
+  type: WARC
+  extension: .warc.gz
+url: https://galiamina.ru
+created: '2017-09-07'

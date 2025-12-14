@@ -1,0 +1,40 @@
+id: vlg2018-ru-2017-04-04-08fdb2bd
+name: vlg2018.ru (2017-04-04)
+domain: vlg2018.ru
+collection:
+  id: fifa2018
+  slug: fifa2018
+  name: FIFA 2018
+resources:
+- name: www.vlg2018.ru-2017-04-04-08fdb2bd-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.vlg2018.ru-2017-04-04-08fdb2bd/www.vlg2018.ru-2017-04-04-08fdb2bd-00000.warc.gz
+  size: 552646339
+  modified: '2017-04-04T12:44:47'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.vlg2018.ru-2017-04-04-08fdb2bd/wpull.db
+  size: 703488
+  modified: '2017-04-04T12:44:47'
+  type: wpull database
+  extension: .db
+- name: www.vlg2018.ru-2017-04-04-08fdb2bd-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.vlg2018.ru-2017-04-04-08fdb2bd/www.vlg2018.ru-2017-04-04-08fdb2bd-meta.warc.gz
+  size: 105413
+  modified: '2017-04-04T12:44:47'
+  type: WARC
+  extension: .warc.gz
+- name: www.vlg2018.ru-2017-04-04-08fdb2bd.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.vlg2018.ru-2017-04-04-08fdb2bd/www.vlg2018.ru-2017-04-04-08fdb2bd.cdx
+  size: 800162
+  modified: '2017-04-04T12:44:47'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/www.vlg2018.ru-2017-04-04-08fdb2bd/dupes_db/data.mdb
+  size: 393216
+  modified: '2017-04-04T12:44:30'
+  type: ''
+  extension: .mdb
+url: https://vlg2018.ru
+created: '2017-04-04'

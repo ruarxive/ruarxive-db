@@ -1,0 +1,35 @@
+id: opendata-permkrai-ru-20220417
+name: opendata.permkrai.ru (2022-04-17)
+domain: opendata.permkrai.ru
+url: https://opendata.permkrai.ru
+created: '2022-04-17'
+date: '2022-04-17'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.permkrai.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.permkrai.ru/2022-04-17/opendata.permkrai.ru.cdx
+  size: 107016
+  modified: '2022-04-17T09:50:38'
+  type: CDX
+  extension: .cdx
+- name: opendata.permkrai.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.permkrai.ru/2022-04-17/opendata.permkrai.ru.log
+  size: 1431943
+  modified: '2022-04-17T09:50:43'
+  type: wpull log
+  extension: .log
+- name: opendata.permkrai.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.permkrai.ru/2022-04-17/opendata.permkrai.ru.warc.gz
+  size: 84356958
+  modified: '2022-04-17T09:50:43'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.permkrai.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.permkrai.ru/2022-04-17/sitearchive-opendata.permkrai.ru.db
+  size: 323584
+  modified: '2022-04-17T09:50:43'
+  type: ''
+  extension: .db

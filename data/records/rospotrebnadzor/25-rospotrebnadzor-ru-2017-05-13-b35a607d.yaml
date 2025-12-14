@@ -1,0 +1,57 @@
+id: 25-rospotrebnadzor-ru-2017-05-13-b35a607d
+name: 25.rospotrebnadzor.ru (2017-05-13)
+domain: 25.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/25.rospotrebnadzor.ru-2017-05-13-b35a607d/stop
+  size: 0
+  modified: '2017-05-14T23:28:36'
+  type: ''
+- name: 25.rospotrebnadzor.ru-2017-05-13-b35a607d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/25.rospotrebnadzor.ru-2017-05-13-b35a607d/25.rospotrebnadzor.ru-2017-05-13-b35a607d-meta.warc.gz
+  size: 4685788
+  modified: '2017-05-14T23:28:42'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-fwd_jq.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/25.rospotrebnadzor.ru-2017-05-13-b35a607d/temp/tmp-wpull-resp_cb-fwd_jq.tmp
+  size: 174447
+  modified: '2017-05-14T23:28:36'
+  type: ''
+  extension: .tmp
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/25.rospotrebnadzor.ru-2017-05-13-b35a607d/dupes_db/data.mdb
+  size: 61173760
+  modified: '2017-05-14T23:28:36'
+  type: ''
+  extension: .mdb
+- name: 25.rospotrebnadzor.ru-2017-05-13-b35a607d-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/25.rospotrebnadzor.ru-2017-05-13-b35a607d/25.rospotrebnadzor.ru-2017-05-13-b35a607d-00001.warc.gz
+  size: 1778693299
+  modified: '2017-05-14T23:28:36'
+  type: WARC
+  extension: .warc.gz
+- name: 25.rospotrebnadzor.ru-2017-05-13-b35a607d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/25.rospotrebnadzor.ru-2017-05-13-b35a607d/25.rospotrebnadzor.ru-2017-05-13-b35a607d-00000.warc.gz
+  size: 5368709436
+  modified: '2017-05-14T15:06:30'
+  type: WARC
+  extension: .warc.gz
+- name: 25.rospotrebnadzor.ru-2017-05-13-b35a607d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/25.rospotrebnadzor.ru-2017-05-13-b35a607d/25.rospotrebnadzor.ru-2017-05-13-b35a607d.cdx
+  size: 63535310
+  modified: '2017-05-14T23:28:36'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/25.rospotrebnadzor.ru-2017-05-13-b35a607d/wpull.db
+  size: 153852928
+  modified: '2017-05-14T23:28:36'
+  type: wpull database
+  extension: .db
+url: https://25.rospotrebnadzor.ru
+created: '2017-05-13'

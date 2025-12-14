@@ -1,0 +1,40 @@
+id: vost-degunino-mos-ru-2017-09-15-d3d544e3
+name: vost-degunino.mos.ru (2017-09-15)
+domain: vost-degunino.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vost-degunino.mos.ru-2017-09-15-d3d544e3/wpull.db
+  size: 12270592
+  modified: '2017-09-17T18:03:47'
+  type: wpull database
+  extension: .db
+- name: vost-degunino.mos.ru-2017-09-15-d3d544e3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vost-degunino.mos.ru-2017-09-15-d3d544e3/vost-degunino.mos.ru-2017-09-15-d3d544e3-meta.warc.gz
+  size: 1171020
+  modified: '2017-09-17T18:03:50'
+  type: WARC
+  extension: .warc.gz
+- name: vost-degunino.mos.ru-2017-09-15-d3d544e3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vost-degunino.mos.ru-2017-09-15-d3d544e3/vost-degunino.mos.ru-2017-09-15-d3d544e3-00000.warc.gz
+  size: 3738552248
+  modified: '2017-09-17T18:03:47'
+  type: WARC
+  extension: .warc.gz
+- name: vost-degunino.mos.ru-2017-09-15-d3d544e3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vost-degunino.mos.ru-2017-09-15-d3d544e3/vost-degunino.mos.ru-2017-09-15-d3d544e3.cdx
+  size: 9110029
+  modified: '2017-09-17T18:03:47'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/vost-degunino.mos.ru-2017-09-15-d3d544e3/dupes_db/data.mdb
+  size: 5197824
+  modified: '2017-09-17T18:03:42'
+  type: ''
+  extension: .mdb
+url: https://vost-degunino.mos.ru
+created: '2017-09-15'

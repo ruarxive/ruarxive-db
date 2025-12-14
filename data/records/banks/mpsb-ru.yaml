@@ -1,0 +1,34 @@
+id: mpsb-ru
+name: mpsb.ru (2014-05-13)
+domain: mpsb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.mpsb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mpsb.ru/www.mpsb.ru.cdx.xz
+  size: 52128
+  modified: '2014-05-13T10:02:15'
+  type: CDX
+  extension: .xz
+- name: www.mpsb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mpsb.ru/www.mpsb.ru.warc.xz
+  size: 98026972
+  modified: '2014-05-13T10:02:15'
+  type: WARC
+  extension: .xz
+- name: www.mpsb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mpsb.ru/www.mpsb.ru.log.xz
+  size: 40224
+  modified: '2014-05-13T10:02:15'
+  type: wpull log
+  extension: .xz
+- name: www.mpsb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.mpsb.ru/www.mpsb.ru.7z
+  size: 100455519
+  modified: '2014-08-20T07:11:46'
+  type: ''
+  extension: .7z
+url: https://mpsb.ru
+created: '2014-05-13T10:02:15'

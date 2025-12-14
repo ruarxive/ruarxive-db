@@ -1,0 +1,34 @@
+id: gpbbroker-ru
+name: gpbbroker.ru (2014-05-10)
+domain: gpbbroker.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.gpbbroker.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gpbbroker.ru/www.gpbbroker.ru.cdx.xz
+  size: 344
+  modified: '2014-05-10T20:02:57'
+  type: CDX
+  extension: .xz
+- name: www.gpbbroker.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gpbbroker.ru/www.gpbbroker.ru.7z
+  size: 8138
+  modified: '2014-08-19T22:48:46'
+  type: ''
+  extension: .7z
+- name: www.gpbbroker.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gpbbroker.ru/www.gpbbroker.ru.warc.xz
+  size: 10004
+  modified: '2014-05-10T20:02:57'
+  type: WARC
+  extension: .xz
+- name: www.gpbbroker.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.gpbbroker.ru/www.gpbbroker.ru.log.xz
+  size: 624
+  modified: '2014-05-10T20:02:57'
+  type: wpull log
+  extension: .xz
+url: https://gpbbroker.ru
+created: '2014-05-10T20:02:57'

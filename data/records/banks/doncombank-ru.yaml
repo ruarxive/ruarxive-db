@@ -1,0 +1,28 @@
+id: doncombank-ru
+name: doncombank.ru (2014-05-10)
+domain: doncombank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.doncombank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.doncombank.ru/www.doncombank.ru.log.xz
+  size: 276
+  modified: '2014-05-10T23:20:39'
+  type: wpull log
+  extension: .xz
+- name: www.doncombank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.doncombank.ru/www.doncombank.ru.warc.xz
+  size: 1128
+  modified: '2014-05-10T23:20:39'
+  type: WARC
+  extension: .xz
+- name: www.doncombank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.doncombank.ru/www.doncombank.ru.cdx.xz
+  size: 84
+  modified: '2014-05-10T23:19:43'
+  type: CDX
+  extension: .xz
+url: https://doncombank.ru
+created: '2014-05-10T23:20:39'

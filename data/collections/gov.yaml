@@ -1,0 +1,996 @@
+id: gov
+slug: gov
+name: Государственные сайты
+num_records: 197
+records:
+- id: 2020strategy-ru
+  name: 2020strategy.ru (2016-08-21)
+  url: https://2020strategy.ru
+  created: '2016-08-21T04:46:35'
+  domain: 2020strategy.ru
+- id: 365-minsvyaz-ru
+  name: 365.minsvyaz.ru (2016-05-03)
+  url: https://365.minsvyaz.ru
+  created: '2016-05-03T13:15:57'
+  domain: 365.minsvyaz.ru
+- id: 82-208-95-220
+  name: 82.208.95.220.log.xz (2013-10-12)
+  url: https://82.208.95.220.log.xz
+  created: '2013-10-12T08:46:08'
+  domain: 82.208.95.220.log.xz
+- id: ac-gov-ru
+  name: ac.gov.ru (2015-12-19)
+  url: https://ac.gov.ru
+  created: '2015-12-19T18:59:52'
+  domain: ac.gov.ru
+- id: amur-trassa-ru
+  name: amur-trassa.ru (2013-09-20)
+  url: https://amur-trassa.ru
+  created: '2013-09-20T07:53:05'
+  domain: amur-trassa.ru
+- id: annual2013-veb-ru
+  name: annual2013.veb.ru (2016-05-03)
+  url: https://annual2013.veb.ru
+  created: '2016-05-03T15:15:20'
+  domain: annual2013.veb.ru
+- id: ar-gov-ru
+  name: ar.gov.ru (2013-12-11)
+  url: https://ar.gov.ru
+  created: '2013-12-11T05:43:36'
+  domain: ar.gov.ru
+- id: archive-pnzreg-ru
+  name: archive.pnzreg.ru (2013-10-14)
+  url: https://archive.pnzreg.ru
+  created: '2013-10-14T20:36:05'
+  domain: archive.pnzreg.ru
+- id: archive-uipnz-ru
+  name: archive.uipnz.ru (2013-09-30)
+  url: https://archive.uipnz.ru
+  created: '2013-09-30T17:03:42'
+  domain: archive.uipnz.ru
+- id: archives-ru-2017-04-04-0b03801f
+  name: archives.ru (2017-04-04)
+  url: https://archives.ru
+  created: '2017-04-04'
+  domain: archives.ru
+- id: asi-ru
+  name: asi.ru (2016-08-30)
+  url: https://asi.ru
+  created: '2016-08-30T16:10:43'
+  domain: asi.ru
+- id: bdsa-minjust-ru
+  name: bdsa.minjust.ru (2013-11-04)
+  url: https://bdsa.minjust.ru
+  created: '2013-11-04T12:52:58'
+  domain: bdsa.minjust.ru
+- id: budget-roskazna-ru
+  name: budget.roskazna.ru (2015-12-06)
+  url: https://budget.roskazna.ru
+  created: '2015-12-06T22:13:26'
+  domain: budget.roskazna.ru
+- id: carbonunitsregistry-ru
+  name: carbonunitsregistry.ru (2013-10-02)
+  url: https://carbonunitsregistry.ru
+  created: '2013-10-02T15:20:22'
+  domain: carbonunitsregistry.ru
+- id: cbr-ru
+  name: cbr.ru (2014-01-07)
+  url: https://cbr.ru
+  created: '2014-01-07T05:46:49'
+  domain: cbr.ru
+- id: cccp-tv
+  name: cccp.tv (2013-12-24)
+  url: https://cccp.tv
+  created: '2013-12-24T10:38:29'
+  domain: cccp.tv
+- id: csr2013-veb-ru
+  name: csr2013.veb.ru (2016-05-04)
+  url: https://csr2013.veb.ru
+  created: '2016-05-04T10:23:18'
+  domain: csr2013.veb.ru
+- id: csr2014-veb-ru
+  name: csr2014.veb.ru (2016-05-03)
+  url: https://csr2014.veb.ru
+  created: '2016-05-03T15:44:59'
+  domain: csr2014.veb.ru
+- id: customs-ru-2017-04-30-6348928a
+  name: customs.ru (2017-04-30)
+  url: https://customs.ru
+  created: '2017-04-30'
+  domain: customs.ru
+- id: data-gov-ru
+  name: data.gov.ru (2017-02-21)
+  url: https://data.gov.ru
+  created: '2017-02-21T15:43:13'
+  domain: data.gov.ru
+- id: data-gov-spb-ru
+  name: data.gov.spb.ru (2017-02-21)
+  url: https://data.gov.spb.ru
+  created: '2017-02-21T15:53:01'
+  domain: data.gov.spb.ru
+- id: depfin-adm-yar-ru
+  name: depfin.adm.yar.ru (2013-10-11)
+  url: https://depfin.adm.yar.ru
+  created: '2013-10-11T06:43:30'
+  domain: depfin.adm.yar.ru
+- id: deti-gov-ru-2017-05-11-9c335076
+  name: deti.gov.ru (2017-05-11)
+  url: https://deti.gov.ru
+  created: '2017-05-11'
+  domain: deti.gov.ru
+- id: dio-region-kostroma-net
+  name: dio.region.kostroma.net (2013-10-04)
+  url: https://dio.region.kostroma.net
+  created: '2013-10-04T06:17:41'
+  domain: dio.region.kostroma.net
+- id: dorconf2007-ru
+  name: dorconf2007.ru (2013-09-20)
+  url: https://dorconf2007.ru
+  created: '2013-09-20T07:55:47'
+  domain: dorconf2007.ru
+- id: dorconf2008-ru
+  name: dorconf2008.ru (2013-09-20)
+  url: https://dorconf2008.ru
+  created: '2013-09-20T07:55:50'
+  domain: dorconf2008.ru
+- id: dorconf2009-ru
+  name: dorconf2009.ru (2013-09-20)
+  url: https://dorconf2009.ru
+  created: '2013-09-20T07:55:56'
+  domain: dorconf2009.ru
+- id: dorforum2007-ru
+  name: dorforum2007.ru (2013-09-20)
+  url: https://dorforum2007.ru
+  created: '2013-09-20T07:56:02'
+  domain: dorforum2007.ru
+- id: dorforum2008-ru
+  name: dorforum2008.ru (2013-09-20)
+  url: https://dorforum2008.ru
+  created: '2013-09-20T07:56:34'
+  domain: dorforum2008.ru
+- id: dorforum2009-ru
+  name: dorforum2009.ru (2013-09-20)
+  url: https://dorforum2009.ru
+  created: '2013-09-20T07:56:38'
+  domain: dorforum2009.ru
+- id: ec-ac-gov-ru
+  name: ec.ac.gov.ru (2015-12-19)
+  url: https://ec.ac.gov.ru
+  created: '2015-12-19T12:01:59'
+  domain: ec.ac.gov.ru
+- id: economy-gov-ru-2017-04-04-1d07af2a
+  name: economy.gov.ru (2017-04-04)
+  url: https://economy.gov.ru
+  created: '2017-04-04'
+  domain: economy.gov.ru
+- id: economy-gov-ru
+  name: economy.gov.ru (2015-01-13)
+  url: https://economy.gov.ru
+  created: '2015-01-13T17:30:50'
+  domain: economy.gov.ru
+- id: ecpol-ru
+  name: ecpol.ru (2013-12-13)
+  url: https://ecpol.ru
+  created: '2013-12-13T08:15:37'
+  domain: ecpol.ru
+- id: edu-crowdexpert-ru
+  name: edu.crowdexpert.ru (2013-11-05)
+  url: https://edu.crowdexpert.ru
+  created: '2013-11-05T14:01:01'
+  domain: edu.crowdexpert.ru
+- id: eng-mon-gov-ru
+  name: eng.mon.gov.ru (2013-09-23)
+  url: https://eng.mon.gov.ru
+  created: '2013-09-23T00:05:06'
+  domain: eng.mon.gov.ru
+- id: fadn-gov-ru-2017-04-04-c415bf27
+  name: fadn.gov.ru (2017-04-04)
+  url: https://fadn.gov.ru
+  created: '2017-04-04'
+  domain: fadn.gov.ru
+- id: fadn-gov-ru
+  name: fadn.gov.ru (2015-12-27)
+  url: https://fadn.gov.ru
+  created: '2015-12-27T11:42:09'
+  domain: fadn.gov.ru
+- id: fano-gov-ru-2017-04-04-7c6265b7
+  name: fano.gov.ru (2017-04-04)
+  url: https://fano.gov.ru
+  created: '2017-04-04'
+  domain: fano.gov.ru
+- id: fapmc-ru-2017-04-06-90ff9b65
+  name: fapmc.ru (2017-04-06)
+  url: https://fapmc.ru
+  created: '2017-04-06'
+  domain: fapmc.ru
+- id: fas-gov-ru-2017-04-04-e1b8b370
+  name: fas.gov.ru (2017-04-04)
+  url: https://fas.gov.ru
+  created: '2017-04-04'
+  domain: fas.gov.ru
+- id: fasi-gov-ru
+  name: fasi.gov.ru (2013-10-23)
+  url: https://fasi.gov.ru
+  created: '2013-10-23T14:16:52'
+  domain: fasi.gov.ru
+- id: faspomnit-fas-gov-ru
+  name: faspomnit.fas.gov.ru (2017-03-22)
+  url: https://faspomnit.fas.gov.ru
+  created: '2017-03-22T06:42:17'
+  domain: faspomnit.fas.gov.ru
+- id: favt-ru-2017-04-05-ba1896d2
+  name: favt.ru (2017-04-05)
+  url: https://favt.ru
+  created: '2017-04-05'
+  domain: favt.ru
+- id: fcsm-nnov-ru
+  name: fcsm.nnov.ru (2013-09-28)
+  url: https://fcsm.nnov.ru
+  created: '2013-09-28T10:10:29'
+  domain: fcsm.nnov.ru
+- id: fcsm-spb-ru
+  name: fcsm.spb.ru (2013-09-28)
+  url: https://fcsm.spb.ru
+  created: '2013-09-28T10:59:29'
+  domain: fcsm.spb.ru
+- id: federalspace-ru
+  name: federalspace.ru (2016-05-16)
+  url: https://federalspace.ru
+  created: '2016-05-16T14:41:59'
+  domain: federalspace.ru
+- id: fedsfm-ru-2017-04-04-9afd7bbb
+  name: fedsfm.ru (2017-04-04)
+  url: https://fedsfm.ru
+  created: '2017-04-04'
+  domain: fedsfm.ru
+- id: ffoms-ru
+  name: ffoms.ru (2017-03-29)
+  url: https://ffoms.ru
+  created: '2017-03-29T12:04:07'
+  domain: ffoms.ru
+- id: fish-gov-ru-2017-04-06-3fc0c200
+  name: fish.gov.ru (2017-04-06)
+  url: https://fish.gov.ru
+  created: '2017-04-06'
+  domain: fish.gov.ru
+- id: fizvosp-ru
+  name: fizvosp.ru (2013-11-03)
+  url: https://fizvosp.ru
+  created: '2013-11-03T23:22:48'
+  domain: fizvosp.ru
+- id: fmbaros-ru-2017-04-30-891e391e
+  name: fmbaros.ru (2017-04-30)
+  url: https://fmbaros.ru
+  created: '2017-04-30'
+  domain: fmbaros.ru
+- id: forum-arbitr-ru
+  name: forum.arbitr.ru (2013-12-20)
+  url: https://forum.arbitr.ru
+  created: '2013-12-20T11:11:43'
+  domain: forum.arbitr.ru
+- id: forumspb-com
+  name: forumspb.com (2013-09-20)
+  url: https://forumspb.com
+  created: '2013-09-20T08:00:54'
+  domain: forumspb.com
+- id: fsa-gov-ru-2017-04-04-38e745fa
+  name: fsa.gov.ru (2017-04-04)
+  url: https://fsa.gov.ru
+  created: '2017-04-04'
+  domain: fsa.gov.ru
+- id: fsb-ru-2017-04-04-94af6616
+  name: fsb.ru (2017-04-04)
+  url: https://fsb.ru
+  created: '2017-04-04'
+  domain: fsb.ru
+- id: fsfr-vkr-ru
+  name: fsfr-vkr.ru (2013-09-24)
+  url: https://fsfr-vkr.ru
+  created: '2013-09-24T06:17:26'
+  domain: fsfr-vkr.ru
+- id: fsfrorel-torr-besaba-com
+  name: fsfrorel.torr.besaba.com (2013-09-23)
+  url: https://fsfrorel.torr.besaba.com
+  created: '2013-09-23T00:04:47'
+  domain: fsfrorel.torr.besaba.com
+- id: fsfrufo-ru
+  name: fsfrufo.ru (2013-09-28)
+  url: https://fsfrufo.ru
+  created: '2013-09-28T09:43:29'
+  domain: fsfrufo.ru
+- id: fsin-su-2017-04-30-f73659fc
+  name: fsin.su (2017-04-30)
+  url: https://fsin.su
+  created: '2017-04-30'
+  domain: fsin.su
+- id: fsin-su
+  name: fsin.su (2016-07-01)
+  url: https://fsin.su
+  created: '2016-07-01T09:27:01'
+  domain: fsin.su
+- id: fso-gov-ru-2017-04-04-ea6a7944
+  name: fso.gov.ru (2017-04-04)
+  url: https://fso.gov.ru
+  created: '2017-04-04'
+  domain: fso.gov.ru
+- id: fsrar-ru-2017-04-30-62c198db
+  name: fsrar.ru (2017-04-30)
+  url: https://fsrar.ru
+  created: '2017-04-30'
+  domain: fsrar.ru
+- id: fss-ru
+  name: fss.ru (2017-03-29)
+  url: https://fss.ru
+  created: '2017-03-29T12:04:07'
+  domain: fss.ru
+- id: fssprus-ru-2017-04-30-037532d9
+  name: fssprus.ru (2017-04-30)
+  url: https://fssprus.ru
+  created: '2017-04-30'
+  domain: fssprus.ru
+- id: fstec-ru-2017-04-30-a80a6b0b
+  name: fstec.ru (2017-04-30)
+  url: https://fstec.ru
+  created: '2017-04-30'
+  domain: fstec.ru
+- id: fstrf-ru
+  name: fstrf.ru (2015-10-25)
+  url: https://fstrf.ru
+  created: '2015-10-25T22:33:35'
+  domain: fstrf.ru
+- id: fsvps-ru-2017-04-06-de898d2a
+  name: fsvps.ru (2017-04-06)
+  url: https://fsvps.ru
+  created: '2017-04-06'
+  domain: fsvps.ru
+- id: fsvts-gov-ru-2017-04-30-fe7f634f
+  name: fsvts.gov.ru (2017-04-30)
+  url: https://fsvts.gov.ru
+  created: '2017-04-30'
+  domain: fsvts.gov.ru
+- id: gak-gov-ru
+  name: gak.gov.ru (2015-12-07)
+  url: https://gak.gov.ru
+  created: '2015-12-07T08:43:18'
+  domain: gak.gov.ru
+- id: gas-u-ru
+  name: gas-u.ru (2013-10-14)
+  url: https://gas-u.ru
+  created: '2013-10-14T17:44:11'
+  domain: gas-u.ru
+- id: gasu-gov-ru
+  name: gasu.gov.ru (2015-12-07)
+  url: https://gasu.gov.ru
+  created: '2015-12-07T08:43:40'
+  domain: gasu.gov.ru
+- id: gasu2-ru
+  name: gasu2.ru (2015-12-07)
+  url: https://gasu2.ru
+  created: '2015-12-07T01:26:54'
+  domain: gasu2.ru
+- id: gfs-gov-ru-2017-04-04-a923bf20
+  name: gfs.gov.ru (2017-04-04)
+  url: https://gfs.gov.ru
+  created: '2017-04-04'
+  domain: gfs.gov.ru
+- id: gibdd-expo-ru
+  name: gibdd-expo.ru (2013-11-03)
+  url: https://gibdd-expo.ru
+  created: '2013-11-03T23:22:38'
+  domain: gibdd-expo.ru
+- id: gibddnso-ru
+  name: gibddnso.ru (2013-09-30)
+  url: https://gibddnso.ru
+  created: '2013-09-30T07:27:34'
+  domain: gibddnso.ru
+- id: gisp-gov-ru
+  name: gisp.gov.ru (2016-05-06)
+  url: https://gisp.gov.ru
+  created: '2016-05-06T07:17:56'
+  domain: gisp.gov.ru
+- id: gks-ru-2017-04-04-cadc08b7
+  name: gks.ru (2017-04-04)
+  url: https://gks.ru
+  created: '2017-04-04'
+  domain: gks.ru
+- id: gosbook-ru
+  name: gosbook.ru (2016-08-08)
+  url: https://gosbook.ru
+  created: '2016-08-08T00:54:39'
+  domain: gosbook.ru
+- id: gosnadzor-ru-2017-04-04-28d83f9b
+  name: gosnadzor.ru (2017-04-04)
+  url: https://gosnadzor.ru
+  created: '2017-04-04'
+  domain: gosnadzor.ru
+- id: gossluzhba-gov-ru
+  name: gossluzhba.gov.ru (2017-03-23)
+  url: https://gossluzhba.gov.ru
+  created: '2017-03-23T16:44:25'
+  domain: gossluzhba.gov.ru
+- id: government-ru-2017-05-01-9d803f6a
+  name: government.ru (2017-05-01)
+  url: https://government.ru
+  created: '2017-05-01'
+  domain: government.ru
+- id: grants-oprf-ru
+  name: grants.oprf.ru (2013-09-23)
+  url: https://grants.oprf.ru
+  created: '2013-09-23T15:36:36'
+  domain: grants.oprf.ru
+- id: gtrf-info
+  name: gtrf.info (2013-12-24)
+  url: https://gtrf.info
+  created: '2013-12-24T10:39:28'
+  domain: gtrf.info
+- id: gtrf-ru
+  name: gtrf.ru (2013-12-24)
+  url: https://gtrf.ru
+  created: '2013-12-24T10:38:18'
+  domain: gtrf.ru
+- id: gusp-gov-ru-2017-04-04-196bef51
+  name: gusp.gov.ru (2017-04-04)
+  url: https://gusp.gov.ru
+  created: '2017-04-04'
+  domain: gusp.gov.ru
+- id: info-minfin-ru
+  name: info.minfin.ru (2014-08-20)
+  url: https://info.minfin.ru
+  created: '2014-08-20T11:28:18'
+  domain: info.minfin.ru
+- id: innovation-gov-ru
+  name: innovation.gov.ru (2017-11-30)
+  url: https://innovation.gov.ru
+  created: '2017-11-30T15:16:51'
+  domain: innovation.gov.ru
+- id: ivan-melnikov-ru
+  name: ivan-melnikov.ru (2013-09-20)
+  url: https://ivan-melnikov.ru
+  created: '2013-09-20T08:01:52'
+  domain: ivan-melnikov.ru
+- id: kazan2013-ru
+  name: kazan2013.ru (2013-11-04)
+  url: https://kazan2013.ru
+  created: '2013-11-04T11:39:30'
+  domain: kazan2013.ru
+- id: kids-kremlin-ru
+  name: kids.kremlin.ru (2013-10-04)
+  url: https://kids.kremlin.ru
+  created: '2013-10-04T10:07:46'
+  domain: kids.kremlin.ru
+- id: kremlin-ru
+  name: kremlin.ru (2015-04-08)
+  url: https://kremlin.ru
+  created: '2015-04-08T09:30:27'
+  domain: kremlin.ru
+- id: kzn-ru
+  name: kzn.ru (2015-07-02)
+  url: https://kzn.ru
+  created: '2015-07-02T12:31:41'
+  domain: kzn.ru
+- id: letters-kremlin-ru
+  name: letters.kremlin.ru (2013-10-04)
+  url: https://letters.kremlin.ru
+  created: '2013-10-04T20:48:24'
+  domain: letters.kremlin.ru
+- id: levichev-msk-ru
+  name: levichev.msk.ru (2013-09-20)
+  url: https://levichev.msk.ru
+  created: '2013-09-20T08:02:25'
+  domain: levichev.msk.ru
+- id: mak-ru
+  name: mak.ru (2015-01-08)
+  url: https://mak.ru
+  created: '2015-01-08T01:31:25'
+  domain: mak.ru
+- id: may9-ru
+  name: may9.ru (2015-05-18)
+  url: https://may9.ru
+  created: '2015-05-18T18:02:11'
+  domain: may9.ru
+- id: mchs-gov-ru-2017-04-30-7b52fce2
+  name: mchs.gov.ru (2017-04-30)
+  url: https://mchs.gov.ru
+  created: '2017-04-30'
+  domain: mchs.gov.ru
+- id: mcx-ru-2017-04-06-63c8ec92
+  name: mcx.ru (2017-04-06)
+  url: https://mcx.ru
+  created: '2017-04-06'
+  domain: mcx.ru
+- id: mcx-ru
+  name: mcx.ru (2016-07-01)
+  url: https://mcx.ru
+  created: '2016-07-01T09:27:00'
+  domain: mcx.ru
+- id: meteorf-ru-2017-04-30-d357dfb4
+  name: meteorf.ru (2017-04-30)
+  url: https://meteorf.ru
+  created: '2017-04-30'
+  domain: meteorf.ru
+- id: mid-ru-2017-04-30-d830fa17
+  name: mid.ru (2017-04-30)
+  url: https://mid.ru
+  created: '2017-04-30'
+  domain: mid.ru
+- id: mil-ru-2017-04-30-8a0b7975
+  name: mil.ru (2017-04-30)
+  url: https://mil.ru
+  created: '2017-04-30'
+  domain: mil.ru
+- id: minenergo-gov-ru-2017-04-04-a425f925
+  name: minenergo.gov.ru (2017-04-04)
+  url: https://minenergo.gov.ru
+  created: '2017-04-04'
+  domain: minenergo.gov.ru
+- id: minenergo-gov-ru
+  name: minenergo.gov.ru (2015-12-28)
+  url: https://minenergo.gov.ru
+  created: '2015-12-28T08:06:39'
+  domain: minenergo.gov.ru
+- id: minfin-ru-2017-04-30-03962a21
+  name: minfin.ru (2017-04-30)
+  url: https://minfin.ru
+  created: '2017-04-30'
+  domain: minfin.ru
+- id: minfin-ru-2017-05-17-f570cc9c
+  name: minfin.ru (2017-05-17)
+  url: https://minfin.ru
+  created: '2017-05-17'
+  domain: minfin.ru
+- id: minfin-ru
+  name: minfin.ru (2015-01-13)
+  url: https://minfin.ru
+  created: '2015-01-13T17:30:56'
+  domain: minfin.ru
+- id: minfinpenza-ru
+  name: minfinpenza.ru (2013-09-30)
+  url: https://minfinpenza.ru
+  created: '2013-09-30T07:17:21'
+  domain: minfinpenza.ru
+- id: minjust-ru-2017-04-30-5fdc6d2d
+  name: minjust.ru (2017-04-30)
+  url: https://minjust.ru
+  created: '2017-04-30'
+  domain: minjust.ru
+- id: minkavkaz-gov-ru-2017-04-06-0ed8801c
+  name: minkavkaz.gov.ru (2017-04-06)
+  url: https://minkavkaz.gov.ru
+  created: '2017-04-06'
+  domain: minkavkaz.gov.ru
+- id: minpromtorg-gov-ru
+  name: minpromtorg.gov.ru (2015-12-27)
+  url: https://minpromtorg.gov.ru
+  created: '2015-12-27T01:04:16'
+  domain: minpromtorg.gov.ru
+- id: minregion-ru
+  name: minregion.ru (2014-09-11)
+  url: https://minregion.ru
+  created: '2014-09-11T09:46:21'
+  domain: minregion.ru
+- id: minsport-gov-ru-2017-04-05-0ed29c62
+  name: minsport.gov.ru (2017-04-05)
+  url: https://minsport.gov.ru
+  created: '2017-04-05'
+  domain: minsport.gov.ru
+- id: minstroyrf-ru-2017-04-05-5e42fa6c
+  name: minstroyrf.ru (2017-04-05)
+  url: https://minstroyrf.ru
+  created: '2017-04-05'
+  domain: minstroyrf.ru
+- id: minstroyrf-ru
+  name: minstroyrf.ru (2015-12-27)
+  url: https://minstroyrf.ru
+  created: '2015-12-27T15:02:23'
+  domain: minstroyrf.ru
+- id: minsvyaz-ru-2017-04-22-81fb0c8a
+  name: minsvyaz.ru (2017-04-22)
+  url: https://minsvyaz.ru
+  created: '2017-04-22'
+  domain: minsvyaz.ru
+- id: mintrans-ru-2017-04-05-ae10aa6f
+  name: mintrans.ru (2017-04-05)
+  url: https://mintrans.ru
+  created: '2017-04-05'
+  domain: mintrans.ru
+- id: mintrans-ru-2017-04-05-ffb619e2
+  name: mintrans.ru (2017-04-05)
+  url: https://mintrans.ru
+  created: '2017-04-05'
+  domain: mintrans.ru
+- id: minvostokrazvitia-ru-2017-04-06-6be3eccc
+  name: minvostokrazvitia.ru (2017-04-06)
+  url: https://minvostokrazvitia.ru
+  created: '2017-04-06'
+  domain: minvostokrazvitia.ru
+- id: mk-esimo-ru
+  name: mk.esimo.ru (2017-03-21)
+  url: https://mk.esimo.ru
+  created: '2017-03-21T22:43:50'
+  domain: mk.esimo.ru
+- id: mkrf-ru-2017-04-30-4c24099d
+  name: mkrf.ru (2017-04-30)
+  url: https://mkrf.ru
+  created: '2017-04-30'
+  domain: mkrf.ru
+- id: mnr-gov-ru-2017-04-30-cd82da14
+  name: mnr.gov.ru (2017-04-30)
+  url: https://mnr.gov.ru
+  created: '2017-04-30'
+  domain: mnr.gov.ru
+- id: morflot-ru-2017-04-05-b24ed7cb
+  name: morflot.ru (2017-04-05)
+  url: https://morflot.ru
+  created: '2017-04-05'
+  domain: morflot.ru
+- id: morskayakollegiya-ru
+  name: morskayakollegiya.ru (2017-03-21)
+  url: https://morskayakollegiya.ru
+  created: '2017-03-21T22:43:00'
+  domain: morskayakollegiya.ru
+- id: mosfund-ru
+  name: mosfund.ru (2013-09-28)
+  url: https://mosfund.ru
+  created: '2013-09-28T09:34:53'
+  domain: mosfund.ru
+- id: mvd-ru-2017-04-30-e6e22c4b
+  name: mvd.ru (2017-04-30)
+  url: https://mvd.ru
+  created: '2017-04-30'
+  domain: mvd.ru
+- id: nalog-ru-2017-04-30-85181c39
+  name: nalog.ru (2017-04-30)
+  url: https://nalog.ru
+  created: '2017-04-30'
+  domain: nalog.ru
+- id: nalog-ru
+  name: nalog.ru (2016-06-21)
+  url: https://nalog.ru
+  created: '2016-06-21T15:06:23'
+  domain: nalog.ru
+- id: nfap-minsvyaz-ru
+  name: nfap.minsvyaz.ru (2016-05-03)
+  url: https://nfap.minsvyaz.ru
+  created: '2016-05-03T10:31:03'
+  domain: nfap.minsvyaz.ru
+- id: nsk-ffms-ru
+  name: nsk.ffms.ru (2013-09-28)
+  url: https://nsk.ffms.ru
+  created: '2013-09-28T09:34:41'
+  domain: nsk.ffms.ru
+- id: nti-one
+  name: nti.one (2016-08-23)
+  url: https://nti.one
+  created: '2016-08-23T21:30:28'
+  domain: nti.one
+- id: old-kulturnoe-nasledie-ru
+  name: old.kulturnoe-nasledie.ru (2016-10-16)
+  url: https://old.kulturnoe-nasledie.ru
+  created: '2016-10-16T13:08:00'
+  domain: old.kulturnoe-nasledie.ru
+- id: old-nalog-ru
+  name: old.nalog.ru (2014-01-07)
+  url: https://old.nalog.ru
+  created: '2014-01-07T14:17:52'
+  domain: old.nalog.ru
+- id: old-ombudsmanrf-org
+  name: old.ombudsmanrf.org (2015-04-04)
+  url: https://old.ombudsmanrf.org
+  created: '2015-04-04T09:54:03'
+  domain: old.ombudsmanrf.org
+- id: old-rs-gov-ru
+  name: old.rs.gov.ru (2014-08-18)
+  url: https://old.rs.gov.ru
+  created: '2014-08-18T23:52:11'
+  domain: old.rs.gov.ru
+- id: old-samregion-ru
+  name: old.samregion.ru (2013-10-07)
+  url: https://old.samregion.ru
+  created: '2013-10-07T04:09:48'
+  domain: old.samregion.ru
+- id: old-tomsk-gov-ru
+  name: old.tomsk.gov.ru (2013-10-07)
+  url: https://old.tomsk.gov.ru
+  created: '2013-10-07T13:59:40'
+  domain: old.tomsk.gov.ru
+- id: old-veb-ru
+  name: old.veb.ru (2016-05-04)
+  url: https://old.veb.ru
+  created: '2016-05-04T08:25:41'
+  domain: old.veb.ru
+- id: ombudsmanrf-org-2017-05-11-badc4e03
+  name: ombudsmanrf.org (2017-05-11)
+  url: https://ombudsmanrf.org
+  created: '2017-05-11'
+  domain: ombudsmanrf.org
+- id: opendatasummit-ru
+  name: opendatasummit.ru (2015-12-20)
+  url: https://opendatasummit.ru
+  created: '2015-12-20T18:05:41'
+  domain: opendatasummit.ru
+- id: pfrf-ru
+  name: pfrf.ru (2017-03-29)
+  url: https://pfrf.ru
+  created: '2017-03-29T12:04:07'
+  domain: pfrf.ru
+- id: premier-gov-ru-2017-04-30-33fa82cd
+  name: premier.gov.ru (2017-04-30)
+  url: https://premier.gov.ru
+  created: '2017-04-30'
+  domain: premier.gov.ru
+- id: reestr-fas-gov-ru
+  name: reestr.fas.gov.ru (2017-03-22)
+  url: https://reestr.fas.gov.ru
+  created: '2017-03-22T06:32:31'
+  domain: reestr.fas.gov.ru
+- id: rkn-gov-ru-2017-04-06-233d0ca6
+  name: rkn.gov.ru (2017-04-06)
+  url: https://rkn.gov.ru
+  created: '2017-04-06'
+  domain: rkn.gov.ru
+- id: rosavtodor-ru-2017-04-05-f6d94c35
+  name: rosavtodor.ru (2017-04-05)
+  url: https://rosavtodor.ru
+  created: '2017-04-05'
+  domain: rosavtodor.ru
+- id: roscosmos-ru
+  name: roscosmos.ru (2016-05-16)
+  url: https://roscosmos.ru
+  created: '2016-05-16T13:32:42'
+  domain: roscosmos.ru
+- id: rosfinnadzor-ru
+  name: rosfinnadzor.ru (2016-02-29)
+  url: https://rosfinnadzor.ru
+  created: '2016-02-29T16:17:55'
+  domain: rosfinnadzor.ru
+- id: rosgvard-ru-2017-04-04-a2338061
+  name: rosgvard.ru (2017-04-04)
+  url: https://rosgvard.ru
+  created: '2017-04-04'
+  domain: rosgvard.ru
+- id: rosim-ru-2017-04-04-e878e9ab
+  name: rosim.ru (2017-04-04)
+  url: https://rosim.ru
+  created: '2017-04-04'
+  domain: rosim.ru
+- id: rosim-ru
+  name: rosim.ru (2016-06-20)
+  url: https://rosim.ru
+  created: '2016-06-20T09:54:41'
+  domain: rosim.ru
+- id: roskazna-ru-2017-04-30-09282f9a
+  name: roskazna.ru (2017-04-30)
+  url: https://roskazna.ru
+  created: '2017-04-30'
+  domain: roskazna.ru
+- id: rosleshoz-gov-ru-2017-04-30-bcaaa248
+  name: rosleshoz.gov.ru (2017-04-30)
+  url: https://rosleshoz.gov.ru
+  created: '2017-04-30'
+  domain: rosleshoz.gov.ru
+- id: rosmintrud-ru-2017-04-05-be2bf9f8
+  name: rosmintrud.ru (2017-04-05)
+  url: https://rosmintrud.ru
+  created: '2017-04-05'
+  domain: rosmintrud.ru
+- id: rosmintrud-ru
+  name: rosmintrud.ru (2016-01-02)
+  url: https://rosmintrud.ru
+  created: '2016-01-02T20:07:55'
+  domain: rosmintrud.ru
+- id: rosminzdrav-ru-2017-04-30-9e536375
+  name: rosminzdrav.ru (2017-04-30)
+  url: https://rosminzdrav.ru
+  created: '2017-04-30'
+  domain: rosminzdrav.ru
+- id: rosnedra-com-2017-04-30-07e12a62
+  name: rosnedra.com (2017-04-30)
+  url: https://rosnedra.com
+  created: '2017-04-30'
+  domain: rosnedra.com
+- id: rosoboronpostavka-ru
+  name: rosoboronpostavka.ru (2014-09-14)
+  url: https://rosoboronpostavka.ru
+  created: '2014-09-14T10:20:29'
+  domain: rosoboronpostavka.ru
+- id: rospotrebnadzor-ru-2017-04-04-442b01bb
+  name: rospotrebnadzor.ru (2017-04-04)
+  url: https://rospotrebnadzor.ru
+  created: '2017-04-04'
+  domain: rospotrebnadzor.ru
+- id: rospotrebnadzor-ru
+  name: rospotrebnadzor.ru (2015-12-28)
+  url: https://rospotrebnadzor.ru
+  created: '2015-12-28T00:19:53'
+  domain: rospotrebnadzor.ru
+- id: rosreestr-ru-2017-04-04-b5900193
+  name: rosreestr.ru (2017-04-04)
+  url: https://rosreestr.ru
+  created: '2017-04-04'
+  domain: rosreestr.ru
+- id: rosreserv-ru-2017-04-04-c787dce6
+  name: rosreserv.ru (2017-04-04)
+  url: https://rosreserv.ru
+  created: '2017-04-04'
+  domain: rosreserv.ru
+- id: rostransnadzor-ru-2017-04-05-330c07d6
+  name: rostransnadzor.ru (2017-04-05)
+  url: https://rostransnadzor.ru
+  created: '2017-04-05'
+  domain: rostransnadzor.ru
+- id: rostransnadzor-ru-2017-04-05-9522ee36
+  name: rostransnadzor.ru (2017-04-05)
+  url: https://rostransnadzor.ru
+  created: '2017-04-05'
+  domain: rostransnadzor.ru
+- id: rostrud-ru-2017-04-05-a650436f
+  name: rostrud.ru (2017-04-05)
+  url: https://rostrud.ru
+  created: '2017-04-05'
+  domain: rostrud.ru
+- id: rostrud-ru
+  name: rostrud.ru (2015-12-27)
+  url: https://rostrud.ru
+  created: '2015-12-27T22:16:02'
+  domain: rostrud.ru
+- id: roszdravnadzor-ru-2017-04-30-e2fb307c
+  name: roszdravnadzor.ru (2017-04-30)
+  url: https://roszdravnadzor.ru
+  created: '2017-04-30'
+  domain: roszdravnadzor.ru
+- id: roszeldor-ru-2017-04-05-a81a1bb9
+  name: roszeldor.ru (2017-04-05)
+  url: https://roszeldor.ru
+  created: '2017-04-05'
+  domain: roszeldor.ru
+- id: rpn-gov-ru-2017-04-30-17ed52c8
+  name: rpn.gov.ru (2017-04-30)
+  url: https://rpn.gov.ru
+  created: '2017-04-30'
+  domain: rpn.gov.ru
+- id: rs-gov-ru-2017-04-30-5b0dd7c9
+  name: rs.gov.ru (2017-04-30)
+  url: https://rs.gov.ru
+  created: '2017-04-30'
+  domain: rs.gov.ru
+- id: rupto-ru-2017-04-04-a1a66d8c
+  name: rupto.ru (2017-04-04)
+  url: https://rupto.ru
+  created: '2017-04-04'
+  domain: rupto.ru
+- id: rus-apec2012-ru
+  name: rus.apec2012.ru (2013-09-23)
+  url: https://rus.apec2012.ru
+  created: '2013-09-23T00:05:28'
+  domain: rus.apec2012.ru
+- id: russiatourism-ru-2017-04-30-b9613659
+  name: russiatourism.ru (2017-04-30)
+  url: https://russiatourism.ru
+  created: '2017-04-30'
+  domain: russiatourism.ru
+- id: rusventure-ru
+  name: rusventure.ru (2015-12-24)
+  url: https://rusventure.ru
+  created: '2015-12-24T23:15:02'
+  domain: rusventure.ru
+- id: sakhagov-ykt-ru
+  name: sakhagov.ykt.ru (2014-08-17)
+  url: https://sakhagov.ykt.ru
+  created: '2014-08-17T22:30:10'
+  domain: sakhagov.ykt.ru
+- id: samara-ffms-ru
+  name: samara.ffms.ru (2013-09-23)
+  url: https://samara.ffms.ru
+  created: '2013-09-23T00:04:32'
+  domain: samara.ffms.ru
+- id: schoololympiad-fas-gov-ru
+  name: schoololympiad.fas.gov.ru (2017-03-22)
+  url: https://schoololympiad.fas.gov.ru
+  created: '2017-03-22T06:27:23'
+  domain: schoololympiad.fas.gov.ru
+- id: snti-mcx-ru
+  name: snti.mcx.ru (2013-11-04)
+  url: https://snti.mcx.ru
+  created: '2013-11-04T12:53:56'
+  domain: snti.mcx.ru
+- id: solutions-fas-gov-ru
+  name: solutions.fas.gov.ru (2017-03-13)
+  url: https://solutions.fas.gov.ru
+  created: '2017-03-13T09:12:03'
+  domain: solutions.fas.gov.ru
+- id: sovetnational-ru
+  name: sovetnational.ru (2015-12-27)
+  url: https://sovetnational.ru
+  created: '2015-12-27T11:14:19'
+  domain: sovetnational.ru
+- id: spetsstroy-ru
+  name: spetsstroy.ru (2016-12-27)
+  url: https://spetsstroy.ru
+  created: '2016-12-27T00:20:43'
+  domain: spetsstroy.ru
+- id: sportsovet-ru
+  name: sportsovet.ru (2017-03-22)
+  url: https://sportsovet.ru
+  created: '2017-03-22T06:26:20'
+  domain: sportsovet.ru
+- id: strategy2020-rian-ru
+  name: strategy2020.rian.ru (2016-08-21)
+  url: https://strategy2020.rian.ru
+  created: '2016-08-21T01:38:26'
+  domain: strategy2020.rian.ru
+- id: svr-gov-ru-2017-04-04-47db0205
+  name: svr.gov.ru (2017-04-04)
+  url: https://svr.gov.ru
+  created: '2017-04-04'
+  domain: svr.gov.ru
+- id: takzdorovo-ru
+  name: takzdorovo.ru (2013-10-17)
+  url: https://takzdorovo.ru
+  created: '2013-10-17T19:58:10'
+  domain: takzdorovo.ru
+- id: tochkarosta-fas-gov-ru
+  name: tochkarosta.fas.gov.ru (2017-03-22)
+  url: https://tochkarosta.fas.gov.ru
+  created: '2017-03-22T06:34:40'
+  domain: tochkarosta.fas.gov.ru
+- id: u-gai-ru
+  name: u-gai.ru (2013-11-22)
+  url: https://u-gai.ru
+  created: '2013-11-22T15:25:07'
+  domain: u-gai.ru
+- id: udprf-ru-2017-04-04-4b2cb389
+  name: udprf.ru (2017-04-04)
+  url: https://udprf.ru
+  created: '2017-04-04'
+  domain: udprf.ru
+- id: uralfcsm-ur-ru
+  name: uralfcsm.ur.ru (2013-09-28)
+  url: https://uralfcsm.ur.ru
+  created: '2013-09-28T09:14:03'
+  domain: uralfcsm.ur.ru
+- id: veb-ru
+  name: veb.ru (2016-01-04)
+  url: https://veb.ru
+  created: '2016-01-04T02:22:41'
+  domain: veb.ru
+- id: vlad-ffms-ru
+  name: vlad.ffms.ru (2013-09-28)
+  url: https://vlad.ffms.ru
+  created: '2013-09-28T09:47:57'
+  domain: vlad.ffms.ru
+- id: voda-mnr-gov-ru-2017-04-30-0a02ed8d
+  name: voda.mnr.gov.ru (2017-04-30)
+  url: https://voda.mnr.gov.ru
+  created: '2017-04-30'
+  domain: voda.mnr.gov.ru
+- id: vorobiev2013-ru
+  name: vorobiev2013.ru (2014-02-02)
+  url: https://vorobiev2013.ru
+  created: '2014-02-02T00:26:20'
+  domain: vorobiev2013.ru
+- id: xn--294-uedame3b-xn--p1ai
+  name: xn--294-uedame3b.xn--p1ai (2014-08-02)
+  url: https://xn--294-uedame3b.xn--p1ai
+  created: '2014-08-02T22:55:49'
+  domain: xn--294-uedame3b.xn--p1ai
+- id: xn--80aaaa1bhnclcci1cl5c4ep-xn--p1ai
+  name: xn--80aaaa1bhnclcci1cl5c4ep.xn--p1ai (2015-12-17)
+  url: https://xn--80aaaa1bhnclcci1cl5c4ep.xn--p1ai
+  created: '2015-12-17T23:04:23'
+  domain: xn--80aaaa1bhnclcci1cl5c4ep.xn--p1ai
+- id: xn--80aabycqsgabatek-xn--p1ai
+  name: xn--80aabycqsgabatek.xn--p1ai (2014-09-11)
+  url: https://xn--80aabycqsgabatek.xn--p1ai
+  created: '2014-09-11T02:34:59'
+  domain: xn--80aabycqsgabatek.xn--p1ai
+- id: znaem-mozhem-ru
+  name: znaem-mozhem.ru (2013-09-23)
+  url: https://znaem-mozhem.ru
+  created: '2013-09-23T00:03:05'
+  domain: znaem-mozhem.ru
+files:
+  total_count: 7118
+  total_size: 2552796362056
+  directories:
+  - webarchive
+  - webcollect2017

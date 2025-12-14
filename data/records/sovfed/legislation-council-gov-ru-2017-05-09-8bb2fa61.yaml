@@ -1,0 +1,40 @@
+id: legislation-council-gov-ru-2017-05-09-8bb2fa61
+name: legislation.council.gov.ru (2017-05-09)
+domain: legislation.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: legislation.council.gov.ru-2017-05-09-8bb2fa61-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/legislation.council.gov.ru-2017-05-09-8bb2fa61/legislation.council.gov.ru-2017-05-09-8bb2fa61-00000.warc.gz
+  size: 4267534
+  modified: '2017-05-09T20:22:32'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/legislation.council.gov.ru-2017-05-09-8bb2fa61/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-05-09T20:22:32'
+  type: ''
+  extension: .mdb
+- name: legislation.council.gov.ru-2017-05-09-8bb2fa61-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/legislation.council.gov.ru-2017-05-09-8bb2fa61/legislation.council.gov.ru-2017-05-09-8bb2fa61-meta.warc.gz
+  size: 13691
+  modified: '2017-05-09T20:22:32'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/legislation.council.gov.ru-2017-05-09-8bb2fa61/wpull.db
+  size: 82944
+  modified: '2017-05-09T20:22:32'
+  type: wpull database
+  extension: .db
+- name: legislation.council.gov.ru-2017-05-09-8bb2fa61.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/legislation.council.gov.ru-2017-05-09-8bb2fa61/legislation.council.gov.ru-2017-05-09-8bb2fa61.cdx
+  size: 66924
+  modified: '2017-05-09T20:22:32'
+  type: CDX
+  extension: .cdx
+url: https://legislation.council.gov.ru
+created: '2017-05-09'

@@ -1,0 +1,40 @@
+id: ar-gov-ru
+name: ar.gov.ru (2013-12-11)
+domain: ar.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: ar.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ar.gov.ru/ar.gov.ru.cdx.xz
+  size: 568844
+  modified: '2013-12-11T05:43:20'
+  type: CDX
+  extension: .xz
+- name: test.py
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ar.gov.ru/test.py
+  size: 966
+  modified: '2013-12-11T05:43:15'
+  type: ''
+  extension: .py
+- name: ar.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ar.gov.ru/ar.gov.ru.log.xz
+  size: 306112
+  modified: '2013-12-11T05:45:32'
+  type: wpull log
+  extension: .xz
+- name: ar.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ar.gov.ru/ar.gov.ru.warc.xz
+  size: 380578272
+  modified: '2013-12-11T05:43:36'
+  type: WARC
+  extension: .xz
+- name: rundocs.py
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ar.gov.ru/rundocs.py
+  size: 828
+  modified: '2013-12-11T05:43:19'
+  type: ''
+  extension: .py
+url: https://ar.gov.ru
+created: '2013-12-11T05:43:36'

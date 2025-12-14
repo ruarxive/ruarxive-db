@@ -1,0 +1,25 @@
+id: thebell-io
+name: The Bell
+url: https://thebell.io
+domain: thebell.io
+created: '2022-04-02T07:43:12.000Z'
+date: '2022-04-02T07:43:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Внесение редакторов и журналистов проекта в реестр инагентов
+reason_id: vnesenie-redaktorov-zhurnalistov-proekta
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий

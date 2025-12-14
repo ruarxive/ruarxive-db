@@ -1,0 +1,34 @@
+id: mosreg
+slug: mosreg
+name: Региональное правительство Москвы
+num_records: 5
+records:
+- id: moscow-reg-izbirkom-ru
+  name: moscow-reg.izbirkom.ru (2014-02-28)
+  url: https://moscow-reg.izbirkom.ru
+  created: '2014-02-28T09:38:41'
+  domain: moscow-reg.izbirkom.ru
+- id: old-guag-mosreg-ru
+  name: old.guag.mosreg.ru (2014-02-22)
+  url: https://old.guag.mosreg.ru
+  created: '2014-02-22T23:20:22'
+  domain: old.guag.mosreg.ru
+- id: old-me-mosreg-ru
+  name: old.me.mosreg.ru (2014-02-22)
+  url: https://old.me.mosreg.ru
+  created: '2014-02-22T19:24:26'
+  domain: old.me.mosreg.ru
+- id: old-mio-mosreg-ru
+  name: old.mio.mosreg.ru (2014-02-25)
+  url: https://old.mio.mosreg.ru
+  created: '2014-02-25T16:24:46'
+  domain: old.mio.mosreg.ru
+- id: old-mosreg-ru
+  name: old.mosreg.ru (2014-03-02)
+  url: https://old.mosreg.ru
+  created: '2014-03-02T11:44:30'
+  domain: old.mosreg.ru
+files:
+  total_count: 18
+  total_size: 6116951186
+  directories: []

@@ -1,0 +1,94 @@
+id: ilib-mccme-ru-2017-06-28-816cd4dc
+name: ilib.mccme.ru (2017-06-28)
+domain: ilib.mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/dupes_db/data.mdb
+  size: 151552
+  modified: '2017-06-29T07:44:07'
+  type: ''
+  extension: .mdb
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-meta.warc.gz
+  size: 191898
+  modified: '2017-06-29T07:44:08'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00007.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00007.warc.gz
+  size: 5374776891
+  modified: '2017-06-29T05:38:45'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00003.warc.gz
+  size: 5375194915
+  modified: '2017-06-29T00:40:57'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00006.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00006.warc.gz
+  size: 5377564692
+  modified: '2017-06-29T04:26:01'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00002.warc.gz
+  size: 5374012044
+  modified: '2017-06-28T23:24:02'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc.cdx
+  size: 2267803
+  modified: '2017-06-29T07:44:07'
+  type: CDX
+  extension: .cdx
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00004.warc.gz
+  size: 5371261079
+  modified: '2017-06-29T01:57:24'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00000.warc.gz
+  size: 5370863930
+  modified: '2017-06-28T20:50:19'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00008.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00008.warc.gz
+  size: 5370098166
+  modified: '2017-06-29T06:53:57'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00009.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00009.warc.gz
+  size: 3409953974
+  modified: '2017-06-29T07:44:07'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00005.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00005.warc.gz
+  size: 5369504355
+  modified: '2017-06-29T03:12:47'
+  type: WARC
+  extension: .warc.gz
+- name: ilib.mccme.ru-2017-06-28-816cd4dc-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/ilib.mccme.ru-2017-06-28-816cd4dc-00001.warc.gz
+  size: 5370665467
+  modified: '2017-06-28T22:06:21'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ilib.mccme.ru-2017-06-28-816cd4dc/wpull.db
+  size: 2313216
+  modified: '2017-06-29T07:44:07'
+  type: wpull database
+  extension: .db
+url: https://ilib.mccme.ru
+created: '2017-06-28'

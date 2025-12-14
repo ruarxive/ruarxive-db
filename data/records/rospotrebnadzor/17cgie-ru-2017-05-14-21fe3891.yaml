@@ -1,0 +1,40 @@
+id: 17cgie-ru-2017-05-14-21fe3891
+name: 17cgie.ru (2017-05-14)
+domain: 17cgie.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: 17cgie.ru-2017-05-14-21fe3891-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/17cgie.ru-2017-05-14-21fe3891/17cgie.ru-2017-05-14-21fe3891-meta.warc.gz
+  size: 69385
+  modified: '2017-05-14T17:32:55'
+  type: WARC
+  extension: .warc.gz
+- name: 17cgie.ru-2017-05-14-21fe3891-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/17cgie.ru-2017-05-14-21fe3891/17cgie.ru-2017-05-14-21fe3891-00000.warc.gz
+  size: 52833523
+  modified: '2017-05-14T17:32:55'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/17cgie.ru-2017-05-14-21fe3891/wpull.db
+  size: 550912
+  modified: '2017-05-14T17:32:55'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/17cgie.ru-2017-05-14-21fe3891/dupes_db/data.mdb
+  size: 262144
+  modified: '2017-05-14T17:32:52'
+  type: ''
+  extension: .mdb
+- name: 17cgie.ru-2017-05-14-21fe3891.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/17cgie.ru-2017-05-14-21fe3891/17cgie.ru-2017-05-14-21fe3891.cdx
+  size: 459130
+  modified: '2017-05-14T17:32:55'
+  type: CDX
+  extension: .cdx
+url: https://17cgie.ru
+created: '2017-05-14'

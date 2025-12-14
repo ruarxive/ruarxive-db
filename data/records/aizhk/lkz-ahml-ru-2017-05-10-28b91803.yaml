@@ -1,0 +1,40 @@
+id: lkz-ahml-ru-2017-05-10-28b91803
+name: lkz.ahml.ru (2017-05-10)
+domain: lkz.ahml.ru
+collection:
+  id: aizhk
+  slug: aizhk
+  name: АИЖК
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/lkz.ahml.ru-2017-05-10-28b91803/wpull.db
+  size: 24576
+  modified: '2017-05-10T08:36:09'
+  type: wpull database
+  extension: .db
+- name: lkz.ahml.ru-2017-05-10-28b91803-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/lkz.ahml.ru-2017-05-10-28b91803/lkz.ahml.ru-2017-05-10-28b91803-00000.warc.gz
+  size: 2438258
+  modified: '2017-05-10T08:36:09'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/lkz.ahml.ru-2017-05-10-28b91803/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-05-10T08:35:43'
+  type: ''
+  extension: .mdb
+- name: lkz.ahml.ru-2017-05-10-28b91803-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/lkz.ahml.ru-2017-05-10-28b91803/lkz.ahml.ru-2017-05-10-28b91803-meta.warc.gz
+  size: 4912
+  modified: '2017-05-10T08:36:09'
+  type: WARC
+  extension: .warc.gz
+- name: lkz.ahml.ru-2017-05-10-28b91803.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/lkz.ahml.ru-2017-05-10-28b91803/lkz.ahml.ru-2017-05-10-28b91803.cdx
+  size: 18102
+  modified: '2017-05-10T08:36:09'
+  type: CDX
+  extension: .cdx
+url: https://lkz.ahml.ru
+created: '2017-05-10'

@@ -1,0 +1,85 @@
+id: govprojects
+slug: govprojects
+name: Государственные проекты
+num_records: 15
+records:
+- id: eias-ru-2017-06-01-804f40b5
+  name: eias.ru (2017-06-01)
+  url: https://eias.ru
+  created: '2017-06-01'
+  domain: eias.ru
+- id: gossluzhba-gov-ru-2017-05-03-7efdf49f
+  name: gossluzhba.gov.ru (2017-05-03)
+  url: https://gossluzhba.gov.ru
+  created: '2017-05-03'
+  domain: gossluzhba.gov.ru
+- id: orv-gov-ru-2017-05-03-3be88d43
+  name: orv.gov.ru (2017-05-03)
+  url: https://orv.gov.ru
+  created: '2017-05-03'
+  domain: orv.gov.ru
+- id: portal-eias-ru-2017-06-01-32042ca3
+  name: portal.eias.ru (2017-06-01)
+  url: https://portal.eias.ru
+  created: '2017-06-01'
+  domain: portal.eias.ru
+- id: pravo-gov-ru-2017-06-28-df7a8b80
+  name: pravo.gov.ru (2017-06-28)
+  url: https://pravo.gov.ru
+  created: '2017-06-28'
+  domain: pravo.gov.ru
+- id: priroda-ok-ru-2017-06-01-4551d363
+  name: priroda-ok.ru (2017-06-01)
+  url: https://priroda-ok.ru
+  created: '2017-06-01'
+  domain: priroda-ok.ru
+- id: programs-gov-ru-2017-05-03-b7e656ac
+  name: programs.gov.ru (2017-05-03)
+  url: https://programs.gov.ru
+  created: '2017-05-03'
+  domain: programs.gov.ru
+- id: publication-pravo-gov-ru-2017-06-29-1aaa7dd9
+  name: publication.pravo.gov.ru (2017-06-29)
+  url: https://publication.pravo.gov.ru
+  created: '2017-06-29'
+  domain: publication.pravo.gov.ru
+- id: reformagkh-ru-2017-06-29-58c031b4
+  name: reformagkh.ru (2017-06-29)
+  url: https://reformagkh.ru
+  created: '2017-06-29'
+  domain: reformagkh.ru
+- id: regulation-gov-ru-2017-05-03-11e3013e
+  name: regulation.gov.ru (2017-05-03)
+  url: https://regulation.gov.ru
+  created: '2017-05-03'
+  domain: regulation.gov.ru
+- id: roi-ru-2017-04-30-7a3ede0f
+  name: roi.ru (2017-04-30)
+  url: https://roi.ru
+  created: '2017-04-30'
+  domain: roi.ru
+- id: roi-ru-2017-06-28-43503b89
+  name: roi.ru (2017-06-28)
+  url: https://roi.ru
+  created: '2017-06-28'
+  domain: roi.ru
+- id: rosrid-ru-2017-06-01-dd83bebe
+  name: rosrid.ru (2017-06-01)
+  url: https://rosrid.ru
+  created: '2017-06-01'
+  domain: rosrid.ru
+- id: support-eias-ru-2017-06-01-627d3bfa
+  name: support.eias.ru (2017-06-01)
+  url: https://support.eias.ru
+  created: '2017-06-01'
+  domain: support.eias.ru
+- id: torgi-gov-ru-2017-05-03-5811720c
+  name: torgi.gov.ru (2017-05-03)
+  url: https://torgi.gov.ru
+  created: '2017-05-03'
+  domain: torgi.gov.ru
+files:
+  total_count: 346
+  total_size: 126682870113
+  directories:
+  - webcollect2017

@@ -1,0 +1,34 @@
+id: akademsberbank-ru
+name: akademsberbank.ru (2014-05-12)
+domain: akademsberbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.akademsberbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.akademsberbank.ru/www.akademsberbank.ru.log.xz
+  size: 24212
+  modified: '2014-05-12T16:14:32'
+  type: wpull log
+  extension: .xz
+- name: www.akademsberbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.akademsberbank.ru/www.akademsberbank.ru.warc.xz
+  size: 173172072
+  modified: '2014-05-12T16:14:32'
+  type: WARC
+  extension: .xz
+- name: www.akademsberbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.akademsberbank.ru/www.akademsberbank.ru.7z
+  size: 182128904
+  modified: '2014-08-19T14:22:06'
+  type: ''
+  extension: .7z
+- name: www.akademsberbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.akademsberbank.ru/www.akademsberbank.ru.cdx.xz
+  size: 19420
+  modified: '2014-05-12T16:14:32'
+  type: CDX
+  extension: .xz
+url: https://akademsberbank.ru
+created: '2014-05-12T16:14:32'

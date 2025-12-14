@@ -1,0 +1,28 @@
+id: pressria-ru
+name: pressria.ru (2013-12-10)
+domain: pressria.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: pressria.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/pressria.ru/pressria.ru.log.xz
+  size: 428504
+  modified: '2013-12-10T21:44:58'
+  type: wpull log
+  extension: .xz
+- name: pressria.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/pressria.ru/pressria.ru.warc.xz
+  size: 109092276
+  modified: '2013-12-10T21:45:24'
+  type: WARC
+  extension: .xz
+- name: pressria.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/pressria.ru/pressria.ru.cdx.xz
+  size: 838228
+  modified: '2013-12-10T21:45:51'
+  type: CDX
+  extension: .xz
+url: https://pressria.ru
+created: '2013-12-10T21:45:24'

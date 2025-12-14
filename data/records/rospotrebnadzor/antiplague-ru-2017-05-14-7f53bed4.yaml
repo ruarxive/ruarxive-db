@@ -1,0 +1,40 @@
+id: antiplague-ru-2017-05-14-7f53bed4
+name: antiplague.ru (2017-05-14)
+domain: antiplague.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: antiplague.ru-2017-05-14-7f53bed4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/antiplague.ru-2017-05-14-7f53bed4/antiplague.ru-2017-05-14-7f53bed4-meta.warc.gz
+  size: 62586
+  modified: '2017-05-14T14:33:30'
+  type: WARC
+  extension: .warc.gz
+- name: antiplague.ru-2017-05-14-7f53bed4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/antiplague.ru-2017-05-14-7f53bed4/antiplague.ru-2017-05-14-7f53bed4.cdx
+  size: 475100
+  modified: '2017-05-14T14:33:29'
+  type: CDX
+  extension: .cdx
+- name: antiplague.ru-2017-05-14-7f53bed4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/antiplague.ru-2017-05-14-7f53bed4/antiplague.ru-2017-05-14-7f53bed4-00000.warc.gz
+  size: 182045708
+  modified: '2017-05-14T14:33:29'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/antiplague.ru-2017-05-14-7f53bed4/dupes_db/data.mdb
+  size: 319488
+  modified: '2017-05-14T14:33:29'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/antiplague.ru-2017-05-14-7f53bed4/wpull.db
+  size: 543744
+  modified: '2017-05-14T14:33:29'
+  type: wpull database
+  extension: .db
+url: https://antiplague.ru
+created: '2017-05-14'

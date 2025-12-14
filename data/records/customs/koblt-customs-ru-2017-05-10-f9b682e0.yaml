@@ -1,0 +1,40 @@
+id: koblt-customs-ru-2017-05-10-f9b682e0
+name: koblt.customs.ru (2017-05-10)
+domain: koblt.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: koblt.customs.ru-2017-05-10-f9b682e0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/koblt.customs.ru-2017-05-10-f9b682e0/koblt.customs.ru-2017-05-10-f9b682e0.cdx
+  size: 949
+  modified: '2017-05-10T09:20:38'
+  type: CDX
+  extension: .cdx
+- name: koblt.customs.ru-2017-05-10-f9b682e0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/koblt.customs.ru-2017-05-10-f9b682e0/koblt.customs.ru-2017-05-10-f9b682e0-meta.warc.gz
+  size: 2959
+  modified: '2017-05-10T09:20:39'
+  type: WARC
+  extension: .warc.gz
+- name: koblt.customs.ru-2017-05-10-f9b682e0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/koblt.customs.ru-2017-05-10-f9b682e0/koblt.customs.ru-2017-05-10-f9b682e0-00000.warc.gz
+  size: 9113
+  modified: '2017-05-10T09:20:38'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/koblt.customs.ru-2017-05-10-f9b682e0/wpull.db
+  size: 10240
+  modified: '2017-05-10T09:20:39'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/koblt.customs.ru-2017-05-10-f9b682e0/dupes_db/data.mdb
+  size: 12288
+  modified: '2017-05-10T09:20:36'
+  type: ''
+  extension: .mdb
+url: https://koblt.customs.ru
+created: '2017-05-10'

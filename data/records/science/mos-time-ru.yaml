@@ -1,0 +1,34 @@
+id: mos-time-ru
+name: mos-time.ru (2015-05-27)
+domain: mos-time.ru
+collection:
+  id: science
+  slug: science
+  name: Наука
+resources:
+- name: mos-time.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/science/mos-time.ru/mos-time.ru.log
+  size: 6065855
+  modified: '2015-05-27T11:49:51'
+  type: ''
+  extension: .log
+- name: mos-time.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/science/mos-time.ru/mos-time.ru.cdx
+  size: 885830
+  modified: '2015-05-27T11:49:51'
+  type: CDX
+  extension: .cdx
+- name: mos-time.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/science/mos-time.ru/mos-time.ru.warc.xz
+  size: 2460832584
+  modified: '2015-05-27T11:49:51'
+  type: WARC
+  extension: .xz
+- name: mos-time.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/science/mos-time.ru/mos-time.ru.7z
+  size: 2385695785
+  modified: '2015-05-31T13:30:45'
+  type: ''
+  extension: .7z
+url: https://mos-time.ru
+created: '2015-05-27T11:49:51'

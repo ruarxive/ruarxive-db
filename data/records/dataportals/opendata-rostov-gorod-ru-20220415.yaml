@@ -1,0 +1,35 @@
+id: opendata-rostov-gorod-ru-20220415
+name: opendata.rostov-gorod.ru (2022-04-15)
+domain: opendata.rostov-gorod.ru
+url: https://opendata.rostov-gorod.ru
+created: '2022-04-15'
+date: '2022-04-15'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.rostov-gorod.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.rostov-gorod.ru/2022-04-15/opendata.rostov-gorod.ru.cdx
+  size: 357656
+  modified: '2022-04-15T06:29:19'
+  type: CDX
+  extension: .cdx
+- name: opendata.rostov-gorod.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.rostov-gorod.ru/2022-04-15/opendata.rostov-gorod.ru.log
+  size: 4350696
+  modified: '2022-04-15T06:29:19'
+  type: wpull log
+  extension: .log
+- name: opendata.rostov-gorod.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.rostov-gorod.ru/2022-04-15/opendata.rostov-gorod.ru.warc.gz
+  size: 33330048
+  modified: '2022-04-15T06:29:19'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.rostov-gorod.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.rostov-gorod.ru/2022-04-15/sitearchive-opendata.rostov-gorod.ru.db
+  size: 503808
+  modified: '2022-04-15T06:29:19'
+  type: ''
+  extension: .db

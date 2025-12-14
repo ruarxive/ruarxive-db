@@ -1,0 +1,18 @@
+id: prmira-ru
+name: 'Сетевое издание: «Проспект Мира» (Красноярск)'
+url: https://prmira.ru/?tag=kultura
+domain: prmira.ru
+created: '2022-03-29T16:16:48.000Z'
+status: не собран
+status_id: not-collected
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+collection:
+  id: regionalmedia_garage
+  name: Региональные медиа
+  slug: regionalmedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum

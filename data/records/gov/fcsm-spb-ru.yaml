@@ -1,0 +1,28 @@
+id: fcsm-spb-ru
+name: fcsm.spb.ru (2013-09-28)
+domain: fcsm.spb.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.fcsm.spb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fcsm.spb.ru/www.fcsm.spb.ru.warc.xz
+  size: 18836264
+  modified: '2013-09-28T10:59:29'
+  type: WARC
+  extension: .xz
+- name: www.fcsm.spb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fcsm.spb.ru/www.fcsm.spb.ru.cdx.xz
+  size: 198328
+  modified: '2013-09-28T10:59:37'
+  type: CDX
+  extension: .xz
+- name: www.fcsm.spb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.fcsm.spb.ru/www.fcsm.spb.ru.log.xz
+  size: 72576
+  modified: '2013-09-28T10:59:35'
+  type: wpull log
+  extension: .xz
+url: https://fcsm.spb.ru
+created: '2013-09-28T10:59:29'

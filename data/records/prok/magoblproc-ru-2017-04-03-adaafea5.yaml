@@ -1,0 +1,40 @@
+id: magoblproc-ru-2017-04-03-adaafea5
+name: magoblproc.ru (2017-04-03)
+domain: magoblproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.magoblproc.ru-2017-04-03-adaafea5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.magoblproc.ru-2017-04-03-adaafea5/www.magoblproc.ru-2017-04-03-adaafea5-00000.warc.gz
+  size: 40919600
+  modified: '2017-04-03T09:39:23'
+  type: WARC
+  extension: .warc.gz
+- name: www.magoblproc.ru-2017-04-03-adaafea5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.magoblproc.ru-2017-04-03-adaafea5/www.magoblproc.ru-2017-04-03-adaafea5.cdx
+  size: 95922
+  modified: '2017-04-03T09:39:23'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.magoblproc.ru-2017-04-03-adaafea5/wpull.db
+  size: 105472
+  modified: '2017-04-03T09:39:23'
+  type: wpull database
+  extension: .db
+- name: www.magoblproc.ru-2017-04-03-adaafea5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.magoblproc.ru-2017-04-03-adaafea5/www.magoblproc.ru-2017-04-03-adaafea5-meta.warc.gz
+  size: 15045
+  modified: '2017-04-03T09:39:23'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.magoblproc.ru-2017-04-03-adaafea5/dupes_db/data.mdb
+  size: 94208
+  modified: '2017-04-03T09:39:22'
+  type: ''
+  extension: .mdb
+url: https://magoblproc.ru
+created: '2017-04-03'

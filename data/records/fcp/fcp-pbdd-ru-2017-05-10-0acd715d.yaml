@@ -1,0 +1,76 @@
+id: fcp-pbdd-ru-2017-05-10-0acd715d
+name: fcp-pbdd.ru (2017-05-10)
+domain: fcp-pbdd.ru
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/dupes_db/data.mdb
+  size: 9392128
+  modified: '2017-05-11T21:25:46'
+  type: ''
+  extension: .mdb
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d-00005.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d-00005.warc.gz
+  size: 5384509599
+  modified: '2017-05-11T14:52:01'
+  type: WARC
+  extension: .warc.gz
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d-00001.warc.gz
+  size: 6094627024
+  modified: '2017-05-10T17:41:11'
+  type: WARC
+  extension: .warc.gz
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d.cdx
+  size: 15578041
+  modified: '2017-05-11T21:25:46'
+  type: CDX
+  extension: .cdx
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d-00004.warc.gz
+  size: 5434484966
+  modified: '2017-05-11T02:55:00'
+  type: WARC
+  extension: .warc.gz
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d-00000.warc.gz
+  size: 6129483500
+  modified: '2017-05-10T13:20:21'
+  type: WARC
+  extension: .warc.gz
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d-00006.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d-00006.warc.gz
+  size: 174283242
+  modified: '2017-05-11T21:25:46'
+  type: WARC
+  extension: .warc.gz
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d-00002.warc.gz
+  size: 5368888670
+  modified: '2017-05-10T20:50:40'
+  type: WARC
+  extension: .warc.gz
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d-meta.warc.gz
+  size: 1784210
+  modified: '2017-05-11T21:25:50'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/wpull.db
+  size: 18496512
+  modified: '2017-05-11T21:25:46'
+  type: wpull database
+  extension: .db
+- name: www.fcp-pbdd.ru-2017-05-10-0acd715d-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/www.fcp-pbdd.ru-2017-05-10-0acd715d/www.fcp-pbdd.ru-2017-05-10-0acd715d-00003.warc.gz
+  size: 5477115332
+  modified: '2017-05-10T23:55:33'
+  type: WARC
+  extension: .warc.gz
+url: https://fcp-pbdd.ru
+created: '2017-05-10'

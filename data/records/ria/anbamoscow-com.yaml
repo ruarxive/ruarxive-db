@@ -1,0 +1,28 @@
+id: anbamoscow-com
+name: anbamoscow.com (2013-12-11)
+domain: anbamoscow.com
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: www.anbamoscow.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.anbamoscow.com/www.anbamoscow.com.log.xz
+  size: 1255148
+  modified: '2013-12-11T05:37:11'
+  type: wpull log
+  extension: .xz
+- name: www.anbamoscow.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.anbamoscow.com/www.anbamoscow.com.cdx.xz
+  size: 2428256
+  modified: '2013-12-11T05:37:15'
+  type: CDX
+  extension: .xz
+- name: www.anbamoscow.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/www.anbamoscow.com/www.anbamoscow.com.warc.xz
+  size: 132168392
+  modified: '2013-12-11T05:35:53'
+  type: WARC
+  extension: .xz
+url: https://anbamoscow.com
+created: '2013-12-11T05:35:53'

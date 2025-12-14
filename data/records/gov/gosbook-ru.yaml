@@ -1,0 +1,34 @@
+id: gosbook-ru
+name: gosbook.ru (2016-08-08)
+domain: gosbook.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.gosbook.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gosbook.ru/www.gosbook.ru.log
+  size: 339276219
+  modified: '2016-08-08T00:54:39'
+  type: ''
+  extension: .log
+- name: www.gosbook.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gosbook.ru/www.gosbook.ru.7z
+  size: 18587800163
+  modified: '2016-08-09T19:46:52'
+  type: ''
+  extension: .7z
+- name: www.gosbook.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gosbook.ru/www.gosbook.ru.warc.gz
+  size: 23674848771
+  modified: '2016-08-08T00:54:39'
+  type: WARC
+  extension: .warc.gz
+- name: www.gosbook.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.gosbook.ru/www.gosbook.ru.cdx
+  size: 212225124
+  modified: '2016-08-08T00:54:30'
+  type: CDX
+  extension: .cdx
+url: https://gosbook.ru
+created: '2016-08-08T00:54:39'

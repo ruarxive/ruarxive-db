@@ -1,0 +1,35 @@
+id: opendata-cheladmin-ru-20220415
+name: opendata.cheladmin.ru (2022-04-15)
+domain: opendata.cheladmin.ru
+url: https://opendata.cheladmin.ru
+created: '2022-04-15'
+date: '2022-04-15'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: opendata.cheladmin.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.cheladmin.ru/2022-04-15/opendata.cheladmin.ru.cdx
+  size: 358448
+  modified: '2022-04-15T19:19:06'
+  type: CDX
+  extension: .cdx
+- name: opendata.cheladmin.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.cheladmin.ru/2022-04-15/opendata.cheladmin.ru.log
+  size: 3821564
+  modified: '2022-04-15T19:19:06'
+  type: wpull log
+  extension: .log
+- name: opendata.cheladmin.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.cheladmin.ru/2022-04-15/opendata.cheladmin.ru.warc.gz
+  size: 9961407
+  modified: '2022-04-15T19:19:06'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-opendata.cheladmin.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/opendata.cheladmin.ru/2022-04-15/sitearchive-opendata.cheladmin.ru.db
+  size: 380928
+  modified: '2022-04-15T19:19:06'
+  type: ''
+  extension: .db

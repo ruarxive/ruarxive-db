@@ -1,0 +1,40 @@
+id: niac-mos-ru-2017-08-09-b8270698
+name: niac.mos.ru (2017-08-09)
+domain: niac.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/niac.mos.ru-2017-08-09-b8270698/wpull.db
+  size: 2895872
+  modified: '2017-08-11T01:27:11'
+  type: wpull database
+  extension: .db
+- name: niac.mos.ru-2017-08-09-b8270698.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/niac.mos.ru-2017-08-09-b8270698/niac.mos.ru-2017-08-09-b8270698.cdx
+  size: 2595985
+  modified: '2017-08-11T01:27:11'
+  type: CDX
+  extension: .cdx
+- name: niac.mos.ru-2017-08-09-b8270698-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/niac.mos.ru-2017-08-09-b8270698/niac.mos.ru-2017-08-09-b8270698-00000.warc.gz
+  size: 2941861679
+  modified: '2017-08-11T01:27:11'
+  type: WARC
+  extension: .warc.gz
+- name: niac.mos.ru-2017-08-09-b8270698-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/niac.mos.ru-2017-08-09-b8270698/niac.mos.ru-2017-08-09-b8270698-meta.warc.gz
+  size: 317335
+  modified: '2017-08-11T01:27:12'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/niac.mos.ru-2017-08-09-b8270698/dupes_db/data.mdb
+  size: 983040
+  modified: '2017-08-11T01:27:11'
+  type: ''
+  extension: .mdb
+url: https://niac.mos.ru
+created: '2017-08-09'

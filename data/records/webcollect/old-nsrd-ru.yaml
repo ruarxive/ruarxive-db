@@ -1,0 +1,16 @@
+id: old-nsrd-ru
+name: old.nsrd.ru.7z (2013-09-10)
+domain: old.nsrd.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.nsrd.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.nsrd.ru.7z
+  size: 154175297
+  modified: '2013-09-10T06:40:29'
+  type: httrack archive
+  extension: .7z
+url: https://old.nsrd.ru.7z
+created: '2013-09-10T06:40:29'

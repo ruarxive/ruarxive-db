@@ -1,0 +1,40 @@
+id: sed-informika-ru-2017-04-17-575baad4
+name: sed.informika.ru (2017-04-17)
+domain: sed.informika.ru
+collection:
+  id: informika
+  slug: informika
+  name: Информика
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/sed.informika.ru-2017-04-17-575baad4/dupes_db/data.mdb
+  size: 53248
+  modified: '2017-04-17T22:05:28'
+  type: ''
+  extension: .mdb
+- name: sed.informika.ru-2017-04-17-575baad4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/sed.informika.ru-2017-04-17-575baad4/sed.informika.ru-2017-04-17-575baad4-meta.warc.gz
+  size: 6545
+  modified: '2017-04-17T22:06:26'
+  type: WARC
+  extension: .warc.gz
+- name: sed.informika.ru-2017-04-17-575baad4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/sed.informika.ru-2017-04-17-575baad4/sed.informika.ru-2017-04-17-575baad4-00000.warc.gz
+  size: 108091535
+  modified: '2017-04-17T22:05:28'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/sed.informika.ru-2017-04-17-575baad4/wpull.db
+  size: 36864
+  modified: '2017-04-17T22:06:26'
+  type: wpull database
+  extension: .db
+- name: sed.informika.ru-2017-04-17-575baad4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/sed.informika.ru-2017-04-17-575baad4/sed.informika.ru-2017-04-17-575baad4.cdx
+  size: 24807
+  modified: '2017-04-17T22:05:28'
+  type: CDX
+  extension: .cdx
+url: https://sed.informika.ru
+created: '2017-04-17'

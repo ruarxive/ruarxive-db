@@ -1,0 +1,40 @@
+id: belavskaya-ru-2017-09-07-dde27191
+name: belavskaya.ru (2017-09-07)
+domain: belavskaya.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: belavskaya.ru-2017-09-07-dde27191.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/belavskaya.ru-2017-09-07-dde27191/belavskaya.ru-2017-09-07-dde27191.cdx
+  size: 30599
+  modified: '2017-09-07T22:00:59'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/belavskaya.ru-2017-09-07-dde27191/wpull.db
+  size: 45056
+  modified: '2017-09-07T22:00:59'
+  type: wpull database
+  extension: .db
+- name: belavskaya.ru-2017-09-07-dde27191-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/belavskaya.ru-2017-09-07-dde27191/belavskaya.ru-2017-09-07-dde27191-00000.warc.gz
+  size: 14960019
+  modified: '2017-09-07T22:00:59'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/belavskaya.ru-2017-09-07-dde27191/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-09-07T22:00:52'
+  type: ''
+  extension: .mdb
+- name: belavskaya.ru-2017-09-07-dde27191-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/belavskaya.ru-2017-09-07-dde27191/belavskaya.ru-2017-09-07-dde27191-meta.warc.gz
+  size: 8358
+  modified: '2017-09-07T22:01:00'
+  type: WARC
+  extension: .warc.gz
+url: https://belavskaya.ru
+created: '2017-09-07'

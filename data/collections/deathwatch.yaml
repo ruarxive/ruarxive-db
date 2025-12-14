@@ -1,0 +1,13 @@
+id: deathwatch
+slug: deathwatch
+name: Мониторинг закрытия сайтов
+created: '2022-11-14T14:56:08.000Z'
+num_records: 1
+records:
+- id: frs-noosphere-ru
+  name: ФРС (Федеральная резервная система) проекта Ноосфера
+  url: https://frs.noosphere.ru
+  status: собран
+  status_id: collected
+  created: '2022-11-14T14:55:40.000Z'
+  domain: frs.noosphere.ru

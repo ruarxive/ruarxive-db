@@ -1,0 +1,34 @@
+id: g20-org-tr
+name: g20.org.tr (2016-05-08)
+domain: g20.org.tr
+collection:
+  id: events
+  slug: events
+  name: События
+resources:
+- name: g20.org.tr.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/g20.org.tr/g20.org.tr.cdx.xz
+  size: 323080
+  modified: '2016-05-08T13:35:04'
+  type: CDX
+  extension: .xz
+- name: g20.org.tr.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/g20.org.tr/g20.org.tr.warc.xz
+  size: 616093376
+  modified: '2016-05-08T13:35:05'
+  type: WARC
+  extension: .xz
+- name: g20.org.tr.7z
+  url: https://cdn.ruarxive.org/public/webcollect/events/g20.org.tr/g20.org.tr.7z
+  size: 606873728
+  modified: '2016-05-20T13:17:01'
+  type: ''
+  extension: .7z
+- name: g20.org.tr.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/g20.org.tr/g20.org.tr.log.xz
+  size: 236248
+  modified: '2016-05-08T13:35:05'
+  type: wpull log
+  extension: .xz
+url: https://g20.org.tr
+created: '2016-05-08T13:35:05'

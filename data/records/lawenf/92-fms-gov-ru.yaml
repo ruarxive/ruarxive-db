@@ -1,0 +1,40 @@
+id: 92-fms-gov-ru
+name: 92.fms.gov.ru (2016-05-03)
+domain: 92.fms.gov.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: fms_gov_ru_documents_15052016.zip
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/92.fms.gov.ru/fms_gov_ru_documents_15052016.zip
+  size: 217624576
+  modified: '2016-05-15T15:25:05'
+  type: ''
+  extension: .zip
+- name: 92.fms.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/92.fms.gov.ru/92.fms.gov.ru.cdx.xz
+  size: 1362220
+  modified: '2016-05-03T22:15:18'
+  type: CDX
+  extension: .xz
+- name: 92.fms.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/92.fms.gov.ru/92.fms.gov.ru.warc.xz
+  size: 2419086860
+  modified: '2016-05-03T22:15:19'
+  type: WARC
+  extension: .xz
+- name: 92.fms.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/92.fms.gov.ru/92.fms.gov.ru.log.xz
+  size: 826820
+  modified: '2016-05-03T22:15:19'
+  type: wpull log
+  extension: .xz
+- name: 92.fms.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/92.fms.gov.ru/92.fms.gov.ru.7z
+  size: 2415859534
+  modified: '2016-05-04T12:04:23'
+  type: ''
+  extension: .7z
+url: https://92.fms.gov.ru
+created: '2016-05-03T22:15:19'

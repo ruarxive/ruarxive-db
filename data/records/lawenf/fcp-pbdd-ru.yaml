@@ -1,0 +1,28 @@
+id: fcp-pbdd-ru
+name: fcp-pbdd.ru (2014-01-30)
+domain: fcp-pbdd.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: www.fcp-pbdd.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.fcp-pbdd.ru/www.fcp-pbdd.ru.cdx.xz
+  size: 2806548
+  modified: '2014-01-30T23:27:17'
+  type: CDX
+  extension: .xz
+- name: www.fcp-pbdd.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.fcp-pbdd.ru/www.fcp-pbdd.ru.log.xz
+  size: 1565312
+  modified: '2014-01-30T23:27:20'
+  type: wpull log
+  extension: .xz
+- name: www.fcp-pbdd.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/www.fcp-pbdd.ru/www.fcp-pbdd.ru.warc.xz
+  size: 1642427724
+  modified: '2014-01-30T23:20:23'
+  type: WARC
+  extension: .xz
+url: https://fcp-pbdd.ru
+created: '2014-01-30T23:20:23'

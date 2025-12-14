@@ -1,0 +1,64 @@
+id: fsin-su-2017-04-30-f73659fc
+name: fsin.su (2017-04-30)
+domain: fsin.su
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: tmp-wpull-warcsesrsp-8jhi7a.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/temp/tmp-wpull-warcsesrsp-8jhi7a.tmp
+  size: 51192116
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-l6eo9b.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/temp/tmp-wpull-resp_cb-l6eo9b.tmp
+  size: 84182
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-ejjur9.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/temp/tmp-wpull-warcsesreq-ejjur9.tmp
+  size: 350
+  modified: '2017-04-30T08:44:01'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-resp_cb-xszc_i.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/temp/tmp-wpull-resp_cb-xszc_i.tmp
+  size: 51191808
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-8_4c58.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/temp/tmp-wpull-warc-8_4c58.log.gz
+  size: 231154
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/dupes_db/data.mdb
+  size: 454656
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .mdb
+- name: www.fsin.su-2017-04-30-f73659fc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/www.fsin.su-2017-04-30-f73659fc.cdx
+  size: 944695
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: www.fsin.su-2017-04-30-f73659fc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/www.fsin.su-2017-04-30-f73659fc-00000.warc.gz
+  size: 773383740
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.fsin.su-2017-04-30-f73659fc/wpull.db
+  size: 3701760
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+url: https://fsin.su
+created: '2017-04-30'

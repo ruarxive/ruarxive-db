@@ -1,0 +1,40 @@
+id: forum-fsrar-ru-2017-05-31-06d14aea
+name: forum.fsrar.ru (2017-05-31)
+domain: forum.fsrar.ru
+collection:
+  id: fsrar
+  slug: fsrar
+  name: ФСРАР
+resources:
+- name: forum.fsrar.ru-2017-05-31-06d14aea-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/forum.fsrar.ru-2017-05-31-06d14aea/forum.fsrar.ru-2017-05-31-06d14aea-meta.warc.gz
+  size: 145608
+  modified: '2017-06-01T12:35:52'
+  type: WARC
+  extension: .warc.gz
+- name: forum.fsrar.ru-2017-05-31-06d14aea-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/forum.fsrar.ru-2017-05-31-06d14aea/forum.fsrar.ru-2017-05-31-06d14aea-00000.warc.gz
+  size: 67356077
+  modified: '2017-06-01T12:35:50'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/forum.fsrar.ru-2017-05-31-06d14aea/dupes_db/data.mdb
+  size: 749568
+  modified: '2017-06-01T12:46:27'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/forum.fsrar.ru-2017-05-31-06d14aea/wpull.db
+  size: 1289216
+  modified: '2017-06-01T12:35:51'
+  type: wpull database
+  extension: .db
+- name: forum.fsrar.ru-2017-05-31-06d14aea.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/forum.fsrar.ru-2017-05-31-06d14aea/forum.fsrar.ru-2017-05-31-06d14aea.cdx
+  size: 1278342
+  modified: '2017-06-01T12:35:48'
+  type: CDX
+  extension: .cdx
+url: https://forum.fsrar.ru
+created: '2017-05-31'

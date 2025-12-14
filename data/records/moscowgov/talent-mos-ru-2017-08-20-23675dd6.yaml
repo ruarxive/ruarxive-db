@@ -1,0 +1,51 @@
+id: talent-mos-ru-2017-08-20-23675dd6
+name: talent.mos.ru (2017-08-20)
+domain: talent.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: talent.mos.ru-2017-08-20-23675dd6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/talent.mos.ru-2017-08-20-23675dd6/talent.mos.ru-2017-08-20-23675dd6.cdx
+  size: 33579714
+  modified: '2017-08-21T22:51:51'
+  type: CDX
+  extension: .cdx
+- name: talent.mos.ru-2017-08-20-23675dd6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/talent.mos.ru-2017-08-20-23675dd6/talent.mos.ru-2017-08-20-23675dd6-meta.warc.gz
+  size: 2015056
+  modified: '2017-08-21T22:52:04'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/talent.mos.ru-2017-08-20-23675dd6/wpull.db
+  size: 179895296
+  modified: '2017-08-21T22:51:52'
+  type: wpull database
+  extension: .db
+- name: talent.mos.ru-2017-08-20-23675dd6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/talent.mos.ru-2017-08-20-23675dd6/talent.mos.ru-2017-08-20-23675dd6-00000.warc.gz
+  size: 838186110
+  modified: '2017-08-21T22:51:51'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-5zvatr.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/talent.mos.ru-2017-08-20-23675dd6/temp/tmp-wpull-resp_cb-5zvatr.tmp
+  size: 28964
+  modified: '2017-08-21T22:51:51'
+  type: ''
+  extension: .tmp
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/talent.mos.ru-2017-08-20-23675dd6/stop
+  size: 0
+  modified: '2017-08-21T22:51:50'
+  type: ''
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/talent.mos.ru-2017-08-20-23675dd6/dupes_db/data.mdb
+  size: 37650432
+  modified: '2017-08-21T22:51:51'
+  type: ''
+  extension: .mdb
+url: https://talent.mos.ru
+created: '2017-08-20'

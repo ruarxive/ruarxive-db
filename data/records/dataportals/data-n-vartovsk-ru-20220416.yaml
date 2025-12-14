@@ -1,0 +1,35 @@
+id: data-n-vartovsk-ru-20220416
+name: data.n-vartovsk.ru (2022-04-16)
+domain: data.n-vartovsk.ru
+url: https://data.n-vartovsk.ru
+created: '2022-04-16'
+date: '2022-04-16'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: data.n-vartovsk.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/data.n-vartovsk.ru/2022-04-16/data.n-vartovsk.ru.cdx
+  size: 2941549
+  modified: '2022-04-16T16:32:25'
+  type: CDX
+  extension: .cdx
+- name: data.n-vartovsk.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/data.n-vartovsk.ru/2022-04-16/data.n-vartovsk.ru.log
+  size: 22936802
+  modified: '2022-04-16T16:32:30'
+  type: wpull log
+  extension: .log
+- name: data.n-vartovsk.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/data.n-vartovsk.ru/2022-04-16/data.n-vartovsk.ru.warc.gz
+  size: 25330534
+  modified: '2022-04-16T16:32:31'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-data.n-vartovsk.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/data.n-vartovsk.ru/2022-04-16/sitearchive-data.n-vartovsk.ru.db
+  size: 2973696
+  modified: '2022-04-16T16:32:31'
+  type: ''
+  extension: .db

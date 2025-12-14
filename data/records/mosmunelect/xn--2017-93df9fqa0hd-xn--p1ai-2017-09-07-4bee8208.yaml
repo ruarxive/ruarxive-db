@@ -1,0 +1,40 @@
+id: xn--2017-93df9fqa0hd-xn--p1ai-2017-09-07-4bee8208
+name: xn--2017-93df9fqa0hd.xn--p1ai (2017-09-07)
+domain: xn--2017-93df9fqa0hd.xn--p1ai
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208/dupes_db/data.mdb
+  size: 151552
+  modified: '2017-09-07T22:11:35'
+  type: ''
+  extension: .mdb
+- name: xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208/xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208-meta.warc.gz
+  size: 25962
+  modified: '2017-09-07T22:11:36'
+  type: WARC
+  extension: .warc.gz
+- name: xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208/xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208-00000.warc.gz
+  size: 16519966
+  modified: '2017-09-07T22:11:36'
+  type: WARC
+  extension: .warc.gz
+- name: xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208/xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208.cdx
+  size: 189085
+  modified: '2017-09-07T22:11:36'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/xn--2017-93df9fqa0hd.xn--p1ai-2017-09-07-4bee8208/wpull.db
+  size: 248832
+  modified: '2017-09-07T22:11:36'
+  type: wpull database
+  extension: .db
+url: https://xn--2017-93df9fqa0hd.xn--p1ai
+created: '2017-09-07'

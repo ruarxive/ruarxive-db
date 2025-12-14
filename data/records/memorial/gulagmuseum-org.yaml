@@ -1,0 +1,28 @@
+id: gulagmuseum-org
+name: gulagmuseum.org (2013-10-28)
+domain: gulagmuseum.org
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: www.gulagmuseum.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.gulagmuseum.org/www.gulagmuseum.org.warc.xz
+  size: 861725128
+  modified: '2013-10-28T18:23:08'
+  type: WARC
+  extension: .xz
+- name: www.gulagmuseum.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.gulagmuseum.org/www.gulagmuseum.org.log.xz
+  size: 1371784
+  modified: '2013-10-28T18:27:35'
+  type: wpull log
+  extension: .xz
+- name: www.gulagmuseum.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.gulagmuseum.org/www.gulagmuseum.org.cdx.xz
+  size: 2960908
+  modified: '2013-10-28T18:27:43'
+  type: CDX
+  extension: .xz
+url: https://gulagmuseum.org
+created: '2013-10-28T18:23:08'

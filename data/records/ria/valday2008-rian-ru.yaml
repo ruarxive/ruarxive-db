@@ -1,0 +1,28 @@
+id: valday2008-rian-ru
+name: valday2008.rian.ru (2013-12-10)
+domain: valday2008.rian.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: valday2008.rian.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/valday2008.rian.ru/valday2008.rian.ru.cdx.xz
+  size: 22784
+  modified: '2013-12-10T07:46:46'
+  type: CDX
+  extension: .xz
+- name: valday2008.rian.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/valday2008.rian.ru/valday2008.rian.ru.warc.xz
+  size: 1772184
+  modified: '2013-12-10T07:46:47'
+  type: WARC
+  extension: .xz
+- name: valday2008.rian.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/valday2008.rian.ru/valday2008.rian.ru.log.xz
+  size: 9272
+  modified: '2013-12-10T07:46:46'
+  type: wpull log
+  extension: .xz
+url: https://valday2008.rian.ru
+created: '2013-12-10T07:46:47'

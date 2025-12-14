@@ -1,0 +1,40 @@
+id: 31fbuz-ru-2017-05-14-da2b4efc
+name: 31fbuz.ru (2017-05-14)
+domain: 31fbuz.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.31fbuz.ru-2017-05-14-da2b4efc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.31fbuz.ru-2017-05-14-da2b4efc/www.31fbuz.ru-2017-05-14-da2b4efc-meta.warc.gz
+  size: 78209
+  modified: '2017-05-14T17:24:26'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.31fbuz.ru-2017-05-14-da2b4efc/dupes_db/data.mdb
+  size: 462848
+  modified: '2017-05-14T17:24:24'
+  type: ''
+  extension: .mdb
+- name: www.31fbuz.ru-2017-05-14-da2b4efc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.31fbuz.ru-2017-05-14-da2b4efc/www.31fbuz.ru-2017-05-14-da2b4efc.cdx
+  size: 685246
+  modified: '2017-05-14T17:24:25'
+  type: CDX
+  extension: .cdx
+- name: www.31fbuz.ru-2017-05-14-da2b4efc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.31fbuz.ru-2017-05-14-da2b4efc/www.31fbuz.ru-2017-05-14-da2b4efc-00000.warc.gz
+  size: 298584497
+  modified: '2017-05-14T17:24:25'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.31fbuz.ru-2017-05-14-da2b4efc/wpull.db
+  size: 754688
+  modified: '2017-05-14T17:24:25'
+  type: wpull database
+  extension: .db
+url: https://31fbuz.ru
+created: '2017-05-14'

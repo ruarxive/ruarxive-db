@@ -1,0 +1,34 @@
+id: ac-gov-ru
+name: ac.gov.ru (2015-12-19)
+domain: ac.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: ac.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ac.gov.ru/ac.gov.ru.log
+  size: 14840500
+  modified: '2015-12-19T18:59:52'
+  type: ''
+  extension: .log
+- name: ac.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ac.gov.ru/ac.gov.ru.7z
+  size: 5636410563
+  modified: '2016-04-30T09:26:00'
+  type: ''
+  extension: .7z
+- name: ac.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ac.gov.ru/ac.gov.ru.cdx
+  size: 3381988
+  modified: '2015-12-19T18:59:51'
+  type: CDX
+  extension: .cdx
+- name: ac.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ac.gov.ru/ac.gov.ru.warc.xz
+  size: 5827716156
+  modified: '2015-12-19T18:59:52'
+  type: WARC
+  extension: .xz
+url: https://ac.gov.ru
+created: '2015-12-19T18:59:52'

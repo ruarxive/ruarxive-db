@@ -1,0 +1,16 @@
+id: vaomos-ru
+name: vaomos.ru.7z (2013-08-17)
+domain: vaomos.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: vaomos.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/vaomos.ru.7z
+  size: 968889543
+  modified: '2013-08-17T13:34:22'
+  type: httrack archive
+  extension: .7z
+url: https://vaomos.ru.7z
+created: '2013-08-17T13:34:22'

@@ -1,0 +1,35 @@
+id: data-ekburg-ru-20220414
+name: data.ekburg.ru (2022-04-14)
+domain: data.ekburg.ru
+url: https://data.ekburg.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: data.ekburg.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/data.ekburg.ru/2022-04-14/data.ekburg.ru.cdx
+  size: 2507069
+  modified: '2022-04-13T18:10:28'
+  type: CDX
+  extension: .cdx
+- name: data.ekburg.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/data.ekburg.ru/2022-04-14/data.ekburg.ru.log
+  size: 42453967
+  modified: '2022-04-13T18:10:28'
+  type: wpull log
+  extension: .log
+- name: data.ekburg.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/data.ekburg.ru/2022-04-14/data.ekburg.ru.warc.gz
+  size: 23898893
+  modified: '2022-04-13T18:10:28'
+  type: WARC
+  extension: .warc.gz
+- name: sitearchive-data.ekburg.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/data.ekburg.ru/2022-04-14/sitearchive-data.ekburg.ru.db
+  size: 11603968
+  modified: '2022-04-13T18:10:28'
+  type: ''
+  extension: .db

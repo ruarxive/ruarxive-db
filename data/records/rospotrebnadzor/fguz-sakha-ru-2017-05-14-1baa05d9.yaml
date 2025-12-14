@@ -1,0 +1,40 @@
+id: fguz-sakha-ru-2017-05-14-1baa05d9
+name: fguz-sakha.ru (2017-05-14)
+domain: fguz-sakha.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: fguz-sakha.ru-2017-05-14-1baa05d9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-sakha.ru-2017-05-14-1baa05d9/fguz-sakha.ru-2017-05-14-1baa05d9.cdx
+  size: 576387
+  modified: '2017-05-14T18:47:27'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-sakha.ru-2017-05-14-1baa05d9/dupes_db/data.mdb
+  size: 315392
+  modified: '2017-05-14T18:47:27'
+  type: ''
+  extension: .mdb
+- name: fguz-sakha.ru-2017-05-14-1baa05d9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-sakha.ru-2017-05-14-1baa05d9/fguz-sakha.ru-2017-05-14-1baa05d9-meta.warc.gz
+  size: 74268
+  modified: '2017-05-14T18:47:27'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-sakha.ru-2017-05-14-1baa05d9/wpull.db
+  size: 611328
+  modified: '2017-05-14T18:47:27'
+  type: wpull database
+  extension: .db
+- name: fguz-sakha.ru-2017-05-14-1baa05d9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/fguz-sakha.ru-2017-05-14-1baa05d9/fguz-sakha.ru-2017-05-14-1baa05d9-00000.warc.gz
+  size: 420345265
+  modified: '2017-05-14T18:47:27'
+  type: WARC
+  extension: .warc.gz
+url: https://fguz-sakha.ru
+created: '2017-05-14'

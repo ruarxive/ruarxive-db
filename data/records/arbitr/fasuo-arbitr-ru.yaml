@@ -1,0 +1,40 @@
+id: fasuo-arbitr-ru
+name: fasuo.arbitr.ru (2014-07-31)
+domain: fasuo.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: fasuo.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/fasuo.arbitr.ru/fasuo.arbitr.ru.cdx.xz
+  size: 271324
+  modified: '2014-07-31T21:15:39'
+  type: CDX
+  extension: .xz
+- name: fasuo.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/fasuo.arbitr.ru/fasuo.arbitr.ru.warc.xz
+  size: 198857188
+  modified: '2014-07-31T21:15:39'
+  type: WARC
+  extension: .xz
+- name: fasuo.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/fasuo.arbitr.ru/fasuo.arbitr.ru.log.xz
+  size: 168576
+  modified: '2014-07-31T21:15:39'
+  type: wpull log
+  extension: .xz
+- name: www.fasuo.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/fasuo.arbitr.ru/www.fasuo.arbitr.ru.7z
+  size: 95336250
+  modified: '2014-08-19T10:28:57'
+  type: ''
+  extension: .7z
+- name: fasuo.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/fasuo.arbitr.ru/fasuo.arbitr.ru.7z
+  size: 107860596
+  modified: '2014-08-19T10:29:46'
+  type: ''
+  extension: .7z
+url: https://fasuo.arbitr.ru
+created: '2014-07-31T21:15:39'

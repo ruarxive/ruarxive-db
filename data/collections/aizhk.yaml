@@ -1,0 +1,110 @@
+id: aizhk
+slug: aizhk
+name: АИЖК
+num_records: 20
+records:
+- id: 11ma-ahml-ru-2017-05-10-9acfbf8f
+  name: 11ma.ahml.ru (2017-05-10)
+  url: https://11ma.ahml.ru
+  created: '2017-05-10'
+  domain: 11ma.ahml.ru
+- id: 12ma-ahml-ru-2017-05-10-613254ab
+  name: 12ma.ahml.ru (2017-05-10)
+  url: https://12ma.ahml.ru
+  created: '2017-05-10'
+  domain: 12ma.ahml.ru
+- id: 13ma-ahml-ru-2017-05-10-e7ad6bb6
+  name: 13ma.ahml.ru (2017-05-10)
+  url: https://13ma.ahml.ru
+  created: '2017-05-10'
+  domain: 13ma.ahml.ru
+- id: 1ma-ahml-ru-2017-05-10-288d1905
+  name: 1ma.ahml.ru (2017-05-10)
+  url: https://1ma.ahml.ru
+  created: '2017-05-10'
+  domain: 1ma.ahml.ru
+- id: 2ma-ahml-ru-2017-05-10-c4d6b076
+  name: 2ma.ahml.ru (2017-05-10)
+  url: https://2ma.ahml.ru
+  created: '2017-05-10'
+  domain: 2ma.ahml.ru
+- id: 3ma-ahml-ru-2017-05-10-20b1d259
+  name: 3ma.ahml.ru (2017-05-10)
+  url: https://3ma.ahml.ru
+  created: '2017-05-10'
+  domain: 3ma.ahml.ru
+- id: 4ma-ahml-ru-2017-05-10-412a0a6f
+  name: 4ma.ahml.ru (2017-05-10)
+  url: https://4ma.ahml.ru
+  created: '2017-05-10'
+  domain: 4ma.ahml.ru
+- id: 5ma-ahml-ru-2017-05-10-5a32e7bb
+  name: 5ma.ahml.ru (2017-05-10)
+  url: https://5ma.ahml.ru
+  created: '2017-05-10'
+  domain: 5ma.ahml.ru
+- id: 6ma-ahml-ru-2017-05-10-7dec4ad2
+  name: 6ma.ahml.ru (2017-05-10)
+  url: https://6ma.ahml.ru
+  created: '2017-05-10'
+  domain: 6ma.ahml.ru
+- id: 7ma-ahml-ru-2017-05-10-85a6940b
+  name: 7ma.ahml.ru (2017-05-10)
+  url: https://7ma.ahml.ru
+  created: '2017-05-10'
+  domain: 7ma.ahml.ru
+- id: 9ma-ahml-ru-2017-05-10-4161b26a
+  name: 9ma.ahml.ru (2017-05-10)
+  url: https://9ma.ahml.ru
+  created: '2017-05-10'
+  domain: 9ma.ahml.ru
+- id: arenda-ahml-ru-2017-05-10-6cee67b5
+  name: arenda.ahml.ru (2017-05-10)
+  url: https://arenda.ahml.ru
+  created: '2017-05-10'
+  domain: arenda.ahml.ru
+- id: conf-ahml-ru-2017-05-10-38e0f261
+  name: conf.ahml.ru (2017-05-10)
+  url: https://conf.ahml.ru
+  created: '2017-05-10'
+  domain: conf.ahml.ru
+- id: eis-ahml-ru-2017-05-10-7e8674c9
+  name: eis.ahml.ru (2017-05-10)
+  url: https://eis.ahml.ru
+  created: '2017-05-10'
+  domain: eis.ahml.ru
+- id: esma2012-ahml-ru-2017-05-10-b1c23b29
+  name: esma2012.ahml.ru (2017-05-10)
+  url: https://esma2012.ahml.ru
+  created: '2017-05-10'
+  domain: esma2012.ahml.ru
+- id: lkz-ahml-ru-2017-05-10-28b91803
+  name: lkz.ahml.ru (2017-05-10)
+  url: https://lkz.ahml.ru
+  created: '2017-05-10'
+  domain: lkz.ahml.ru
+- id: mbsfactory-ahml-ru-2017-05-10-c7193dd0
+  name: mbsfactory.ahml.ru (2017-05-10)
+  url: https://mbsfactory.ahml.ru
+  created: '2017-05-10'
+  domain: mbsfactory.ahml.ru
+- id: mia-1-ahml-ru-2017-05-10-2c0c051b
+  name: mia-1.ahml.ru (2017-05-10)
+  url: https://mia-1.ahml.ru
+  created: '2017-05-10'
+  domain: mia-1.ahml.ru
+- id: service-ahml-ru-2017-05-10-946d31b6
+  name: service.ahml.ru (2017-05-10)
+  url: https://service.ahml.ru
+  created: '2017-05-10'
+  domain: service.ahml.ru
+- id: xn--d1aqf-xn--p1ai-2017-05-10-c50da169
+  name: xn--d1aqf.xn--p1ai (2017-05-10)
+  url: https://xn--d1aqf.xn--p1ai
+  created: '2017-05-10'
+  domain: xn--d1aqf.xn--p1ai
+files:
+  total_count: 425
+  total_size: 33949437630
+  directories:
+  - webcollect2017

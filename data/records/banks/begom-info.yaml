@@ -1,0 +1,58 @@
+id: begom-info
+name: begom.info (2014-05-12)
+domain: begom.info
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: begom.info.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/begom.info/begom.info.cdx.xz
+  size: 10772
+  modified: '2014-05-12T22:51:39'
+  type: CDX
+  extension: .xz
+- name: begom.info.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/begom.info/begom.info.log.xz
+  size: 7684
+  modified: '2014-05-12T22:51:39'
+  type: wpull log
+  extension: .xz
+- name: begom.info.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/begom.info/begom.info.7z
+  size: 1277036
+  modified: '2014-08-18T02:11:35'
+  type: ''
+  extension: .7z
+- name: begom.info.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/begom.info/begom.info.warc.xz
+  size: 1307792
+  modified: '2014-05-12T22:51:39'
+  type: WARC
+  extension: .xz
+- name: www.begom.info.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.begom.info/www.begom.info.cdx.xz
+  size: 7084
+  modified: '2014-05-12T22:49:24'
+  type: CDX
+  extension: .xz
+- name: www.begom.info.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.begom.info/www.begom.info.warc.xz
+  size: 1220188
+  modified: '2014-05-12T22:49:24'
+  type: WARC
+  extension: .xz
+- name: www.begom.info.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.begom.info/www.begom.info.7z
+  size: 1203303
+  modified: '2014-08-20T06:59:41'
+  type: ''
+  extension: .7z
+- name: www.begom.info.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.begom.info/www.begom.info.log.xz
+  size: 4848
+  modified: '2014-05-12T22:49:24'
+  type: wpull log
+  extension: .xz
+url: https://begom.info
+created: '2014-05-12T22:49:24'

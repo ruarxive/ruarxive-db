@@ -1,0 +1,34 @@
+id: ar2011-vbank-ru
+name: ar2011.vbank.ru (2014-05-14)
+domain: ar2011.vbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: ar2011.vbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/ar2011.vbank.ru/ar2011.vbank.ru.log.xz
+  size: 25052
+  modified: '2014-05-14T18:05:30'
+  type: wpull log
+  extension: .xz
+- name: ar2011.vbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/ar2011.vbank.ru/ar2011.vbank.ru.warc.xz
+  size: 40263616
+  modified: '2014-05-14T18:05:30'
+  type: WARC
+  extension: .xz
+- name: ar2011.vbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/ar2011.vbank.ru/ar2011.vbank.ru.7z
+  size: 40906111
+  modified: '2014-08-18T01:47:59'
+  type: ''
+  extension: .7z
+- name: ar2011.vbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/ar2011.vbank.ru/ar2011.vbank.ru.cdx.xz
+  size: 39252
+  modified: '2014-05-14T18:05:30'
+  type: CDX
+  extension: .xz
+url: https://ar2011.vbank.ru
+created: '2014-05-14T18:05:30'

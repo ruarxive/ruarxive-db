@@ -1,0 +1,28 @@
+id: smart-mn-ru
+name: smart.mn.ru (2013-12-11)
+domain: smart.mn.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: smart.mn.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/smart.mn.ru/smart.mn.ru.log.xz
+  size: 741708
+  modified: '2013-12-11T04:29:22'
+  type: wpull log
+  extension: .xz
+- name: smart.mn.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/smart.mn.ru/smart.mn.ru.warc.xz
+  size: 4891960
+  modified: '2013-12-11T04:28:59'
+  type: WARC
+  extension: .xz
+- name: smart.mn.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/smart.mn.ru/smart.mn.ru.cdx.xz
+  size: 800368
+  modified: '2013-12-11T04:29:35'
+  type: CDX
+  extension: .xz
+url: https://smart.mn.ru
+created: '2013-12-11T04:28:59'

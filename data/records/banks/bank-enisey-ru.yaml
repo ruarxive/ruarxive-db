@@ -1,0 +1,34 @@
+id: bank-enisey-ru
+name: bank-enisey.ru (2014-05-10)
+domain: bank-enisey.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bank-enisey.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank-enisey.ru/www.bank-enisey.ru.warc.xz
+  size: 22049980
+  modified: '2014-05-10T20:29:11'
+  type: WARC
+  extension: .xz
+- name: www.bank-enisey.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank-enisey.ru/www.bank-enisey.ru.log.xz
+  size: 41424
+  modified: '2014-05-10T20:29:11'
+  type: wpull log
+  extension: .xz
+- name: www.bank-enisey.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank-enisey.ru/www.bank-enisey.ru.7z
+  size: 21926789
+  modified: '2014-08-19T18:03:59'
+  type: ''
+  extension: .7z
+- name: www.bank-enisey.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank-enisey.ru/www.bank-enisey.ru.cdx.xz
+  size: 70512
+  modified: '2014-05-10T20:29:11'
+  type: CDX
+  extension: .xz
+url: https://bank-enisey.ru
+created: '2014-05-10T20:29:11'

@@ -1,0 +1,16 @@
+id: cdrom01-economy-gov-ru
+name: cdrom01.economy.gov.ru.7z (2012-10-22)
+domain: cdrom01.economy.gov.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: cdrom01.economy.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/cdrom01.economy.gov.ru.7z
+  size: 234687209
+  modified: '2012-10-22T09:42:17'
+  type: httrack archive
+  extension: .7z
+url: https://cdrom01.economy.gov.ru.7z
+created: '2012-10-22T09:42:17'

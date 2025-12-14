@@ -1,0 +1,40 @@
+id: prokuror-perm-ru-2017-04-03-340659f3
+name: prokuror.perm.ru (2017-04-03)
+domain: prokuror.perm.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.perm.ru-2017-04-03-340659f3/dupes_db/data.mdb
+  size: 7970816
+  modified: '2017-04-04T02:47:05'
+  type: ''
+  extension: .mdb
+- name: prokuror.perm.ru-2017-04-03-340659f3-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.perm.ru-2017-04-03-340659f3/prokuror.perm.ru-2017-04-03-340659f3-00000.warc.gz
+  size: 994530556
+  modified: '2017-04-04T02:47:05'
+  type: WARC
+  extension: .warc.gz
+- name: prokuror.perm.ru-2017-04-03-340659f3-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.perm.ru-2017-04-03-340659f3/prokuror.perm.ru-2017-04-03-340659f3-meta.warc.gz
+  size: 1120813
+  modified: '2017-04-04T02:47:06'
+  type: WARC
+  extension: .warc.gz
+- name: prokuror.perm.ru-2017-04-03-340659f3.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.perm.ru-2017-04-03-340659f3/prokuror.perm.ru-2017-04-03-340659f3.cdx
+  size: 13887463
+  modified: '2017-04-04T02:47:05'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuror.perm.ru-2017-04-03-340659f3/wpull.db
+  size: 14152704
+  modified: '2017-04-04T02:47:07'
+  type: wpull database
+  extension: .db
+url: https://prokuror.perm.ru
+created: '2017-04-03'

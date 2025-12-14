@@ -1,0 +1,40 @@
+id: findep-mos-ru-2017-08-20-fc85ff49
+name: findep.mos.ru (2017-08-20)
+domain: findep.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/findep.mos.ru-2017-08-20-fc85ff49/dupes_db/data.mdb
+  size: 3317760
+  modified: '2017-08-22T04:20:29'
+  type: ''
+  extension: .mdb
+- name: findep.mos.ru-2017-08-20-fc85ff49.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/findep.mos.ru-2017-08-20-fc85ff49/findep.mos.ru-2017-08-20-fc85ff49.cdx
+  size: 7959153
+  modified: '2017-08-22T04:20:47'
+  type: CDX
+  extension: .cdx
+- name: findep.mos.ru-2017-08-20-fc85ff49-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/findep.mos.ru-2017-08-20-fc85ff49/findep.mos.ru-2017-08-20-fc85ff49-00000.warc.gz
+  size: 2984060620
+  modified: '2017-08-22T04:20:47'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/findep.mos.ru-2017-08-20-fc85ff49/wpull.db
+  size: 31707136
+  modified: '2017-08-22T04:20:47'
+  type: wpull database
+  extension: .db
+- name: findep.mos.ru-2017-08-20-fc85ff49-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/findep.mos.ru-2017-08-20-fc85ff49/findep.mos.ru-2017-08-20-fc85ff49-meta.warc.gz
+  size: 870026
+  modified: '2017-08-22T04:20:49'
+  type: WARC
+  extension: .warc.gz
+url: https://findep.mos.ru
+created: '2017-08-20'

@@ -1,0 +1,28 @@
+id: bankaskold-ru
+name: bankaskold.ru (2013-12-24)
+domain: bankaskold.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bankaskold.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankaskold.ru/www.bankaskold.ru.warc.xz
+  size: 8642152
+  modified: '2013-12-24T08:16:54'
+  type: WARC
+  extension: .xz
+- name: www.bankaskold.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankaskold.ru/www.bankaskold.ru.cdx.xz
+  size: 20624
+  modified: '2013-12-24T08:16:53'
+  type: CDX
+  extension: .xz
+- name: www.bankaskold.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankaskold.ru/www.bankaskold.ru.log.xz
+  size: 10472
+  modified: '2013-12-24T08:16:53'
+  type: wpull log
+  extension: .xz
+url: https://bankaskold.ru
+created: '2013-12-24T08:16:54'

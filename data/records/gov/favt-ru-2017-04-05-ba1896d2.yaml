@@ -1,0 +1,40 @@
+id: favt-ru-2017-04-05-ba1896d2
+name: favt.ru (2017-04-05)
+domain: favt.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.favt.ru-2017-04-05-ba1896d2-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.favt.ru-2017-04-05-ba1896d2/www.favt.ru-2017-04-05-ba1896d2-00000.warc.gz
+  size: 1302429003
+  modified: '2017-04-05T07:12:20'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.favt.ru-2017-04-05-ba1896d2/dupes_db/data.mdb
+  size: 1261568
+  modified: '2017-04-05T07:12:20'
+  type: ''
+  extension: .mdb
+- name: www.favt.ru-2017-04-05-ba1896d2.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.favt.ru-2017-04-05-ba1896d2/www.favt.ru-2017-04-05-ba1896d2.cdx
+  size: 2109575
+  modified: '2017-04-05T07:12:20'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.favt.ru-2017-04-05-ba1896d2/wpull.db
+  size: 2224128
+  modified: '2017-04-05T07:12:21'
+  type: wpull database
+  extension: .db
+- name: www.favt.ru-2017-04-05-ba1896d2-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.favt.ru-2017-04-05-ba1896d2/www.favt.ru-2017-04-05-ba1896d2-meta.warc.gz
+  size: 282747
+  modified: '2017-04-05T07:12:20'
+  type: WARC
+  extension: .warc.gz
+url: https://favt.ru
+created: '2017-04-05'

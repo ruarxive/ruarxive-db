@@ -1,0 +1,40 @@
+id: mobile-council-gov-ru-2017-05-09-e65149b9
+name: mobile.council.gov.ru (2017-05-09)
+domain: mobile.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: mobile.council.gov.ru-2017-05-09-e65149b9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/mobile.council.gov.ru-2017-05-09-e65149b9/mobile.council.gov.ru-2017-05-09-e65149b9-meta.warc.gz
+  size: 2903
+  modified: '2017-05-09T20:20:55'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/mobile.council.gov.ru-2017-05-09-e65149b9/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-05-09T20:20:53'
+  type: ''
+  extension: .mdb
+- name: mobile.council.gov.ru-2017-05-09-e65149b9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/mobile.council.gov.ru-2017-05-09-e65149b9/mobile.council.gov.ru-2017-05-09-e65149b9-00000.warc.gz
+  size: 5842
+  modified: '2017-05-09T20:20:55'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/mobile.council.gov.ru-2017-05-09-e65149b9/wpull.db
+  size: 10240
+  modified: '2017-05-09T20:20:55'
+  type: wpull database
+  extension: .db
+- name: mobile.council.gov.ru-2017-05-09-e65149b9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/mobile.council.gov.ru-2017-05-09-e65149b9/mobile.council.gov.ru-2017-05-09-e65149b9.cdx
+  size: 617
+  modified: '2017-05-09T20:20:55'
+  type: CDX
+  extension: .cdx
+url: https://mobile.council.gov.ru
+created: '2017-05-09'

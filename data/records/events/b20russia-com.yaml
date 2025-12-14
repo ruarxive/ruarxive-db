@@ -1,0 +1,34 @@
+id: b20russia-com
+name: b20russia.com (2016-05-08)
+domain: b20russia.com
+collection:
+  id: events
+  slug: events
+  name: События
+resources:
+- name: www.b20russia.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.b20russia.com/www.b20russia.com.7z
+  size: 604569111
+  modified: '2016-05-20T15:01:27'
+  type: ''
+  extension: .7z
+- name: www.b20russia.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.b20russia.com/www.b20russia.com.log.xz
+  size: 321768
+  modified: '2016-05-08T13:49:50'
+  type: wpull log
+  extension: .xz
+- name: www.b20russia.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.b20russia.com/www.b20russia.com.cdx.xz
+  size: 518716
+  modified: '2016-05-08T13:49:50'
+  type: CDX
+  extension: .xz
+- name: www.b20russia.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/www.b20russia.com/www.b20russia.com.warc.xz
+  size: 613888524
+  modified: '2016-05-08T13:49:50'
+  type: WARC
+  extension: .xz
+url: https://b20russia.com
+created: '2016-05-08T13:49:50'

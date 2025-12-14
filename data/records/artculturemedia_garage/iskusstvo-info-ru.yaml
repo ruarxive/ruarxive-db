@@ -1,0 +1,24 @@
+id: iskusstvo-info-ru
+name: Журнал “Искусство”
+url: https://iskusstvo-info.ru/
+domain: iskusstvo-info.ru
+created: '2022-03-29T16:16:48.000Z'
+date: '2022-06-09T08:20:00.000Z'
+status: ожидает загрузки в хранилище
+status_id: awaiting-storage
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Сохранение культурного наследия
+reason_id: cultural-heritage
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_garage
+  name: Искусство и культура
+  slug: artculturemedia_garage
+source:
+  id: garage-museum
+  name: Garage Museum

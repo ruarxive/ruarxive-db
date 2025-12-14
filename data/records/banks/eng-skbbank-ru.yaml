@@ -1,0 +1,34 @@
+id: eng-skbbank-ru
+name: eng.skbbank.ru (2014-05-12)
+domain: eng.skbbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: eng.skbbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/eng.skbbank.ru/eng.skbbank.ru.log.xz
+  size: 8516
+  modified: '2014-05-12T22:51:53'
+  type: wpull log
+  extension: .xz
+- name: eng.skbbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/eng.skbbank.ru/eng.skbbank.ru.warc.xz
+  size: 11412616
+  modified: '2014-05-12T22:51:53'
+  type: WARC
+  extension: .xz
+- name: eng.skbbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/eng.skbbank.ru/eng.skbbank.ru.cdx.xz
+  size: 13252
+  modified: '2014-05-12T22:51:53'
+  type: CDX
+  extension: .xz
+- name: eng.skbbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/eng.skbbank.ru/eng.skbbank.ru.7z
+  size: 11435906
+  modified: '2014-08-18T02:13:10'
+  type: ''
+  extension: .7z
+url: https://eng.skbbank.ru
+created: '2014-05-12T22:51:53'

@@ -1,0 +1,34 @@
+id: erbebank-ru
+name: erbebank.ru (2014-05-15)
+domain: erbebank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.erbebank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.erbebank.ru/www.erbebank.ru.cdx.xz
+  size: 42720
+  modified: '2014-05-15T16:53:18'
+  type: CDX
+  extension: .xz
+- name: www.erbebank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.erbebank.ru/www.erbebank.ru.warc.xz
+  size: 489721340
+  modified: '2014-05-15T16:53:18'
+  type: WARC
+  extension: .xz
+- name: www.erbebank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.erbebank.ru/www.erbebank.ru.log.xz
+  size: 60668
+  modified: '2014-05-15T16:53:18'
+  type: wpull log
+  extension: .xz
+- name: www.erbebank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.erbebank.ru/www.erbebank.ru.7z
+  size: 492024542
+  modified: '2014-08-19T07:31:25'
+  type: ''
+  extension: .7z
+url: https://erbebank.ru
+created: '2014-05-15T16:53:18'

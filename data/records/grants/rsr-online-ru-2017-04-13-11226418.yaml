@@ -1,0 +1,40 @@
+id: rsr-online-ru-2017-04-13-11226418
+name: rsr-online.ru (2017-04-13)
+domain: rsr-online.ru
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: www.rsr-online.ru-2017-04-13-11226418-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rsr-online.ru-2017-04-13-11226418/www.rsr-online.ru-2017-04-13-11226418-meta.warc.gz
+  size: 389963
+  modified: '2017-04-13T13:14:22'
+  type: WARC
+  extension: .warc.gz
+- name: www.rsr-online.ru-2017-04-13-11226418.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rsr-online.ru-2017-04-13-11226418/www.rsr-online.ru-2017-04-13-11226418.cdx
+  size: 3298983
+  modified: '2017-04-13T13:14:22'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rsr-online.ru-2017-04-13-11226418/wpull.db
+  size: 3460096
+  modified: '2017-04-13T13:14:22'
+  type: wpull database
+  extension: .db
+- name: www.rsr-online.ru-2017-04-13-11226418-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rsr-online.ru-2017-04-13-11226418/www.rsr-online.ru-2017-04-13-11226418-00000.warc.gz
+  size: 2292426559
+  modified: '2017-04-13T13:14:22'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/www.rsr-online.ru-2017-04-13-11226418/dupes_db/data.mdb
+  size: 1601536
+  modified: '2017-04-13T13:14:22'
+  type: ''
+  extension: .mdb
+url: https://rsr-online.ru
+created: '2017-04-13'

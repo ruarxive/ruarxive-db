@@ -1,0 +1,40 @@
+id: infoculture
+slug: infoculture
+name: Инфокультура
+num_records: 6
+records:
+- id: domains-txt
+  name: domains.txt (2018-02-21)
+  url: https://domains.txt
+  created: '2018-02-21T14:33:51'
+  domain: domains.txt
+- id: infoculture-ru-2018-02-21-c03e3c6d
+  name: infoculture.ru (2018-02-21)
+  url: https://infoculture.ru
+  created: '2018-02-21'
+  domain: infoculture.ru
+- id: opengovdata-ru-2018-02-21-97dc1333
+  name: opengovdata.ru (2018-02-21)
+  url: https://opengovdata.ru
+  created: '2018-02-21'
+  domain: opengovdata.ru
+- id: opengovdataru-pbworks-com-2018-02-21-0ce4fc88
+  name: opengovdataru.pbworks.com (2018-02-21)
+  url: https://opengovdataru.pbworks.com
+  created: '2018-02-21'
+  domain: opengovdataru.pbworks.com
+- id: openpolice-ru-2018-02-21-b95b33c4
+  name: openpolice.ru (2018-02-21)
+  url: https://openpolice.ru
+  created: '2018-02-21'
+  domain: openpolice.ru
+- id: plainrussian-ru-2018-02-21-a1ce310d
+  name: plainrussian.ru (2018-02-21)
+  url: https://plainrussian.ru
+  created: '2018-02-21'
+  domain: plainrussian.ru
+files:
+  total_count: 106
+  total_size: 973940750
+  directories:
+  - webcollect2017

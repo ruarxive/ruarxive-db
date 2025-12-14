@@ -1,0 +1,46 @@
+id: fipi-ru-2017-07-05-82153b90
+name: fipi.ru (2017-07-05)
+domain: fipi.ru
+collection:
+  id: education
+  slug: education
+  name: Образование
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fipi.ru-2017-07-05-82153b90/dupes_db/data.mdb
+  size: 962560
+  modified: '2017-07-05T11:53:14'
+  type: ''
+  extension: .mdb
+- name: fipi.ru-2017-07-05-82153b90.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fipi.ru-2017-07-05-82153b90/fipi.ru-2017-07-05-82153b90.cdx
+  size: 1467375
+  modified: '2017-07-05T11:53:14'
+  type: CDX
+  extension: .cdx
+- name: fipi.ru-2017-07-05-82153b90-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fipi.ru-2017-07-05-82153b90/fipi.ru-2017-07-05-82153b90-meta.warc.gz
+  size: 152623
+  modified: '2017-07-05T11:53:15'
+  type: WARC
+  extension: .warc.gz
+- name: fipi.ru-2017-07-05-82153b90-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fipi.ru-2017-07-05-82153b90/fipi.ru-2017-07-05-82153b90-00000.warc.gz
+  size: 5381580654
+  modified: '2017-07-05T10:12:15'
+  type: WARC
+  extension: .warc.gz
+- name: fipi.ru-2017-07-05-82153b90-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fipi.ru-2017-07-05-82153b90/fipi.ru-2017-07-05-82153b90-00001.warc.gz
+  size: 806329311
+  modified: '2017-07-05T11:53:14'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/education/fipi.ru-2017-07-05-82153b90/wpull.db
+  size: 1892352
+  modified: '2017-07-05T11:53:14'
+  type: wpull database
+  extension: .db
+url: https://fipi.ru
+created: '2017-07-05'

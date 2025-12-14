@@ -1,0 +1,28 @@
+id: sources-ru
+name: sources.ru (2014-08-21)
+domain: sources.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: www.sources.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.sources.ru/www.sources.ru.log.xz
+  size: 288356
+  modified: '2014-08-21T14:37:02'
+  type: wpull log
+  extension: .xz
+- name: www.sources.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.sources.ru/www.sources.ru.warc.xz
+  size: 232561184
+  modified: '2014-08-21T14:37:02'
+  type: WARC
+  extension: .xz
+- name: www.sources.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.sources.ru/www.sources.ru.cdx.xz
+  size: 523948
+  modified: '2014-08-21T14:37:02'
+  type: CDX
+  extension: .xz
+url: https://sources.ru
+created: '2014-08-21T14:37:02'

@@ -1,0 +1,13 @@
+id: psychology
+slug: psychology
+name: Психология
+created: '2022-10-10T15:06:56.000Z'
+num_records: 1
+records:
+- id: psychologies-ru
+  name: Psychologies.ru
+  url: https://www.psychologies.ru/
+  status: собран
+  status_id: collected
+  created: '2022-10-10T15:05:30.000Z'
+  domain: psychologies.ru

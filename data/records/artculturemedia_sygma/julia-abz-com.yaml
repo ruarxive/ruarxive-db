@@ -1,0 +1,28 @@
+id: julia-abz-com
+name: Юлия Абзальтдинова
+url: http://www.julia-abz.com
+domain: julia-abz.com
+created: '2022-03-29T15:43:19.000Z'
+status: собран
+status_id: collected
+resource_type: сайт портфолио
+resource_type_id: portfolio
+reason: Авторский сайт художницв и фотографа Юлии Абзальтдиновой. Внешний запрос.
+reason_id: author-site-request
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: artculturemedia_sygma
+  name: Искусство и культура
+  slug: artculturemedia_sygma
+source:
+  id: sygma
+  name: Syg.ma
+priority: низкий
+resources:
+- type: WARC
+  name: julia-abz.com.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/culture2022/julia-abz.com/julia-abz.com.warc.gz

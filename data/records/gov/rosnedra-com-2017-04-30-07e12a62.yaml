@@ -1,0 +1,40 @@
+id: rosnedra-com-2017-04-30-07e12a62
+name: rosnedra.com (2017-04-30)
+domain: rosnedra.com
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosnedra.com-2017-04-30-07e12a62/wpull.db
+  size: 47104
+  modified: '2017-04-30T07:40:41'
+  type: wpull database
+  extension: .db
+- name: www.rosnedra.com-2017-04-30-07e12a62.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosnedra.com-2017-04-30-07e12a62/www.rosnedra.com-2017-04-30-07e12a62.cdx
+  size: 38808
+  modified: '2017-04-30T07:40:41'
+  type: CDX
+  extension: .cdx
+- name: www.rosnedra.com-2017-04-30-07e12a62-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosnedra.com-2017-04-30-07e12a62/www.rosnedra.com-2017-04-30-07e12a62-00000.warc.gz
+  size: 2686046
+  modified: '2017-04-30T07:40:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.rosnedra.com-2017-04-30-07e12a62-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosnedra.com-2017-04-30-07e12a62/www.rosnedra.com-2017-04-30-07e12a62-meta.warc.gz
+  size: 8121
+  modified: '2017-04-30T07:40:41'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosnedra.com-2017-04-30-07e12a62/dupes_db/data.mdb
+  size: 61440
+  modified: '2017-04-30T07:40:41'
+  type: ''
+  extension: .mdb
+url: https://rosnedra.com
+created: '2017-04-30'

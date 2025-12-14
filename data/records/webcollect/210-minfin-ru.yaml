@@ -1,0 +1,16 @@
+id: 210-minfin-ru
+name: 210.minfin.ru.7z (2013-09-10)
+domain: 210.minfin.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: 210.minfin.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/210.minfin.ru.7z
+  size: 3860093
+  modified: '2013-09-10T06:36:05'
+  type: httrack archive
+  extension: .7z
+url: https://210.minfin.ru.7z
+created: '2013-09-10T06:36:05'

@@ -1,0 +1,28 @@
+id: cccp-tv
+name: cccp.tv (2013-12-24)
+domain: cccp.tv
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: cccp.tv.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/cccp.tv/cccp.tv.warc.xz
+  size: 30501808
+  modified: '2013-12-24T10:38:29'
+  type: WARC
+  extension: .xz
+- name: cccp.tv.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/cccp.tv/cccp.tv.cdx.xz
+  size: 146364
+  modified: '2013-12-24T10:38:36'
+  type: CDX
+  extension: .xz
+- name: cccp.tv.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/cccp.tv/cccp.tv.log.xz
+  size: 80504
+  modified: '2013-12-24T10:38:27'
+  type: wpull log
+  extension: .xz
+url: https://cccp.tv
+created: '2013-12-24T10:38:29'

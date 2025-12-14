@@ -1,0 +1,28 @@
+id: asfn-me
+name: asfn.me (2013-11-06)
+domain: asfn.me
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: asfn.me.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/asfn.me/asfn.me.warc.xz
+  size: 581030244
+  modified: '2013-11-06T15:04:59'
+  type: WARC
+  extension: .xz
+- name: asfn.me.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/asfn.me/asfn.me.log.xz
+  size: 2394876
+  modified: '2013-11-06T15:04:10'
+  type: wpull log
+  extension: .xz
+- name: asfn.me.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/asfn.me/asfn.me.cdx.xz
+  size: 4768100
+  modified: '2013-11-06T15:08:29'
+  type: CDX
+  extension: .xz
+url: https://asfn.me
+created: '2013-11-06T15:04:59'

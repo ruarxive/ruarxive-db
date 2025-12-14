@@ -1,0 +1,40 @@
+id: sci-innov-ru-2017-04-17-d263344e
+name: sci-innov.ru (2017-04-17)
+domain: sci-innov.ru
+collection:
+  id: informika
+  slug: informika
+  name: Информика
+resources:
+- name: www.sci-innov.ru-2017-04-17-d263344e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/www.sci-innov.ru-2017-04-17-d263344e/www.sci-innov.ru-2017-04-17-d263344e-00000.warc.gz
+  size: 162614387
+  modified: '2017-04-17T16:10:26'
+  type: WARC
+  extension: .warc.gz
+- name: www.sci-innov.ru-2017-04-17-d263344e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/www.sci-innov.ru-2017-04-17-d263344e/www.sci-innov.ru-2017-04-17-d263344e-meta.warc.gz
+  size: 602824
+  modified: '2017-04-17T16:10:29'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/www.sci-innov.ru-2017-04-17-d263344e/wpull.db
+  size: 6564864
+  modified: '2017-04-17T16:10:29'
+  type: wpull database
+  extension: .db
+- name: www.sci-innov.ru-2017-04-17-d263344e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/www.sci-innov.ru-2017-04-17-d263344e/www.sci-innov.ru-2017-04-17-d263344e.cdx
+  size: 6819486
+  modified: '2017-04-17T16:10:26'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/informika/www.sci-innov.ru-2017-04-17-d263344e/dupes_db/data.mdb
+  size: 3645440
+  modified: '2017-04-17T16:10:06'
+  type: ''
+  extension: .mdb
+url: https://sci-innov.ru
+created: '2017-04-17'

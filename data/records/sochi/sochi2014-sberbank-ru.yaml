@@ -1,0 +1,28 @@
+id: sochi2014-sberbank-ru
+name: sochi2014-sberbank.ru (2014-01-31)
+domain: sochi2014-sberbank.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: sochi2014-sberbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/sochi2014-sberbank.ru/sochi2014-sberbank.ru.cdx.xz
+  size: 438952
+  modified: '2014-01-31T21:34:49'
+  type: CDX
+  extension: .xz
+- name: sochi2014-sberbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/sochi2014-sberbank.ru/sochi2014-sberbank.ru.warc.xz
+  size: 81673768
+  modified: '2014-01-31T21:34:53'
+  type: WARC
+  extension: .xz
+- name: sochi2014-sberbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/sochi2014-sberbank.ru/sochi2014-sberbank.ru.log.xz
+  size: 257068
+  modified: '2014-01-31T21:35:18'
+  type: wpull log
+  extension: .xz
+url: https://sochi2014-sberbank.ru
+created: '2014-01-31T21:34:53'

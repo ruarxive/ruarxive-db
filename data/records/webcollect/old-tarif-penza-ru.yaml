@@ -1,0 +1,16 @@
+id: old-tarif-penza-ru
+name: old.tarif-penza.ru.7z (2012-10-22)
+domain: old.tarif-penza.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: old.tarif-penza.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/old.tarif-penza.ru.7z
+  size: 96579291
+  modified: '2012-10-22T10:03:42'
+  type: httrack archive
+  extension: .7z
+url: https://old.tarif-penza.ru.7z
+created: '2012-10-22T10:03:42'

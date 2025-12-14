@@ -1,0 +1,46 @@
+id: prokuratura-tomsk-gov-ru-2017-04-03-96579ffc
+name: prokuratura.tomsk.gov.ru (2017-04-03)
+domain: prokuratura.tomsk.gov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: prokuratura.tomsk.gov.ru-2017-04-03-96579ffc.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc.cdx
+  size: 11374592
+  modified: '2017-04-04T08:03:03'
+  type: CDX
+  extension: .cdx
+- name: prokuratura.tomsk.gov.ru-2017-04-03-96579ffc-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc-00000.warc.gz
+  size: 5370025167
+  modified: '2017-04-04T07:37:14'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc/wpull.db
+  size: 12905472
+  modified: '2017-04-04T08:03:04'
+  type: wpull database
+  extension: .db
+- name: prokuratura.tomsk.gov.ru-2017-04-03-96579ffc-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc-meta.warc.gz
+  size: 924677
+  modified: '2017-04-04T08:03:04'
+  type: WARC
+  extension: .warc.gz
+- name: prokuratura.tomsk.gov.ru-2017-04-03-96579ffc-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc-00001.warc.gz
+  size: 327016281
+  modified: '2017-04-04T08:03:03'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura.tomsk.gov.ru-2017-04-03-96579ffc/dupes_db/data.mdb
+  size: 5685248
+  modified: '2017-04-04T08:03:03'
+  type: ''
+  extension: .mdb
+url: https://prokuratura.tomsk.gov.ru
+created: '2017-04-03'

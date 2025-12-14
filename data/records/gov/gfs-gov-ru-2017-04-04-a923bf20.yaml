@@ -1,0 +1,40 @@
+id: gfs-gov-ru-2017-04-04-a923bf20
+name: gfs.gov.ru (2017-04-04)
+domain: gfs.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/gfs.gov.ru-2017-04-04-a923bf20/wpull.db
+  size: 5343232
+  modified: '2017-04-04T22:05:24'
+  type: wpull database
+  extension: .db
+- name: gfs.gov.ru-2017-04-04-a923bf20.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/gfs.gov.ru-2017-04-04-a923bf20/gfs.gov.ru-2017-04-04-a923bf20.cdx
+  size: 7930395
+  modified: '2017-04-04T22:05:23'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/gfs.gov.ru-2017-04-04-a923bf20/dupes_db/data.mdb
+  size: 1052672
+  modified: '2017-04-04T22:00:49'
+  type: ''
+  extension: .mdb
+- name: gfs.gov.ru-2017-04-04-a923bf20-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/gfs.gov.ru-2017-04-04-a923bf20/gfs.gov.ru-2017-04-04-a923bf20-00000.warc.gz
+  size: 186740971
+  modified: '2017-04-04T22:05:23'
+  type: WARC
+  extension: .warc.gz
+- name: gfs.gov.ru-2017-04-04-a923bf20-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/gfs.gov.ru-2017-04-04-a923bf20/gfs.gov.ru-2017-04-04-a923bf20-meta.warc.gz
+  size: 526417
+  modified: '2017-04-04T22:05:24'
+  type: WARC
+  extension: .warc.gz
+url: https://gfs.gov.ru
+created: '2017-04-04'

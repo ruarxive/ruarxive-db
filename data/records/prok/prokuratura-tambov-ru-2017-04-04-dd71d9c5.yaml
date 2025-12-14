@@ -1,0 +1,40 @@
+id: prokuratura-tambov-ru-2017-04-04-dd71d9c5
+name: prokuratura-tambov.ru (2017-04-04)
+domain: prokuratura-tambov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: prokuratura-tambov.ru-2017-04-04-dd71d9c5.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-tambov.ru-2017-04-04-dd71d9c5/prokuratura-tambov.ru-2017-04-04-dd71d9c5.cdx
+  size: 24000634
+  modified: '2017-04-04T09:10:50'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-tambov.ru-2017-04-04-dd71d9c5/dupes_db/data.mdb
+  size: 5234688
+  modified: '2017-04-04T09:10:49'
+  type: ''
+  extension: .mdb
+- name: prokuratura-tambov.ru-2017-04-04-dd71d9c5-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-tambov.ru-2017-04-04-dd71d9c5/prokuratura-tambov.ru-2017-04-04-dd71d9c5-meta.warc.gz
+  size: 1435451
+  modified: '2017-04-04T09:10:52'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-tambov.ru-2017-04-04-dd71d9c5/wpull.db
+  size: 22066176
+  modified: '2017-04-04T09:10:52'
+  type: wpull database
+  extension: .db
+- name: prokuratura-tambov.ru-2017-04-04-dd71d9c5-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/prokuratura-tambov.ru-2017-04-04-dd71d9c5/prokuratura-tambov.ru-2017-04-04-dd71d9c5-00000.warc.gz
+  size: 603019262
+  modified: '2017-04-04T09:10:50'
+  type: WARC
+  extension: .warc.gz
+url: https://prokuratura-tambov.ru
+created: '2017-04-04'

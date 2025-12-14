@@ -1,0 +1,28 @@
+id: xn--80aalwkhe-xn--p1ai
+name: xn--80aalwkhe.xn--p1ai (2014-02-05)
+domain: xn--80aalwkhe.xn--p1ai
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: xn--80aalwkhe.xn--p1ai.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/xn--80aalwkhe.xn--p1ai/xn--80aalwkhe.xn--p1ai.warc.xz
+  size: 737208848
+  modified: '2014-02-05T11:18:56'
+  type: WARC
+  extension: .xz
+- name: xn--80aalwkhe.xn--p1ai.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/xn--80aalwkhe.xn--p1ai/xn--80aalwkhe.xn--p1ai.cdx.xz
+  size: 3009812
+  modified: '2014-02-05T11:18:56'
+  type: CDX
+  extension: .xz
+- name: xn--80aalwkhe.xn--p1ai.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/xn--80aalwkhe.xn--p1ai/xn--80aalwkhe.xn--p1ai.log.xz
+  size: 1698904
+  modified: '2014-02-05T11:18:56'
+  type: wpull log
+  extension: .xz
+url: https://xn--80aalwkhe.xn--p1ai
+created: '2014-02-05T11:18:56'

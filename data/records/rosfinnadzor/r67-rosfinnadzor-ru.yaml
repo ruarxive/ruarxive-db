@@ -1,0 +1,34 @@
+id: r67-rosfinnadzor-ru
+name: r67.rosfinnadzor.ru (2016-05-05)
+domain: r67.rosfinnadzor.ru
+collection:
+  id: rosfinnadzor
+  slug: rosfinnadzor
+  name: Росфиннадзор
+resources:
+- name: r67.rosfinnadzor.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r67.rosfinnadzor.ru/r67.rosfinnadzor.ru.log
+  size: 750336
+  modified: '2016-05-05T15:37:54'
+  type: ''
+  extension: .log
+- name: r67.rosfinnadzor.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r67.rosfinnadzor.ru/r67.rosfinnadzor.ru.warc.gz
+  size: 213840776
+  modified: '2016-05-05T15:37:54'
+  type: WARC
+  extension: .warc.gz
+- name: r67.rosfinnadzor.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r67.rosfinnadzor.ru/r67.rosfinnadzor.ru.cdx
+  size: 224175
+  modified: '2016-05-05T15:37:54'
+  type: CDX
+  extension: .cdx
+- name: r67.rosfinnadzor.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/rosfinnadzor/r67.rosfinnadzor.ru/r67.rosfinnadzor.ru.7z
+  size: 196870446
+  modified: '2016-05-06T20:45:04'
+  type: ''
+  extension: .7z
+url: https://r67.rosfinnadzor.ru
+created: '2016-05-05T15:37:54'

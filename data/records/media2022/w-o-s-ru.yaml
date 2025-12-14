@@ -1,0 +1,30 @@
+id: w-o-s-ru
+name: ВОС
+url: https://w-o-s.ru
+domain: w-o-s.ru
+created: '2022-03-05T08:55:25.000Z'
+date: '2022-03-05T08:59:00.000Z'
+status: собран
+status_id: collected
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Проект был закрыт ещё в 2016 году
+reason_id: proekt-byl-zakryt-eschyo
+reason_url: https://w-o-s.ru/article/21032
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: media2022
+  name: Онлайн медиа 2022
+  slug: media2022
+source:
+  id: community
+  name: Сообщество
+priority: средний
+resources:
+- type: WARC
+  name: w-o-s.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2022/media2022/w-o-s.ru/w-o-s.ru.warc.gz

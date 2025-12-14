@@ -1,0 +1,59 @@
+id: data-gov-ru-20250715
+name: data.gov.ru (2025-07-15)
+domain: data.gov.ru
+url: https://data.gov.ru
+created: '2025-07-15'
+date: '2025-07-15'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: datagovru_acts.parquet
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-07-15/datagovru_acts.parquet
+  size: 34222
+  modified: '2025-07-15T05:16:51'
+  type: ''
+  extension: .parquet
+- name: datagovru_acts_files.zip
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-07-15/datagovru_acts_files.zip
+  size: 80306754
+  modified: '2025-07-15T05:17:46'
+  type: ''
+  extension: .zip
+- name: datagovru_datasets.parquet
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-07-15/datagovru_datasets.parquet
+  size: 1314276
+  modified: '2025-07-15T05:19:04'
+  type: ''
+  extension: .parquet
+- name: datagovru_datasets_files.zip
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-07-15/datagovru_datasets_files.zip
+  size: 107347464
+  modified: '2025-07-15T05:22:17'
+  type: ''
+  extension: .zip
+- name: datagovru_news.parquet
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-07-15/datagovru_news.parquet
+  size: 726975
+  modified: '2025-07-15T08:41:44'
+  type: ''
+  extension: .parquet
+- name: datagovru_orgs.parquet
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-07-15/datagovru_orgs.parquet
+  size: 215829
+  modified: '2025-07-15T04:25:40'
+  type: ''
+  extension: .parquet
+- name: detected_dataclasses.csv
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-07-15/detected_dataclasses.csv
+  size: 924
+  modified: '2025-07-18T11:22:47'
+  type: ''
+  extension: .csv
+- name: meta.zip
+  url: https://cdn.ruarxive.org/public/dataportals/data.gov.ru/2025-07-15/meta.zip
+  size: 3702676
+  modified: '2025-07-18T11:22:13'
+  type: ''
+  extension: .zip

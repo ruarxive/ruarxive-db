@@ -1,0 +1,40 @@
+id: reglament-council-gov-ru-2017-05-09-5a9d6bd1
+name: reglament.council.gov.ru (2017-05-09)
+domain: reglament.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: reglament.council.gov.ru-2017-05-09-5a9d6bd1.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/reglament.council.gov.ru-2017-05-09-5a9d6bd1/reglament.council.gov.ru-2017-05-09-5a9d6bd1.cdx
+  size: 110411
+  modified: '2017-05-09T20:22:55'
+  type: CDX
+  extension: .cdx
+- name: reglament.council.gov.ru-2017-05-09-5a9d6bd1-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/reglament.council.gov.ru-2017-05-09-5a9d6bd1/reglament.council.gov.ru-2017-05-09-5a9d6bd1-00000.warc.gz
+  size: 7507957
+  modified: '2017-05-09T20:22:55'
+  type: WARC
+  extension: .warc.gz
+- name: reglament.council.gov.ru-2017-05-09-5a9d6bd1-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/reglament.council.gov.ru-2017-05-09-5a9d6bd1/reglament.council.gov.ru-2017-05-09-5a9d6bd1-meta.warc.gz
+  size: 20464
+  modified: '2017-05-09T20:22:55'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/reglament.council.gov.ru-2017-05-09-5a9d6bd1/wpull.db
+  size: 128000
+  modified: '2017-05-09T20:22:55'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/reglament.council.gov.ru-2017-05-09-5a9d6bd1/dupes_db/data.mdb
+  size: 90112
+  modified: '2017-05-09T20:22:55'
+  type: ''
+  extension: .mdb
+url: https://reglament.council.gov.ru
+created: '2017-05-09'

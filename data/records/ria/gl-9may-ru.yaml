@@ -1,0 +1,28 @@
+id: gl-9may-ru
+name: gl.9may.ru (2013-12-10)
+domain: gl.9may.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: gl.9may.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/gl.9may.ru/gl.9may.ru.cdx.xz
+  size: 393140
+  modified: '2013-12-10T14:58:44'
+  type: CDX
+  extension: .xz
+- name: gl.9may.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/gl.9may.ru/gl.9may.ru.warc.xz
+  size: 58346092
+  modified: '2013-12-10T14:58:46'
+  type: WARC
+  extension: .xz
+- name: gl.9may.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/gl.9may.ru/gl.9may.ru.log.xz
+  size: 102412
+  modified: '2013-12-10T14:58:42'
+  type: wpull log
+  extension: .xz
+url: https://gl.9may.ru
+created: '2013-12-10T14:58:46'

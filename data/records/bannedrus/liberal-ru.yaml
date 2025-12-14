@@ -1,0 +1,28 @@
+id: liberal-ru
+name: liberal.ru (2015-05-27)
+domain: liberal.ru
+collection:
+  id: bannedrus
+  slug: bannedrus
+  name: Заблокированные сайты
+resources:
+- name: www.liberal.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/www.liberal.ru/www.liberal.ru.log
+  size: 11760783
+  modified: '2015-05-27T17:16:53'
+  type: ''
+  extension: .log
+- name: www.liberal.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/www.liberal.ru/www.liberal.ru.7z
+  size: 428848157
+  modified: '2015-05-29T21:49:06'
+  type: ''
+  extension: .7z
+- name: www.liberal.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/bannedrus/www.liberal.ru/www.liberal.ru.cdx
+  size: 5654215
+  modified: '2015-05-27T17:16:53'
+  type: CDX
+  extension: .cdx
+url: https://liberal.ru
+created: '2015-05-27T17:16:53'

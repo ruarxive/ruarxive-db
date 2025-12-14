@@ -1,0 +1,34 @@
+id: kurgan-arbitr-ru
+name: kurgan.arbitr.ru (2014-08-03)
+domain: kurgan.arbitr.ru
+collection:
+  id: arbitr
+  slug: arbitr
+  name: Арбитражный суд
+resources:
+- name: kurgan.arbitr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kurgan.arbitr.ru/kurgan.arbitr.ru.7z
+  size: 14490915
+  modified: '2014-08-08T19:22:45'
+  type: ''
+  extension: .7z
+- name: kurgan.arbitr.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kurgan.arbitr.ru/kurgan.arbitr.ru.log.xz
+  size: 28252
+  modified: '2014-08-03T03:00:30'
+  type: wpull log
+  extension: .xz
+- name: kurgan.arbitr.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kurgan.arbitr.ru/kurgan.arbitr.ru.cdx.xz
+  size: 54580
+  modified: '2014-08-03T03:00:30'
+  type: CDX
+  extension: .xz
+- name: kurgan.arbitr.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/arbitr/kurgan.arbitr.ru/kurgan.arbitr.ru.warc.xz
+  size: 14702608
+  modified: '2014-08-03T03:00:30'
+  type: WARC
+  extension: .xz
+url: https://kurgan.arbitr.ru
+created: '2014-08-03T03:00:30'

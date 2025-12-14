@@ -1,0 +1,34 @@
+id: fskn-gov12-ru
+name: fskn.gov12.ru (2016-06-07)
+domain: fskn.gov12.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: fskn.gov12.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn.gov12.ru/fskn.gov12.ru.warc.gz
+  size: 209440345
+  modified: '2016-06-07T09:31:06'
+  type: WARC
+  extension: .warc.gz
+- name: fskn.gov12.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn.gov12.ru/fskn.gov12.ru.log
+  size: 34071954
+  modified: '2016-06-07T09:31:04'
+  type: ''
+  extension: .log
+- name: fskn.gov12.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn.gov12.ru/fskn.gov12.ru.cdx
+  size: 20150103
+  modified: '2016-06-07T09:31:04'
+  type: CDX
+  extension: .cdx
+- name: fskn.gov12.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn.gov12.ru/fskn.gov12.ru.7z
+  size: 31688101
+  modified: '2016-09-23T21:52:56'
+  type: ''
+  extension: .7z
+url: https://fskn.gov12.ru
+created: '2016-06-07T09:31:06'

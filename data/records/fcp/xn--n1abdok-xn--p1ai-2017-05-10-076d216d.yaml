@@ -1,0 +1,40 @@
+id: xn--n1abdok-xn--p1ai-2017-05-10-076d216d
+name: xn--n1abdok.xn--p1ai (2017-05-10)
+domain: xn--n1abdok.xn--p1ai
+collection:
+  id: fcp
+  slug: fcp
+  name: Федеральные целевые программы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/xn--n1abdok.xn--p1ai-2017-05-10-076d216d/dupes_db/data.mdb
+  size: 253952
+  modified: '2017-05-10T08:54:08'
+  type: ''
+  extension: .mdb
+- name: xn--n1abdok.xn--p1ai-2017-05-10-076d216d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/xn--n1abdok.xn--p1ai-2017-05-10-076d216d/xn--n1abdok.xn--p1ai-2017-05-10-076d216d-00000.warc.gz
+  size: 103208662
+  modified: '2017-05-10T08:54:09'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/xn--n1abdok.xn--p1ai-2017-05-10-076d216d/wpull.db
+  size: 728064
+  modified: '2017-05-10T08:54:09'
+  type: wpull database
+  extension: .db
+- name: xn--n1abdok.xn--p1ai-2017-05-10-076d216d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/xn--n1abdok.xn--p1ai-2017-05-10-076d216d/xn--n1abdok.xn--p1ai-2017-05-10-076d216d-meta.warc.gz
+  size: 77545
+  modified: '2017-05-10T08:54:09'
+  type: WARC
+  extension: .warc.gz
+- name: xn--n1abdok.xn--p1ai-2017-05-10-076d216d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fcp/xn--n1abdok.xn--p1ai-2017-05-10-076d216d/xn--n1abdok.xn--p1ai-2017-05-10-076d216d.cdx
+  size: 640791
+  modified: '2017-05-10T08:54:09'
+  type: CDX
+  extension: .cdx
+url: https://xn--n1abdok.xn--p1ai
+created: '2017-05-10'

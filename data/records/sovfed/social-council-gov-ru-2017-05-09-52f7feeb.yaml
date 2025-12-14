@@ -1,0 +1,40 @@
+id: social-council-gov-ru-2017-05-09-52f7feeb
+name: social.council.gov.ru (2017-05-09)
+domain: social.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: social.council.gov.ru-2017-05-09-52f7feeb-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/social.council.gov.ru-2017-05-09-52f7feeb/social.council.gov.ru-2017-05-09-52f7feeb-meta.warc.gz
+  size: 14171
+  modified: '2017-05-09T20:22:29'
+  type: WARC
+  extension: .warc.gz
+- name: social.council.gov.ru-2017-05-09-52f7feeb-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/social.council.gov.ru-2017-05-09-52f7feeb/social.council.gov.ru-2017-05-09-52f7feeb-00000.warc.gz
+  size: 3824800
+  modified: '2017-05-09T20:22:29'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/social.council.gov.ru-2017-05-09-52f7feeb/wpull.db
+  size: 82944
+  modified: '2017-05-09T20:22:29'
+  type: wpull database
+  extension: .db
+- name: social.council.gov.ru-2017-05-09-52f7feeb.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/social.council.gov.ru-2017-05-09-52f7feeb/social.council.gov.ru-2017-05-09-52f7feeb.cdx
+  size: 66587
+  modified: '2017-05-09T20:22:29'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/social.council.gov.ru-2017-05-09-52f7feeb/dupes_db/data.mdb
+  size: 77824
+  modified: '2017-05-09T20:22:29'
+  type: ''
+  extension: .mdb
+url: https://social.council.gov.ru
+created: '2017-05-09'

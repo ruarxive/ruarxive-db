@@ -1,0 +1,40 @@
+id: dit-mos-ru-2017-08-20-6c9d931d
+name: dit.mos.ru (2017-08-20)
+domain: dit.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dit.mos.ru-2017-08-20-6c9d931d/wpull.db
+  size: 161792
+  modified: '2017-08-20T16:28:16'
+  type: wpull database
+  extension: .db
+- name: dit.mos.ru-2017-08-20-6c9d931d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dit.mos.ru-2017-08-20-6c9d931d/dit.mos.ru-2017-08-20-6c9d931d-00000.warc.gz
+  size: 1684837
+  modified: '2017-08-20T16:28:15'
+  type: WARC
+  extension: .warc.gz
+- name: dit.mos.ru-2017-08-20-6c9d931d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dit.mos.ru-2017-08-20-6c9d931d/dit.mos.ru-2017-08-20-6c9d931d-meta.warc.gz
+  size: 19453
+  modified: '2017-08-20T16:28:16'
+  type: WARC
+  extension: .warc.gz
+- name: dit.mos.ru-2017-08-20-6c9d931d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dit.mos.ru-2017-08-20-6c9d931d/dit.mos.ru-2017-08-20-6c9d931d.cdx
+  size: 138819
+  modified: '2017-08-20T16:28:15'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dit.mos.ru-2017-08-20-6c9d931d/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-08-20T16:28:10'
+  type: ''
+  extension: .mdb
+url: https://dit.mos.ru
+created: '2017-08-20'

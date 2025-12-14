@@ -1,0 +1,40 @@
+id: procuror-osetia-ru-2017-04-03-f05b0378
+name: procuror-osetia.ru (2017-04-03)
+domain: procuror-osetia.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.procuror-osetia.ru-2017-04-03-f05b0378-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procuror-osetia.ru-2017-04-03-f05b0378/www.procuror-osetia.ru-2017-04-03-f05b0378-00000.warc.gz
+  size: 578351650
+  modified: '2017-04-04T04:35:47'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procuror-osetia.ru-2017-04-03-f05b0378/wpull.db
+  size: 21399552
+  modified: '2017-04-04T04:35:49'
+  type: wpull database
+  extension: .db
+- name: www.procuror-osetia.ru-2017-04-03-f05b0378-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procuror-osetia.ru-2017-04-03-f05b0378/www.procuror-osetia.ru-2017-04-03-f05b0378-meta.warc.gz
+  size: 1713167
+  modified: '2017-04-04T04:35:49'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procuror-osetia.ru-2017-04-03-f05b0378/dupes_db/data.mdb
+  size: 12238848
+  modified: '2017-04-04T04:35:46'
+  type: ''
+  extension: .mdb
+- name: www.procuror-osetia.ru-2017-04-03-f05b0378.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procuror-osetia.ru-2017-04-03-f05b0378/www.procuror-osetia.ru-2017-04-03-f05b0378.cdx
+  size: 24681894
+  modified: '2017-04-04T04:35:47'
+  type: CDX
+  extension: .cdx
+url: https://procuror-osetia.ru
+created: '2017-04-03'

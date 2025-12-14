@@ -1,0 +1,34 @@
+id: g20australia-org
+name: g20australia.org (2016-05-08)
+domain: g20australia.org
+collection:
+  id: events
+  slug: events
+  name: События
+resources:
+- name: g20australia.org.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/g20australia.org/g20australia.org.log.xz
+  size: 299768
+  modified: '2016-05-08T13:34:51'
+  type: wpull log
+  extension: .xz
+- name: g20australia.org.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/g20australia.org/g20australia.org.warc.xz
+  size: 398379320
+  modified: '2016-05-08T13:34:51'
+  type: WARC
+  extension: .xz
+- name: g20australia.org.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/events/g20australia.org/g20australia.org.cdx.xz
+  size: 436712
+  modified: '2016-05-08T13:34:51'
+  type: CDX
+  extension: .xz
+- name: g20australia.org.7z
+  url: https://cdn.ruarxive.org/public/webcollect/events/g20australia.org/g20australia.org.7z
+  size: 198677571
+  modified: '2016-05-20T14:01:56'
+  type: ''
+  extension: .7z
+url: https://g20australia.org
+created: '2016-05-08T13:34:51'

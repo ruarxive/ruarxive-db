@@ -1,0 +1,40 @@
+id: inrussia-com-2017-08-02-3fbf5dc4
+name: inrussia.com (2017-08-02)
+domain: inrussia.com
+collection:
+  id: media
+  slug: media
+  name: Онлайн СМИ
+resources:
+- name: inrussia.com-2017-08-02-3fbf5dc4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/inrussia.com-2017-08-02-3fbf5dc4/inrussia.com-2017-08-02-3fbf5dc4.cdx
+  size: 2188106
+  modified: '2017-08-02T14:38:57'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/inrussia.com-2017-08-02-3fbf5dc4/dupes_db/data.mdb
+  size: 1716224
+  modified: '2017-08-02T14:38:57'
+  type: ''
+  extension: .mdb
+- name: inrussia.com-2017-08-02-3fbf5dc4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/inrussia.com-2017-08-02-3fbf5dc4/inrussia.com-2017-08-02-3fbf5dc4-meta.warc.gz
+  size: 486971
+  modified: '2017-08-02T14:38:58'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/inrussia.com-2017-08-02-3fbf5dc4/wpull.db
+  size: 3538944
+  modified: '2017-08-02T14:38:57'
+  type: wpull database
+  extension: .db
+- name: inrussia.com-2017-08-02-3fbf5dc4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/media/inrussia.com-2017-08-02-3fbf5dc4/inrussia.com-2017-08-02-3fbf5dc4-00000.warc.gz
+  size: 1119170613
+  modified: '2017-08-02T14:38:57'
+  type: WARC
+  extension: .warc.gz
+url: https://inrussia.com
+created: '2017-08-02'

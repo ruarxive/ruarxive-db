@@ -1,0 +1,34 @@
+id: tetrapolis-spb-ru
+name: tetrapolis.spb.ru (2014-05-15)
+domain: tetrapolis.spb.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.tetrapolis.spb.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tetrapolis.spb.ru/www.tetrapolis.spb.ru.cdx.xz
+  size: 65432
+  modified: '2014-05-15T07:35:10'
+  type: CDX
+  extension: .xz
+- name: www.tetrapolis.spb.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tetrapolis.spb.ru/www.tetrapolis.spb.ru.7z
+  size: 24914618
+  modified: '2014-08-20T13:00:16'
+  type: ''
+  extension: .7z
+- name: www.tetrapolis.spb.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tetrapolis.spb.ru/www.tetrapolis.spb.ru.warc.xz
+  size: 24945400
+  modified: '2014-05-15T07:35:10'
+  type: WARC
+  extension: .xz
+- name: www.tetrapolis.spb.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tetrapolis.spb.ru/www.tetrapolis.spb.ru.log.xz
+  size: 39660
+  modified: '2014-05-15T07:35:10'
+  type: wpull log
+  extension: .xz
+url: https://tetrapolis.spb.ru
+created: '2014-05-15T07:35:10'

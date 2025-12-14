@@ -1,0 +1,115 @@
+id: sovfed
+slug: sovfed
+name: Совет Федерации
+num_records: 21
+records:
+- id: agrarian-council-gov-ru-2017-05-09-4f0c19a9
+  name: agrarian.council.gov.ru (2017-05-09)
+  url: https://agrarian.council.gov.ru
+  created: '2017-05-09'
+  domain: agrarian.council.gov.ru
+- id: archiv-council-gov-ru-2017-05-09-045a7372
+  name: archiv.council.gov.ru (2017-05-09)
+  url: https://archiv.council.gov.ru
+  created: '2017-05-09'
+  domain: archiv.council.gov.ru
+- id: archive-council-gov-ru-2017-05-09-8dc0cdb3
+  name: archive.council.gov.ru (2017-05-09)
+  url: https://archive.council.gov.ru
+  created: '2017-05-09'
+  domain: archive.council.gov.ru
+- id: budget-council-gov-ru-2017-05-09-a961b1a0
+  name: budget.council.gov.ru (2017-05-09)
+  url: https://budget.council.gov.ru
+  created: '2017-05-09'
+  domain: budget.council.gov.ru
+- id: bushmin-council-gov-ru-2017-05-09-3deef711
+  name: bushmin.council.gov.ru (2017-05-09)
+  url: https://bushmin.council.gov.ru
+  created: '2017-05-09'
+  domain: bushmin.council.gov.ru
+- id: council-gov-ru-2017-05-09-8a73ca84
+  name: council.gov.ru (2017-05-09)
+  url: https://council.gov.ru
+  created: '2017-05-09'
+  domain: council.gov.ru
+- id: defence-council-gov-ru-2017-05-09-a4812a82
+  name: defence.council.gov.ru (2017-05-09)
+  url: https://defence.council.gov.ru
+  created: '2017-05-09'
+  domain: defence.council.gov.ru
+- id: economy-council-gov-ru-2017-05-09-68edc622
+  name: economy.council.gov.ru (2017-05-09)
+  url: https://economy.council.gov.ru
+  created: '2017-05-09'
+  domain: economy.council.gov.ru
+- id: fedorov-council-gov-ru-2017-05-09-d7479728
+  name: fedorov.council.gov.ru (2017-05-09)
+  url: https://fedorov.council.gov.ru
+  created: '2017-05-09'
+  domain: fedorov.council.gov.ru
+- id: international-council-gov-ru-2017-05-09-78347573
+  name: international.council.gov.ru (2017-05-09)
+  url: https://international.council.gov.ru
+  created: '2017-05-09'
+  domain: international.council.gov.ru
+- id: karelova-council-gov-ru-2017-05-09-1207afda
+  name: karelova.council.gov.ru (2017-05-09)
+  url: https://karelova.council.gov.ru
+  created: '2017-05-09'
+  domain: karelova.council.gov.ru
+- id: legislation-council-gov-ru-2017-05-09-8bb2fa61
+  name: legislation.council.gov.ru (2017-05-09)
+  url: https://legislation.council.gov.ru
+  created: '2017-05-09'
+  domain: legislation.council.gov.ru
+- id: mobile-council-gov-ru-2017-05-09-e65149b9
+  name: mobile.council.gov.ru (2017-05-09)
+  url: https://mobile.council.gov.ru
+  created: '2017-05-09'
+  domain: mobile.council.gov.ru
+- id: pisma-council-gov-ru-2017-05-09-aa26946b
+  name: pisma.council.gov.ru (2017-05-09)
+  url: https://pisma.council.gov.ru
+  created: '2017-05-09'
+  domain: pisma.council.gov.ru
+- id: region-council-gov-ru-2017-05-09-973db3c0
+  name: region.council.gov.ru (2017-05-09)
+  url: https://region.council.gov.ru
+  created: '2017-05-09'
+  domain: region.council.gov.ru
+- id: reglament-council-gov-ru-2017-05-09-5a9d6bd1
+  name: reglament.council.gov.ru (2017-05-09)
+  url: https://reglament.council.gov.ru
+  created: '2017-05-09'
+  domain: reglament.council.gov.ru
+- id: science-council-gov-ru-2017-05-09-d9c11587
+  name: science.council.gov.ru (2017-05-09)
+  url: https://science.council.gov.ru
+  created: '2017-05-09'
+  domain: science.council.gov.ru
+- id: services-council-gov-ru-2017-05-09-67618120
+  name: services.council.gov.ru (2017-05-09)
+  url: https://services.council.gov.ru
+  created: '2017-05-09'
+  domain: services.council.gov.ru
+- id: social-council-gov-ru-2017-05-09-52f7feeb
+  name: social.council.gov.ru (2017-05-09)
+  url: https://social.council.gov.ru
+  created: '2017-05-09'
+  domain: social.council.gov.ru
+- id: umahanov-council-gov-ru-2017-05-09-8598d7a9
+  name: umahanov.council.gov.ru (2017-05-09)
+  url: https://umahanov.council.gov.ru
+  created: '2017-05-09'
+  domain: umahanov.council.gov.ru
+- id: vorobyov-council-gov-ru-2017-05-09-40cd3127
+  name: vorobyov.council.gov.ru (2017-05-09)
+  url: https://vorobyov.council.gov.ru
+  created: '2017-05-09'
+  domain: vorobyov.council.gov.ru
+files:
+  total_count: 445
+  total_size: 7632705535
+  directories:
+  - webcollect2017

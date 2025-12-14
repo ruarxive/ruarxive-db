@@ -1,0 +1,28 @@
+id: ivan-melnikov-ru
+name: ivan-melnikov.ru (2013-09-20)
+domain: ivan-melnikov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: ivan-melnikov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ivan-melnikov.ru/ivan-melnikov.ru.log.xz
+  size: 10360
+  modified: '2013-09-20T08:01:54'
+  type: wpull log
+  extension: .xz
+- name: ivan-melnikov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ivan-melnikov.ru/ivan-melnikov.ru.warc.xz
+  size: 4087452
+  modified: '2013-09-20T08:01:52'
+  type: WARC
+  extension: .xz
+- name: ivan-melnikov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/ivan-melnikov.ru/ivan-melnikov.ru.cdx.xz
+  size: 12676
+  modified: '2013-09-20T08:01:53'
+  type: CDX
+  extension: .xz
+url: https://ivan-melnikov.ru
+created: '2013-09-20T08:01:52'

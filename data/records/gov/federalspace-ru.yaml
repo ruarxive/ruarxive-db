@@ -1,0 +1,34 @@
+id: federalspace-ru
+name: federalspace.ru (2016-05-16)
+domain: federalspace.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.federalspace.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.federalspace.ru/www.federalspace.ru.cdx
+  size: 17576738
+  modified: '2016-05-16T14:41:58'
+  type: CDX
+  extension: .cdx
+- name: www.federalspace.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.federalspace.ru/www.federalspace.ru.7z
+  size: 5975129597
+  modified: '2016-05-20T16:17:44'
+  type: ''
+  extension: .7z
+- name: www.federalspace.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.federalspace.ru/www.federalspace.ru.log.xz
+  size: 2275608
+  modified: '2016-05-16T14:41:59'
+  type: wpull log
+  extension: .xz
+- name: www.federalspace.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.federalspace.ru/www.federalspace.ru.warc.xz
+  size: 5923271212
+  modified: '2016-05-16T14:41:59'
+  type: WARC
+  extension: .xz
+url: https://federalspace.ru
+created: '2016-05-16T14:41:59'

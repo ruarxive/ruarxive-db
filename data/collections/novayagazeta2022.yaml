@@ -1,0 +1,185 @@
+id: novayagazeta2022
+slug: novayagazeta2022
+name: Новая Газета 2022
+created: '2022-03-04T05:23:25.000Z'
+description: Сайт и другие онлайн ресурсы Новой Газеты
+collection_type: единовременная
+collection_date: '2022-03-04'
+reason: Высокая вероятность блокировки в России и иных мер после предупреждения Роскомнадзора
+  в начале марта 2022 года.
+num_records: 25
+records:
+- id: 228-novayagazeta-ru
+  name: '228'
+  url: https://228.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:03.000Z'
+  domain: 228.novayagazeta.ru
+- id: 25-novayagazeta-ru
+  name: Последние императоры
+  url: https://25.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: 25.novayagazeta.ru
+- id: 3000-novayagazeta-ru
+  name: История России на первых полосах Новой Газеты
+  url: https://3000.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: 3000.novayagazeta.ru
+- id: 33771-novayagazeta-ru
+  name: Бабий Яр 80
+  url: https://33771.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: 33771.novayagazeta.ru
+- id: chechnyagate-novayagazeta-ru
+  name: Принятие
+  url: https://chechnyagate.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: chechnyagate.novayagazeta.ru
+- id: citizen-novayagazeta-ru
+  name: Гражданин, пройдёмте!
+  url: https://citizen.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: citizen.novayagazeta.ru
+- id: domnikov-novayagazeta-ru
+  name: Игорь Александрович Домников
+  url: https://domnikov.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: domnikov.novayagazeta.ru
+- id: duma-novayagazeta-ru
+  name: Депутатская энциклопедия
+  url: https://duma.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: duma.novayagazeta.ru
+- id: election-novayagazeta-ru
+  name: Выборы в России 2021
+  url: https://election.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: election.novayagazeta.ru
+- id: gaz-novayagazeta-ru
+  name: Углеводородина
+  url: https://gaz.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: gaz.novayagazeta.ru
+- id: gogol2018-novayagazeta-ru
+  name: Непрезиденты
+  url: https://gogol2018.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: gogol2018.novayagazeta.ru
+- id: goszakaz-novayagazeta-ru
+  name: Госзаказ и тайные холдинги
+  url: https://goszakaz.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: goszakaz.novayagazeta.ru
+- id: hk-novayagazeta-ru
+  name: Сигнал Дождь идёт
+  url: https://hk.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: hk.novayagazeta.ru
+- id: kafka-novayagazeta-ru
+  name: Кафка-кодекс
+  url: https://kafka.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: kafka.novayagazeta.ru
+- id: kniga-novayagazeta-ru
+  name: Как меня убивали
+  url: https://kniga.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: kniga.novayagazeta.ru
+- id: krug-novayagazeta-ru
+  name: Офшоры. Вскрытие
+  url: https://krug.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: krug.novayagazeta.ru
+- id: letters-novayagazeta-ru
+  name: Я живой. Письма усыновлённых войной
+  url: https://letters.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: letters.novayagazeta.ru
+- id: novayagazeta-ru
+  name: Сайт Новой Газеты
+  url: https://novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T05:21:30.000Z'
+  domain: novayagazeta.ru
+- id: politkovskaya-novayagazeta-ru
+  name: Анна Степановна Политковская
+  url: https://politkovskaya.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: politkovskaya.novayagazeta.ru
+- id: shop-novayagazeta-ru
+  name: Магазин Новой Газеты
+  url: https://shop.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: shop.novayagazeta.ru
+- id: sortiry-novayagazeta-ru
+  name: Поуши
+  url: https://sortiry.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: sortiry.novayagazeta.ru
+- id: spec-novayagazeta-ru
+  name: Специальные проекты «Новой газеты»
+  url: https://spec.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: spec.novayagazeta.ru
+- id: t-me-6
+  name: Телеграм Канал Новой Газеты
+  status: собран
+  status_id: collected
+  created: '2022-03-04T05:21:20.000Z'
+  domain: t.me
+- id: vmeste-c-novayagazeta-ru
+  name: Вместе с. Спецпроект Новой газеты
+  url: https://vmeste-c.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: vmeste-c.novayagazeta.ru
+- id: war-novayagazeta-ru
+  name: Наш бессмертный взвод
+  url: https://war.novayagazeta.ru
+  status: собран
+  status_id: collected
+  created: '2022-03-04T16:49:06.000Z'
+  domain: war.novayagazeta.ru

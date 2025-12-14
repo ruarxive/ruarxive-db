@@ -1,0 +1,25 @@
+id: blago-ru
+name: Благо.ру
+url: https://blago.ru
+domain: blago.ru
+created: '2022-03-25T07:16:47.000Z'
+date: '2022-03-25T07:18:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: сайт проекта
+resource_type_id: project-site
+reason: Внесение организации в реестр иностранных агентов
+reason_id: foreign-agent-designation
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: ngo2022
+  name: НКО 2022
+  slug: ngo2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий

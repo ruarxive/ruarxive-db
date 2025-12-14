@@ -1,0 +1,28 @@
+id: dio-region-kostroma-net
+name: dio.region.kostroma.net (2013-10-04)
+domain: dio.region.kostroma.net
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.dio.region.kostroma.net.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.dio.region.kostroma.net/www.dio.region.kostroma.net.cdx.xz
+  size: 141716
+  modified: '2013-10-04T06:17:39'
+  type: CDX
+  extension: .xz
+- name: www.dio.region.kostroma.net.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.dio.region.kostroma.net/www.dio.region.kostroma.net.warc.xz
+  size: 60464748
+  modified: '2013-10-04T06:17:41'
+  type: WARC
+  extension: .xz
+- name: www.dio.region.kostroma.net.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.dio.region.kostroma.net/www.dio.region.kostroma.net.log.xz
+  size: 86912
+  modified: '2013-10-04T06:17:38'
+  type: wpull log
+  extension: .xz
+url: https://dio.region.kostroma.net
+created: '2013-10-04T06:17:41'

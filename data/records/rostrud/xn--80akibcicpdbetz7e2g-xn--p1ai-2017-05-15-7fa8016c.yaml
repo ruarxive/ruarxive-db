@@ -1,0 +1,40 @@
+id: xn--80akibcicpdbetz7e2g-xn--p1ai-2017-05-15-7fa8016c
+name: xn--80akibcicpdbetz7e2g.xn--p1ai (2017-05-15)
+domain: xn--80akibcicpdbetz7e2g.xn--p1ai
+collection:
+  id: rostrud
+  slug: rostrud
+  name: Роструд
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c/wpull.db
+  size: 472064
+  modified: '2017-05-15T08:22:44'
+  type: wpull database
+  extension: .db
+- name: xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c/xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c-meta.warc.gz
+  size: 54581
+  modified: '2017-05-15T08:22:45'
+  type: WARC
+  extension: .warc.gz
+- name: xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c/xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c.cdx
+  size: 471590
+  modified: '2017-05-15T08:22:44'
+  type: CDX
+  extension: .cdx
+- name: xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c/xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c-00000.warc.gz
+  size: 66748446
+  modified: '2017-05-15T08:22:44'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rostrud/xn--80akibcicpdbetz7e2g.xn--p1ai-2017-05-15-7fa8016c/dupes_db/data.mdb
+  size: 212992
+  modified: '2017-05-15T08:22:44'
+  type: ''
+  extension: .mdb
+url: https://xn--80akibcicpdbetz7e2g.xn--p1ai
+created: '2017-05-15'

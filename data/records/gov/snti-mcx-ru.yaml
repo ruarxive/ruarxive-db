@@ -1,0 +1,28 @@
+id: snti-mcx-ru
+name: snti.mcx.ru (2013-11-04)
+domain: snti.mcx.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: snti.mcx.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/snti.mcx.ru/snti.mcx.ru.cdx.xz
+  size: 2144
+  modified: '2013-11-04T12:53:56'
+  type: CDX
+  extension: .xz
+- name: snti.mcx.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/snti.mcx.ru/snti.mcx.ru.warc.xz
+  size: 132444
+  modified: '2013-11-04T12:53:56'
+  type: WARC
+  extension: .xz
+- name: snti.mcx.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/snti.mcx.ru/snti.mcx.ru.log.xz
+  size: 1728
+  modified: '2013-11-04T12:53:56'
+  type: wpull log
+  extension: .xz
+url: https://snti.mcx.ru
+created: '2013-11-04T12:53:56'

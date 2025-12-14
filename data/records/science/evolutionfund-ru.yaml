@@ -1,0 +1,25 @@
+id: evolutionfund-ru
+name: Сайт Фонда Эволюция
+url: https://evolutionfund.ru
+domain: evolutionfund.ru
+created: '2022-04-05T03:12:17.000Z'
+date: '2022-04-05T07:43:00.000Z'
+status: собирается
+status_id: collecting
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: На начало апреля 2022 года сайт не обновлялся более 2-х лет
+reason_id: not-updated-3
+strategy: стандартная веб архивация
+tools:
+- wpull
+format: warc
+format_id: warc
+collection:
+  id: science
+  name: Наука
+  slug: science
+source:
+  id: community
+  name: Сообщество
+priority: высокий

@@ -1,0 +1,40 @@
+id: hts-memo-ru-2017-06-15-a09ae14f
+name: hts.memo.ru (2017-06-15)
+domain: hts.memo.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: hts.memo.ru-2017-06-15-a09ae14f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/hts.memo.ru-2017-06-15-a09ae14f/hts.memo.ru-2017-06-15-a09ae14f-meta.warc.gz
+  size: 36118
+  modified: '2017-06-15T13:56:03'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/hts.memo.ru-2017-06-15-a09ae14f/wpull.db
+  size: 274432
+  modified: '2017-06-15T13:56:03'
+  type: wpull database
+  extension: .db
+- name: hts.memo.ru-2017-06-15-a09ae14f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/hts.memo.ru-2017-06-15-a09ae14f/hts.memo.ru-2017-06-15-a09ae14f-00000.warc.gz
+  size: 8558514
+  modified: '2017-06-15T13:56:04'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/hts.memo.ru-2017-06-15-a09ae14f/dupes_db/data.mdb
+  size: 176128
+  modified: '2017-06-15T13:55:52'
+  type: ''
+  extension: .mdb
+- name: hts.memo.ru-2017-06-15-a09ae14f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/hts.memo.ru-2017-06-15-a09ae14f/hts.memo.ru-2017-06-15-a09ae14f.cdx
+  size: 319623
+  modified: '2017-06-15T13:56:03'
+  type: CDX
+  extension: .cdx
+url: https://hts.memo.ru
+created: '2017-06-15'

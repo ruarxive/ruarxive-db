@@ -1,0 +1,40 @@
+id: sovety-duma-gov-ru-2017-04-20-ded02859
+name: sovety.duma.gov.ru (2017-04-20)
+domain: sovety.duma.gov.ru
+collection:
+  id: duma
+  slug: duma
+  name: Государственная Дума
+resources:
+- name: sovety.duma.gov.ru-2017-04-20-ded02859.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/sovety.duma.gov.ru-2017-04-20-ded02859/sovety.duma.gov.ru-2017-04-20-ded02859.cdx
+  size: 601984
+  modified: '2017-04-20T16:53:12'
+  type: CDX
+  extension: .cdx
+- name: sovety.duma.gov.ru-2017-04-20-ded02859-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/sovety.duma.gov.ru-2017-04-20-ded02859/sovety.duma.gov.ru-2017-04-20-ded02859-00000.warc.gz
+  size: 21255771
+  modified: '2017-04-20T16:53:12'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/sovety.duma.gov.ru-2017-04-20-ded02859/dupes_db/data.mdb
+  size: 262144
+  modified: '2017-04-20T16:53:12'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/sovety.duma.gov.ru-2017-04-20-ded02859/wpull.db
+  size: 660480
+  modified: '2017-04-20T16:53:12'
+  type: wpull database
+  extension: .db
+- name: sovety.duma.gov.ru-2017-04-20-ded02859-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/duma/sovety.duma.gov.ru-2017-04-20-ded02859/sovety.duma.gov.ru-2017-04-20-ded02859-meta.warc.gz
+  size: 67215
+  modified: '2017-04-20T16:53:12'
+  type: WARC
+  extension: .warc.gz
+url: https://sovety.duma.gov.ru
+created: '2017-04-20'

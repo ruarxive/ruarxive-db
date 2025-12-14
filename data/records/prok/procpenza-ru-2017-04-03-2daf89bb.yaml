@@ -1,0 +1,40 @@
+id: procpenza-ru-2017-04-03-2daf89bb
+name: procpenza.ru (2017-04-03)
+domain: procpenza.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: www.procpenza.ru-2017-04-03-2daf89bb.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procpenza.ru-2017-04-03-2daf89bb/www.procpenza.ru-2017-04-03-2daf89bb.cdx
+  size: 2220949
+  modified: '2017-04-03T18:19:05'
+  type: CDX
+  extension: .cdx
+- name: www.procpenza.ru-2017-04-03-2daf89bb-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procpenza.ru-2017-04-03-2daf89bb/www.procpenza.ru-2017-04-03-2daf89bb-meta.warc.gz
+  size: 208187
+  modified: '2017-04-03T18:19:06'
+  type: WARC
+  extension: .warc.gz
+- name: www.procpenza.ru-2017-04-03-2daf89bb-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procpenza.ru-2017-04-03-2daf89bb/www.procpenza.ru-2017-04-03-2daf89bb-00000.warc.gz
+  size: 101707807
+  modified: '2017-04-03T18:19:05'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procpenza.ru-2017-04-03-2daf89bb/dupes_db/data.mdb
+  size: 1064960
+  modified: '2017-04-03T18:19:01'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.procpenza.ru-2017-04-03-2daf89bb/wpull.db
+  size: 2024448
+  modified: '2017-04-03T18:19:06'
+  type: wpull database
+  extension: .db
+url: https://procpenza.ru
+created: '2017-04-03'

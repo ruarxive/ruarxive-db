@@ -1,0 +1,46 @@
+id: diafilmy-su-2017-08-08-6e3a1dd4
+name: diafilmy.su (2017-08-08)
+domain: diafilmy.su
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diafilmy.su-2017-08-08-6e3a1dd4/wpull.db
+  size: 21592064
+  modified: '2017-08-09T10:50:43'
+  type: wpull database
+  extension: .db
+- name: diafilmy.su-2017-08-08-6e3a1dd4-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diafilmy.su-2017-08-08-6e3a1dd4/diafilmy.su-2017-08-08-6e3a1dd4-00001.warc.gz
+  size: 2105163709
+  modified: '2017-08-09T10:50:43'
+  type: WARC
+  extension: .warc.gz
+- name: diafilmy.su-2017-08-08-6e3a1dd4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diafilmy.su-2017-08-08-6e3a1dd4/diafilmy.su-2017-08-08-6e3a1dd4-00000.warc.gz
+  size: 5368792317
+  modified: '2017-08-09T04:33:42'
+  type: WARC
+  extension: .warc.gz
+- name: diafilmy.su-2017-08-08-6e3a1dd4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diafilmy.su-2017-08-08-6e3a1dd4/diafilmy.su-2017-08-08-6e3a1dd4-meta.warc.gz
+  size: 2183562
+  modified: '2017-08-09T10:50:45'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diafilmy.su-2017-08-08-6e3a1dd4/dupes_db/data.mdb
+  size: 10756096
+  modified: '2017-08-09T10:46:42'
+  type: ''
+  extension: .mdb
+- name: diafilmy.su-2017-08-08-6e3a1dd4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/diafilmy.su-2017-08-08-6e3a1dd4/diafilmy.su-2017-08-08-6e3a1dd4.cdx
+  size: 19101564
+  modified: '2017-08-09T10:50:42'
+  type: CDX
+  extension: .cdx
+url: https://diafilmy.su
+created: '2017-08-08'

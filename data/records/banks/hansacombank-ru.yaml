@@ -1,0 +1,40 @@
+id: hansacombank-ru
+name: hansacombank.ru (2013-12-19)
+domain: hansacombank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.hansacombank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.hansacombank.ru/www.hansacombank.ru.cdx.xz
+  size: 17240
+  modified: '2014-05-15T16:32:46'
+  type: CDX
+  extension: .xz
+- name: www.hansacombank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.hansacombank.ru/www.hansacombank.ru.warc.xz
+  size: 100594396
+  modified: '2013-12-19T16:08:08'
+  type: WARC
+  extension: .xz
+- name: www.hansacombank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.hansacombank.ru/www.hansacombank.ru.7z
+  size: 109700780
+  modified: '2014-08-19T22:21:45'
+  type: ''
+  extension: .7z
+- name: www.hansacombank.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.hansacombank.ru/www.hansacombank.ru.warc
+  size: 150845893
+  modified: '2014-05-15T16:32:46'
+  type: WARC
+  extension: .warc
+- name: www.hansacombank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.hansacombank.ru/www.hansacombank.ru.log.xz
+  size: 24072
+  modified: '2014-05-15T16:32:46'
+  type: wpull log
+  extension: .xz
+url: https://hansacombank.ru
+created: '2013-12-19T16:08:08'

@@ -1,0 +1,40 @@
+id: proksakha-ru-2017-04-03-900958f7
+name: proksakha.ru (2017-04-03)
+domain: proksakha.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksakha.ru-2017-04-03-900958f7/wpull.db
+  size: 84992
+  modified: '2017-04-03T09:38:06'
+  type: wpull database
+  extension: .db
+- name: www.proksakha.ru-2017-04-03-900958f7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksakha.ru-2017-04-03-900958f7/www.proksakha.ru-2017-04-03-900958f7-00000.warc.gz
+  size: 4324077
+  modified: '2017-04-03T09:38:06'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksakha.ru-2017-04-03-900958f7/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-04-03T09:38:05'
+  type: ''
+  extension: .mdb
+- name: www.proksakha.ru-2017-04-03-900958f7-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksakha.ru-2017-04-03-900958f7/www.proksakha.ru-2017-04-03-900958f7-meta.warc.gz
+  size: 10616
+  modified: '2017-04-03T09:38:06'
+  type: WARC
+  extension: .warc.gz
+- name: www.proksakha.ru-2017-04-03-900958f7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.proksakha.ru-2017-04-03-900958f7/www.proksakha.ru-2017-04-03-900958f7.cdx
+  size: 65570
+  modified: '2017-04-03T09:38:06'
+  type: CDX
+  extension: .cdx
+url: https://proksakha.ru
+created: '2017-04-03'

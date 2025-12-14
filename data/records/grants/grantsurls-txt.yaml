@@ -1,0 +1,16 @@
+id: grantsurls-txt
+name: grantsurls.txt (2017-04-13)
+domain: grantsurls.txt
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: grantsurls.txt
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/grantsurls.txt
+  size: 741
+  modified: '2017-04-13T17:47:37'
+  type: ''
+  extension: .txt
+url: https://grantsurls.txt
+created: '2017-04-13T17:47:37'

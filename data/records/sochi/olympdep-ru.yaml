@@ -1,0 +1,28 @@
+id: olympdep-ru
+name: olympdep.ru (2014-02-01)
+domain: olympdep.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: www.olympdep.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.olympdep.ru/www.olympdep.ru.cdx.xz
+  size: 830200
+  modified: '2014-02-01T10:09:28'
+  type: CDX
+  extension: .xz
+- name: www.olympdep.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.olympdep.ru/www.olympdep.ru.warc.xz
+  size: 938820948
+  modified: '2014-02-01T10:09:55'
+  type: WARC
+  extension: .xz
+- name: www.olympdep.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/www.olympdep.ru/www.olympdep.ru.log.xz
+  size: 551132
+  modified: '2014-02-01T10:09:26'
+  type: wpull log
+  extension: .xz
+url: https://olympdep.ru
+created: '2014-02-01T10:09:55'

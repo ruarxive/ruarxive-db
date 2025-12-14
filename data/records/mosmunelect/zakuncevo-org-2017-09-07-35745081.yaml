@@ -1,0 +1,40 @@
+id: zakuncevo-org-2017-09-07-35745081
+name: zakuncevo.org (2017-09-07)
+domain: zakuncevo.org
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/zakuncevo.org-2017-09-07-35745081/wpull.db
+  size: 630784
+  modified: '2017-09-07T22:24:33'
+  type: wpull database
+  extension: .db
+- name: zakuncevo.org-2017-09-07-35745081.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/zakuncevo.org-2017-09-07-35745081/zakuncevo.org-2017-09-07-35745081.cdx
+  size: 478370
+  modified: '2017-09-07T22:24:32'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/zakuncevo.org-2017-09-07-35745081/dupes_db/data.mdb
+  size: 331776
+  modified: '2017-09-07T22:24:22'
+  type: ''
+  extension: .mdb
+- name: zakuncevo.org-2017-09-07-35745081-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/zakuncevo.org-2017-09-07-35745081/zakuncevo.org-2017-09-07-35745081-00000.warc.gz
+  size: 305689749
+  modified: '2017-09-07T22:24:32'
+  type: WARC
+  extension: .warc.gz
+- name: zakuncevo.org-2017-09-07-35745081-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/zakuncevo.org-2017-09-07-35745081/zakuncevo.org-2017-09-07-35745081-meta.warc.gz
+  size: 69447
+  modified: '2017-09-07T22:24:33'
+  type: WARC
+  extension: .warc.gz
+url: https://zakuncevo.org
+created: '2017-09-07'

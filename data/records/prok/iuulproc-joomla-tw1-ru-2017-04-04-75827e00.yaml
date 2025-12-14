@@ -1,0 +1,40 @@
+id: iuulproc-joomla-tw1-ru-2017-04-04-75827e00
+name: iuulproc-joomla.tw1.ru (2017-04-04)
+domain: iuulproc-joomla.tw1.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: iuulproc-joomla.tw1.ru-2017-04-04-75827e00-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/iuulproc-joomla.tw1.ru-2017-04-04-75827e00/iuulproc-joomla.tw1.ru-2017-04-04-75827e00-meta.warc.gz
+  size: 49060
+  modified: '2017-04-04T06:28:19'
+  type: WARC
+  extension: .warc.gz
+- name: iuulproc-joomla.tw1.ru-2017-04-04-75827e00-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/iuulproc-joomla.tw1.ru-2017-04-04-75827e00/iuulproc-joomla.tw1.ru-2017-04-04-75827e00-00000.warc.gz
+  size: 6835254
+  modified: '2017-04-04T06:28:19'
+  type: WARC
+  extension: .warc.gz
+- name: iuulproc-joomla.tw1.ru-2017-04-04-75827e00.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/iuulproc-joomla.tw1.ru-2017-04-04-75827e00/iuulproc-joomla.tw1.ru-2017-04-04-75827e00.cdx
+  size: 399897
+  modified: '2017-04-04T06:28:19'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/iuulproc-joomla.tw1.ru-2017-04-04-75827e00/dupes_db/data.mdb
+  size: 344064
+  modified: '2017-04-04T06:28:19'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/iuulproc-joomla.tw1.ru-2017-04-04-75827e00/wpull.db
+  size: 561152
+  modified: '2017-04-04T06:28:19'
+  type: wpull database
+  extension: .db
+url: https://iuulproc-joomla.tw1.ru
+created: '2017-04-04'

@@ -1,0 +1,40 @@
+id: udmproc-ru-2017-04-03-3c875797
+name: udmproc.ru (2017-04-03)
+domain: udmproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.udmproc.ru-2017-04-03-3c875797/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-04-03T17:34:51'
+  type: ''
+  extension: .mdb
+- name: www.udmproc.ru-2017-04-03-3c875797-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.udmproc.ru-2017-04-03-3c875797/www.udmproc.ru-2017-04-03-3c875797-00000.warc.gz
+  size: 606695
+  modified: '2017-04-03T17:34:51'
+  type: WARC
+  extension: .warc.gz
+- name: www.udmproc.ru-2017-04-03-3c875797.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.udmproc.ru-2017-04-03-3c875797/www.udmproc.ru-2017-04-03-3c875797.cdx
+  size: 11512
+  modified: '2017-04-03T17:34:51'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.udmproc.ru-2017-04-03-3c875797/wpull.db
+  size: 18432
+  modified: '2017-04-03T17:34:51'
+  type: wpull database
+  extension: .db
+- name: www.udmproc.ru-2017-04-03-3c875797-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.udmproc.ru-2017-04-03-3c875797/www.udmproc.ru-2017-04-03-3c875797-meta.warc.gz
+  size: 4742
+  modified: '2017-04-03T17:34:51'
+  type: WARC
+  extension: .warc.gz
+url: https://udmproc.ru
+created: '2017-04-03'

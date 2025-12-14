@@ -1,0 +1,28 @@
+id: snbank-ru
+name: snbank.ru (2014-05-15)
+domain: snbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.snbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.snbank.ru/www.snbank.ru.cdx.xz
+  size: 1354788
+  modified: '2014-05-15T07:04:48'
+  type: CDX
+  extension: .xz
+- name: www.snbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.snbank.ru/www.snbank.ru.warc.xz
+  size: 437184764
+  modified: '2014-05-15T07:04:48'
+  type: WARC
+  extension: .xz
+- name: www.snbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.snbank.ru/www.snbank.ru.log.xz
+  size: 809208
+  modified: '2014-05-15T07:04:48'
+  type: wpull log
+  extension: .xz
+url: https://snbank.ru
+created: '2014-05-15T07:04:48'

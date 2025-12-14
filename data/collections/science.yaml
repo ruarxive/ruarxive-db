@@ -1,0 +1,120 @@
+id: science
+slug: science
+name: Наука
+num_records: 19
+records:
+- id: biblio-dissernet-org-2017-04-17-4fcf28e3
+  name: biblio.dissernet.org (2017-04-17)
+  url: https://biblio.dissernet.org
+  created: '2017-04-17'
+  domain: biblio.dissernet.org
+- id: climatechange-igce-ru
+  name: climatechange.igce.ru (2014-08-03)
+  url: https://climatechange.igce.ru
+  created: '2014-08-03T16:18:17'
+  domain: climatechange.igce.ru
+- id: dissernet-org-2017-04-17-db09d79d
+  name: dissernet.org (2017-04-17)
+  url: https://dissernet.org
+  created: '2017-04-17'
+  domain: dissernet.org
+- id: dynamic-igce-ru
+  name: dynamic.igce.ru (2014-08-03)
+  url: https://dynamic.igce.ru
+  created: '2014-08-03T12:42:00'
+  domain: dynamic.igce.ru
+- id: dynastyfdn-com
+  name: dynastyfdn.com (2015-05-27)
+  url: https://dynastyfdn.com
+  created: '2015-05-27T13:44:58'
+  domain: dynastyfdn.com
+- id: elementy-ru
+  name: elementy.ru (2015-06-02)
+  url: https://elementy.ru
+  created: '2015-06-02T08:43:01'
+  domain: elementy.ru
+- id: evolutionfund-ru
+  name: Сайт Фонда Эволюция
+  url: https://evolutionfund.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-04-05T03:12:17.000Z'
+  domain: evolutionfund.ru
+- id: futurist-ru
+  name: Futurist
+  url: http://futurist.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-04-05T05:49:27.000Z'
+  domain: futurist.ru
+- id: klnran-ru
+  name: Комиссия по борьбе с лженаукой РАН при Президиуме Российской академии наук
+  url: http://klnran.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-04-05T03:23:54.000Z'
+  domain: klnran.ru
+- id: mathnet-ru
+  name: mathnet.ru (2014-08-09)
+  url: https://mathnet.ru
+  created: '2014-08-09T10:55:47'
+  domain: mathnet.ru
+- id: mos-time-ru
+  name: mos-time.ru (2015-05-27)
+  url: https://mos-time.ru
+  created: '2015-05-27T11:49:51'
+  domain: mos-time.ru
+- id: nauchka-ru
+  name: Первая научно-популярная библиотека Научка
+  url: https://nauchka.ru
+  status: собирается
+  status_id: collecting
+  created: '2022-04-05T09:16:15.000Z'
+  domain: nauchka.ru
+- id: ristat-org
+  name: ristat.org (2015-04-23)
+  url: https://ristat.org
+  created: '2015-04-23T18:03:55'
+  domain: ristat.org
+- id: rosvuz-dissernet-org-2017-04-17-50c2548d
+  name: rosvuz.dissernet.org (2017-04-17)
+  url: https://rosvuz.dissernet.org
+  created: '2017-04-17'
+  domain: rosvuz.dissernet.org
+- id: seakc-meteoinfo-ru
+  name: seakc.meteoinfo.ru (2014-08-03)
+  url: https://seakc.meteoinfo.ru
+  created: '2014-08-03T13:01:22'
+  domain: seakc.meteoinfo.ru
+- id: thinkkazan-com
+  name: Думай Казань
+  url: http://thinkkazan.com/
+  status: собирается
+  status_id: collecting
+  created: '2022-04-05T05:23:13.000Z'
+  domain: thinkkazan.com
+- id: vral-li
+  name: ВРуническая Академия Лженаук
+  url: https://vral.li
+  status: собирается
+  status_id: collecting
+  created: '2022-04-05T03:15:47.000Z'
+  domain: vral.li
+- id: vsenauka-ru
+  name: Всенаука
+  url: https://vsenauka.ru/
+  status: собран
+  status_id: collected
+  created: '2023-03-03T10:37:52.000Z'
+  domain: vsenauka.ru
+- id: zapovednik-space
+  name: Заповедник. Россия за пределами столиц
+  status: собирается
+  status_id: collecting
+  created: '2022-04-05T03:27:07.000Z'
+  domain: zapovednik.space
+files:
+  total_count: 104
+  total_size: 71218439684
+  directories:
+  - webcollect2017

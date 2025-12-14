@@ -1,0 +1,40 @@
+id: regulation-gov-ru-2017-05-03-11e3013e
+name: regulation.gov.ru (2017-05-03)
+domain: regulation.gov.ru
+collection:
+  id: govprojects
+  slug: govprojects
+  name: Государственные проекты
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/regulation.gov.ru-2017-05-03-11e3013e/dupes_db/data.mdb
+  size: 151552
+  modified: '2017-05-03T08:13:22'
+  type: ''
+  extension: .mdb
+- name: regulation.gov.ru-2017-05-03-11e3013e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/regulation.gov.ru-2017-05-03-11e3013e/regulation.gov.ru-2017-05-03-11e3013e-meta.warc.gz
+  size: 31102
+  modified: '2017-05-03T08:13:23'
+  type: WARC
+  extension: .warc.gz
+- name: regulation.gov.ru-2017-05-03-11e3013e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/regulation.gov.ru-2017-05-03-11e3013e/regulation.gov.ru-2017-05-03-11e3013e-00000.warc.gz
+  size: 189329280
+  modified: '2017-05-03T08:13:23'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/regulation.gov.ru-2017-05-03-11e3013e/wpull.db
+  size: 234496
+  modified: '2017-05-03T08:13:23'
+  type: wpull database
+  extension: .db
+- name: regulation.gov.ru-2017-05-03-11e3013e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/govprojects/regulation.gov.ru-2017-05-03-11e3013e/regulation.gov.ru-2017-05-03-11e3013e.cdx
+  size: 220642
+  modified: '2017-05-03T08:13:23'
+  type: CDX
+  extension: .cdx
+url: https://regulation.gov.ru
+created: '2017-05-03'

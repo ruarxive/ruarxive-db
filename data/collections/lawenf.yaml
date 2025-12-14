@@ -1,0 +1,124 @@
+id: lawenf
+slug: lawenf
+name: Правоохранительные органы
+num_records: 23
+records:
+- id: 112-ru
+  name: 112.ru (2014-01-21)
+  url: https://112.ru
+  created: '2014-01-21T06:56:22'
+  domain: 112.ru
+- id: 92-fms-gov-ru
+  name: 92.fms.gov.ru (2016-05-03)
+  url: https://92.fms.gov.ru
+  created: '2016-05-03T22:15:19'
+  domain: 92.fms.gov.ru
+- id: aiss-fms-gov-ru
+  name: aiss.fms.gov.ru (2016-05-05)
+  url: https://aiss.fms.gov.ru
+  created: '2016-05-05T17:27:37'
+  domain: aiss.fms.gov.ru
+- id: crimestat-ru
+  name: crimestat.ru (2015-04-23)
+  url: https://crimestat.ru
+  created: '2015-04-23T17:10:10'
+  domain: crimestat.ru
+- id: family-fskn-gov-ru
+  name: family.fskn.gov.ru (2016-05-04)
+  url: https://family.fskn.gov.ru
+  created: '2016-05-04T17:47:23'
+  domain: family.fskn.gov.ru
+- id: fcp-pbdd-ru
+  name: fcp-pbdd.ru (2014-01-30)
+  url: https://fcp-pbdd.ru
+  created: '2014-01-30T23:20:23'
+  domain: fcp-pbdd.ru
+- id: fskn-gov-ru
+  name: fskn.gov.ru (2016-05-04)
+  url: https://fskn.gov.ru
+  created: '2016-05-04T21:12:11'
+  domain: fskn.gov.ru
+- id: gak-gov-ru
+  name: gak.gov.ru (2016-05-04)
+  url: https://gak.gov.ru
+  created: '2016-05-04T16:54:11'
+  domain: gak.gov.ru
+- id: gasps-support-genproc-gov-ru
+  name: gasps-support.genproc.gov.ru (2015-04-23)
+  url: https://gasps-support.genproc.gov.ru
+  created: '2015-04-23T17:12:14'
+  domain: gasps-support.genproc.gov.ru
+- id: genproc-gov-ru
+  name: genproc.gov.ru (2014-01-21)
+  url: https://genproc.gov.ru
+  created: '2014-01-21T19:55:49'
+  domain: genproc.gov.ru
+- id: gvp-gov-ru
+  name: gvp.gov.ru (2014-01-21)
+  url: https://gvp.gov.ru
+  created: '2014-01-21T06:56:06'
+  domain: gvp.gov.ru
+- id: ksgp-cis-ru
+  name: ksgp-cis.ru (2014-01-21)
+  url: https://ksgp-cis.ru
+  created: '2014-01-21T19:53:37'
+  domain: ksgp-cis.ru
+- id: mosproc-ru
+  name: mosproc.ru (2014-01-22)
+  url: https://mosproc.ru
+  created: '2014-01-22T11:30:31'
+  domain: mosproc.ru
+- id: old-vvmvd-ru
+  name: old.vvmvd.ru (2016-05-03)
+  url: https://old.vvmvd.ru
+  created: '2016-05-03T21:04:22'
+  domain: old.vvmvd.ru
+- id: ormvd-ru
+  name: ormvd.ru (2014-01-21)
+  url: https://ormvd.ru
+  created: '2014-01-21T19:47:28'
+  domain: ormvd.ru
+- id: os-mvd-ru
+  name: os.mvd.ru (2014-01-21)
+  url: https://os.mvd.ru
+  created: '2014-01-21T19:46:32'
+  domain: os.mvd.ru
+- id: petrovka38-ru
+  name: petrovka38.ru (2014-01-25)
+  url: https://petrovka38.ru
+  created: '2014-01-25T14:39:01'
+  domain: petrovka38.ru
+- id: rosgranitsa-ru
+  name: rosgranitsa.ru (2016-05-06)
+  url: https://rosgranitsa.ru
+  created: '2016-05-06T07:19:17'
+  domain: rosgranitsa.ru
+- id: stratgap-ru
+  name: stratgap.ru (2016-05-03)
+  url: https://stratgap.ru
+  created: '2016-05-03T11:00:08'
+  domain: stratgap.ru
+- id: veterangp-ru
+  name: veterangp.ru (2014-01-21)
+  url: https://veterangp.ru
+  created: '2014-01-21T19:52:04'
+  domain: veterangp.ru
+- id: vnii-mvd-ru
+  name: vnii-mvd.ru (2014-01-21)
+  url: https://vnii-mvd.ru
+  created: '2014-01-21T19:53:51'
+  domain: vnii-mvd.ru
+- id: vvmvd-ru
+  name: vvmvd.ru (2014-01-21)
+  url: https://vvmvd.ru
+  created: '2014-01-21T10:58:30'
+  domain: vvmvd.ru
+- id: ws1-vvmvd-ru
+  name: ws1.vvmvd.ru (2016-05-03)
+  url: https://ws1.vvmvd.ru
+  created: '2016-05-03T13:38:12'
+  domain: ws1.vvmvd.ru
+files:
+  total_count: 115
+  total_size: 55825718958
+  directories: []

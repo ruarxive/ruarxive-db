@@ -1,0 +1,40 @@
+id: reestr-minsvyaz-ru-2017-04-23-40a7b901
+name: reestr.minsvyaz.ru (2017-04-23)
+domain: reestr.minsvyaz.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: reestr.minsvyaz.ru-2017-04-23-40a7b901-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/reestr.minsvyaz.ru-2017-04-23-40a7b901/reestr.minsvyaz.ru-2017-04-23-40a7b901-meta.warc.gz
+  size: 423319
+  modified: '2017-04-23T08:38:18'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/reestr.minsvyaz.ru-2017-04-23-40a7b901/dupes_db/data.mdb
+  size: 1314816
+  modified: '2017-04-23T08:38:17'
+  type: ''
+  extension: .mdb
+- name: reestr.minsvyaz.ru-2017-04-23-40a7b901-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/reestr.minsvyaz.ru-2017-04-23-40a7b901/reestr.minsvyaz.ru-2017-04-23-40a7b901-00000.warc.gz
+  size: 740977231
+  modified: '2017-04-23T08:38:18'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/reestr.minsvyaz.ru-2017-04-23-40a7b901/wpull.db
+  size: 3872768
+  modified: '2017-04-23T08:38:18'
+  type: wpull database
+  extension: .db
+- name: reestr.minsvyaz.ru-2017-04-23-40a7b901.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/reestr.minsvyaz.ru-2017-04-23-40a7b901/reestr.minsvyaz.ru-2017-04-23-40a7b901.cdx
+  size: 4167172
+  modified: '2017-04-23T08:38:17'
+  type: CDX
+  extension: .cdx
+url: https://reestr.minsvyaz.ru
+created: '2017-04-23'

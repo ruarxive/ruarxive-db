@@ -1,0 +1,57 @@
+id: poslednyadres-ru-2017-06-06-af811264
+name: poslednyadres.ru (2017-06-06)
+domain: poslednyadres.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: www.poslednyadres.ru-2017-06-06-af811264-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.poslednyadres.ru-2017-06-06-af811264/www.poslednyadres.ru-2017-06-06-af811264-00000.warc.gz
+  size: 5368722757
+  modified: '2017-06-25T17:23:01'
+  type: WARC
+  extension: .warc.gz
+- name: www.poslednyadres.ru-2017-06-06-af811264-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.poslednyadres.ru-2017-06-06-af811264/www.poslednyadres.ru-2017-06-06-af811264-meta.warc.gz
+  size: 5521261
+  modified: '2017-06-25T17:17:29'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.poslednyadres.ru-2017-06-06-af811264/wpull.db
+  size: 84432896
+  modified: '2017-06-25T17:17:45'
+  type: wpull database
+  extension: .db
+- name: www.poslednyadres.ru-2017-06-06-af811264-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.poslednyadres.ru-2017-06-06-af811264/www.poslednyadres.ru-2017-06-06-af811264-00001.warc.gz
+  size: 2785487135
+  modified: '2017-06-25T17:19:11'
+  type: WARC
+  extension: .warc.gz
+- name: tmp-wpull-resp_cb-0rxtd4.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.poslednyadres.ru-2017-06-06-af811264/temp/tmp-wpull-resp_cb-0rxtd4.tmp
+  size: 52376
+  modified: '2017-06-25T17:23:02'
+  type: ''
+  extension: .tmp
+- name: www.poslednyadres.ru-2017-06-06-af811264.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.poslednyadres.ru-2017-06-06-af811264/www.poslednyadres.ru-2017-06-06-af811264.cdx
+  size: 69272327
+  modified: '2017-06-25T17:19:42'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.poslednyadres.ru-2017-06-06-af811264/dupes_db/data.mdb
+  size: 41480192
+  modified: '2017-06-25T17:20:26'
+  type: ''
+  extension: .mdb
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/memorial/www.poslednyadres.ru-2017-06-06-af811264/stop
+  size: 0
+  modified: '2017-06-25T17:17:33'
+  type: ''
+url: https://poslednyadres.ru
+created: '2017-06-06'

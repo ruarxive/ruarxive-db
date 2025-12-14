@@ -1,0 +1,40 @@
+id: nts-cdep-ru-2017-04-30-2b2a99ef
+name: nts.cdep.ru (2017-04-30)
+domain: nts.cdep.ru
+collection:
+  id: sud
+  slug: sud
+  name: Суды в РФ
+resources:
+- name: nts.cdep.ru-2017-04-30-2b2a99ef-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/nts.cdep.ru-2017-04-30-2b2a99ef/nts.cdep.ru-2017-04-30-2b2a99ef-meta.warc.gz
+  size: 4632
+  modified: '2017-04-30T11:11:02'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/nts.cdep.ru-2017-04-30-2b2a99ef/dupes_db/data.mdb
+  size: 32768
+  modified: '2017-04-30T11:11:02'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/nts.cdep.ru-2017-04-30-2b2a99ef/wpull.db
+  size: 19456
+  modified: '2017-04-30T11:11:02'
+  type: wpull database
+  extension: .db
+- name: nts.cdep.ru-2017-04-30-2b2a99ef-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/nts.cdep.ru-2017-04-30-2b2a99ef/nts.cdep.ru-2017-04-30-2b2a99ef-00000.warc.gz
+  size: 14886244
+  modified: '2017-04-30T11:11:02'
+  type: WARC
+  extension: .warc.gz
+- name: nts.cdep.ru-2017-04-30-2b2a99ef.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sud/nts.cdep.ru-2017-04-30-2b2a99ef/nts.cdep.ru-2017-04-30-2b2a99ef.cdx
+  size: 11334
+  modified: '2017-04-30T11:11:02'
+  type: CDX
+  extension: .cdx
+url: https://nts.cdep.ru
+created: '2017-04-30'

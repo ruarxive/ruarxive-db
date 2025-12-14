@@ -1,0 +1,28 @@
+id: olympicuniversity-ru
+name: olympicuniversity.ru (2014-02-04)
+domain: olympicuniversity.ru
+collection:
+  id: sochi
+  slug: sochi
+  name: Олимпиада в Сочи 2014
+resources:
+- name: olympicuniversity.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/olympicuniversity.ru/olympicuniversity.ru.cdx.xz
+  size: 408216
+  modified: '2014-02-04T02:26:25'
+  type: CDX
+  extension: .xz
+- name: olympicuniversity.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/olympicuniversity.ru/olympicuniversity.ru.warc.xz
+  size: 2211609748
+  modified: '2014-02-04T02:26:25'
+  type: WARC
+  extension: .xz
+- name: olympicuniversity.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/sochi/olympicuniversity.ru/olympicuniversity.ru.log.xz
+  size: 443516
+  modified: '2014-02-04T02:26:25'
+  type: wpull log
+  extension: .xz
+url: https://olympicuniversity.ru
+created: '2014-02-04T02:26:25'

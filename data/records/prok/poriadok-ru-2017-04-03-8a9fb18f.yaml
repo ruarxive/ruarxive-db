@@ -1,0 +1,40 @@
+id: poriadok-ru-2017-04-03-8a9fb18f
+name: poriadok.ru (2017-04-03)
+domain: poriadok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/poriadok.ru-2017-04-03-8a9fb18f/wpull.db
+  size: 2463744
+  modified: '2017-04-03T21:53:32'
+  type: wpull database
+  extension: .db
+- name: poriadok.ru-2017-04-03-8a9fb18f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/poriadok.ru-2017-04-03-8a9fb18f/poriadok.ru-2017-04-03-8a9fb18f-meta.warc.gz
+  size: 234212
+  modified: '2017-04-03T21:53:32'
+  type: WARC
+  extension: .warc.gz
+- name: poriadok.ru-2017-04-03-8a9fb18f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/poriadok.ru-2017-04-03-8a9fb18f/poriadok.ru-2017-04-03-8a9fb18f.cdx
+  size: 2744905
+  modified: '2017-04-03T20:53:30'
+  type: CDX
+  extension: .cdx
+- name: poriadok.ru-2017-04-03-8a9fb18f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/poriadok.ru-2017-04-03-8a9fb18f/poriadok.ru-2017-04-03-8a9fb18f-00000.warc.gz
+  size: 321942510
+  modified: '2017-04-03T21:23:31'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/poriadok.ru-2017-04-03-8a9fb18f/dupes_db/data.mdb
+  size: 1433600
+  modified: '2017-04-03T20:53:30'
+  type: ''
+  extension: .mdb
+url: https://poriadok.ru
+created: '2017-04-03'

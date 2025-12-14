@@ -1,0 +1,40 @@
+id: ptlab-mccme-ru-2017-06-28-5594d3ae
+name: ptlab.mccme.ru (2017-06-28)
+domain: ptlab.mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: ptlab.mccme.ru-2017-06-28-5594d3ae-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ptlab.mccme.ru-2017-06-28-5594d3ae/ptlab.mccme.ru-2017-06-28-5594d3ae-00000.warc.gz
+  size: 619042243
+  modified: '2017-06-29T10:53:44'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ptlab.mccme.ru-2017-06-28-5594d3ae/dupes_db/data.mdb
+  size: 1998848
+  modified: '2017-06-29T10:52:54'
+  type: ''
+  extension: .mdb
+- name: ptlab.mccme.ru-2017-06-28-5594d3ae-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ptlab.mccme.ru-2017-06-28-5594d3ae/ptlab.mccme.ru-2017-06-28-5594d3ae-meta.warc.gz
+  size: 955848
+  modified: '2017-06-29T10:53:46'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ptlab.mccme.ru-2017-06-28-5594d3ae/wpull.db
+  size: 13967360
+  modified: '2017-06-29T10:53:45'
+  type: wpull database
+  extension: .db
+- name: ptlab.mccme.ru-2017-06-28-5594d3ae.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ptlab.mccme.ru-2017-06-28-5594d3ae/ptlab.mccme.ru-2017-06-28-5594d3ae.cdx
+  size: 12799485
+  modified: '2017-06-29T10:53:44'
+  type: CDX
+  extension: .cdx
+url: https://ptlab.mccme.ru
+created: '2017-06-28'

@@ -1,0 +1,34 @@
+id: chelindbank-ru
+name: chelindbank.ru (2014-05-11)
+domain: chelindbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.chelindbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.chelindbank.ru/www.chelindbank.ru.log.xz
+  size: 162196
+  modified: '2014-05-11T01:06:35'
+  type: wpull log
+  extension: .xz
+- name: www.chelindbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.chelindbank.ru/www.chelindbank.ru.cdx.xz
+  size: 178444
+  modified: '2014-05-11T01:06:35'
+  type: CDX
+  extension: .xz
+- name: www.chelindbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.chelindbank.ru/www.chelindbank.ru.7z
+  size: 816103080
+  modified: '2014-08-19T22:57:01'
+  type: ''
+  extension: .7z
+- name: www.chelindbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.chelindbank.ru/www.chelindbank.ru.warc.xz
+  size: 805002968
+  modified: '2014-05-11T01:06:35'
+  type: WARC
+  extension: .xz
+url: https://chelindbank.ru
+created: '2014-05-11T01:06:35'

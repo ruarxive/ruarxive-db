@@ -1,0 +1,40 @@
+id: diafilms-ru-2017-08-08-db9c7d16
+name: diafilms.ru (2017-08-08)
+domain: diafilms.ru
+collection:
+  id: cultureheritage
+  slug: cultureheritage
+  name: Культурное наследие
+resources:
+- name: www.diafilms.ru-2017-08-08-db9c7d16.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.diafilms.ru-2017-08-08-db9c7d16/www.diafilms.ru-2017-08-08-db9c7d16.cdx
+  size: 6054401
+  modified: '2017-08-08T23:56:30'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.diafilms.ru-2017-08-08-db9c7d16/dupes_db/data.mdb
+  size: 2703360
+  modified: '2017-08-08T23:56:28'
+  type: ''
+  extension: .mdb
+- name: www.diafilms.ru-2017-08-08-db9c7d16-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.diafilms.ru-2017-08-08-db9c7d16/www.diafilms.ru-2017-08-08-db9c7d16-meta.warc.gz
+  size: 449757
+  modified: '2017-08-08T23:56:31'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.diafilms.ru-2017-08-08-db9c7d16/wpull.db
+  size: 8880128
+  modified: '2017-08-08T23:56:30'
+  type: wpull database
+  extension: .db
+- name: www.diafilms.ru-2017-08-08-db9c7d16-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/cultureheritage/www.diafilms.ru-2017-08-08-db9c7d16/www.diafilms.ru-2017-08-08-db9c7d16-00000.warc.gz
+  size: 163567971
+  modified: '2017-08-08T23:56:30'
+  type: WARC
+  extension: .warc.gz
+url: https://diafilms.ru
+created: '2017-08-08'

@@ -1,0 +1,34 @@
+id: aksonbank-ru
+name: aksonbank.ru (2014-05-12)
+domain: aksonbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.aksonbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.aksonbank.ru/www.aksonbank.ru.7z
+  size: 57630736
+  modified: '2014-08-20T10:09:05'
+  type: ''
+  extension: .7z
+- name: www.aksonbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.aksonbank.ru/www.aksonbank.ru.log.xz
+  size: 29104
+  modified: '2014-05-12T23:04:55'
+  type: wpull log
+  extension: .xz
+- name: www.aksonbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.aksonbank.ru/www.aksonbank.ru.warc.xz
+  size: 53865240
+  modified: '2014-05-12T23:04:55'
+  type: WARC
+  extension: .xz
+- name: www.aksonbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.aksonbank.ru/www.aksonbank.ru.cdx.xz
+  size: 43372
+  modified: '2014-05-12T23:04:55'
+  type: CDX
+  extension: .xz
+url: https://aksonbank.ru
+created: '2014-05-12T23:04:55'

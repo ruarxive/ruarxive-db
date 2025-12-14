@@ -1,0 +1,58 @@
+id: customs-ru-2017-04-30-6348928a
+name: customs.ru (2017-04-30)
+domain: customs.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: tmp-wpull-resp_cb-0rwtd6.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/customs.ru-2017-04-30-6348928a/temp/tmp-wpull-resp_cb-0rwtd6.tmp
+  size: 52460
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-mbvsp5.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/customs.ru-2017-04-30-6348928a/temp/tmp-wpull-warc-mbvsp5.log.gz
+  size: 229282
+  modified: '2017-04-30T08:45:44'
+  type: wpull log
+  extension: .gz
+- name: tmp-wpull-warcsesreq-5g6r2g.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/customs.ru-2017-04-30-6348928a/temp/tmp-wpull-warcsesreq-5g6r2g.tmp
+  size: 498
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesrsp-1zg13s.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/customs.ru-2017-04-30-6348928a/temp/tmp-wpull-warcsesrsp-1zg13s.tmp
+  size: 0
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .tmp
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/customs.ru-2017-04-30-6348928a/wpull.db
+  size: 6967296
+  modified: '2017-04-30T08:45:44'
+  type: wpull database
+  extension: .db
+- name: customs.ru-2017-04-30-6348928a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/customs.ru-2017-04-30-6348928a/customs.ru-2017-04-30-6348928a.cdx
+  size: 1228426
+  modified: '2017-04-30T08:45:44'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/customs.ru-2017-04-30-6348928a/dupes_db/data.mdb
+  size: 1118208
+  modified: '2017-04-30T08:45:44'
+  type: ''
+  extension: .mdb
+- name: customs.ru-2017-04-30-6348928a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/customs.ru-2017-04-30-6348928a/customs.ru-2017-04-30-6348928a-00000.warc.gz
+  size: 49807473
+  modified: '2017-04-30T08:45:44'
+  type: WARC
+  extension: .warc.gz
+url: https://customs.ru
+created: '2017-04-30'

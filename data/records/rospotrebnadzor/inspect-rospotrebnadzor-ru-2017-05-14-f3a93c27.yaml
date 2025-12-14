@@ -1,0 +1,40 @@
+id: inspect-rospotrebnadzor-ru-2017-05-14-f3a93c27
+name: inspect.rospotrebnadzor.ru (2017-05-14)
+domain: inspect.rospotrebnadzor.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27/inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27-00000.warc.gz
+  size: 159812581
+  modified: '2017-05-15T01:19:51'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27/dupes_db/data.mdb
+  size: 2326528
+  modified: '2017-05-15T01:19:51'
+  type: ''
+  extension: .mdb
+- name: inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27/inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27.cdx
+  size: 4565031
+  modified: '2017-05-15T01:19:51'
+  type: CDX
+  extension: .cdx
+- name: inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27/inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27-meta.warc.gz
+  size: 422153
+  modified: '2017-05-15T01:19:52'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/inspect.rospotrebnadzor.ru-2017-05-14-f3a93c27/wpull.db
+  size: 4048896
+  modified: '2017-05-15T01:19:51'
+  type: wpull database
+  extension: .db
+url: https://inspect.rospotrebnadzor.ru
+created: '2017-05-14'

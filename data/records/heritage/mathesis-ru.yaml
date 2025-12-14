@@ -1,0 +1,28 @@
+id: mathesis-ru
+name: mathesis.ru (2014-08-22)
+domain: mathesis.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: www.mathesis.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.mathesis.ru/www.mathesis.ru.log.xz
+  size: 1439680
+  modified: '2014-08-22T05:02:02'
+  type: wpull log
+  extension: .xz
+- name: www.mathesis.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.mathesis.ru/www.mathesis.ru.warc.xz
+  size: 22134367572
+  modified: '2014-08-22T05:02:02'
+  type: WARC
+  extension: .xz
+- name: www.mathesis.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/www.mathesis.ru/www.mathesis.ru.cdx.xz
+  size: 35180
+  modified: '2014-08-22T05:02:01'
+  type: CDX
+  extension: .xz
+url: https://mathesis.ru
+created: '2014-08-22T05:02:02'

@@ -1,0 +1,28 @@
+id: archive-pnzreg-ru
+name: archive.pnzreg.ru (2013-10-14)
+domain: archive.pnzreg.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: archive.pnzreg.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/archive.pnzreg.ru/archive.pnzreg.ru.log.xz
+  size: 2709024
+  modified: '2013-10-15T00:06:27'
+  type: wpull log
+  extension: .xz
+- name: archive.pnzreg.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/archive.pnzreg.ru/archive.pnzreg.ru.warc.xz
+  size: 2540942612
+  modified: '2013-10-14T20:36:05'
+  type: WARC
+  extension: .xz
+- name: archive.pnzreg.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/archive.pnzreg.ru/archive.pnzreg.ru.cdx.xz
+  size: 4782248
+  modified: '2013-10-14T23:59:53'
+  type: CDX
+  extension: .xz
+url: https://archive.pnzreg.ru
+created: '2013-10-14T20:36:05'

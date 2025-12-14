@@ -1,0 +1,40 @@
+id: sfk-dogm-mos-ru-2017-08-09-aaff1c20
+name: sfk.dogm.mos.ru (2017-08-09)
+domain: sfk.dogm.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sfk.dogm.mos.ru-2017-08-09-aaff1c20/wpull.db
+  size: 1319936
+  modified: '2017-08-09T17:31:17'
+  type: wpull database
+  extension: .db
+- name: sfk.dogm.mos.ru-2017-08-09-aaff1c20-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sfk.dogm.mos.ru-2017-08-09-aaff1c20/sfk.dogm.mos.ru-2017-08-09-aaff1c20-meta.warc.gz
+  size: 153465
+  modified: '2017-08-09T17:31:18'
+  type: WARC
+  extension: .warc.gz
+- name: sfk.dogm.mos.ru-2017-08-09-aaff1c20-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sfk.dogm.mos.ru-2017-08-09-aaff1c20/sfk.dogm.mos.ru-2017-08-09-aaff1c20-00000.warc.gz
+  size: 257894091
+  modified: '2017-08-09T17:31:17'
+  type: WARC
+  extension: .warc.gz
+- name: sfk.dogm.mos.ru-2017-08-09-aaff1c20.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sfk.dogm.mos.ru-2017-08-09-aaff1c20/sfk.dogm.mos.ru-2017-08-09-aaff1c20.cdx
+  size: 1192325
+  modified: '2017-08-09T17:31:17'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sfk.dogm.mos.ru-2017-08-09-aaff1c20/dupes_db/data.mdb
+  size: 495616
+  modified: '2017-08-09T17:30:58'
+  type: ''
+  extension: .mdb
+url: https://sfk.dogm.mos.ru
+created: '2017-08-09'

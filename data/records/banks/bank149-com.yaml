@@ -1,0 +1,34 @@
+id: bank149-com
+name: bank149.com (2014-05-09)
+domain: bank149.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: bank149.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/bank149.com/bank149.com.warc.xz
+  size: 41410500
+  modified: '2014-05-09T15:13:09'
+  type: WARC
+  extension: .xz
+- name: bank149.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/bank149.com/bank149.com.cdx.xz
+  size: 25708
+  modified: '2014-05-09T15:13:09'
+  type: CDX
+  extension: .xz
+- name: bank149.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/bank149.com/bank149.com.7z
+  size: 41430216
+  modified: '2014-08-18T02:03:27'
+  type: ''
+  extension: .7z
+- name: bank149.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/bank149.com/bank149.com.log.xz
+  size: 18220
+  modified: '2014-05-09T15:13:09'
+  type: wpull log
+  extension: .xz
+url: https://bank149.com
+created: '2014-05-09T15:13:09'

@@ -1,0 +1,15 @@
+id: spbgov
+slug: spbgov
+name: Правительство Санкт-Петербурга
+num_records: 1
+records:
+- id: old-fincom-gov-spb-ru-2017-09-20-8c95ed4f
+  name: old.fincom.gov.spb.ru (2017-09-20)
+  url: https://old.fincom.gov.spb.ru
+  created: '2017-09-20'
+  domain: old.fincom.gov.spb.ru
+files:
+  total_count: 21
+  total_size: 4217935108
+  directories:
+  - webcollect2017

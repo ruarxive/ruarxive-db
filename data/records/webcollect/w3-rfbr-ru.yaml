@@ -1,0 +1,16 @@
+id: w3-rfbr-ru
+name: w3.rfbr.ru.7z (2013-08-17)
+domain: w3.rfbr.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: w3.rfbr.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/w3.rfbr.ru.7z
+  size: 32917440
+  modified: '2013-08-17T13:34:00'
+  type: httrack archive
+  extension: .7z
+url: https://w3.rfbr.ru.7z
+created: '2013-08-17T13:34:00'

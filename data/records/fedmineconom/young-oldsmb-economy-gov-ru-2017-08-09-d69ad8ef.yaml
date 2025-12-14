@@ -1,0 +1,40 @@
+id: young-oldsmb-economy-gov-ru-2017-08-09-d69ad8ef
+name: young.oldsmb.economy.gov.ru (2017-08-09)
+domain: young.oldsmb.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef/young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef.cdx
+  size: 1974400
+  modified: '2017-08-10T00:55:38'
+  type: CDX
+  extension: .cdx
+- name: young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef/young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef-00000.warc.gz
+  size: 18676405
+  modified: '2017-08-10T00:55:42'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef/dupes_db/data.mdb
+  size: 2134016
+  modified: '2017-08-10T00:55:38'
+  type: ''
+  extension: .mdb
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef/wpull.db
+  size: 3567616
+  modified: '2017-08-10T00:55:43'
+  type: wpull database
+  extension: .db
+- name: young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef/young.oldsmb.economy.gov.ru-2017-08-09-d69ad8ef-meta.warc.gz
+  size: 73214
+  modified: '2017-08-10T00:55:44'
+  type: WARC
+  extension: .warc.gz
+url: https://young.oldsmb.economy.gov.ru
+created: '2017-08-09'

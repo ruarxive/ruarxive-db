@@ -1,0 +1,88 @@
+id: vofem-ru-2017-06-28-86fa1b63
+name: vofem.ru (2017-06-28)
+domain: vofem.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/dupes_db/data.mdb
+  size: 2093056
+  modified: '2017-06-30T13:58:14'
+  type: ''
+  extension: .mdb
+- name: vofem.ru-2017-06-28-86fa1b63-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00000.warc.gz
+  size: 8795650520
+  modified: '2017-06-29T03:07:20'
+  type: WARC
+  extension: .warc.gz
+- name: vofem.ru-2017-06-28-86fa1b63-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00004.warc.gz
+  size: 5372983625
+  modified: '2017-06-29T22:54:06'
+  type: WARC
+  extension: .warc.gz
+- name: vofem.ru-2017-06-28-86fa1b63-00008.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00008.warc.gz
+  size: 645653378
+  modified: '2017-06-30T13:59:57'
+  type: WARC
+  extension: .warc.gz
+- name: vofem.ru-2017-06-28-86fa1b63.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63.cdx
+  size: 4833366
+  modified: '2017-06-30T13:59:57'
+  type: CDX
+  extension: .cdx
+- name: vofem.ru-2017-06-28-86fa1b63-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00001.warc.gz
+  size: 5384092168
+  modified: '2017-06-29T08:04:01'
+  type: WARC
+  extension: .warc.gz
+- name: vofem.ru-2017-06-28-86fa1b63-00005.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00005.warc.gz
+  size: 5394570954
+  modified: '2017-06-30T03:41:17'
+  type: WARC
+  extension: .warc.gz
+- name: vofem.ru-2017-06-28-86fa1b63-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00003.warc.gz
+  size: 5385267872
+  modified: '2017-06-29T17:53:04'
+  type: WARC
+  extension: .warc.gz
+- name: vofem.ru-2017-06-28-86fa1b63-00007.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00007.warc.gz
+  size: 5372746963
+  modified: '2017-06-30T13:01:38'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/wpull.db
+  size: 3834880
+  modified: '2017-06-30T13:59:57'
+  type: wpull database
+  extension: .db
+- name: vofem.ru-2017-06-28-86fa1b63-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00002.warc.gz
+  size: 5375962335
+  modified: '2017-06-29T12:40:32'
+  type: WARC
+  extension: .warc.gz
+- name: vofem.ru-2017-06-28-86fa1b63-00006.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-00006.warc.gz
+  size: 5369975137
+  modified: '2017-06-30T08:22:23'
+  type: WARC
+  extension: .warc.gz
+- name: vofem.ru-2017-06-28-86fa1b63-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/vofem.ru-2017-06-28-86fa1b63/vofem.ru-2017-06-28-86fa1b63-meta.warc.gz
+  size: 502515
+  modified: '2017-06-30T13:59:58'
+  type: WARC
+  extension: .warc.gz
+url: https://vofem.ru
+created: '2017-06-28'

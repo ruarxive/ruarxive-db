@@ -1,0 +1,40 @@
+id: cfo-fsrar-ru-2017-05-31-c4097655
+name: cfo.fsrar.ru (2017-05-31)
+domain: cfo.fsrar.ru
+collection:
+  id: fsrar
+  slug: fsrar
+  name: ФСРАР
+resources:
+- name: cfo.fsrar.ru-2017-05-31-c4097655-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/cfo.fsrar.ru-2017-05-31-c4097655/cfo.fsrar.ru-2017-05-31-c4097655-00000.warc.gz
+  size: 2225496129
+  modified: '2017-06-01T12:33:53'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/cfo.fsrar.ru-2017-05-31-c4097655/dupes_db/data.mdb
+  size: 1904640
+  modified: '2017-06-01T12:34:04'
+  type: ''
+  extension: .mdb
+- name: cfo.fsrar.ru-2017-05-31-c4097655-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/cfo.fsrar.ru-2017-05-31-c4097655/cfo.fsrar.ru-2017-05-31-c4097655-meta.warc.gz
+  size: 428692
+  modified: '2017-06-01T12:32:59'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/cfo.fsrar.ru-2017-05-31-c4097655/wpull.db
+  size: 3740672
+  modified: '2017-06-01T12:32:59'
+  type: wpull database
+  extension: .db
+- name: cfo.fsrar.ru-2017-05-31-c4097655.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fsrar/cfo.fsrar.ru-2017-05-31-c4097655/cfo.fsrar.ru-2017-05-31-c4097655.cdx
+  size: 3312779
+  modified: '2017-06-01T12:32:58'
+  type: CDX
+  extension: .cdx
+url: https://cfo.fsrar.ru
+created: '2017-05-31'

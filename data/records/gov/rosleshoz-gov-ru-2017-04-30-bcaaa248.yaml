@@ -1,0 +1,40 @@
+id: rosleshoz-gov-ru-2017-04-30-bcaaa248
+name: rosleshoz.gov.ru (2017-04-30)
+domain: rosleshoz.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: rosleshoz.gov.ru-2017-04-30-bcaaa248-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rosleshoz.gov.ru-2017-04-30-bcaaa248/rosleshoz.gov.ru-2017-04-30-bcaaa248-00000.warc.gz
+  size: 7248624
+  modified: '2017-04-30T07:41:06'
+  type: WARC
+  extension: .warc.gz
+- name: rosleshoz.gov.ru-2017-04-30-bcaaa248.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rosleshoz.gov.ru-2017-04-30-bcaaa248/rosleshoz.gov.ru-2017-04-30-bcaaa248.cdx
+  size: 36677
+  modified: '2017-04-30T07:41:06'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rosleshoz.gov.ru-2017-04-30-bcaaa248/wpull.db
+  size: 45056
+  modified: '2017-04-30T07:41:06'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rosleshoz.gov.ru-2017-04-30-bcaaa248/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-04-30T07:41:06'
+  type: ''
+  extension: .mdb
+- name: rosleshoz.gov.ru-2017-04-30-bcaaa248-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/rosleshoz.gov.ru-2017-04-30-bcaaa248/rosleshoz.gov.ru-2017-04-30-bcaaa248-meta.warc.gz
+  size: 7576
+  modified: '2017-04-30T07:41:06'
+  type: WARC
+  extension: .warc.gz
+url: https://rosleshoz.gov.ru
+created: '2017-04-30'

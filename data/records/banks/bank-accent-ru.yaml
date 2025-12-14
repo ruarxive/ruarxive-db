@@ -1,0 +1,34 @@
+id: bank-accent-ru
+name: bank-accent.ru (2014-05-12)
+domain: bank-accent.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bank-accent.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank-accent.ru/www.bank-accent.ru.warc.xz
+  size: 123419304
+  modified: '2014-05-12T22:57:38'
+  type: WARC
+  extension: .xz
+- name: www.bank-accent.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank-accent.ru/www.bank-accent.ru.log.xz
+  size: 22632
+  modified: '2014-05-12T22:57:38'
+  type: wpull log
+  extension: .xz
+- name: www.bank-accent.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank-accent.ru/www.bank-accent.ru.cdx.xz
+  size: 17376
+  modified: '2014-05-12T22:57:38'
+  type: CDX
+  extension: .xz
+- name: www.bank-accent.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank-accent.ru/www.bank-accent.ru.7z
+  size: 124310155
+  modified: '2014-08-19T18:02:24'
+  type: ''
+  extension: .7z
+url: https://bank-accent.ru
+created: '2014-05-12T22:57:38'

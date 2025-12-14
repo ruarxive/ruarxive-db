@@ -1,0 +1,52 @@
+id: rosgvard-ru-2017-04-04-a2338061
+name: rosgvard.ru (2017-04-04)
+domain: rosgvard.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.rosgvard.ru-2017-04-04-a2338061-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosgvard.ru-2017-04-04-a2338061/www.rosgvard.ru-2017-04-04-a2338061-meta.warc.gz
+  size: 476582
+  modified: '2017-04-05T01:21:57'
+  type: WARC
+  extension: .warc.gz
+- name: www.rosgvard.ru-2017-04-04-a2338061-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosgvard.ru-2017-04-04-a2338061/www.rosgvard.ru-2017-04-04-a2338061-00002.warc.gz
+  size: 976206894
+  modified: '2017-04-05T01:21:56'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosgvard.ru-2017-04-04-a2338061/dupes_db/data.mdb
+  size: 3305472
+  modified: '2017-04-05T01:21:56'
+  type: ''
+  extension: .mdb
+- name: www.rosgvard.ru-2017-04-04-a2338061.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosgvard.ru-2017-04-04-a2338061/www.rosgvard.ru-2017-04-04-a2338061.cdx
+  size: 5472727
+  modified: '2017-04-05T01:21:56'
+  type: CDX
+  extension: .cdx
+- name: www.rosgvard.ru-2017-04-04-a2338061-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosgvard.ru-2017-04-04-a2338061/www.rosgvard.ru-2017-04-04-a2338061-00000.warc.gz
+  size: 5735163333
+  modified: '2017-04-04T23:50:31'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosgvard.ru-2017-04-04-a2338061/wpull.db
+  size: 14167040
+  modified: '2017-04-05T01:21:57'
+  type: wpull database
+  extension: .db
+- name: www.rosgvard.ru-2017-04-04-a2338061-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/gov/www.rosgvard.ru-2017-04-04-a2338061/www.rosgvard.ru-2017-04-04-a2338061-00001.warc.gz
+  size: 5439052756
+  modified: '2017-04-05T00:07:02'
+  type: WARC
+  extension: .warc.gz
+url: https://rosgvard.ru
+created: '2017-04-04'

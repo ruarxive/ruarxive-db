@@ -1,0 +1,40 @@
+id: kdkm-mos-ru-2017-08-20-5483b8cd
+name: kdkm.mos.ru (2017-08-20)
+domain: kdkm.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: kdkm.mos.ru-2017-08-20-5483b8cd.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kdkm.mos.ru-2017-08-20-5483b8cd/kdkm.mos.ru-2017-08-20-5483b8cd.cdx
+  size: 23
+  modified: '2017-08-20T16:20:06'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kdkm.mos.ru-2017-08-20-5483b8cd/wpull.db
+  size: 10240
+  modified: '2017-08-20T16:20:09'
+  type: wpull database
+  extension: .db
+- name: kdkm.mos.ru-2017-08-20-5483b8cd-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kdkm.mos.ru-2017-08-20-5483b8cd/kdkm.mos.ru-2017-08-20-5483b8cd-meta.warc.gz
+  size: 2900
+  modified: '2017-08-20T16:20:09'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kdkm.mos.ru-2017-08-20-5483b8cd/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-08-20T16:20:05'
+  type: ''
+  extension: .mdb
+- name: kdkm.mos.ru-2017-08-20-5483b8cd-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/kdkm.mos.ru-2017-08-20-5483b8cd/kdkm.mos.ru-2017-08-20-5483b8cd-00000.warc.gz
+  size: 2225
+  modified: '2017-08-20T16:20:06'
+  type: WARC
+  extension: .warc.gz
+url: https://kdkm.mos.ru
+created: '2017-08-20'

@@ -1,0 +1,28 @@
+id: djforex-ru
+name: djforex.ru (2013-12-11)
+domain: djforex.ru
+collection:
+  id: ria
+  slug: ria
+  name: РИА Новости
+resources:
+- name: djforex.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/djforex.ru/djforex.ru.cdx.xz
+  size: 108704
+  modified: '2013-12-11T07:47:40'
+  type: CDX
+  extension: .xz
+- name: djforex.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/djforex.ru/djforex.ru.warc.xz
+  size: 995420
+  modified: '2013-12-11T07:47:42'
+  type: WARC
+  extension: .xz
+- name: djforex.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/ria/djforex.ru/djforex.ru.log.xz
+  size: 53552
+  modified: '2013-12-11T07:47:41'
+  type: wpull log
+  extension: .xz
+url: https://djforex.ru
+created: '2013-12-11T07:47:42'

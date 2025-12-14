@@ -1,0 +1,40 @@
+id: 3ma-ahml-ru-2017-05-10-20b1d259
+name: 3ma.ahml.ru (2017-05-10)
+domain: 3ma.ahml.ru
+collection:
+  id: aizhk
+  slug: aizhk
+  name: АИЖК
+resources:
+- name: 3ma.ahml.ru-2017-05-10-20b1d259-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/3ma.ahml.ru-2017-05-10-20b1d259/3ma.ahml.ru-2017-05-10-20b1d259-00000.warc.gz
+  size: 402697393
+  modified: '2017-05-10T08:49:07'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/3ma.ahml.ru-2017-05-10-20b1d259/wpull.db
+  size: 214016
+  modified: '2017-05-10T08:49:07'
+  type: wpull database
+  extension: .db
+- name: 3ma.ahml.ru-2017-05-10-20b1d259.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/3ma.ahml.ru-2017-05-10-20b1d259/3ma.ahml.ru-2017-05-10-20b1d259.cdx
+  size: 194035
+  modified: '2017-05-10T08:49:07'
+  type: CDX
+  extension: .cdx
+- name: 3ma.ahml.ru-2017-05-10-20b1d259-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/3ma.ahml.ru-2017-05-10-20b1d259/3ma.ahml.ru-2017-05-10-20b1d259-meta.warc.gz
+  size: 23180
+  modified: '2017-05-10T08:49:07'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/aizhk/3ma.ahml.ru-2017-05-10-20b1d259/dupes_db/data.mdb
+  size: 163840
+  modified: '2017-05-10T08:49:07'
+  type: ''
+  extension: .mdb
+url: https://3ma.ahml.ru
+created: '2017-05-10'

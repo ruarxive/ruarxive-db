@@ -1,0 +1,36 @@
+id: politics
+slug: politics
+name: Политика
+num_records: 5
+records:
+- id: delo-sps-ru
+  name: delo.sps.ru (2013-12-11)
+  url: https://delo.sps.ru
+  created: '2013-12-11T20:06:52'
+  domain: delo.sps.ru
+- id: derjivora-org
+  name: Держи Вора!
+  url: https://derjivora.org
+  status: собран
+  status_id: collected
+  created: '2022-11-14T14:51:00.000Z'
+  domain: derjivora.org
+- id: parnasparty-ru
+  name: parnasparty.ru (2016-12-19)
+  url: https://parnasparty.ru
+  created: '2016-12-19T18:29:02'
+  domain: parnasparty.ru
+- id: sps-ru
+  name: sps.ru (2013-12-12)
+  url: https://sps.ru
+  created: '2013-12-12T09:49:37'
+  domain: sps.ru
+- id: xn--80aacf1bhw5ag-xn--p1ai
+  name: xn--80aacf1bhw5ag.xn--p1ai (2016-05-06)
+  url: https://xn--80aacf1bhw5ag.xn--p1ai
+  created: '2016-05-06T17:38:07'
+  domain: xn--80aacf1bhw5ag.xn--p1ai
+files:
+  total_count: 101
+  total_size: 16642875472
+  directories: []

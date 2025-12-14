@@ -1,0 +1,40 @@
+id: 73fguz-ru-2017-05-14-bf7ecb6a
+name: 73fguz.ru (2017-05-14)
+domain: 73fguz.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.73fguz.ru-2017-05-14-bf7ecb6a-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.73fguz.ru-2017-05-14-bf7ecb6a/www.73fguz.ru-2017-05-14-bf7ecb6a-meta.warc.gz
+  size: 69263
+  modified: '2017-05-14T14:43:20'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.73fguz.ru-2017-05-14-bf7ecb6a/wpull.db
+  size: 555008
+  modified: '2017-05-14T14:43:19'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.73fguz.ru-2017-05-14-bf7ecb6a/dupes_db/data.mdb
+  size: 344064
+  modified: '2017-05-14T14:43:19'
+  type: ''
+  extension: .mdb
+- name: www.73fguz.ru-2017-05-14-bf7ecb6a.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.73fguz.ru-2017-05-14-bf7ecb6a/www.73fguz.ru-2017-05-14-bf7ecb6a.cdx
+  size: 620261
+  modified: '2017-05-14T14:43:19'
+  type: CDX
+  extension: .cdx
+- name: www.73fguz.ru-2017-05-14-bf7ecb6a-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.73fguz.ru-2017-05-14-bf7ecb6a/www.73fguz.ru-2017-05-14-bf7ecb6a-00000.warc.gz
+  size: 126709838
+  modified: '2017-05-14T14:43:19'
+  type: WARC
+  extension: .warc.gz
+url: https://73fguz.ru
+created: '2017-05-14'

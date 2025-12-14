@@ -1,0 +1,34 @@
+id: kedrbank-cn
+name: kedrbank.cn (2014-05-15)
+domain: kedrbank.cn
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.kedrbank.cn.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.cn/www.kedrbank.cn.7z
+  size: 7152
+  modified: '2014-08-20T10:09:29'
+  type: ''
+  extension: .7z
+- name: www.kedrbank.cn.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.cn/www.kedrbank.cn.cdx.xz
+  size: 324
+  modified: '2014-05-15T07:08:03'
+  type: CDX
+  extension: .xz
+- name: www.kedrbank.cn.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.cn/www.kedrbank.cn.log.xz
+  size: 592
+  modified: '2014-05-15T07:08:03'
+  type: wpull log
+  extension: .xz
+- name: www.kedrbank.cn.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.kedrbank.cn/www.kedrbank.cn.warc.xz
+  size: 9044
+  modified: '2014-05-15T07:08:03'
+  type: WARC
+  extension: .xz
+url: https://kedrbank.cn
+created: '2014-05-15T07:08:03'

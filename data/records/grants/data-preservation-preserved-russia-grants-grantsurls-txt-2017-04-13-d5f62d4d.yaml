@@ -1,0 +1,69 @@
+id: data-preservation-preserved-russia-grants-grantsurls-txt-2017-04-13-d5f62d4d
+name: data-preservation-preserved-russia-grants-grantsurls.txt (2017-04-13)
+domain: data-preservation-preserved-russia-grants-grantsurls.txt
+collection:
+  id: grants
+  slug: grants
+  name: Гранты
+resources:
+- name: home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00001.warc.gz
+  size: 5368785972
+  modified: '2017-04-15T05:42:24'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/dupes_db/data.mdb
+  size: 65507328
+  modified: '2017-04-17T18:32:20'
+  type: ''
+  extension: .mdb
+- name: home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00004.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00004.warc.gz
+  size: 4551724025
+  modified: '2017-04-17T18:32:20'
+  type: WARC
+  extension: .warc.gz
+- name: home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00000.warc.gz
+  size: 5368709933
+  modified: '2017-04-14T08:55:28'
+  type: WARC
+  extension: .warc.gz
+- name: home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00002.warc.gz
+  size: 5368819689
+  modified: '2017-04-16T05:16:53'
+  type: WARC
+  extension: .warc.gz
+- name: home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-00003.warc.gz
+  size: 5368804794
+  modified: '2017-04-17T02:35:05'
+  type: WARC
+  extension: .warc.gz
+- name: home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d.cdx
+  size: 172903663
+  modified: '2017-04-17T18:32:20'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/wpull.db
+  size: 156598272
+  modified: '2017-04-17T18:32:28'
+  type: wpull database
+  extension: .db
+- name: home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d-meta.warc.gz
+  size: 10410878
+  modified: '2017-04-17T18:32:28'
+  type: WARC
+  extension: .warc.gz
+- name: input_file
+  url: https://cdn.ruarxive.org/public/webcollect2017/grants/home-_data-preservation-preserved-russia-grants-grantsurls.txt-2017-04-13-d5f62d4d/input_file
+  size: 694
+  modified: '2017-04-13T13:10:55'
+  type: ''
+url: https://data-preservation-preserved-russia-grants-grantsurls.txt
+created: '2017-04-13'

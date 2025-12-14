@@ -1,0 +1,28 @@
+id: rosoboronpostavka-ru
+name: rosoboronpostavka.ru (2014-09-14)
+domain: rosoboronpostavka.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: www.rosoboronpostavka.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rosoboronpostavka.ru/www.rosoboronpostavka.ru.cdx.xz
+  size: 7745560
+  modified: '2014-09-14T10:20:28'
+  type: CDX
+  extension: .xz
+- name: www.rosoboronpostavka.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rosoboronpostavka.ru/www.rosoboronpostavka.ru.warc.xz
+  size: 287000568
+  modified: '2014-09-14T10:20:29'
+  type: WARC
+  extension: .xz
+- name: www.rosoboronpostavka.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/www.rosoboronpostavka.ru/www.rosoboronpostavka.ru.log.xz
+  size: 3207736
+  modified: '2014-09-14T10:20:30'
+  type: wpull log
+  extension: .xz
+url: https://rosoboronpostavka.ru
+created: '2014-09-14T10:20:29'

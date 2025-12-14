@@ -1,0 +1,28 @@
+id: avtogradbank-ru
+name: avtogradbank.ru (2014-05-15)
+domain: avtogradbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.avtogradbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.avtogradbank.ru/www.avtogradbank.ru.log.xz
+  size: 452
+  modified: '2014-05-15T07:31:26'
+  type: wpull log
+  extension: .xz
+- name: www.avtogradbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.avtogradbank.ru/www.avtogradbank.ru.warc.xz
+  size: 1296
+  modified: '2014-05-15T07:31:26'
+  type: WARC
+  extension: .xz
+- name: www.avtogradbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.avtogradbank.ru/www.avtogradbank.ru.cdx.xz
+  size: 84
+  modified: '2014-05-15T07:08:01'
+  type: CDX
+  extension: .xz
+url: https://avtogradbank.ru
+created: '2014-05-15T07:31:26'

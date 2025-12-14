@@ -1,0 +1,34 @@
+id: tetrapolis-ru
+name: tetrapolis.ru (2014-05-15)
+domain: tetrapolis.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.tetrapolis.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tetrapolis.ru/www.tetrapolis.ru.cdx.xz
+  size: 65748
+  modified: '2014-05-15T07:35:11'
+  type: CDX
+  extension: .xz
+- name: www.tetrapolis.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tetrapolis.ru/www.tetrapolis.ru.warc.xz
+  size: 25147260
+  modified: '2014-05-15T07:35:11'
+  type: WARC
+  extension: .xz
+- name: www.tetrapolis.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tetrapolis.ru/www.tetrapolis.ru.log.xz
+  size: 39704
+  modified: '2014-05-15T07:35:11'
+  type: wpull log
+  extension: .xz
+- name: www.tetrapolis.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tetrapolis.ru/www.tetrapolis.ru.7z
+  size: 25124235
+  modified: '2014-08-19T08:13:57'
+  type: ''
+  extension: .7z
+url: https://tetrapolis.ru
+created: '2014-05-15T07:35:11'

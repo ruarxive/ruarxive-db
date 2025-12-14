@@ -1,0 +1,40 @@
+id: elections-moscow-2017-09-07-495b3061
+name: elections.moscow (2017-09-07)
+domain: elections.moscow
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/elections.moscow-2017-09-07-495b3061/wpull.db
+  size: 448512
+  modified: '2017-09-07T22:17:15'
+  type: wpull database
+  extension: .db
+- name: elections.moscow-2017-09-07-495b3061-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/elections.moscow-2017-09-07-495b3061/elections.moscow-2017-09-07-495b3061-meta.warc.gz
+  size: 31303
+  modified: '2017-09-07T22:17:15'
+  type: WARC
+  extension: .warc.gz
+- name: elections.moscow-2017-09-07-495b3061-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/elections.moscow-2017-09-07-495b3061/elections.moscow-2017-09-07-495b3061-00000.warc.gz
+  size: 5978181
+  modified: '2017-09-07T22:17:15'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/elections.moscow-2017-09-07-495b3061/dupes_db/data.mdb
+  size: 253952
+  modified: '2017-09-07T22:17:15'
+  type: ''
+  extension: .mdb
+- name: elections.moscow-2017-09-07-495b3061.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/elections.moscow-2017-09-07-495b3061/elections.moscow-2017-09-07-495b3061.cdx
+  size: 280571
+  modified: '2017-09-07T22:17:15'
+  type: CDX
+  extension: .cdx
+url: https://elections.moscow
+created: '2017-09-07'

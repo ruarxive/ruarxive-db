@@ -1,0 +1,34 @@
+id: zarech-ru
+name: zarech.ru (2014-05-13)
+domain: zarech.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.zarech.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zarech.ru/www.zarech.ru.7z
+  size: 230638917
+  modified: '2014-08-20T10:24:08'
+  type: ''
+  extension: .7z
+- name: www.zarech.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zarech.ru/www.zarech.ru.cdx.xz
+  size: 58592
+  modified: '2014-05-13T10:10:28'
+  type: CDX
+  extension: .xz
+- name: www.zarech.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zarech.ru/www.zarech.ru.warc.xz
+  size: 230107904
+  modified: '2014-05-13T10:10:28'
+  type: WARC
+  extension: .xz
+- name: www.zarech.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.zarech.ru/www.zarech.ru.log.xz
+  size: 52024
+  modified: '2014-05-13T10:10:28'
+  type: wpull log
+  extension: .xz
+url: https://zarech.ru
+created: '2014-05-13T10:10:28'

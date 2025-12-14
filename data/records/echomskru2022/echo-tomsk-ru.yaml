@@ -1,0 +1,23 @@
+id: echo-tomsk-ru
+name: Сайт Томского Эха Москвы
+url: https://echo.tomsk.ru
+domain: echo.tomsk.ru
+created: '2022-03-04T05:21:01.000Z'
+date: '2022-03-03T05:32:00.000Z'
+status: ожидает загрузки в хранилище
+status_id: awaiting-storage
+resource_type: официальный сайт организации
+resource_type_id: official-site
+reason: Ликвидация организации после отзыва лицензии на вещание у радиостанции
+reason_id: likvidatsiya-organizatsii-posle-otzyva
+strategy: оригинальная база данных
+format: tar.gz
+format_id: targz
+collection:
+  id: echomskru2022
+  name: Эхо Москвы 2022
+  slug: echomskru2022
+source:
+  id: community
+  name: Сообщество
+priority: высокий

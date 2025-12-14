@@ -1,0 +1,16 @@
+id: innovation-gov-ru
+name: innovation.gov.ru (2017-11-30)
+domain: innovation.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: innovation.gov.ru.zip
+  url: https://cdn.ruarxive.org/public/webarchive/gov/innovation.gov.ru/innovation.gov.ru.zip
+  size: 1082646218
+  modified: '2017-11-30T15:16:51'
+  type: Archive.org extraction
+  extension: .zip
+url: https://innovation.gov.ru
+created: '2017-11-30T15:16:51'

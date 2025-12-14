@@ -1,0 +1,34 @@
+id: bank39-ru
+name: bank39.ru (2014-05-15)
+domain: bank39.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bank39.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank39.ru/www.bank39.ru.log.xz
+  size: 37040
+  modified: '2014-05-15T15:40:11'
+  type: wpull log
+  extension: .xz
+- name: www.bank39.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank39.ru/www.bank39.ru.7z
+  size: 62847134
+  modified: '2014-08-19T22:57:31'
+  type: ''
+  extension: .7z
+- name: www.bank39.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank39.ru/www.bank39.ru.cdx.xz
+  size: 52232
+  modified: '2014-05-15T15:40:11'
+  type: CDX
+  extension: .xz
+- name: www.bank39.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bank39.ru/www.bank39.ru.warc.xz
+  size: 62717624
+  modified: '2014-05-15T15:40:11'
+  type: WARC
+  extension: .xz
+url: https://bank39.ru
+created: '2014-05-15T15:40:11'

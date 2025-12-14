@@ -1,0 +1,40 @@
+id: butyrsky-svao-mos-ru-2017-09-15-c0399cb9
+name: butyrsky.svao.mos.ru (2017-09-15)
+domain: butyrsky.svao.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: butyrsky.svao.mos.ru-2017-09-15-c0399cb9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/butyrsky.svao.mos.ru-2017-09-15-c0399cb9/butyrsky.svao.mos.ru-2017-09-15-c0399cb9-meta.warc.gz
+  size: 3015
+  modified: '2017-09-15T12:52:20'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/butyrsky.svao.mos.ru-2017-09-15-c0399cb9/wpull.db
+  size: 10240
+  modified: '2017-09-15T12:52:20'
+  type: wpull database
+  extension: .db
+- name: butyrsky.svao.mos.ru-2017-09-15-c0399cb9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/butyrsky.svao.mos.ru-2017-09-15-c0399cb9/butyrsky.svao.mos.ru-2017-09-15-c0399cb9.cdx
+  size: 23
+  modified: '2017-09-15T12:49:13'
+  type: CDX
+  extension: .cdx
+- name: butyrsky.svao.mos.ru-2017-09-15-c0399cb9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/butyrsky.svao.mos.ru-2017-09-15-c0399cb9/butyrsky.svao.mos.ru-2017-09-15-c0399cb9-00000.warc.gz
+  size: 2243
+  modified: '2017-09-15T12:49:13'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/butyrsky.svao.mos.ru-2017-09-15-c0399cb9/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-09-15T12:49:13'
+  type: ''
+  extension: .mdb
+url: https://butyrsky.svao.mos.ru
+created: '2017-09-15'

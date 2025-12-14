@@ -1,0 +1,40 @@
+id: dzdrav-mos-ru-2017-08-20-9c2adb41
+name: dzdrav.mos.ru (2017-08-20)
+domain: dzdrav.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dzdrav.mos.ru-2017-08-20-9c2adb41/wpull.db
+  size: 210944
+  modified: '2017-08-20T16:31:15'
+  type: wpull database
+  extension: .db
+- name: dzdrav.mos.ru-2017-08-20-9c2adb41-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dzdrav.mos.ru-2017-08-20-9c2adb41/dzdrav.mos.ru-2017-08-20-9c2adb41-meta.warc.gz
+  size: 26478
+  modified: '2017-08-20T16:31:15'
+  type: WARC
+  extension: .warc.gz
+- name: dzdrav.mos.ru-2017-08-20-9c2adb41.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dzdrav.mos.ru-2017-08-20-9c2adb41/dzdrav.mos.ru-2017-08-20-9c2adb41.cdx
+  size: 192273
+  modified: '2017-08-20T16:31:14'
+  type: CDX
+  extension: .cdx
+- name: dzdrav.mos.ru-2017-08-20-9c2adb41-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dzdrav.mos.ru-2017-08-20-9c2adb41/dzdrav.mos.ru-2017-08-20-9c2adb41-00000.warc.gz
+  size: 2864958
+  modified: '2017-08-20T16:31:14'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/dzdrav.mos.ru-2017-08-20-9c2adb41/dupes_db/data.mdb
+  size: 57344
+  modified: '2017-08-20T16:31:10'
+  type: ''
+  extension: .mdb
+url: https://dzdrav.mos.ru
+created: '2017-08-20'

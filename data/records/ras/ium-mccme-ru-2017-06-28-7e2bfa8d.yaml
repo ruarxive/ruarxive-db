@@ -1,0 +1,40 @@
+id: ium-mccme-ru-2017-06-28-7e2bfa8d
+name: ium.mccme.ru (2017-06-28)
+domain: ium.mccme.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ium.mccme.ru-2017-06-28-7e2bfa8d/wpull.db
+  size: 1763328
+  modified: '2017-06-28T21:14:05'
+  type: wpull database
+  extension: .db
+- name: ium.mccme.ru-2017-06-28-7e2bfa8d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ium.mccme.ru-2017-06-28-7e2bfa8d/ium.mccme.ru-2017-06-28-7e2bfa8d.cdx
+  size: 1880446
+  modified: '2017-06-28T21:14:05'
+  type: CDX
+  extension: .cdx
+- name: ium.mccme.ru-2017-06-28-7e2bfa8d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ium.mccme.ru-2017-06-28-7e2bfa8d/ium.mccme.ru-2017-06-28-7e2bfa8d-meta.warc.gz
+  size: 217674
+  modified: '2017-06-28T21:14:06'
+  type: WARC
+  extension: .warc.gz
+- name: ium.mccme.ru-2017-06-28-7e2bfa8d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ium.mccme.ru-2017-06-28-7e2bfa8d/ium.mccme.ru-2017-06-28-7e2bfa8d-00000.warc.gz
+  size: 555800748
+  modified: '2017-06-28T21:14:05'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/ium.mccme.ru-2017-06-28-7e2bfa8d/dupes_db/data.mdb
+  size: 1056768
+  modified: '2017-06-28T21:14:04'
+  type: ''
+  extension: .mdb
+url: https://ium.mccme.ru
+created: '2017-06-28'

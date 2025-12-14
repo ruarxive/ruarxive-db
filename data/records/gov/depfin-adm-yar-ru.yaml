@@ -1,0 +1,28 @@
+id: depfin-adm-yar-ru
+name: depfin.adm.yar.ru (2013-10-11)
+domain: depfin.adm.yar.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: depfin.adm.yar.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/depfin.adm.yar.ru/depfin.adm.yar.ru.warc.xz
+  size: 975346804
+  modified: '2013-10-11T06:43:30'
+  type: WARC
+  extension: .xz
+- name: depfin.adm.yar.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/depfin.adm.yar.ru/depfin.adm.yar.ru.cdx.xz
+  size: 154820
+  modified: '2013-10-11T06:43:10'
+  type: CDX
+  extension: .xz
+- name: depfin.adm.yar.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/depfin.adm.yar.ru/depfin.adm.yar.ru.log.xz
+  size: 203064
+  modified: '2013-10-11T06:43:08'
+  type: wpull log
+  extension: .xz
+url: https://depfin.adm.yar.ru
+created: '2013-10-11T06:43:30'

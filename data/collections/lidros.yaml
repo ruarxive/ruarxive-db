@@ -1,0 +1,15 @@
+id: lidros
+slug: lidros
+name: Лидеры России
+num_records: 1
+records:
+- id: xn--d1achcanypala0j-xn--p1ai-2018-02-13-534cd3f6
+  name: xn--d1achcanypala0j.xn--p1ai (2018-02-13)
+  url: https://xn--d1achcanypala0j.xn--p1ai
+  created: '2018-02-13'
+  domain: xn--d1achcanypala0j.xn--p1ai
+files:
+  total_count: 21
+  total_size: 1320718916
+  directories:
+  - webcollect2017

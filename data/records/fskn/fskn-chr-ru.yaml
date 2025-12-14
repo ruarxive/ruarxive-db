@@ -1,0 +1,34 @@
+id: fskn-chr-ru
+name: fskn-chr.ru (2016-06-06)
+domain: fskn-chr.ru
+collection:
+  id: fskn
+  slug: fskn
+  name: ФСКН
+resources:
+- name: fskn-chr.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn-chr.ru/fskn-chr.ru.cdx
+  size: 965948
+  modified: '2016-06-06T09:41:56'
+  type: CDX
+  extension: .cdx
+- name: fskn-chr.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn-chr.ru/fskn-chr.ru.warc.gz
+  size: 13658516
+  modified: '2016-06-06T09:41:56'
+  type: WARC
+  extension: .warc.gz
+- name: fskn-chr.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn-chr.ru/fskn-chr.ru.7z
+  size: 4289801
+  modified: '2016-09-23T17:57:08'
+  type: ''
+  extension: .7z
+- name: fskn-chr.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/fskn/fskn-chr.ru/fskn-chr.ru.log
+  size: 1658186
+  modified: '2016-06-06T09:41:56'
+  type: ''
+  extension: .log
+url: https://fskn-chr.ru
+created: '2016-06-06T09:41:56'

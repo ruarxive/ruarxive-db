@@ -1,0 +1,34 @@
+id: opendata-crimealib-ru
+name: opendata.crimealib.ru (2017-02-18)
+domain: opendata.crimealib.ru
+collection:
+  id: opengov2017
+  slug: opengov2017
+  name: Открытое правительство РФ 2017
+resources:
+- name: opendata.crimealib.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.crimealib.ru/opendata.crimealib.ru.log
+  size: 257008
+  modified: '2017-02-18T15:34:59'
+  type: ''
+  extension: .log
+- name: opendata.crimealib.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.crimealib.ru/opendata.crimealib.ru.warc.gz
+  size: 2243402
+  modified: '2017-02-18T15:34:59'
+  type: WARC
+  extension: .warc.gz
+- name: opendata.crimealib.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.crimealib.ru/opendata.crimealib.ru.7z
+  size: 711278
+  modified: '2017-02-23T09:25:54'
+  type: ''
+  extension: .7z
+- name: opendata.crimealib.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/opengov2017/opendata.crimealib.ru/opendata.crimealib.ru.cdx
+  size: 159616
+  modified: '2017-02-18T15:34:59'
+  type: CDX
+  extension: .cdx
+url: https://opendata.crimealib.ru
+created: '2017-02-18T15:34:59'

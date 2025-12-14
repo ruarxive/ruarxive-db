@@ -1,0 +1,34 @@
+id: sovetnational-ru
+name: sovetnational.ru (2015-12-27)
+domain: sovetnational.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: sovetnational.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/sovetnational.ru/sovetnational.ru.log
+  size: 102545
+  modified: '2015-12-27T11:14:19'
+  type: ''
+  extension: .log
+- name: sovetnational.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/sovetnational.ru/sovetnational.ru.warc.xz
+  size: 3700876
+  modified: '2015-12-27T11:14:19'
+  type: WARC
+  extension: .xz
+- name: sovetnational.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/sovetnational.ru/sovetnational.ru.cdx
+  size: 76956
+  modified: '2015-12-27T11:14:19'
+  type: CDX
+  extension: .cdx
+- name: sovetnational.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/sovetnational.ru/sovetnational.ru.7z
+  size: 3670593
+  modified: '2016-04-30T10:01:27'
+  type: ''
+  extension: .7z
+url: https://sovetnational.ru
+created: '2015-12-27T11:14:19'

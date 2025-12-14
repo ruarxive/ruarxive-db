@@ -1,0 +1,85 @@
+id: education
+slug: education
+name: Образование
+num_records: 15
+records:
+- id: edugalaxy-intel-ru-2017-07-03-cdb56b1e
+  name: edugalaxy.intel.ru (2017-07-03)
+  url: https://edugalaxy.intel.ru
+  created: '2017-07-03'
+  domain: edugalaxy.intel.ru
+- id: fgosreestr-ru-2017-07-06-b49e19d2
+  name: fgosreestr.ru (2017-07-06)
+  url: https://fgosreestr.ru
+  created: '2017-07-06'
+  domain: fgosreestr.ru
+- id: fgosvo-ru-2017-07-06-6d5dadde
+  name: fgosvo.ru (2017-07-06)
+  url: https://fgosvo.ru
+  created: '2017-07-06'
+  domain: fgosvo.ru
+- id: fipi-ru-2017-07-05-82153b90
+  name: fipi.ru (2017-07-05)
+  url: https://fipi.ru
+  created: '2017-07-05'
+  domain: fipi.ru
+- id: it-n-ru-2017-06-18-d7f528e9
+  name: it-n.ru (2017-06-18)
+  url: https://it-n.ru
+  created: '2017-06-18'
+  domain: it-n.ru
+- id: mapofscience-org
+  name: mapofscience.org (2013-12-10)
+  url: https://mapofscience.org
+  created: '2013-12-10T07:59:34'
+  domain: mapofscience.org
+- id: miccedu-ru
+  name: miccedu.ru (2013-12-10)
+  url: https://miccedu.ru
+  created: '2013-12-10T07:53:30'
+  domain: miccedu.ru
+- id: oldvak-ed-gov-ru-2017-05-27-d80d9167
+  name: oldvak.ed.gov.ru (2017-05-27)
+  url: https://oldvak.ed.gov.ru
+  created: '2017-05-27'
+  domain: oldvak.ed.gov.ru
+- id: perechen-vak2-ed-gov-ru-2017-05-27-88f03216
+  name: perechen.vak2.ed.gov.ru (2017-05-27)
+  url: https://perechen.vak2.ed.gov.ru
+  created: '2017-05-27'
+  domain: perechen.vak2.ed.gov.ru
+- id: phorum-fgosvo-ru-2017-07-06-d25526f2
+  name: phorum.fgosvo.ru (2017-07-06)
+  url: https://phorum.fgosvo.ru
+  created: '2017-07-06'
+  domain: phorum.fgosvo.ru
+- id: reestr-fgosvo-ru-2017-07-06-75284049
+  name: reestr.fgosvo.ru (2017-07-06)
+  url: https://reestr.fgosvo.ru
+  created: '2017-07-06'
+  domain: reestr.fgosvo.ru
+- id: vak-ed-gov-ru-2017-05-27-99fb79b8
+  name: vak.ed.gov.ru (2017-05-27)
+  url: https://vak.ed.gov.ru
+  created: '2017-05-27'
+  domain: vak.ed.gov.ru
+- id: vak1-ed-gov-ru-2017-05-27-9084da47
+  name: vak1.ed.gov.ru (2017-05-27)
+  url: https://vak1.ed.gov.ru
+  created: '2017-05-27'
+  domain: vak1.ed.gov.ru
+- id: vak2-ed-gov-ru-2017-05-27-fb96abf5
+  name: vak2.ed.gov.ru (2017-05-27)
+  url: https://vak2.ed.gov.ru
+  created: '2017-05-27'
+  domain: vak2.ed.gov.ru
+- id: xn--90aabgeg4den5ab6esa-xn--p1ai-2017-07-05-88af4fb1
+  name: xn--90aabgeg4den5ab6esa.xn--p1ai (2017-07-05)
+  url: https://xn--90aabgeg4den5ab6esa.xn--p1ai
+  created: '2017-07-05'
+  domain: xn--90aabgeg4den5ab6esa.xn--p1ai
+files:
+  total_count: 297
+  total_size: 74513824106
+  directories:
+  - webcollect2017

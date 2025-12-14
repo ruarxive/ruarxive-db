@@ -1,0 +1,28 @@
+id: asfncorp-com
+name: asfncorp.com (2013-11-04)
+domain: asfncorp.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: asfncorp.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/asfncorp.com/asfncorp.com.warc.xz
+  size: 1572
+  modified: '2013-11-04T16:48:04'
+  type: WARC
+  extension: .xz
+- name: asfncorp.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/asfncorp.com/asfncorp.com.log.xz
+  size: 468
+  modified: '2013-11-04T16:48:03'
+  type: wpull log
+  extension: .xz
+- name: asfncorp.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/asfncorp.com/asfncorp.com.cdx.xz
+  size: 240
+  modified: '2013-11-04T16:48:04'
+  type: CDX
+  extension: .xz
+url: https://asfncorp.com
+created: '2013-11-04T16:48:04'

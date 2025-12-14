@@ -1,0 +1,34 @@
+id: data-gov-ru
+name: data.gov.ru (2017-02-21)
+domain: data.gov.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: data.gov.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.ru/data.gov.ru.cdx
+  size: 46066072
+  modified: '2017-02-21T15:43:12'
+  type: CDX
+  extension: .cdx
+- name: data.gov.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.ru/data.gov.ru.log
+  size: 134376391
+  modified: '2017-02-21T15:43:12'
+  type: ''
+  extension: .log
+- name: data.gov.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.ru/data.gov.ru.7z
+  size: 28098483042
+  modified: '2017-04-28T16:42:42'
+  type: ''
+  extension: .7z
+- name: data.gov.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/data.gov.ru/data.gov.ru.warc.gz
+  size: 30105202057
+  modified: '2017-02-21T15:43:13'
+  type: WARC
+  extension: .warc.gz
+url: https://data.gov.ru
+created: '2017-02-21T15:43:13'

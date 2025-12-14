@@ -1,0 +1,16 @@
+id: gfs-ru
+name: gfs.ru.7z (2012-10-22)
+domain: gfs.ru.7z
+collection:
+  id: webcollect
+  slug: webcollect
+  name: Архивные коллекции файлов (httrack)
+resources:
+- name: gfs.ru.7z
+  url: https://cdn.ruarxive.org/public/mirrors/gfs.ru.7z
+  size: 33717812
+  modified: '2012-10-22T09:45:55'
+  type: httrack archive
+  extension: .7z
+url: https://gfs.ru.7z
+created: '2012-10-22T09:45:55'

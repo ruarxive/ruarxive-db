@@ -1,0 +1,34 @@
+id: tempbank-ru
+name: tempbank.ru (2014-05-08)
+domain: tempbank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.tempbank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tempbank.ru/www.tempbank.ru.7z
+  size: 148782319
+  modified: '2014-08-20T10:06:59'
+  type: ''
+  extension: .7z
+- name: www.tempbank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tempbank.ru/www.tempbank.ru.cdx.xz
+  size: 89144
+  modified: '2014-05-08T19:13:35'
+  type: CDX
+  extension: .xz
+- name: www.tempbank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tempbank.ru/www.tempbank.ru.warc.xz
+  size: 148675728
+  modified: '2014-05-08T19:13:35'
+  type: WARC
+  extension: .xz
+- name: www.tempbank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.tempbank.ru/www.tempbank.ru.log.xz
+  size: 63720
+  modified: '2014-05-08T19:13:35'
+  type: wpull log
+  extension: .xz
+url: https://tempbank.ru
+created: '2014-05-08T19:13:35'

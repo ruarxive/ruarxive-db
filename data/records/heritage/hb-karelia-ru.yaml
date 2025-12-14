@@ -1,0 +1,28 @@
+id: hb-karelia-ru
+name: hb.karelia.ru (2013-12-17)
+domain: hb.karelia.ru
+collection:
+  id: heritage
+  slug: heritage
+  name: Наследие
+resources:
+- name: hb.karelia.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/hb.karelia.ru/hb.karelia.ru.warc.xz
+  size: 14154672
+  modified: '2013-12-17T13:31:24'
+  type: WARC
+  extension: .xz
+- name: hb.karelia.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/hb.karelia.ru/hb.karelia.ru.log.xz
+  size: 7036
+  modified: '2013-12-17T13:31:23'
+  type: wpull log
+  extension: .xz
+- name: hb.karelia.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/heritage/hb.karelia.ru/hb.karelia.ru.cdx.xz
+  size: 8304
+  modified: '2013-12-17T13:31:23'
+  type: CDX
+  extension: .xz
+url: https://hb.karelia.ru
+created: '2013-12-17T13:31:24'

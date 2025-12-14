@@ -1,0 +1,34 @@
+id: pr-bank-ru
+name: pr-bank.ru (2014-05-15)
+domain: pr-bank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.pr-bank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pr-bank.ru/www.pr-bank.ru.cdx.xz
+  size: 320
+  modified: '2014-05-15T16:19:41'
+  type: CDX
+  extension: .xz
+- name: www.pr-bank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pr-bank.ru/www.pr-bank.ru.warc.xz
+  size: 3780
+  modified: '2014-05-15T16:19:41'
+  type: WARC
+  extension: .xz
+- name: www.pr-bank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pr-bank.ru/www.pr-bank.ru.7z
+  size: 2103
+  modified: '2014-08-19T21:44:59'
+  type: ''
+  extension: .7z
+- name: www.pr-bank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.pr-bank.ru/www.pr-bank.ru.log.xz
+  size: 572
+  modified: '2014-05-15T16:19:41'
+  type: wpull log
+  extension: .xz
+url: https://pr-bank.ru
+created: '2014-05-15T16:19:41'

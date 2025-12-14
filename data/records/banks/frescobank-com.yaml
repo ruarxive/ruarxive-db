@@ -1,0 +1,34 @@
+id: frescobank-com
+name: frescobank.com (2014-05-14)
+domain: frescobank.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.frescobank.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.frescobank.com/www.frescobank.com.log.xz
+  size: 20220
+  modified: '2014-05-14T17:59:35'
+  type: wpull log
+  extension: .xz
+- name: www.frescobank.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.frescobank.com/www.frescobank.com.warc.xz
+  size: 26009180
+  modified: '2014-05-14T17:59:35'
+  type: WARC
+  extension: .xz
+- name: www.frescobank.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.frescobank.com/www.frescobank.com.7z
+  size: 26026192
+  modified: '2014-08-19T07:24:34'
+  type: ''
+  extension: .7z
+- name: www.frescobank.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.frescobank.com/www.frescobank.com.cdx.xz
+  size: 26952
+  modified: '2014-05-14T17:59:35'
+  type: CDX
+  extension: .xz
+url: https://frescobank.com
+created: '2014-05-14T17:59:35'

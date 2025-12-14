@@ -1,0 +1,40 @@
+id: transport2018-com-2017-04-04-8f90cbd4
+name: transport2018.com (2017-04-04)
+domain: transport2018.com
+collection:
+  id: fifa2018
+  slug: fifa2018
+  name: FIFA 2018
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/transport2018.com-2017-04-04-8f90cbd4/wpull.db
+  size: 1096704
+  modified: '2017-04-04T12:51:41'
+  type: wpull database
+  extension: .db
+- name: transport2018.com-2017-04-04-8f90cbd4-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/transport2018.com-2017-04-04-8f90cbd4/transport2018.com-2017-04-04-8f90cbd4-00000.warc.gz
+  size: 667461488
+  modified: '2017-04-04T12:51:41'
+  type: WARC
+  extension: .warc.gz
+- name: transport2018.com-2017-04-04-8f90cbd4-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/transport2018.com-2017-04-04-8f90cbd4/transport2018.com-2017-04-04-8f90cbd4-meta.warc.gz
+  size: 118924
+  modified: '2017-04-04T12:51:41'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/transport2018.com-2017-04-04-8f90cbd4/dupes_db/data.mdb
+  size: 458752
+  modified: '2017-04-04T12:51:39'
+  type: ''
+  extension: .mdb
+- name: transport2018.com-2017-04-04-8f90cbd4.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fifa2018/transport2018.com-2017-04-04-8f90cbd4/transport2018.com-2017-04-04-8f90cbd4.cdx
+  size: 961070
+  modified: '2017-04-04T12:51:41'
+  type: CDX
+  extension: .cdx
+url: https://transport2018.com
+created: '2017-04-04'

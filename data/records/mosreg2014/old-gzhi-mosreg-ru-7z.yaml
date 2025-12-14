@@ -1,0 +1,16 @@
+id: old-gzhi-mosreg-ru-7z
+name: old.gzhi.mosreg.ru.7z (2017-05-06)
+domain: old.gzhi.mosreg.ru.7z
+collection:
+  id: mosreg2014
+  slug: mosreg2014
+  name: Региональное правительство Москвы 2014
+resources:
+- name: old.gzhi.mosreg.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/mosreg2014/old.gzhi.mosreg.ru.7z
+  size: 20479174
+  modified: '2017-05-06T10:07:32'
+  type: ''
+  extension: .7z
+url: https://old.gzhi.mosreg.ru.7z
+created: '2017-05-06T10:07:32'

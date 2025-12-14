@@ -1,0 +1,22 @@
+id: sergey-mavrodi-com
+name: sergey-mavrodi.com (2013-12-11)
+domain: sergey-mavrodi.com
+collection:
+  id: mmm
+  slug: mmm
+  name: МММ
+resources:
+- name: sergey-mavrodi.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/sergey-mavrodi.com/sergey-mavrodi.com.cdx.xz
+  size: 6151192
+  modified: '2013-12-11T22:40:33'
+  type: CDX
+  extension: .xz
+- name: sergey-mavrodi.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/mmm/sergey-mavrodi.com/sergey-mavrodi.com.log.xz
+  size: 3877708
+  modified: '2013-12-11T22:48:54'
+  type: wpull log
+  extension: .xz
+url: https://sergey-mavrodi.com
+created: '2013-12-11T22:40:33'

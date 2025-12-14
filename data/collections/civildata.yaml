@@ -1,0 +1,15 @@
+id: civildata
+slug: civildata
+name: Общественная интернет-статистика
+num_records: 1
+records:
+- id: webcensus-ru-2017-05-25-7c2ed8e4
+  name: webcensus.ru (2017-05-25)
+  url: https://webcensus.ru
+  created: '2017-05-25'
+  domain: webcensus.ru
+files:
+  total_count: 24
+  total_size: 800978572
+  directories:
+  - webcollect2017

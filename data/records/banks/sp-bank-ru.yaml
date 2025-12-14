@@ -1,0 +1,40 @@
+id: sp-bank-ru
+name: sp-bank.ru (2013-12-17)
+domain: sp-bank.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.sp-bank.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sp-bank.ru/www.sp-bank.ru.cdx.xz
+  size: 9940
+  modified: '2014-05-10T20:08:23'
+  type: CDX
+  extension: .xz
+- name: www.sp-bank.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sp-bank.ru/www.sp-bank.ru.warc.xz
+  size: 32146792
+  modified: '2014-05-10T20:08:23'
+  type: WARC
+  extension: .xz
+- name: www.sp-bank.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sp-bank.ru/www.sp-bank.ru.7z
+  size: 32294095
+  modified: '2014-08-20T01:07:06'
+  type: ''
+  extension: .7z
+- name: www.sp-bank.ru.warc
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sp-bank.ru/www.sp-bank.ru.warc
+  size: 36088065
+  modified: '2013-12-17T17:20:46'
+  type: WARC
+  extension: .warc
+- name: www.sp-bank.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.sp-bank.ru/www.sp-bank.ru.log.xz
+  size: 10976
+  modified: '2014-05-10T20:08:23'
+  type: wpull log
+  extension: .xz
+url: https://sp-bank.ru
+created: '2013-12-17T17:20:46'

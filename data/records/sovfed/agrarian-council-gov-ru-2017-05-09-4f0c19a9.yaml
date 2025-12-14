@@ -1,0 +1,40 @@
+id: agrarian-council-gov-ru-2017-05-09-4f0c19a9
+name: agrarian.council.gov.ru (2017-05-09)
+domain: agrarian.council.gov.ru
+collection:
+  id: sovfed
+  slug: sovfed
+  name: Совет Федерации
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/agrarian.council.gov.ru-2017-05-09-4f0c19a9/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-05-09T20:22:56'
+  type: ''
+  extension: .mdb
+- name: agrarian.council.gov.ru-2017-05-09-4f0c19a9-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/agrarian.council.gov.ru-2017-05-09-4f0c19a9/agrarian.council.gov.ru-2017-05-09-4f0c19a9-meta.warc.gz
+  size: 14190
+  modified: '2017-05-09T20:22:56'
+  type: WARC
+  extension: .warc.gz
+- name: agrarian.council.gov.ru-2017-05-09-4f0c19a9-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/agrarian.council.gov.ru-2017-05-09-4f0c19a9/agrarian.council.gov.ru-2017-05-09-4f0c19a9-00000.warc.gz
+  size: 4460460
+  modified: '2017-05-09T20:22:56'
+  type: WARC
+  extension: .warc.gz
+- name: agrarian.council.gov.ru-2017-05-09-4f0c19a9.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/agrarian.council.gov.ru-2017-05-09-4f0c19a9/agrarian.council.gov.ru-2017-05-09-4f0c19a9.cdx
+  size: 67989
+  modified: '2017-05-09T20:22:56'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/sovfed/agrarian.council.gov.ru-2017-05-09-4f0c19a9/wpull.db
+  size: 84992
+  modified: '2017-05-09T20:22:56'
+  type: wpull database
+  extension: .db
+url: https://agrarian.council.gov.ru
+created: '2017-05-09'

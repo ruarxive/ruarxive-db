@@ -1,0 +1,40 @@
+id: protivochumcentr-ru-2017-05-14-620eda73
+name: protivochumcentr.ru (2017-05-14)
+domain: protivochumcentr.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/protivochumcentr.ru-2017-05-14-620eda73/wpull.db
+  size: 156672
+  modified: '2017-05-14T14:11:42'
+  type: wpull database
+  extension: .db
+- name: protivochumcentr.ru-2017-05-14-620eda73-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/protivochumcentr.ru-2017-05-14-620eda73/protivochumcentr.ru-2017-05-14-620eda73-00000.warc.gz
+  size: 2653255
+  modified: '2017-05-14T14:11:42'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/protivochumcentr.ru-2017-05-14-620eda73/dupes_db/data.mdb
+  size: 98304
+  modified: '2017-05-14T14:11:29'
+  type: ''
+  extension: .mdb
+- name: protivochumcentr.ru-2017-05-14-620eda73-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/protivochumcentr.ru-2017-05-14-620eda73/protivochumcentr.ru-2017-05-14-620eda73-meta.warc.gz
+  size: 18514
+  modified: '2017-05-14T14:11:42'
+  type: WARC
+  extension: .warc.gz
+- name: protivochumcentr.ru-2017-05-14-620eda73.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/protivochumcentr.ru-2017-05-14-620eda73/protivochumcentr.ru-2017-05-14-620eda73.cdx
+  size: 140032
+  modified: '2017-05-14T14:11:42'
+  type: CDX
+  extension: .cdx
+url: https://protivochumcentr.ru
+created: '2017-05-14'

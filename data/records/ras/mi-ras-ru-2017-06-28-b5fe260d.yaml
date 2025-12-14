@@ -1,0 +1,40 @@
+id: mi-ras-ru-2017-06-28-b5fe260d
+name: mi.ras.ru (2017-06-28)
+domain: mi.ras.ru
+collection:
+  id: ras
+  slug: ras
+  name: Российская академия наук
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mi.ras.ru-2017-06-28-b5fe260d/dupes_db/data.mdb
+  size: 1777664
+  modified: '2017-06-29T03:59:44'
+  type: ''
+  extension: .mdb
+- name: www.mi.ras.ru-2017-06-28-b5fe260d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mi.ras.ru-2017-06-28-b5fe260d/www.mi.ras.ru-2017-06-28-b5fe260d-00000.warc.gz
+  size: 1740845801
+  modified: '2017-06-29T03:59:44'
+  type: WARC
+  extension: .warc.gz
+- name: www.mi.ras.ru-2017-06-28-b5fe260d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mi.ras.ru-2017-06-28-b5fe260d/www.mi.ras.ru-2017-06-28-b5fe260d.cdx
+  size: 3166651
+  modified: '2017-06-29T03:59:44'
+  type: CDX
+  extension: .cdx
+- name: www.mi.ras.ru-2017-06-28-b5fe260d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mi.ras.ru-2017-06-28-b5fe260d/www.mi.ras.ru-2017-06-28-b5fe260d-meta.warc.gz
+  size: 345162
+  modified: '2017-06-29T03:59:44'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/ras/www.mi.ras.ru-2017-06-28-b5fe260d/wpull.db
+  size: 3442688
+  modified: '2017-06-29T03:59:44'
+  type: wpull database
+  extension: .db
+url: https://mi.ras.ru
+created: '2017-06-28'

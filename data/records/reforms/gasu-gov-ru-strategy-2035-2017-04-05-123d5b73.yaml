@@ -1,0 +1,40 @@
+id: gasu-gov-ru-strategy-2035-2017-04-05-123d5b73
+name: gasu.gov.ru-strategy-2035 (2017-04-05)
+domain: gasu.gov.ru-strategy-2035
+collection:
+  id: reforms
+  slug: reforms
+  name: Реформы
+resources:
+- name: gasu.gov.ru-strategy-2035-2017-04-05-123d5b73-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/gasu.gov.ru-strategy-2035-2017-04-05-123d5b73/gasu.gov.ru-strategy-2035-2017-04-05-123d5b73-00000.warc.gz
+  size: 55366812
+  modified: '2017-04-05T06:26:21'
+  type: WARC
+  extension: .warc.gz
+- name: gasu.gov.ru-strategy-2035-2017-04-05-123d5b73-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/gasu.gov.ru-strategy-2035-2017-04-05-123d5b73/gasu.gov.ru-strategy-2035-2017-04-05-123d5b73-meta.warc.gz
+  size: 270920
+  modified: '2017-04-05T06:26:22'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/gasu.gov.ru-strategy-2035-2017-04-05-123d5b73/wpull.db
+  size: 3227648
+  modified: '2017-04-05T06:26:22'
+  type: wpull database
+  extension: .db
+- name: gasu.gov.ru-strategy-2035-2017-04-05-123d5b73.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/gasu.gov.ru-strategy-2035-2017-04-05-123d5b73/gasu.gov.ru-strategy-2035-2017-04-05-123d5b73.cdx
+  size: 3112822
+  modified: '2017-04-05T06:26:21'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/reforms/gasu.gov.ru-strategy-2035-2017-04-05-123d5b73/dupes_db/data.mdb
+  size: 413696
+  modified: '2017-04-05T06:26:21'
+  type: ''
+  extension: .mdb
+url: https://gasu.gov.ru-strategy-2035
+created: '2017-04-05'

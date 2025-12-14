@@ -1,0 +1,28 @@
+id: energobusiness-com
+name: energobusiness.com (2014-03-26)
+domain: energobusiness.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.energobusiness.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energobusiness.com/www.energobusiness.com.warc.xz
+  size: 274424
+  modified: '2014-03-26T10:15:37'
+  type: WARC
+  extension: .xz
+- name: www.energobusiness.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energobusiness.com/www.energobusiness.com.cdx.xz
+  size: 1936
+  modified: '2014-03-26T10:15:37'
+  type: CDX
+  extension: .xz
+- name: www.energobusiness.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.energobusiness.com/www.energobusiness.com.log.xz
+  size: 1628
+  modified: '2014-03-26T10:15:37'
+  type: wpull log
+  extension: .xz
+url: https://energobusiness.com
+created: '2014-03-26T10:15:37'

@@ -1,0 +1,40 @@
+id: formodernization-economy-gov-ru-2017-08-09-3d9a7b2d
+name: formodernization.economy.gov.ru (2017-08-09)
+domain: formodernization.economy.gov.ru
+collection:
+  id: fedmineconom
+  slug: fedmineconom
+  name: Министерство экономического развития РФ
+resources:
+- name: formodernization.economy.gov.ru-2017-08-09-3d9a7b2d-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/formodernization.economy.gov.ru-2017-08-09-3d9a7b2d/formodernization.economy.gov.ru-2017-08-09-3d9a7b2d-meta.warc.gz
+  size: 31612
+  modified: '2017-08-10T00:46:33'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/formodernization.economy.gov.ru-2017-08-09-3d9a7b2d/wpull.db
+  size: 931840
+  modified: '2017-08-10T00:46:27'
+  type: wpull database
+  extension: .db
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/formodernization.economy.gov.ru-2017-08-09-3d9a7b2d/dupes_db/data.mdb
+  size: 126976
+  modified: '2017-08-10T00:46:23'
+  type: ''
+  extension: .mdb
+- name: formodernization.economy.gov.ru-2017-08-09-3d9a7b2d-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/formodernization.economy.gov.ru-2017-08-09-3d9a7b2d/formodernization.economy.gov.ru-2017-08-09-3d9a7b2d-00000.warc.gz
+  size: 30160315
+  modified: '2017-08-10T00:46:27'
+  type: WARC
+  extension: .warc.gz
+- name: formodernization.economy.gov.ru-2017-08-09-3d9a7b2d.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/fedmineconom/formodernization.economy.gov.ru-2017-08-09-3d9a7b2d/formodernization.economy.gov.ru-2017-08-09-3d9a7b2d.cdx
+  size: 155615
+  modified: '2017-08-10T00:46:27'
+  type: CDX
+  extension: .cdx
+url: https://formodernization.economy.gov.ru
+created: '2017-08-09'

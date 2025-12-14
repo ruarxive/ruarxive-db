@@ -1,0 +1,40 @@
+id: housing-mos-ru-2017-08-09-4686d588
+name: housing.mos.ru (2017-08-09)
+domain: housing.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/housing.mos.ru-2017-08-09-4686d588/dupes_db/data.mdb
+  size: 73728
+  modified: '2017-08-09T15:25:26'
+  type: ''
+  extension: .mdb
+- name: housing.mos.ru-2017-08-09-4686d588-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/housing.mos.ru-2017-08-09-4686d588/housing.mos.ru-2017-08-09-4686d588-00000.warc.gz
+  size: 6377347
+  modified: '2017-08-09T15:25:48'
+  type: WARC
+  extension: .warc.gz
+- name: housing.mos.ru-2017-08-09-4686d588-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/housing.mos.ru-2017-08-09-4686d588/housing.mos.ru-2017-08-09-4686d588-meta.warc.gz
+  size: 11557
+  modified: '2017-08-09T15:26:09'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/housing.mos.ru-2017-08-09-4686d588/wpull.db
+  size: 73728
+  modified: '2017-08-09T15:26:09'
+  type: wpull database
+  extension: .db
+- name: housing.mos.ru-2017-08-09-4686d588.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/housing.mos.ru-2017-08-09-4686d588/housing.mos.ru-2017-08-09-4686d588.cdx
+  size: 57419
+  modified: '2017-08-09T15:25:48'
+  type: CDX
+  extension: .cdx
+url: https://housing.mos.ru
+created: '2017-08-09'

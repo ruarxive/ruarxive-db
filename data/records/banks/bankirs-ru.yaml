@@ -1,0 +1,34 @@
+id: bankirs-ru
+name: bankirs.ru (2014-05-09)
+domain: bankirs.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.bankirs.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankirs.ru/www.bankirs.ru.cdx.xz
+  size: 447932
+  modified: '2014-05-09T21:17:40'
+  type: CDX
+  extension: .xz
+- name: www.bankirs.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankirs.ru/www.bankirs.ru.warc.xz
+  size: 16802268
+  modified: '2014-05-09T21:17:40'
+  type: WARC
+  extension: .xz
+- name: www.bankirs.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankirs.ru/www.bankirs.ru.7z
+  size: 15514875
+  modified: '2014-08-19T07:20:08'
+  type: ''
+  extension: .7z
+- name: www.bankirs.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.bankirs.ru/www.bankirs.ru.log.xz
+  size: 278996
+  modified: '2014-05-09T21:17:40'
+  type: wpull log
+  extension: .xz
+url: https://bankirs.ru
+created: '2014-05-09T21:17:40'

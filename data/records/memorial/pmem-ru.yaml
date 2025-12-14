@@ -1,0 +1,34 @@
+id: pmem-ru
+name: pmem.ru (2014-08-03)
+domain: pmem.ru
+collection:
+  id: memorial
+  slug: memorial
+  name: Мемориал
+resources:
+- name: www.pmem.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.pmem.ru/www.pmem.ru.log.xz
+  size: 95976
+  modified: '2014-08-03T03:48:23'
+  type: wpull log
+  extension: .xz
+- name: www.pmem.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.pmem.ru/www.pmem.ru.7z
+  size: 731293945
+  modified: '2014-08-09T17:28:03'
+  type: ''
+  extension: .7z
+- name: www.pmem.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.pmem.ru/www.pmem.ru.warc.xz
+  size: 726690664
+  modified: '2014-08-03T03:48:23'
+  type: WARC
+  extension: .xz
+- name: www.pmem.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/memorial/www.pmem.ru/www.pmem.ru.cdx.xz
+  size: 78068
+  modified: '2014-08-03T03:48:23'
+  type: CDX
+  extension: .xz
+url: https://pmem.ru
+created: '2014-08-03T03:48:23'

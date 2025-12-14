@@ -1,0 +1,40 @@
+id: vladprok-ru-2017-04-03-d6d28ce6
+name: vladprok.ru (2017-04-03)
+domain: vladprok.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.vladprok.ru-2017-04-03-d6d28ce6/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-04-03T19:09:26'
+  type: ''
+  extension: .mdb
+- name: www.vladprok.ru-2017-04-03-d6d28ce6-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.vladprok.ru-2017-04-03-d6d28ce6/www.vladprok.ru-2017-04-03-d6d28ce6-00000.warc.gz
+  size: 20495
+  modified: '2017-04-03T19:09:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.vladprok.ru-2017-04-03-d6d28ce6-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.vladprok.ru-2017-04-03-d6d28ce6/www.vladprok.ru-2017-04-03-d6d28ce6-meta.warc.gz
+  size: 2972
+  modified: '2017-04-03T19:09:41'
+  type: WARC
+  extension: .warc.gz
+- name: www.vladprok.ru-2017-04-03-d6d28ce6.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.vladprok.ru-2017-04-03-d6d28ce6/www.vladprok.ru-2017-04-03-d6d28ce6.cdx
+  size: 1711
+  modified: '2017-04-03T19:09:41'
+  type: CDX
+  extension: .cdx
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.vladprok.ru-2017-04-03-d6d28ce6/wpull.db
+  size: 10240
+  modified: '2017-04-03T19:09:41'
+  type: wpull database
+  extension: .db
+url: https://vladprok.ru
+created: '2017-04-03'

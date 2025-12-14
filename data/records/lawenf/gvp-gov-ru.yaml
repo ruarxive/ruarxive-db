@@ -1,0 +1,28 @@
+id: gvp-gov-ru
+name: gvp.gov.ru (2014-01-21)
+domain: gvp.gov.ru
+collection:
+  id: lawenf
+  slug: lawenf
+  name: Правоохранительные органы
+resources:
+- name: gvp.gov.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/gvp.gov.ru/gvp.gov.ru.warc.xz
+  size: 20731348
+  modified: '2014-01-21T06:56:06'
+  type: WARC
+  extension: .xz
+- name: gvp.gov.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/gvp.gov.ru/gvp.gov.ru.cdx.xz
+  size: 253788
+  modified: '2014-01-21T06:56:05'
+  type: CDX
+  extension: .xz
+- name: gvp.gov.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/lawenf/gvp.gov.ru/gvp.gov.ru.log.xz
+  size: 95096
+  modified: '2014-01-21T06:56:16'
+  type: wpull log
+  extension: .xz
+url: https://gvp.gov.ru
+created: '2014-01-21T06:56:06'

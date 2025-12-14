@@ -1,0 +1,32 @@
+id: t-me-6
+name: Телеграм Канал Новой Газеты
+domain: t.me
+created: '2022-03-04T05:21:20.000Z'
+date: '2022-04-08T05:32:00.000Z'
+status: собран
+status_id: collected
+resource_type: телеграм канал
+resource_type_id: telegram
+reason: Высокая вероятность блокировки в России и иных мер после предупреждения Роскомнадзора
+  в начале марта 2022 года.
+reason_id: high-blocking-risk-1
+strategy: архивация Telegram канала
+tools:
+- telegram desktop
+format: zip
+format_id: zip
+collection:
+  id: novayagazeta2022
+  name: Новая Газета 2022
+  slug: novayagazeta2022
+source:
+  id: community
+  name: Сообщество
+priority: средний
+resources:
+- type: storage
+  name: novayagazeta_telegram_20220304.zip
+  url: https://cdn.ruarxive.org/public/webcollect2022/novayagazeta2022/novayagazeta.ru_telegram/novayagazeta_telegram_20220304.zip
+- type: cloud
+  name: novayagazeta_telegram_20220304.zip
+  url: https://f001.backblazeb2.com/file/IKPUBLIC/webcollect2022/novayagazeta2022/novayagazeta.ru_telegram/novayagazeta_telegram_20220304.zip

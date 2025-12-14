@@ -1,0 +1,40 @@
+id: taganka2017-ru-2017-09-07-e5488c8c
+name: taganka2017.ru (2017-09-07)
+domain: taganka2017.ru
+collection:
+  id: mosmunelect
+  slug: mosmunelect
+  name: Муниципальные выборы в Москве
+resources:
+- name: taganka2017.ru-2017-09-07-e5488c8c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/taganka2017.ru-2017-09-07-e5488c8c/taganka2017.ru-2017-09-07-e5488c8c.cdx
+  size: 92753
+  modified: '2017-09-07T22:03:31'
+  type: CDX
+  extension: .cdx
+- name: taganka2017.ru-2017-09-07-e5488c8c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/taganka2017.ru-2017-09-07-e5488c8c/taganka2017.ru-2017-09-07-e5488c8c-meta.warc.gz
+  size: 16279
+  modified: '2017-09-07T22:03:32'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/taganka2017.ru-2017-09-07-e5488c8c/wpull.db
+  size: 101376
+  modified: '2017-09-07T22:03:32'
+  type: wpull database
+  extension: .db
+- name: taganka2017.ru-2017-09-07-e5488c8c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/taganka2017.ru-2017-09-07-e5488c8c/taganka2017.ru-2017-09-07-e5488c8c-00000.warc.gz
+  size: 15480959
+  modified: '2017-09-07T22:03:31'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/mosmunelect/taganka2017.ru-2017-09-07-e5488c8c/dupes_db/data.mdb
+  size: 81920
+  modified: '2017-09-07T22:03:29'
+  type: ''
+  extension: .mdb
+url: https://taganka2017.ru
+created: '2017-09-07'

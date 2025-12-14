@@ -1,0 +1,40 @@
+id: proverki-gov-ru-2017-04-04-b6d10b41
+name: proverki.gov.ru (2017-04-04)
+domain: proverki.gov.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: proverki.gov.ru-2017-04-04-b6d10b41-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proverki.gov.ru-2017-04-04-b6d10b41/proverki.gov.ru-2017-04-04-b6d10b41-00000.warc.gz
+  size: 47182241
+  modified: '2017-04-04T21:19:18'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proverki.gov.ru-2017-04-04-b6d10b41/wpull.db
+  size: 2848768
+  modified: '2017-04-04T21:19:18'
+  type: wpull database
+  extension: .db
+- name: proverki.gov.ru-2017-04-04-b6d10b41.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proverki.gov.ru-2017-04-04-b6d10b41/proverki.gov.ru-2017-04-04-b6d10b41.cdx
+  size: 2102584
+  modified: '2017-04-04T21:19:18'
+  type: CDX
+  extension: .cdx
+- name: proverki.gov.ru-2017-04-04-b6d10b41-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proverki.gov.ru-2017-04-04-b6d10b41/proverki.gov.ru-2017-04-04-b6d10b41-meta.warc.gz
+  size: 167151
+  modified: '2017-04-04T21:19:18'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/proverki.gov.ru-2017-04-04-b6d10b41/dupes_db/data.mdb
+  size: 262144
+  modified: '2017-04-04T21:17:56'
+  type: ''
+  extension: .mdb
+url: https://proverki.gov.ru
+created: '2017-04-04'

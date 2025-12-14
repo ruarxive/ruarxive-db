@@ -1,0 +1,40 @@
+id: fguzmo-ru-2017-05-14-c79cb95e
+name: fguzmo.ru (2017-05-14)
+domain: fguzmo.ru
+collection:
+  id: rospotrebnadzor
+  slug: rospotrebnadzor
+  name: Роспотребнадзор
+resources:
+- name: www.fguzmo.ru-2017-05-14-c79cb95e-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzmo.ru-2017-05-14-c79cb95e/www.fguzmo.ru-2017-05-14-c79cb95e-meta.warc.gz
+  size: 46906
+  modified: '2017-05-14T16:47:17'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzmo.ru-2017-05-14-c79cb95e/dupes_db/data.mdb
+  size: 135168
+  modified: '2017-05-14T16:47:16'
+  type: ''
+  extension: .mdb
+- name: www.fguzmo.ru-2017-05-14-c79cb95e-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzmo.ru-2017-05-14-c79cb95e/www.fguzmo.ru-2017-05-14-c79cb95e-00000.warc.gz
+  size: 274767386
+  modified: '2017-05-14T16:47:16'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzmo.ru-2017-05-14-c79cb95e/wpull.db
+  size: 481280
+  modified: '2017-05-14T16:47:16'
+  type: wpull database
+  extension: .db
+- name: www.fguzmo.ru-2017-05-14-c79cb95e.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/rospotrebnadzor/www.fguzmo.ru-2017-05-14-c79cb95e/www.fguzmo.ru-2017-05-14-c79cb95e.cdx
+  size: 407178
+  modified: '2017-05-14T16:47:16'
+  type: CDX
+  extension: .cdx
+url: https://fguzmo.ru
+created: '2017-05-14'

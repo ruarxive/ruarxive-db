@@ -1,0 +1,57 @@
+id: uprava-kapotnya-mos-ru-2017-09-15-0f1d33d7
+name: uprava-kapotnya.mos.ru (2017-09-15)
+domain: uprava-kapotnya.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7.cdx
+  size: 5832470
+  modified: '2017-09-16T19:44:58'
+  type: CDX
+  extension: .cdx
+- name: tmp-wpull-warcsesrsp-vlk4hs.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7/temp/tmp-wpull-warcsesrsp-vlk4hs.tmp
+  size: 0
+  modified: '2017-09-16T19:44:59'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warcsesreq-_bwy7x.tmp
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7/temp/tmp-wpull-warcsesreq-_bwy7x.tmp
+  size: 300
+  modified: '2017-09-16T19:44:59'
+  type: ''
+  extension: .tmp
+- name: tmp-wpull-warc-05a8nk.log.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7/temp/tmp-wpull-warc-05a8nk.log.gz
+  size: 1427890
+  modified: '2017-09-16T19:44:59'
+  type: wpull log
+  extension: .gz
+- name: stop
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7/stop
+  size: 0
+  modified: '2017-09-19T13:01:01'
+  type: ''
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7/wpull.db
+  size: 7234560
+  modified: '2017-09-16T19:44:58'
+  type: wpull database
+  extension: .db
+- name: uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7-00000.warc.gz
+  size: 1416555370
+  modified: '2017-09-16T19:44:59'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/uprava-kapotnya.mos.ru-2017-09-15-0f1d33d7/dupes_db/data.mdb
+  size: 3170304
+  modified: '2017-09-16T19:44:45'
+  type: ''
+  extension: .mdb
+url: https://uprava-kapotnya.mos.ru
+created: '2017-09-15'

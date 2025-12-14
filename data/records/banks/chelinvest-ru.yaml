@@ -1,0 +1,34 @@
+id: chelinvest-ru
+name: chelinvest.ru (2014-05-11)
+domain: chelinvest.ru
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.chelinvest.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.chelinvest.ru/www.chelinvest.ru.warc.xz
+  size: 1082629948
+  modified: '2014-05-11T01:42:40'
+  type: WARC
+  extension: .xz
+- name: www.chelinvest.ru.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.chelinvest.ru/www.chelinvest.ru.log.xz
+  size: 176156
+  modified: '2014-05-11T01:42:40'
+  type: wpull log
+  extension: .xz
+- name: www.chelinvest.ru.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.chelinvest.ru/www.chelinvest.ru.cdx.xz
+  size: 231800
+  modified: '2014-05-11T01:42:40'
+  type: CDX
+  extension: .xz
+- name: www.chelinvest.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.chelinvest.ru/www.chelinvest.ru.7z
+  size: 558496949
+  modified: '2014-08-20T09:42:58'
+  type: ''
+  extension: .7z
+url: https://chelinvest.ru
+created: '2014-05-11T01:42:40'

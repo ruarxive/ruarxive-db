@@ -1,0 +1,64 @@
+id: samproc-ru-2017-04-03-113f5814
+name: samproc.ru (2017-04-03)
+domain: samproc.ru
+collection:
+  id: prok
+  slug: prok
+  name: Прокуратура РФ
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/dupes_db/data.mdb
+  size: 2510848
+  modified: '2017-04-04T04:08:18'
+  type: ''
+  extension: .mdb
+- name: www.samproc.ru-2017-04-03-113f5814-00003.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/www.samproc.ru-2017-04-03-113f5814-00003.warc.gz
+  size: 1878616864
+  modified: '2017-04-04T04:08:18'
+  type: WARC
+  extension: .warc.gz
+- name: www.samproc.ru-2017-04-03-113f5814-00002.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/www.samproc.ru-2017-04-03-113f5814-00002.warc.gz
+  size: 5404654170
+  modified: '2017-04-04T00:23:37'
+  type: WARC
+  extension: .warc.gz
+- name: www.samproc.ru-2017-04-03-113f5814-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/www.samproc.ru-2017-04-03-113f5814-meta.warc.gz
+  size: 681945
+  modified: '2017-04-04T04:08:19'
+  type: WARC
+  extension: .warc.gz
+- name: www.samproc.ru-2017-04-03-113f5814-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/www.samproc.ru-2017-04-03-113f5814-00000.warc.gz
+  size: 5375367391
+  modified: '2017-04-03T20:39:30'
+  type: WARC
+  extension: .warc.gz
+- name: warc-extractor.py
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/warc-extractor.py
+  size: 26779
+  modified: '2017-04-08T19:19:02'
+  type: ''
+  extension: .py
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/wpull.db
+  size: 5566464
+  modified: '2017-04-04T04:08:19'
+  type: wpull database
+  extension: .db
+- name: www.samproc.ru-2017-04-03-113f5814.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/www.samproc.ru-2017-04-03-113f5814.cdx
+  size: 4849826
+  modified: '2017-04-04T04:08:18'
+  type: CDX
+  extension: .cdx
+- name: www.samproc.ru-2017-04-03-113f5814-00001.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/prok/www.samproc.ru-2017-04-03-113f5814/www.samproc.ru-2017-04-03-113f5814-00001.warc.gz
+  size: 5508043084
+  modified: '2017-04-03T23:13:51'
+  type: WARC
+  extension: .warc.gz
+url: https://samproc.ru
+created: '2017-04-03'

@@ -1,0 +1,40 @@
+id: navigator-smbn-ru-2017-05-15-626c905c
+name: navigator.smbn.ru (2017-05-15)
+domain: navigator.smbn.ru
+collection:
+  id: corpmsp
+  slug: corpmsp
+  name: Корпорация "МСП"
+resources:
+- name: navigator.smbn.ru-2017-05-15-626c905c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/navigator.smbn.ru-2017-05-15-626c905c/navigator.smbn.ru-2017-05-15-626c905c-00000.warc.gz
+  size: 293501816
+  modified: '2017-05-15T09:15:19'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/navigator.smbn.ru-2017-05-15-626c905c/wpull.db
+  size: 44032
+  modified: '2017-05-15T09:15:19'
+  type: wpull database
+  extension: .db
+- name: navigator.smbn.ru-2017-05-15-626c905c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/navigator.smbn.ru-2017-05-15-626c905c/navigator.smbn.ru-2017-05-15-626c905c.cdx
+  size: 35807
+  modified: '2017-05-15T09:15:19'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/navigator.smbn.ru-2017-05-15-626c905c/dupes_db/data.mdb
+  size: 53248
+  modified: '2017-05-15T09:15:16'
+  type: ''
+  extension: .mdb
+- name: navigator.smbn.ru-2017-05-15-626c905c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/corpmsp/navigator.smbn.ru-2017-05-15-626c905c/navigator.smbn.ru-2017-05-15-626c905c-meta.warc.gz
+  size: 7910
+  modified: '2017-05-15T09:15:19'
+  type: WARC
+  extension: .warc.gz
+url: https://navigator.smbn.ru
+created: '2017-05-15'

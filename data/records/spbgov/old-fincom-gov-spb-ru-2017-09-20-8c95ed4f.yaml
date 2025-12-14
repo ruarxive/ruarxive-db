@@ -1,0 +1,40 @@
+id: old-fincom-gov-spb-ru-2017-09-20-8c95ed4f
+name: old.fincom.gov.spb.ru (2017-09-20)
+domain: old.fincom.gov.spb.ru
+collection:
+  id: spbgov
+  slug: spbgov
+  name: Правительство Санкт-Петербурга
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/spbgov/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f/dupes_db/data.mdb
+  size: 20996096
+  modified: '2017-09-22T07:08:14'
+  type: ''
+  extension: .mdb
+- name: old.fincom.gov.spb.ru-2017-09-20-8c95ed4f-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/spbgov/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f-meta.warc.gz
+  size: 2916347
+  modified: '2017-09-22T07:08:58'
+  type: WARC
+  extension: .warc.gz
+- name: old.fincom.gov.spb.ru-2017-09-20-8c95ed4f.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/spbgov/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f.cdx
+  size: 35982744
+  modified: '2017-09-22T07:08:14'
+  type: CDX
+  extension: .cdx
+- name: old.fincom.gov.spb.ru-2017-09-20-8c95ed4f-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/spbgov/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f-00000.warc.gz
+  size: 4064756126
+  modified: '2017-09-22T07:08:14'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/spbgov/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f/wpull.db
+  size: 41225216
+  modified: '2017-09-22T07:08:56'
+  type: wpull database
+  extension: .db
+url: https://old.fincom.gov.spb.ru
+created: '2017-09-20'

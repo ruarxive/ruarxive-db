@@ -1,0 +1,34 @@
+id: taurus-bank-com
+name: taurus-bank.com (2014-05-12)
+domain: taurus-bank.com
+collection:
+  id: banks
+  slug: banks
+  name: Банки
+resources:
+- name: www.taurus-bank.com.cdx.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.taurus-bank.com/www.taurus-bank.com.cdx.xz
+  size: 143380
+  modified: '2014-05-12T17:19:05'
+  type: CDX
+  extension: .xz
+- name: www.taurus-bank.com.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.taurus-bank.com/www.taurus-bank.com.warc.xz
+  size: 192117972
+  modified: '2014-05-12T17:19:05'
+  type: WARC
+  extension: .xz
+- name: www.taurus-bank.com.log.xz
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.taurus-bank.com/www.taurus-bank.com.log.xz
+  size: 91060
+  modified: '2014-05-12T17:19:05'
+  type: wpull log
+  extension: .xz
+- name: www.taurus-bank.com.7z
+  url: https://cdn.ruarxive.org/public/webcollect/banks/www.taurus-bank.com/www.taurus-bank.com.7z
+  size: 194531050
+  modified: '2014-08-20T01:01:34'
+  type: ''
+  extension: .7z
+url: https://taurus-bank.com
+created: '2014-05-12T17:19:05'

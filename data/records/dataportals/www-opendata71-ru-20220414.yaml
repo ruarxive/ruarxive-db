@@ -1,0 +1,35 @@
+id: www-opendata71-ru-20220414
+name: www.opendata71.ru (2022-04-14)
+domain: www.opendata71.ru
+url: https://www.opendata71.ru
+created: '2022-04-14'
+date: '2022-04-14'
+collection:
+  id: dataportals
+  slug: dataportals
+  name: Порталы открытых данных
+resources:
+- name: sitearchive-www.opendata71.ru.db
+  url: https://cdn.ruarxive.org/public/dataportals/www.opendata71.ru/2022-04-14/sitearchive-www.opendata71.ru.db
+  size: 271425536
+  modified: '2022-04-14T14:32:21'
+  type: ''
+  extension: .db
+- name: www.opendata71.ru.cdx
+  url: https://cdn.ruarxive.org/public/dataportals/www.opendata71.ru/2022-04-14/www.opendata71.ru.cdx
+  size: 13950505
+  modified: '2022-04-14T14:32:20'
+  type: CDX
+  extension: .cdx
+- name: www.opendata71.ru.log
+  url: https://cdn.ruarxive.org/public/dataportals/www.opendata71.ru/2022-04-14/www.opendata71.ru.log
+  size: 152045806
+  modified: '2022-04-14T14:32:21'
+  type: wpull log
+  extension: .log
+- name: www.opendata71.ru.warc.gz
+  url: https://cdn.ruarxive.org/public/dataportals/www.opendata71.ru/2022-04-14/www.opendata71.ru.warc.gz
+  size: 1073448428
+  modified: '2022-04-14T14:32:20'
+  type: WARC
+  extension: .warc.gz

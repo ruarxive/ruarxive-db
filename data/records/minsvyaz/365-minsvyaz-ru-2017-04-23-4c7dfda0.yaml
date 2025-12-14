@@ -1,0 +1,40 @@
+id: 365-minsvyaz-ru-2017-04-23-4c7dfda0
+name: 365.minsvyaz.ru (2017-04-23)
+domain: 365.minsvyaz.ru
+collection:
+  id: minsvyaz
+  slug: minsvyaz
+  name: Министерство связи и массовых коммуникаций РФ
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/365.minsvyaz.ru-2017-04-23-4c7dfda0/wpull.db
+  size: 1276928
+  modified: '2017-04-23T08:49:45'
+  type: wpull database
+  extension: .db
+- name: 365.minsvyaz.ru-2017-04-23-4c7dfda0-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/365.minsvyaz.ru-2017-04-23-4c7dfda0/365.minsvyaz.ru-2017-04-23-4c7dfda0-meta.warc.gz
+  size: 105115
+  modified: '2017-04-23T08:49:45'
+  type: WARC
+  extension: .warc.gz
+- name: 365.minsvyaz.ru-2017-04-23-4c7dfda0.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/365.minsvyaz.ru-2017-04-23-4c7dfda0/365.minsvyaz.ru-2017-04-23-4c7dfda0.cdx
+  size: 1232218
+  modified: '2017-04-23T08:49:45'
+  type: CDX
+  extension: .cdx
+- name: 365.minsvyaz.ru-2017-04-23-4c7dfda0-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/365.minsvyaz.ru-2017-04-23-4c7dfda0/365.minsvyaz.ru-2017-04-23-4c7dfda0-00000.warc.gz
+  size: 241141122
+  modified: '2017-04-23T08:49:45'
+  type: WARC
+  extension: .warc.gz
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/minsvyaz/365.minsvyaz.ru-2017-04-23-4c7dfda0/dupes_db/data.mdb
+  size: 667648
+  modified: '2017-04-23T08:49:45'
+  type: ''
+  extension: .mdb
+url: https://365.minsvyaz.ru
+created: '2017-04-23'

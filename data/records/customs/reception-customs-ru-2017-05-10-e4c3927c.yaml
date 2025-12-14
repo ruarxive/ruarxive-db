@@ -1,0 +1,40 @@
+id: reception-customs-ru-2017-05-10-e4c3927c
+name: reception.customs.ru (2017-05-10)
+domain: reception.customs.ru
+collection:
+  id: customs
+  slug: customs
+  name: Таможенная служба
+resources:
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/reception.customs.ru-2017-05-10-e4c3927c/wpull.db
+  size: 293888
+  modified: '2017-05-10T09:33:14'
+  type: wpull database
+  extension: .db
+- name: reception.customs.ru-2017-05-10-e4c3927c-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/reception.customs.ru-2017-05-10-e4c3927c/reception.customs.ru-2017-05-10-e4c3927c-00000.warc.gz
+  size: 33078714
+  modified: '2017-05-10T09:32:33'
+  type: WARC
+  extension: .warc.gz
+- name: reception.customs.ru-2017-05-10-e4c3927c.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/reception.customs.ru-2017-05-10-e4c3927c/reception.customs.ru-2017-05-10-e4c3927c.cdx
+  size: 216568
+  modified: '2017-05-10T09:32:33'
+  type: CDX
+  extension: .cdx
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/reception.customs.ru-2017-05-10-e4c3927c/dupes_db/data.mdb
+  size: 139264
+  modified: '2017-05-10T09:32:33'
+  type: ''
+  extension: .mdb
+- name: reception.customs.ru-2017-05-10-e4c3927c-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/customs/reception.customs.ru-2017-05-10-e4c3927c/reception.customs.ru-2017-05-10-e4c3927c-meta.warc.gz
+  size: 23036
+  modified: '2017-05-10T09:33:15'
+  type: WARC
+  extension: .warc.gz
+url: https://reception.customs.ru
+created: '2017-05-10'

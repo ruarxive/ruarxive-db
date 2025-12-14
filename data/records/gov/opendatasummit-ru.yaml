@@ -1,0 +1,34 @@
+id: opendatasummit-ru
+name: opendatasummit.ru (2015-12-20)
+domain: opendatasummit.ru
+collection:
+  id: gov
+  slug: gov
+  name: Государственные сайты
+resources:
+- name: opendatasummit.ru.warc.xz
+  url: https://cdn.ruarxive.org/public/webcollect/gov/opendatasummit.ru/opendatasummit.ru.warc.xz
+  size: 102729528
+  modified: '2015-12-20T18:05:41'
+  type: WARC
+  extension: .xz
+- name: opendatasummit.ru.cdx
+  url: https://cdn.ruarxive.org/public/webcollect/gov/opendatasummit.ru/opendatasummit.ru.cdx
+  size: 1244556
+  modified: '2015-12-20T18:05:41'
+  type: CDX
+  extension: .cdx
+- name: opendatasummit.ru.7z
+  url: https://cdn.ruarxive.org/public/webcollect/gov/opendatasummit.ru/opendatasummit.ru.7z
+  size: 102863739
+  modified: '2016-04-29T23:38:42'
+  type: ''
+  extension: .7z
+- name: opendatasummit.ru.log
+  url: https://cdn.ruarxive.org/public/webcollect/gov/opendatasummit.ru/opendatasummit.ru.log
+  size: 2357042
+  modified: '2015-12-20T18:05:41'
+  type: ''
+  extension: .log
+url: https://opendatasummit.ru
+created: '2015-12-20T18:05:41'

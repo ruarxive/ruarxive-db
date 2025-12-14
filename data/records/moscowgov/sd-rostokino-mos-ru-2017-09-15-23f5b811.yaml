@@ -1,0 +1,40 @@
+id: sd-rostokino-mos-ru-2017-09-15-23f5b811
+name: sd-rostokino.mos.ru (2017-09-15)
+domain: sd-rostokino.mos.ru
+collection:
+  id: moscowgov
+  slug: moscowgov
+  name: Сайты правительства Москвы
+resources:
+- name: data.mdb
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sd-rostokino.mos.ru-2017-09-15-23f5b811/dupes_db/data.mdb
+  size: 8192
+  modified: '2017-09-15T12:49:13'
+  type: ''
+  extension: .mdb
+- name: sd-rostokino.mos.ru-2017-09-15-23f5b811-meta.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sd-rostokino.mos.ru-2017-09-15-23f5b811/sd-rostokino.mos.ru-2017-09-15-23f5b811-meta.warc.gz
+  size: 2938
+  modified: '2017-09-15T12:49:16'
+  type: WARC
+  extension: .warc.gz
+- name: sd-rostokino.mos.ru-2017-09-15-23f5b811.cdx
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sd-rostokino.mos.ru-2017-09-15-23f5b811/sd-rostokino.mos.ru-2017-09-15-23f5b811.cdx
+  size: 23
+  modified: '2017-09-15T12:49:13'
+  type: CDX
+  extension: .cdx
+- name: sd-rostokino.mos.ru-2017-09-15-23f5b811-00000.warc.gz
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sd-rostokino.mos.ru-2017-09-15-23f5b811/sd-rostokino.mos.ru-2017-09-15-23f5b811-00000.warc.gz
+  size: 2245
+  modified: '2017-09-15T12:49:13'
+  type: WARC
+  extension: .warc.gz
+- name: wpull.db
+  url: https://cdn.ruarxive.org/public/webcollect2017/moscowgov/sd-rostokino.mos.ru-2017-09-15-23f5b811/wpull.db
+  size: 10240
+  modified: '2017-09-15T12:49:16'
+  type: wpull database
+  extension: .db
+url: https://sd-rostokino.mos.ru
+created: '2017-09-15'
