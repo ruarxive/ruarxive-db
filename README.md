@@ -62,6 +62,16 @@ This will generate:
 
 Output files are written to `data/datasets/` by default. Use `--output-dir` to specify a different location.
 
+### Build the Website Export
+
+Build the statistics and search index used by [ruarxive.org](https://ruarxive.org):
+
+```bash
+python3 site_export.py   # or: python3 builder.py site
+```
+
+This writes `data/datasets/site/summary.json` and `data/datasets/site/resources.json` from the storage file lists in `data/filelists/`. See [docs/SITE_EXPORT.md](docs/SITE_EXPORT.md) for sources, merge rules and the schema.
+
 ## Documentation
 
 See [docs/YAML_DATABASE.md](docs/YAML_DATABASE.md) for detailed documentation on:

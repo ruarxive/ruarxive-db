@@ -1,0 +1,49 @@
+name: Website export
+
+# Validates data/datasets/site/ and asks the website (ruarxive/ruarxive.github.io) to pick it up.
+# The export itself is built locally (python3 site_export.py): data/filelists/ is not committed.
+#
+# Requires the secret SITE_DISPATCH_TOKEN: a fine-grained token with access to
+# ruarxive/ruarxive.github.io and the "Contents: Read and write" permission.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/datasets/site/**'
+  pull_request:
+    paths:
+      - 'data/datasets/site/**'
+      - 'site_export.py'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Validate export
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml zstandard
+
+      - name: Validate
+        run: python3 site_export.py --check
+
+  notify:
+    name: Notify website
+    needs: validate
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          gh api repos/ruarxive/ruarxive.github.io/dispatches \
+            -f event_type=ruarxive-db-updated \
+            -f "client_payload[sha]=$GITHUB_SHA"

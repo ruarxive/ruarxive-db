@@ -453,8 +453,9 @@ def main():
     )
     parser.add_argument(
         'command',
-        choices=['build'],
-        help='Command to execute'
+        choices=['build', 'site'],
+        help='Command to execute: build — JSONL/Parquet/DuckDB datasets; '
+             'site — website export into <output-dir>/site (see docs/SITE_EXPORT.md)'
     )
     parser.add_argument(
         '--output-dir',
@@ -476,6 +477,9 @@ def main():
     
     if args.command == 'build':
         build_datasets(project_root, output_dir)
+    elif args.command == 'site':
+        import site_export
+        site_export.build(project_root, output_dir / 'site')
     else:
         parser.print_help()
         sys.exit(1)

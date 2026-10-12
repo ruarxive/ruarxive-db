@@ -1,0 +1,1646 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-12",
+  "sources": [
+    {
+      "kind": "snapshot",
+      "file": "files_20251213_174144.jsonl.zst",
+      "url": "https://github.com/ruarxive/ruarxive-db",
+      "date": "2025-12-13",
+      "dirs": [
+        "OGDHub",
+        "datacollect",
+        "ftpmirrors",
+        "mirrors",
+        "webarchive",
+        "webcollect",
+        "webcollect2017",
+        "wikicollect"
+      ],
+      "files": 62639,
+      "bytes": 8022580225775,
+      "skippedRows": 0
+    },
+    {
+      "kind": "registry",
+      "file": "allarchives_20231212.csv.zst",
+      "url": "https://cdn.ruarxive.org/public/allarchives.csv",
+      "date": "2023-12-12",
+      "dirs": [
+        "dataportals",
+        "nkr",
+        "webcollect2018",
+        "webcollect2019",
+        "webcollect2020",
+        "webcollect2021",
+        "webcollect2022",
+        "webcollect2023",
+        "webtimedcoll"
+      ],
+      "files": 25959,
+      "bytes": 5917884488469,
+      "skippedRows": 18
+    }
+  ],
+  "unknownDirs": [
+    "apibackuper",
+    "armenia2024",
+    "mirrors2010",
+    "webcollect2024",
+    "webcollect2025"
+  ],
+  "catalog": {
+    "url": "https://github.com/ruarxive/ruarxive-db",
+    "collections": 88,
+    "records": 2641,
+    "uncatalogued": 108
+  },
+  "totals": {
+    "bytes": 13940464714244,
+    "files": 88598,
+    "domains": 3322,
+    "collections": 182
+  },
+  "byYear": [
+    {
+      "year": "2008",
+      "bytes": 246784,
+      "files": 1
+    },
+    {
+      "year": "2009",
+      "bytes": 179712,
+      "files": 3
+    },
+    {
+      "year": "2010",
+      "bytes": 1544340452,
+      "files": 9
+    },
+    {
+      "year": "2011",
+      "bytes": 3301376,
+      "files": 15
+    },
+    {
+      "year": "2012",
+      "bytes": 7808475972,
+      "files": 103
+    },
+    {
+      "year": "2013",
+      "bytes": 117086851661,
+      "files": 12444
+    },
+    {
+      "year": "2014",
+      "bytes": 655390550188,
+      "files": 3318
+    },
+    {
+      "year": "2015",
+      "bytes": 324974232138,
+      "files": 16530
+    },
+    {
+      "year": "2016",
+      "bytes": 812443438157,
+      "files": 2168
+    },
+    {
+      "year": "2017",
+      "bytes": 6038031434063,
+      "files": 28683
+    },
+    {
+      "year": "2018",
+      "bytes": 797553086757,
+      "files": 12825
+    },
+    {
+      "year": "2019",
+      "bytes": 13742390700,
+      "files": 79
+    },
+    {
+      "year": "2020",
+      "bytes": 1470653057296,
+      "files": 5358
+    },
+    {
+      "year": "2021",
+      "bytes": 387161758421,
+      "files": 431
+    },
+    {
+      "year": "2022",
+      "bytes": 981134883731,
+      "files": 6292
+    },
+    {
+      "year": "2023",
+      "bytes": 2324503585417,
+      "files": 327
+    },
+    {
+      "year": "2024",
+      "bytes": 620517662,
+      "files": 5
+    },
+    {
+      "year": "2025",
+      "bytes": 7812383757,
+      "files": 7
+    }
+  ],
+  "collections": [
+    {
+      "name": "gov",
+      "title": "Государственные сайты",
+      "bytes": 2559466445839,
+      "files": 7154,
+      "domains": 196,
+      "dir": ""
+    },
+    {
+      "name": "deathwatch",
+      "title": "Мониторинг закрытия сайтов",
+      "bytes": 1741027442934,
+      "files": 31,
+      "domains": 5,
+      "dir": ""
+    },
+    {
+      "name": "moscowgov",
+      "title": "Сайты правительства Москвы",
+      "bytes": 1051305639500,
+      "files": 4019,
+      "domains": 183,
+      "dir": "webcollect2017/moscowgov/"
+    },
+    {
+      "name": "gov2020",
+      "title": null,
+      "bytes": 821846805331,
+      "files": 598,
+      "domains": 33,
+      "dir": "webcollect2020/gov2020/"
+    },
+    {
+      "name": "gov2018",
+      "title": null,
+      "bytes": 795626699777,
+      "files": 5707,
+      "domains": 253,
+      "dir": "webcollect2018/gov2018/"
+    },
+    {
+      "name": "mvd",
+      "title": "МВД",
+      "bytes": 631628961126,
+      "files": 306,
+      "domains": 9,
+      "dir": "webcollect2017/mvd/"
+    },
+    {
+      "name": "ikmo",
+      "title": null,
+      "bytes": 581849475042,
+      "files": 113,
+      "domains": 19,
+      "dir": "webcollect2023/ikmo/"
+    },
+    {
+      "name": "ras",
+      "title": "Российская академия наук",
+      "bytes": 396389570004,
+      "files": 698,
+      "domains": 32,
+      "dir": "webcollect2017/ras/"
+    },
+    {
+      "name": "kremlin",
+      "title": "Администрация Президента РФ",
+      "bytes": 383917902183,
+      "files": 236,
+      "domains": 9,
+      "dir": "webcollect2017/kremlin/"
+    },
+    {
+      "name": "duma",
+      "title": "Государственная Дума",
+      "bytes": 365802493470,
+      "files": 1116,
+      "domains": 61,
+      "dir": ""
+    },
+    {
+      "name": "media2022",
+      "title": "Онлайн медиа 2022",
+      "bytes": 343281870835,
+      "files": 98,
+      "domains": 23,
+      "dir": "webcollect2022/media2022/"
+    },
+    {
+      "name": "devint2020",
+      "title": null,
+      "bytes": 257377351622,
+      "files": 211,
+      "domains": 46,
+      "dir": "webcollect2020/devint2020/"
+    },
+    {
+      "name": "heritage",
+      "title": "Наследие",
+      "bytes": 243218872051,
+      "files": 133,
+      "domains": 31,
+      "dir": ""
+    },
+    {
+      "name": "gov2021",
+      "title": null,
+      "bytes": 233797429015,
+      "files": 90,
+      "domains": 23,
+      "dir": "webcollect2021/gov2021/"
+    },
+    {
+      "name": "cultureheritage",
+      "title": "Культурное наследие",
+      "bytes": 211220671588,
+      "files": 371,
+      "domains": 17,
+      "dir": ""
+    },
+    {
+      "name": "government",
+      "title": null,
+      "bytes": 188085126951,
+      "files": 229,
+      "domains": 53,
+      "dir": "webcollect2022/government/"
+    },
+    {
+      "name": "rospotrebnadzor",
+      "title": "Роспотребнадзор",
+      "bytes": 185778034471,
+      "files": 3604,
+      "domains": 176,
+      "dir": "webcollect2017/rospotrebnadzor/"
+    },
+    {
+      "name": "gks2018",
+      "title": null,
+      "bytes": 178594484732,
+      "files": 2668,
+      "domains": 119,
+      "dir": "webcollect2018/gks2018/"
+    },
+    {
+      "name": "rospravosudie.com",
+      "title": null,
+      "bytes": 162780097454,
+      "files": 14799,
+      "domains": 21,
+      "dir": "datacollect/rospravosudie.com/"
+    },
+    {
+      "name": "banks",
+      "title": "Банки",
+      "bytes": 147809268972,
+      "files": 1667,
+      "domains": 332,
+      "dir": ""
+    },
+    {
+      "name": "prok",
+      "title": "Прокуратура РФ",
+      "bytes": 128978011071,
+      "files": 2583,
+      "domains": 122,
+      "dir": ""
+    },
+    {
+      "name": "govprojects",
+      "title": "Государственные проекты",
+      "bytes": 126682870113,
+      "files": 346,
+      "domains": 19,
+      "dir": "webcollect2017/govprojects/"
+    },
+    {
+      "name": "culture2022",
+      "title": null,
+      "bytes": 116792959091,
+      "files": 4900,
+      "domains": 38,
+      "dir": "webcollect2022/culture2022/"
+    },
+    {
+      "name": "customs",
+      "title": "Таможенная служба",
+      "bytes": 113230126151,
+      "files": 821,
+      "domains": 41,
+      "dir": "webcollect2017/customs/"
+    },
+    {
+      "name": "science",
+      "title": "Наука",
+      "bytes": 87945653764,
+      "files": 136,
+      "domains": 19,
+      "dir": ""
+    },
+    {
+      "name": "fcp",
+      "title": "Федеральные целевые программы",
+      "bytes": 87559341092,
+      "files": 354,
+      "domains": 19,
+      "dir": "webcollect2017/fcp/"
+    },
+    {
+      "name": "ria",
+      "title": "РИА Новости",
+      "bytes": 85076552009,
+      "files": 281,
+      "domains": 55,
+      "dir": "webcollect/ria/"
+    },
+    {
+      "name": "fskn",
+      "title": "ФСКН",
+      "bytes": 82479891114,
+      "files": 239,
+      "domains": 49,
+      "dir": "webcollect/fskn/"
+    },
+    {
+      "name": "fedmineconom",
+      "title": "Министерство экономического развития РФ",
+      "bytes": 77930394603,
+      "files": 415,
+      "domains": 22,
+      "dir": "webcollect2017/fedmineconom/"
+    },
+    {
+      "name": "education",
+      "title": "Образование",
+      "bytes": 74513824106,
+      "files": 297,
+      "domains": 18,
+      "dir": ""
+    },
+    {
+      "name": "20180203",
+      "title": null,
+      "bytes": 68320990073,
+      "files": 5678,
+      "domains": 14,
+      "dir": "webtimedcoll/prescamp2018/20180203/"
+    },
+    {
+      "name": "memorial2021",
+      "title": "Мемориал 2021",
+      "bytes": 67714201260,
+      "files": 210,
+      "domains": 65,
+      "dir": "webcollect2021/memorial2021/"
+    },
+    {
+      "name": "media",
+      "title": "Онлайн СМИ",
+      "bytes": 57404111253,
+      "files": 125,
+      "domains": 10,
+      "dir": ""
+    },
+    {
+      "name": "lawenf",
+      "title": "Правоохранительные органы",
+      "bytes": 55825718958,
+      "files": 115,
+      "domains": 26,
+      "dir": "webcollect/lawenf/"
+    },
+    {
+      "name": "grants",
+      "title": "Гранты",
+      "bytes": 54491863213,
+      "files": 334,
+      "domains": 18,
+      "dir": "webcollect2017/grants/"
+    },
+    {
+      "name": "arbitr",
+      "title": "Арбитражный суд",
+      "bytes": 53651390071,
+      "files": 331,
+      "domains": 65,
+      "dir": "webcollect/arbitr/"
+    },
+    {
+      "name": "mirrors",
+      "title": null,
+      "bytes": 42851780347,
+      "files": 117,
+      "domains": 117,
+      "dir": "mirrors/"
+    },
+    {
+      "name": "gov2019",
+      "title": null,
+      "bytes": 41114761494,
+      "files": 90,
+      "domains": 5,
+      "dir": "webcollect2019/gov2019/"
+    },
+    {
+      "name": "webarchive",
+      "title": null,
+      "bytes": 39540131426,
+      "files": 139,
+      "domains": 31,
+      "dir": "nkr/webarchive/"
+    },
+    {
+      "name": "gasu.gov.ru",
+      "title": null,
+      "bytes": 38246014446,
+      "files": 13,
+      "domains": 6,
+      "dir": "datacollect/gasu.gov.ru/"
+    },
+    {
+      "name": "oprf",
+      "title": "Общественная палата РФ",
+      "bytes": 37570609230,
+      "files": 366,
+      "domains": 20,
+      "dir": "webcollect2017/oprf/"
+    },
+    {
+      "name": "rosfinnadzor",
+      "title": "Росфиннадзор",
+      "bytes": 35720386696,
+      "files": 430,
+      "domains": 90,
+      "dir": "webcollect/rosfinnadzor/"
+    },
+    {
+      "name": "memorial",
+      "title": "Мемориал",
+      "bytes": 35609041500,
+      "files": 522,
+      "domains": 55,
+      "dir": ""
+    },
+    {
+      "name": "sputnik",
+      "title": "Портал Спутник",
+      "bytes": 34222060053,
+      "files": 549,
+      "domains": 26,
+      "dir": "webcollect2017/sputnik/"
+    },
+    {
+      "name": "aizhk",
+      "title": "АИЖК",
+      "bytes": 33964437075,
+      "files": 428,
+      "domains": 23,
+      "dir": "webcollect2017/aizhk/"
+    },
+    {
+      "name": "govcouncils",
+      "title": "Государственные советы",
+      "bytes": 33193133104,
+      "files": 136,
+      "domains": 9,
+      "dir": "webcollect2017/govcouncils/"
+    },
+    {
+      "name": "elections",
+      "title": "Выборы",
+      "bytes": 32923222308,
+      "files": 31,
+      "domains": 5,
+      "dir": "webcollect/elections/"
+    },
+    {
+      "name": "mosreg2014",
+      "title": "Региональное правительство Москвы 2014",
+      "bytes": 32549256548,
+      "files": 70,
+      "domains": 70,
+      "dir": "webcollect/mosreg2014/"
+    },
+    {
+      "name": "opendata.mkrf.ru",
+      "title": null,
+      "bytes": 31771382865,
+      "files": 66,
+      "domains": 3,
+      "dir": ""
+    },
+    {
+      "name": "worldskills",
+      "title": null,
+      "bytes": 30414020561,
+      "files": 567,
+      "domains": 135,
+      "dir": "webcollect2022/worldskills/"
+    },
+    {
+      "name": "opengov2017",
+      "title": "Открытое правительство РФ 2017",
+      "bytes": 29913295939,
+      "files": 156,
+      "domains": 32,
+      "dir": "webcollect/opengov2017/"
+    },
+    {
+      "name": "bannedrus",
+      "title": "Заблокированные сайты",
+      "bytes": 29831044420,
+      "files": 36,
+      "domains": 10,
+      "dir": "webcollect/bannedrus/"
+    },
+    {
+      "name": "events",
+      "title": "События",
+      "bytes": 28656537808,
+      "files": 45,
+      "domains": 9,
+      "dir": "webcollect/events/"
+    },
+    {
+      "name": "20180115",
+      "title": null,
+      "bytes": 25706589060,
+      "files": 2100,
+      "domains": 8,
+      "dir": "webtimedcoll/prescamp2018/20180115/"
+    },
+    {
+      "name": "sochi",
+      "title": "Олимпиада в Сочи 2014",
+      "bytes": 25477805907,
+      "files": 76,
+      "domains": 19,
+      "dir": "webcollect/sochi/"
+    },
+    {
+      "name": "ngo2022",
+      "title": "НКО 2022",
+      "bytes": 25439366639,
+      "files": 31,
+      "domains": 8,
+      "dir": "webcollect2022/ngo2022/"
+    },
+    {
+      "name": "fsrar",
+      "title": "ФСРАР",
+      "bytes": 25237043915,
+      "files": 378,
+      "domains": 18,
+      "dir": "webcollect2017/fsrar/"
+    },
+    {
+      "name": "minfin",
+      "title": "Министерство финансов РФ",
+      "bytes": 24970133344,
+      "files": 198,
+      "domains": 12,
+      "dir": "webcollect2017/minfin/"
+    },
+    {
+      "name": "novayagazeta2022",
+      "title": "Новая Газета 2022",
+      "bytes": 21454477568,
+      "files": 73,
+      "domains": 24,
+      "dir": "webcollect2022/novayagazeta2022/"
+    },
+    {
+      "name": "echomskru2022",
+      "title": "Эхо Москвы 2022",
+      "bytes": 20464800360,
+      "files": 5,
+      "domains": 4,
+      "dir": "webcollect2022/echomskru2022/"
+    },
+    {
+      "name": "goventerprises",
+      "title": "Государственные предприятия",
+      "bytes": 20217415691,
+      "files": 89,
+      "domains": 4,
+      "dir": "webcollect2017/goventerprises/"
+    },
+    {
+      "name": "kgi",
+      "title": null,
+      "bytes": 19021996232,
+      "files": 40,
+      "domains": 7,
+      "dir": "webcollect2020/kgi/"
+    },
+    {
+      "name": "20171215",
+      "title": null,
+      "bytes": 17936318493,
+      "files": 1701,
+      "domains": 7,
+      "dir": "webtimedcoll/prescamp2018/20171215/"
+    },
+    {
+      "name": "data",
+      "title": "Государственные данные",
+      "bytes": 16968254500,
+      "files": 9,
+      "domains": 2,
+      "dir": "webcollect/data/"
+    },
+    {
+      "name": "politics",
+      "title": "Политика",
+      "bytes": 16642875472,
+      "files": 101,
+      "domains": 4,
+      "dir": "webcollect/politics/"
+    },
+    {
+      "name": "rostrud",
+      "title": "Роструд",
+      "bytes": 15924795382,
+      "files": 1810,
+      "domains": 89,
+      "dir": "webcollect2017/rostrud/"
+    },
+    {
+      "name": "data.gov.ru",
+      "title": null,
+      "bytes": 14961710267,
+      "files": 1,
+      "domains": 1,
+      "dir": "dataportals/data.gov.ru/2022-02-02/"
+    },
+    {
+      "name": "youtube",
+      "title": null,
+      "bytes": 14803307823,
+      "files": 358,
+      "domains": 2,
+      "dir": "OGDHub/youtube/"
+    },
+    {
+      "name": "data.mos.ru",
+      "title": null,
+      "bytes": 12017191329,
+      "files": 7,
+      "domains": 7,
+      "dir": ""
+    },
+    {
+      "name": "vk.com",
+      "title": null,
+      "bytes": 11451415092,
+      "files": 3,
+      "domains": 2,
+      "dir": "datacollect/vk.com/"
+    },
+    {
+      "name": "mosmunelect",
+      "title": "Муниципальные выборы в Москве",
+      "bytes": 11216868189,
+      "files": 1156,
+      "domains": 53,
+      "dir": "webcollect2017/mosmunelect/"
+    },
+    {
+      "name": "rusnano2021",
+      "title": "Роснано 2021",
+      "bytes": 11195328469,
+      "files": 29,
+      "domains": 8,
+      "dir": "webcollect2021/rusnano2021/"
+    },
+    {
+      "name": "minsvyaz",
+      "title": "Министерство связи и массовых коммуникаций РФ",
+      "bytes": 10562908588,
+      "files": 341,
+      "domains": 17,
+      "dir": "webcollect2017/minsvyaz/"
+    },
+    {
+      "name": "muni",
+      "title": null,
+      "bytes": 8614753619,
+      "files": 20,
+      "domains": 1,
+      "dir": "webcollect2018/muni/ivanteevka.org-2018-08-23-a72adba4/"
+    },
+    {
+      "name": "newtimes2022",
+      "title": "The Moscow Times 2022",
+      "bytes": 8497611913,
+      "files": 3,
+      "domains": 1,
+      "dir": "webcollect2022/newtimes2022/newtimes.ru/"
+    },
+    {
+      "name": "corpmsp",
+      "title": "Корпорация \"МСП\"",
+      "bytes": 7795662157,
+      "files": 151,
+      "domains": 10,
+      "dir": "webcollect2017/corpmsp/"
+    },
+    {
+      "name": "opengov2019",
+      "title": null,
+      "bytes": 7793864385,
+      "files": 43,
+      "domains": 2,
+      "dir": "webcollect2019/opengov2019/"
+    },
+    {
+      "name": "sovfed",
+      "title": "Совет Федерации",
+      "bytes": 7632705535,
+      "files": 445,
+      "domains": 24,
+      "dir": "webcollect2017/sovfed/"
+    },
+    {
+      "name": "opengov",
+      "title": "Открытое правительство РФ",
+      "bytes": 7233681908,
+      "files": 40,
+      "domains": 7,
+      "dir": "webcollect/opengov/"
+    },
+    {
+      "name": "fedstat.ru",
+      "title": null,
+      "bytes": 6927224821,
+      "files": 7008,
+      "domains": 2,
+      "dir": ""
+    },
+    {
+      "name": "energy",
+      "title": null,
+      "bytes": 6894424938,
+      "files": 10,
+      "domains": 1,
+      "dir": "webcollect2022/energy/so-ups.ru/"
+    },
+    {
+      "name": "fifa2018",
+      "title": "FIFA 2018",
+      "bytes": 6793127885,
+      "files": 252,
+      "domains": 12,
+      "dir": "webcollect2017/fifa2018/"
+    },
+    {
+      "name": "mosreg",
+      "title": "Региональное правительство Москвы",
+      "bytes": 6116951186,
+      "files": 18,
+      "domains": 5,
+      "dir": "webcollect/mosreg/"
+    },
+    {
+      "name": "mosgorizbirkom",
+      "title": null,
+      "bytes": 5948518621,
+      "files": 45,
+      "domains": 1,
+      "dir": "webcollect2019/mosgorizbirkom/"
+    },
+    {
+      "name": "artefact",
+      "title": null,
+      "bytes": 5561906716,
+      "files": 2,
+      "domains": 2,
+      "dir": "datacollect/artefact/"
+    },
+    {
+      "name": "rosstat.gov.ru",
+      "title": null,
+      "bytes": 5344017515,
+      "files": 1,
+      "domains": 1,
+      "dir": "dataportals/rosstat.gov.ru/2022-01-29/"
+    },
+    {
+      "name": "rgb",
+      "title": null,
+      "bytes": 4928474886,
+      "files": 5,
+      "domains": 5,
+      "dir": "datacollect/rgb/"
+    },
+    {
+      "name": "ngofunds",
+      "title": "Фонды НКО",
+      "bytes": 4486193259,
+      "files": 194,
+      "domains": 12,
+      "dir": "webcollect2017/ngofunds/"
+    },
+    {
+      "name": "reggov",
+      "title": null,
+      "bytes": 4451822915,
+      "files": 8,
+      "domains": 2,
+      "dir": "webcollect2022/reggov/"
+    },
+    {
+      "name": "spbgov",
+      "title": "Правительство Санкт-Петербурга",
+      "bytes": 4217935108,
+      "files": 21,
+      "domains": 1,
+      "dir": "webcollect2017/spbgov/old.fincom.gov.spb.ru-2017-09-20-8c95ed4f/"
+    },
+    {
+      "name": "sud",
+      "title": "Суды в РФ",
+      "bytes": 4159627680,
+      "files": 1988,
+      "domains": 98,
+      "dir": "webcollect2017/sud/"
+    },
+    {
+      "name": "memo.ru",
+      "title": null,
+      "bytes": 3605935234,
+      "files": 8,
+      "domains": 8,
+      "dir": "datacollect/memo.ru/"
+    },
+    {
+      "name": "lib.ru",
+      "title": null,
+      "bytes": 3351099016,
+      "files": 2,
+      "domains": 2,
+      "dir": "ftpmirrors/lib.ru/"
+    },
+    {
+      "name": "ukraine",
+      "title": "Украина",
+      "bytes": 3295347447,
+      "files": 8,
+      "domains": 2,
+      "dir": "webcollect/ukraine/"
+    },
+    {
+      "name": "goszakaz",
+      "title": "Государственные закупки",
+      "bytes": 3269458093,
+      "files": 10,
+      "domains": 2,
+      "dir": "webcollect/goszakaz/"
+    },
+    {
+      "name": "goskatalog",
+      "title": null,
+      "bytes": 3168658469,
+      "files": 18,
+      "domains": 18,
+      "dir": "datacollect/goskatalog/"
+    },
+    {
+      "name": "opendatamkrf_parquet",
+      "title": null,
+      "bytes": 2858122786,
+      "files": 1,
+      "domains": 1,
+      "dir": "datacollect/opendatamkrf_parquet/"
+    },
+    {
+      "name": "mmm",
+      "title": "МММ",
+      "bytes": 2798364217,
+      "files": 108,
+      "domains": 28,
+      "dir": "webcollect/mmm/"
+    },
+    {
+      "name": "fias.nalog.ru",
+      "title": null,
+      "bytes": 2643506042,
+      "files": 5,
+      "domains": 1,
+      "dir": "datacollect/fias.nalog.ru/20120820/"
+    },
+    {
+      "name": "space",
+      "title": null,
+      "bytes": 2442126428,
+      "files": 19,
+      "domains": 1,
+      "dir": "webcollect2018/space/novosti-kosmonavtiki.ru-2018-08-23-fb628c66/"
+    },
+    {
+      "name": "cbr.ru",
+      "title": null,
+      "bytes": 2439594867,
+      "files": 729,
+      "domains": 3,
+      "dir": ""
+    },
+    {
+      "name": "mvd.ru",
+      "title": null,
+      "bytes": 1998698558,
+      "files": 1,
+      "domains": 1,
+      "dir": "datacollect/mvd.ru/districts/"
+    },
+    {
+      "name": "budget",
+      "title": "Бюджет",
+      "bytes": 1513821927,
+      "files": 24,
+      "domains": 2,
+      "dir": ""
+    },
+    {
+      "name": "www.opendata71.ru",
+      "title": null,
+      "bytes": 1510870275,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/www.opendata71.ru/2022-04-14/"
+    },
+    {
+      "name": "informika",
+      "title": "Информика",
+      "bytes": 1496540722,
+      "files": 101,
+      "domains": 6,
+      "dir": "webcollect2017/informika/"
+    },
+    {
+      "name": "wikicollect",
+      "title": null,
+      "bytes": 1366713100,
+      "files": 14,
+      "domains": 14,
+      "dir": "wikicollect/"
+    },
+    {
+      "name": "lidros",
+      "title": "Лидеры России",
+      "bytes": 1320718916,
+      "files": 21,
+      "domains": 1,
+      "dir": "webcollect2017/lidros/xn--d1achcanypala0j.xn--p1ai-2018-02-13-534cd3f6/"
+    },
+    {
+      "name": "ikmo_done",
+      "title": null,
+      "bytes": 1061671565,
+      "files": 4,
+      "domains": 1,
+      "dir": "webcollect2023/ikmo_done/оловянная.рф/"
+    },
+    {
+      "name": "history",
+      "title": "История",
+      "bytes": 1050610965,
+      "files": 4,
+      "domains": 1,
+      "dir": "webcollect2022/history/www.rusteam.permian.ru/"
+    },
+    {
+      "name": "infoculture",
+      "title": "Инфокультура",
+      "bytes": 979098838,
+      "files": 124,
+      "domains": 7,
+      "dir": ""
+    },
+    {
+      "name": "gzt.ru",
+      "title": null,
+      "bytes": 977616440,
+      "files": 1,
+      "domains": 1,
+      "dir": "OGDHub/gzt.ru/"
+    },
+    {
+      "name": "export.opengovdata.ru",
+      "title": null,
+      "bytes": 868027734,
+      "files": 52,
+      "domains": 1,
+      "dir": "datacollect/export.opengovdata.ru/"
+    },
+    {
+      "name": "kudrin",
+      "title": null,
+      "bytes": 854189851,
+      "files": 3,
+      "domains": 1,
+      "dir": "webcollect2022/kudrin/2035.media/"
+    },
+    {
+      "name": "jwru",
+      "title": "Свидетели Иеговы",
+      "bytes": 823848573,
+      "files": 81,
+      "domains": 5,
+      "dir": "webcollect2017/jwru/"
+    },
+    {
+      "name": "civildata",
+      "title": "Общественная интернет-статистика",
+      "bytes": 800978572,
+      "files": 24,
+      "domains": 4,
+      "dir": "webcollect2017/civildata/"
+    },
+    {
+      "name": "stat.customs.ru",
+      "title": null,
+      "bytes": 779116327,
+      "files": 28,
+      "domains": 8,
+      "dir": ""
+    },
+    {
+      "name": "gzcontracts2007_2011",
+      "title": null,
+      "bytes": 744620965,
+      "files": 3,
+      "domains": 3,
+      "dir": "datacollect/gzcontracts2007_2011/"
+    },
+    {
+      "name": "antiscience",
+      "title": "Антинаука",
+      "bytes": 688249584,
+      "files": 8,
+      "domains": 2,
+      "dir": "webcollect/antiscience/"
+    },
+    {
+      "name": "census2010",
+      "title": null,
+      "bytes": 660425229,
+      "files": 1,
+      "domains": 1,
+      "dir": "OGDHub/census2010/"
+    },
+    {
+      "name": "reforms",
+      "title": "Реформы",
+      "bytes": 648988927,
+      "files": 63,
+      "domains": 3,
+      "dir": "webcollect2017/reforms/"
+    },
+    {
+      "name": "opendata.perm.ru",
+      "title": null,
+      "bytes": 529831404,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.perm.ru/2022-04-16/"
+    },
+    {
+      "name": "opendata.yarcloud.ru",
+      "title": null,
+      "bytes": 455683126,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.yarcloud.ru/2022-04-17/"
+    },
+    {
+      "name": "data.admhmao.ru",
+      "title": null,
+      "bytes": 451632552,
+      "files": 6,
+      "domains": 1,
+      "dir": "dataportals/data.admhmao.ru/2022-04-14/"
+    },
+    {
+      "name": "opendata.rkomi.ru",
+      "title": null,
+      "bytes": 437916312,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.rkomi.ru/2022-04-14/"
+    },
+    {
+      "name": "opendata.49gov.ru",
+      "title": null,
+      "bytes": 402864603,
+      "files": 6,
+      "domains": 1,
+      "dir": "dataportals/opendata.49gov.ru/2022-04-14/"
+    },
+    {
+      "name": "cikrf",
+      "title": null,
+      "bytes": 394370731,
+      "files": 274,
+      "domains": 1,
+      "dir": "OGDHub/cikrf/"
+    },
+    {
+      "name": "crafter",
+      "title": null,
+      "bytes": 388770696,
+      "files": 1,
+      "domains": 1,
+      "dir": "datacollect/crafter/"
+    },
+    {
+      "name": "budget2023",
+      "title": null,
+      "bytes": 366364466,
+      "files": 4,
+      "domains": 4,
+      "dir": "datacollect/budget2023/"
+    },
+    {
+      "name": "forums2022",
+      "title": "Интернет Форумы в 2022 г",
+      "bytes": 361605782,
+      "files": 3,
+      "domains": 1,
+      "dir": "webcollect2022/forums2022/jediru.net/"
+    },
+    {
+      "name": "opendata.admomsk.ru",
+      "title": null,
+      "bytes": 332660755,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.admomsk.ru/2022-04-15/"
+    },
+    {
+      "name": "4square",
+      "title": null,
+      "bytes": 323995453,
+      "files": 1,
+      "domains": 1,
+      "dir": "datacollect/4square/"
+    },
+    {
+      "name": "opengovdata.ru",
+      "title": null,
+      "bytes": 293362386,
+      "files": 157,
+      "domains": 2,
+      "dir": "datacollect/opengovdata.ru/"
+    },
+    {
+      "name": "spb",
+      "title": null,
+      "bytes": 274757462,
+      "files": 1,
+      "domains": 1,
+      "dir": "OGDHub/spb/historyaddr/"
+    },
+    {
+      "name": "rsp",
+      "title": null,
+      "bytes": 267767910,
+      "files": 1,
+      "domains": 1,
+      "dir": "OGDHub/rsp/"
+    },
+    {
+      "name": "crldata",
+      "title": null,
+      "bytes": 257629446,
+      "files": 3,
+      "domains": 1,
+      "dir": "datacollect/crldata/data/"
+    },
+    {
+      "name": "esimo",
+      "title": null,
+      "bytes": 227633402,
+      "files": 970,
+      "domains": 1,
+      "dir": "OGDHub/esimo/"
+    },
+    {
+      "name": "roskazna.ru",
+      "title": null,
+      "bytes": 187767964,
+      "files": 8,
+      "domains": 2,
+      "dir": ""
+    },
+    {
+      "name": "blog.kremlin.ru",
+      "title": null,
+      "bytes": 185648756,
+      "files": 10,
+      "domains": 1,
+      "dir": "OGDHub/blog.kremlin.ru/22112011/"
+    },
+    {
+      "name": "open.midural.ru",
+      "title": null,
+      "bytes": 180596752,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/open.midural.ru/2022-04-17/"
+    },
+    {
+      "name": "opendata.cap.ru",
+      "title": null,
+      "bytes": 138828606,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.cap.ru/2022-04-14/"
+    },
+    {
+      "name": "researchers2022",
+      "title": "Исследователи и ученые",
+      "bytes": 123626731,
+      "files": 4,
+      "domains": 1,
+      "dir": "webcollect2022/researchers2022/sbelan.ru/"
+    },
+    {
+      "name": "fom.ru",
+      "title": null,
+      "bytes": 121972588,
+      "files": 1707,
+      "domains": 3,
+      "dir": "OGDHub/fom.ru/"
+    },
+    {
+      "name": "chats",
+      "title": null,
+      "bytes": 114764573,
+      "files": 1,
+      "domains": 1,
+      "dir": "datacollect/chats/"
+    },
+    {
+      "name": "opendata.ulgov.ru",
+      "title": null,
+      "bytes": 109919224,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.ulgov.ru/2022-04-14/"
+    },
+    {
+      "name": "opendata.krd.ru",
+      "title": null,
+      "bytes": 97234656,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.krd.ru/2022-04-15/"
+    },
+    {
+      "name": "opendata.permkrai.ru",
+      "title": null,
+      "bytes": 86219501,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.permkrai.ru/2022-04-17/"
+    },
+    {
+      "name": "data.ekburg.ru",
+      "title": null,
+      "bytes": 80463897,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/data.ekburg.ru/2022-04-14/"
+    },
+    {
+      "name": "opendata.adm-ussuriisk.ru",
+      "title": null,
+      "bytes": 71848943,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.adm-ussuriisk.ru/2022-04-16/"
+    },
+    {
+      "name": "data.yanao.ru",
+      "title": null,
+      "bytes": 68576031,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/data.yanao.ru/2022-04-15/"
+    },
+    {
+      "name": "dspace.spbu.ru",
+      "title": null,
+      "bytes": 64678848,
+      "files": 2,
+      "domains": 2,
+      "dir": "datacollect/dspace.spbu.ru/"
+    },
+    {
+      "name": "declarator.org",
+      "title": null,
+      "bytes": 57906995,
+      "files": 1,
+      "domains": 1,
+      "dir": "datacollect/declarator.org/"
+    },
+    {
+      "name": "data.n-vartovsk.ru",
+      "title": null,
+      "bytes": 54182581,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/data.n-vartovsk.ru/2022-04-16/"
+    },
+    {
+      "name": "opendata.novo-sibirsk.ru",
+      "title": null,
+      "bytes": 47525571,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.novo-sibirsk.ru/2022-04-16/"
+    },
+    {
+      "name": "niron.inion.ru",
+      "title": null,
+      "bytes": 42915477,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/niron.inion.ru/2022-04-14/"
+    },
+    {
+      "name": "opendata.rostov-gorod.ru",
+      "title": null,
+      "bytes": 38542208,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.rostov-gorod.ru/2022-04-15/"
+    },
+    {
+      "name": "data.sakhalin.gov.ru",
+      "title": null,
+      "bytes": 34201456,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/data.sakhalin.gov.ru/2022-04-16/"
+    },
+    {
+      "name": "opendata.samregion.ru",
+      "title": null,
+      "bytes": 30113839,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.samregion.ru/2022-04-14/"
+    },
+    {
+      "name": "opendata.belregion.ru",
+      "title": null,
+      "bytes": 26932758,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.belregion.ru/2022-04-14/"
+    },
+    {
+      "name": "gtwitter",
+      "title": null,
+      "bytes": 24842540,
+      "files": 53,
+      "domains": 1,
+      "dir": "OGDHub/gtwitter/"
+    },
+    {
+      "name": "opendata.admrzn.ru",
+      "title": null,
+      "bytes": 22949294,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.admrzn.ru/2022-04-14/"
+    },
+    {
+      "name": "opendata.barnaul.org",
+      "title": null,
+      "bytes": 19249591,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.barnaul.org/2022-04-14/"
+    },
+    {
+      "name": "opendata.cheladmin.ru",
+      "title": null,
+      "bytes": 14522347,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.cheladmin.ru/2022-04-15/"
+    },
+    {
+      "name": "crimestat.ru",
+      "title": null,
+      "bytes": 13177106,
+      "files": 1,
+      "domains": 1,
+      "dir": "datacollect/crimestat.ru/"
+    },
+    {
+      "name": "old.od.kbr.ru",
+      "title": null,
+      "bytes": 11237359,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/old.od.kbr.ru/2022-04-15/"
+    },
+    {
+      "name": "zakupki.gov.ru",
+      "title": null,
+      "bytes": 8064628,
+      "files": 7,
+      "domains": 1,
+      "dir": "OGDHub/zakupki.gov.ru/Nomenklatura/"
+    },
+    {
+      "name": "minjust_stats",
+      "title": null,
+      "bytes": 6811563,
+      "files": 84,
+      "domains": 1,
+      "dir": "OGDHub/minjust_stats/"
+    },
+    {
+      "name": "science_common",
+      "title": null,
+      "bytes": 6341013,
+      "files": 9,
+      "domains": 2,
+      "dir": "OGDHub/science_common/"
+    },
+    {
+      "name": "opendata.tver.ru",
+      "title": null,
+      "bytes": 5211980,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.tver.ru/2022-04-15/"
+    },
+    {
+      "name": "data.mos-gorsud.ru",
+      "title": null,
+      "bytes": 5067378,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/data.mos-gorsud.ru/2022-04-16/"
+    },
+    {
+      "name": "opendata.krasnodar.ru",
+      "title": null,
+      "bytes": 4241484,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/opendata.krasnodar.ru/2022-04-16/"
+    },
+    {
+      "name": "egestats",
+      "title": null,
+      "bytes": 3409856,
+      "files": 47,
+      "domains": 1,
+      "dir": "OGDHub/egestats/"
+    },
+    {
+      "name": "gosuslugi.ru",
+      "title": null,
+      "bytes": 3213025,
+      "files": 5,
+      "domains": 1,
+      "dir": "OGDHub/gosuslugi.ru/gs/"
+    },
+    {
+      "name": "data.kzn.ru",
+      "title": null,
+      "bytes": 1713123,
+      "files": 4,
+      "domains": 1,
+      "dir": "dataportals/data.kzn.ru/2022-04-15/"
+    },
+    {
+      "name": "showdata.gks.ru",
+      "title": null,
+      "bytes": 1225058,
+      "files": 1,
+      "domains": 1,
+      "dir": "dataportals/showdata.gks.ru/2022-04-19/"
+    },
+    {
+      "name": "ege",
+      "title": null,
+      "bytes": 1193695,
+      "files": 20,
+      "domains": 1,
+      "dir": "OGDHub/ege/ege_18_udm/"
+    },
+    {
+      "name": "webcollect",
+      "title": "Архивные коллекции файлов (httrack)",
+      "bytes": 866512,
+      "files": 4,
+      "domains": 3,
+      "dir": "webcollect/"
+    },
+    {
+      "name": "hse",
+      "title": null,
+      "bytes": 100028,
+      "files": 64,
+      "domains": 1,
+      "dir": "webcollect2017/hse/"
+    },
+    {
+      "name": "kremlin.ru",
+      "title": null,
+      "bytes": 94403,
+      "files": 4,
+      "domains": 1,
+      "dir": "OGDHub/kremlin.ru/KadryReserv/"
+    },
+    {
+      "name": "webcollect2017",
+      "title": null,
+      "bytes": 42315,
+      "files": 4,
+      "domains": 4,
+      "dir": "webcollect2017/"
+    },
+    {
+      "name": "gibdd.ru",
+      "title": null,
+      "bytes": 41610,
+      "files": 4,
+      "domains": 1,
+      "dir": "OGDHub/gibdd.ru/AutoCodes/"
+    },
+    {
+      "name": "wparc",
+      "title": null,
+      "bytes": 193,
+      "files": 18,
+      "domains": 9,
+      "dir": "nkr/wparc/"
+    },
+    {
+      "name": "ach.gov.ru",
+      "title": null,
+      "bytes": 9,
+      "files": 2,
+      "domains": 1,
+      "dir": "dataportals/ach.gov.ru/2022-11-30/"
+    }
+  ],
+  "formats": [
+    {
+      "key": "warc",
+      "label": "WARC",
+      "bytes": 10615361474541
+    },
+    {
+      "key": "db",
+      "label": "Базы данных",
+      "bytes": 913115006777
+    },
+    {
+      "key": "index",
+      "label": "Индексы CDX",
+      "bytes": 45701732874
+    },
+    {
+      "key": "packed",
+      "label": "Архивы (7z, xz, zip и др.)",
+      "bytes": 1790961648277
+    },
+    {
+      "key": "log",
+      "label": "Логи сбора",
+      "bytes": 309791624613
+    },
+    {
+      "key": "other",
+      "label": "Прочее",
+      "bytes": 265533227162
+    }
+  ]
+}

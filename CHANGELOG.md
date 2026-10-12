@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Website export (`site_export.py`, `builder.py site`)**: builds `data/datasets/site/summary.json` and `resources.json` for ruarxive.org from the storage file lists. Each top-level storage folder is taken from the newest listing that contains it (SFTP snapshot or a copy of `allarchives.csv`); snapshot duplicates are removed; collection names come from the catalog. Schema in `docs/SITE_EXPORT.md`. `site_export.py --check` validates an existing export without the source file lists.
+- **Workflow `site-export.yml`**: validates `data/datasets/site/` on pushes and pull requests and notifies the website repository via `repository_dispatch` (needs the `SITE_DISPATCH_TOKEN` secret).
 - **Dataset Builder (`builder.py`)**: New script to build datasets in multiple formats from the YAML database
   - Export to compressed JSONL format (using zstandard compression)
   - Export to Parquet format (using zstandard compression)
